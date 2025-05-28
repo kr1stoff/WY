@@ -1,0 +1,151 @@
+barcode_mismatch: null
+barcode_ori_data: ''
+barcode_type: ''
+blast_database: null
+blast_database_taxonomy: ''
+blast_databases_nucl_type: null
+created_by: 8
+created_library_strategy: null
+created_name: 超级管理员
+created_time: 2023-09-18 17:30:57
+error_message: null
+genome_typing_database: null
+host_id: null
+host_name: null
+i5_seq_direction: ''
+id: 16154
+input_fq_or_fa: ''
+insertion_element_end_lenght: ''
+insertion_element_end_length: null
+insertion_element_start_lenght: ''
+insertion_element_start_length: null
+interface_type: null
+is_deleted: !!binary |
+  AA==
+level1_pipeline: pathogenIdentify
+level2_pipeline: nanoIdentify
+mars_content: ''
+mars_result_record: ''
+n50_cutoff: null
+new_pathogen_data_source: ''
+pathogen_id: null
+pathogen_type: ''
+pe_or_se: ''
+primer_seq: ''
+primer_seq_name: ''
+random_blast_seq_num: ''
+reads_length: ''
+reference_genome: ''
+remark: null
+rrna_type: ''
+samples:
+  virassy_test_1:
+    address: ''
+    area: ''
+    barcode: ''
+    barcode1: ''
+    barcode2: ''
+    barcode_outdir_path: null
+    city: ''
+    created_by: 8
+    created_library_strategy: null
+    created_name: 超级管理员
+    created_time: 2023-09-18 17:30:57
+    examinee_id: ''
+    fasta: ''
+    fasta_sequence: ''
+    hear: ''
+    id: 99998
+    label: null
+    label_compare: null
+    level1_pipeline: pathogenIdentify
+    level2_pipeline: nanoIdentify
+    pathogen_id: null
+    pathogene: ''
+    patient_age: ''
+    patient_name: ''
+    patient_sex: '3'
+    process: null
+    province: ''
+    receive_date: null
+    return_analysis_keyword: null
+    return_fasta: null
+    return_file_path: null
+    return_genotype_file_path: null
+    return_genotype_html_url: null
+    return_html_url: null
+    return_umsi: null
+    sample_name: ''
+    sample_number: sdadasddsadas
+    sample_properties: ''
+    sequencing_data1: /sdbb/customer/Rawdata/1010/WholeGenome/hyb_vir_assy/virassy_test_1
+    sequencing_data2: ''
+    sequencing_length: ''
+    sequencing_platform: Nanopore
+    source_area: DOMESTIC
+    source_unit_name: ''
+    task_id: 99998
+    task_type: null
+    type_name: ''
+    updated_time: 2023-09-18 17:30:57
+  virassy_test_2:
+    address: ''
+    area: ''
+    barcode: ''
+    barcode1: ''
+    barcode2: ''
+    barcode_outdir_path: null
+    city: ''
+    created_by: 8
+    created_library_strategy: null
+    created_name: 超级管理员
+    created_time: 2023-09-18 17:30:57
+    examinee_id: ''
+    fasta: ''
+    fasta_sequence: ''
+    hear: ''
+    id: 99998
+    label: null
+    label_compare: null
+    level1_pipeline: pathogenIdentify
+    level2_pipeline: nanoIdentify
+    pathogen_id: null
+    pathogene: ''
+    patient_age: ''
+    patient_name: ''
+    patient_sex: '3'
+    process: null
+    province: ''
+    receive_date: null
+    return_analysis_keyword: null
+    return_fasta: null
+    return_file_path: null
+    return_genotype_file_path: null
+    return_genotype_html_url: null
+    return_html_url: null
+    return_umsi: null
+    sample_name: ''
+    sample_number: sdadasddsadas
+    sample_properties: ''
+    sequencing_data1: /sdbb/customer/Rawdata/1010/WholeGenome/hyb_vir_assy/virassy_test_2
+    sequencing_data2: ''
+    sequencing_length: ''
+    sequencing_platform: Nanopore
+    source_area: DOMESTIC
+    source_unit_name: ''
+    task_id: 99998
+    task_type: null
+    type_name: ''
+    updated_time: 2023-09-18 17:30:57
+sars_cov_2_database: ''
+sequence_type: ''
+sequencing_platform: Nanopore
+status: ANALYSEING
+task_id: 99998
+task_name: sdas
+template: null
+tree_building_method: null
+tree_data: ''
+tree_method: ''
+type: null
+updated_time: 2023-09-18 17:30:57

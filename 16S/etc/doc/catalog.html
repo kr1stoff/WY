@@ -1,0 +1,36 @@
+<pre style="font-size:100%">
+Upload/           【结果目录】
+├── <a href="QC" target="_blank">QC</a>                             【质控目录】
+│   └── FastQC/*.png                                                    【各样本碱基质量分布图】
+├── <a href="ASV" target="_blank">ASV</a>                           【ASV 聚类结果】
+│   ├── feature.table.xls                                               【ASV 丰度表】
+│   ├── sequence.fasta                                                  【ASV 序列信息】
+│   ├── tree.nwk                                                        【ASV 序列系统发生树文件】
+│   ├── denoising_stats.xls                                             【降噪信息统计表】
+│   └── denois.{stack,fill}.png                                         【降噪信息统计图】
+├── <a href="Taxon" target="_blank">Taxon/</a>                      【物种注释】
+│   ├── all.taxonomy.stat.xls                                           【物种注释统计表】
+│   ├── taxonomy.{fill,stack}.png                                       【物种注释统计图】
+│   ├── feature.table.taxonomy.xls                                      【物种注释总表】
+│   ├── stack/*{png,xls}                                                【各个层级{堆叠图,绘图数据】
+│   ├── TaxonProfile/*                                                  【各个层级序列数统计】
+│   └── heatmap/*                                                       【各个层级表达量热图绘制】
+├── <a href="Diff" target="_blank">Diff</a>                         【差异分析】
+│   └── LefSe/*                                                         【LefSe 差异分析结果】
+├── <a href="Alpha" target="_blank">Alpha</a>                       【Alpha 多样性分析结果】
+│   ├── summary.alpha_diversity.xls                                     【Alpha 多样性统计表】
+│   └── *.png                                                           【Alpha 多样性稀释曲线】
+├── <a href="Beta" target="_blank">Beta</a>                         【Beta 多样性分析结果】
+│   ├── heatmap/*                                                       【各样本距离热图】
+│   ├── UPGMA/*                                                         【各层级UPGMA分析结果】
+│   ├── PCA/*                                                           【各层级PCA分析结果】
+│   ├── PCoA/*                                                          【各层级PCoA分析结果】
+│   └── NMDS/*                                                          【各层级NMDS分析结果】
+├── <a href="PICRUSt2" target="_blank">PICRUSt2</a>                 【PICRUSt2功能分析】
+│   └── *.xls                                                           【PICRUSt2 分析结果】
+├── index.html                                                      【结题报告】
+└── <a href="src" target="_blank">src</a>                           【结果报告内容】
+    ├── content.html                                                    【结题报告主体】
+    ├── <a href="src/css" target="_blank">css</a>                       【结题报告js脚本】
+    ├── <a href="src/image" target="_blank">image</a>                   【结题报告图片】
+    └── <a href="src/js" target="_blank">js</a>                         【结题报告js脚本】

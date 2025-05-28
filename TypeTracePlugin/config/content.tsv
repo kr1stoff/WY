@@ -1,0 +1,97 @@
+pathogen_id	pathogen_name	scientific_name	pathogen_taxid	tax_level	pathogen_desc	mlst	cgmlst	wgmlst	cgsnp	wgsnp	serotype	other_type
+1	甲型流感病毒	Influenza A virus	11320	种							1	
+2	乙型流感病毒	Influenza B virus	11520	种							1	
+3	丙型流感病毒	Influenza C virus	11552	种							1	
+4	鹦鹉热衣原体	Chlamydia psittaci	83554	种		chlamydiales			Chlamydia_psittaci	Chlamydia_psittaci		
+5	大肠埃希菌	Escherichia coli	562	种		ecoli_achtman_4	Escherichia	Escherichia	Escherichia_coli	Escherichia_coli	1	
+6	沙门氏菌属	Salmonella	590	属		senterica	Salmonella	Salmonella			1	
+7	单核细胞增生李斯特菌	Listeria monocytogenes	1639	科		lmonocytogenes					1	
+8	弯曲杆菌属	Campylobacter	194	属		campylobacter						
+9	诺如病毒	Norwalk virus	11983	种							1	
+10	炭疽杆菌属	Bacillus	1386	属			Bacillus_anthracis					
+11	鼠疫耶尔森菌	Yersinia pestis	632	种		yersinia						
+12	布鲁氏菌属	Brucella	234	属		brucella	Brucella					MLVA
+13	登革热病毒	Dengue virus	12637	种							1	
+14	汉坦病毒属	Orthohantavirus	1980442	属							1	
+15	肠道病毒通用型	Enterovirus	12059	属							1	
+16	人腺病毒	Human adenovirus	1907210	种							1	
+17	呼吸道合胞病毒	Respiratory Syncytial Virus	12814	种							1	
+18	轮状病毒	Rotavirus	10912	属							1	
+19	结核杆菌	Mycobacterium tuberculosis	1773	种							1	
+20	脑膜炎奈瑟菌	Neisseria meningitidis	487	种		neisseria	Neisseria_meningitidis				1	
+21	腮腺炎病毒	Mumps orthorubulavirus	2560602	种							1	
+22	风疹病毒	Rubella virus	11041	no rank							1	
+23	麻疹病毒	Measles morbillivirus	11234	no rank							1	
+24	肺炎衣原体	Chlamydia pneumoniae	83558	no rank		chlamydiales			Chlamydia_pneumoniae	Chlamydia_pneumoniae	1	
+25	肺炎支原体	Mycoplasma pneumoniae	2104	种		mpneumoniae			Mycoplasma_pneumoniae	Mycoplasma_pneumoniae		
+26	鲍曼不动杆菌	Acinetobacter baumannii	470	种		abaumannii	Acinetobacter_baumannii					
+27	流感嗜血杆菌	Haemophilus influenzae	727	种		hinfluenzae	Haemophilus_influenzae		Haemophilus_influenzae	Haemophilus_influenzae	1	
+28	乙型脑炎病毒	Japanese encephalitis virus	11072	种							1	
+29	埃博拉病毒	Ebolavirus	186536	属							1	
+30	人类免疫缺陷病毒	Human immunodeficiency virus	12721	种							1	
+31	狂犬病病毒	Lyssavirus rabies	11292	种							1	
+32	寨卡病毒	Zika virus	64320	no rank							1	
+33	人副流感病毒	Orthorubulavirus	2560195	属							1	
+34	人疱疹病毒	Herpesviridae	10292	科							1	
+35	人博卡病毒	Human Bocavirus	329641	种							1	
+36	人星状病毒	Mamastrovirus	249588	属							1	
+37	金黄色葡萄球菌	Staphylococcus aureus	1280	种		saureus	Staphylococcus_aureus		Staphylococcus_aureus	Staphylococcus_aureus		SpaType
+38	志贺氏菌属	Shigella	620	属		ecoli	Escherichia	Escherichia			1	
+39	克罗诺杆菌属	Cronobacter	413496	属		cronobacter						
+40	嗜水气单胞菌	Aeromonas hydrophila	644	种		aeromonas						
+41	小肠结肠炎耶尔森菌	Yersinia enterocolitica	630	种		yersinia						
+42	唐菖蒲伯克霍尔德氏菌	Burkholderia gladioli	28095	种							1	
+43	博德特氏菌属	Bordetella	517	属		bordetella						
+44	布尼亚病毒属	Orthobunyavirus	11572	属							1	
+45	人鼻病毒	Human rhinovirus	169066	种							1	
+46	西尼罗病毒	West Nile virus	11082	no rank							1	
+47	蜱传脑炎病毒	Tick-borne encephalitis virus	11084	no rank							1	
+48	黄热病毒	Yellow Fever virus	11089	no rank							1	
+49	札如病毒	Sapporo virus	95342	种							1	
+50	基孔肯雅病毒	Chikungunya virus	37124	种							1	
+51	人偏肺病毒	Human metapneumovirus	162145	no rank							1	
+52	嗜肺军团菌	Legionella pneumophila	446	种		legionella						
+53	肺炎克雷伯杆菌	Klebsiella pneumoniae	573	种		kpneumoniae	Klebsiella				1	
+54	铜绿假单胞菌	Pseudomonas aeruginosa	287	种		paeruginosa			Pseudomonas_aeruginosa	Pseudomonas_aeruginosa		
+55	弧菌属	Vibrio	662	属		vibrio	Vibrio					
+56	裂谷热病毒	Rift Valley fever virus	11588	no rank							1	
+57	嗜吞噬无形体	Anaplasma phagocytophilum	948	种		aphagocytophilum						
+58	尼帕病毒	Henipavirus nipahense	3052225	种							1	
+59	假结核耶尔森菌	Yersinia Pseudotuberculosis	633	种		yersinia						
+60	新疆出血热病毒	Crimean-Congo hemorrhagic fever virus	1980519	种							1	
+61	拉沙热病毒	Lassa mammarenavirus	11620	种							1	
+62	亨德拉病毒	Hendra henipavirus	63330	种							1	
+63	土拉弗朗西斯菌	Francisella tularensis	263	种							1	
+64	汉氏巴尔通体	Bartonella henselae	38323	种		bhenselae						
+65	肉毒杆菌	Clostridium botulinum	1491	种		cbotulinum						
+66	败血症梭菌	Clostridium septicum	1504	种		csepticum						
+67	艰难梭菌	Clostridium difficile	1496	种		cdifficile	Clostridioides	Clostridioides	Clostridioides_difficile	Clostridioides_difficile		
+68	白色念珠菌	Candida albicans	5476	种		calbicans						
+69	光滑念珠菌	Candida glabrata	5478	种		cglabrata						
+70	克氏念珠菌	Candida krusei	4909	种		ckrusei						
+71	热带念珠菌	Candida tropicalis	5482	种		ctropicalis						
+72	乙肝病毒	Hepatitis B Virus	10407	种							1	
+73	丙肝病毒	Hepatitis C Virus	11103	种							1	
+74	猴痘病毒	Monkeypox virus	10244	种							1	
+75	甲肝病毒	Hepatitis A Virus	12092	种							1	
+76	霍乱弧菌	Vibrio cholerae	666	种		vcholerae	Vibrio_cholerae		Vibrio_cholerae	Vibrio_cholerae	1	
+77	类鼻疽伯克霍尔德菌	Burkholderia pseudomalle	28450	种		bpseudomallei						
+78	猪链球菌	Streptococcus suis	1307	种		ssuis	Streptococcus		Streptococcus_suis	Streptococcus_suis		
+79	副溶血弧菌	Vibrio parahaemolyticus	670	种		vparahaemolyticus	Vibrio_parahaemolyticus		Vibrio_parahaemolyticus	Vibrio_parahaemolyticus	1	
+80	克罗诺杆菌	Cronobacter	413496	属		cronobacter						
+81	非结核分支杆菌			no rank	NTM						1	
+82	柠檬酸杆菌属	Citrobacter	544	属		citrobacter						
+83	粪肠球菌	Enterococcus faecalis	1351	种		efaecalis						
+84	屎肠球菌	Enterococcus faecium	1352	种		efaecium						
+85	蜡样芽孢杆菌	Bacillus cereus	1396	种		bcereus	Bacillus_cereus		Bacillus_cereus	Bacillus_cereus		
+86	气单胞菌属	Aeromonas	642	属		aeromonas						
+87	变形杆菌属	Proteus	583	属		proteus						
+88	创伤弧菌	Vibrio vulnificus	672	种		vvulnificus	Vibrio		Vibrio_vulnificus	Vibrio_vulnificus		
+89	肺炎链球菌	Streptococcus pneumoniae	1313	种		spneumoniae	Streptococcus_pneumoniae		Streptococcus_pneumoniae	Streptococcus_pneumoniae		
+90	化脓性链球菌	Streptococcus	1301	属	A族链球菌	spyogenes	Streptococcus					
+91	克雷伯菌属	Klebsiella	570	属			Klebsiella				1	
+92	溶藻弧菌	Vibrio alginolyticus	663	种		vibrio	Vibrio		Vibrio_alginolyticus	Vibrio_alginolyticus		
+93	炭疽芽孢杆菌	Bacillus anthracis	1392	种			Bacillus_anthracis		Bacillus_anthracis	Bacillus_anthracis		MLVA;canSNP
+94	钩端螺旋体属	Leptospira	171	属		leptospira						
+95	羊布鲁氏菌	Brucella melitensis	29459	种		brucella	Brucella		Brucella_melitensis	Brucella_melitensis		MLVA
+96	牛布鲁氏菌	Brucella abortus	235	种		brucella	Brucella		Brucella_abortus	Brucella_abortus		MLVA

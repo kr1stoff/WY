@@ -1,0 +1,256 @@
+预测基因ID	UniProtID	蛋白名称	微生物体	覆盖度(%)	置信度(%)	预测基因长度	参考长度	比对长度	比对得分
+AMMMCCPO_00216	Q6GI31|ATL_STAAR	Bifunctional autolysin	Staphylococcus aureus (strain MRSA252)	100.0	99.762	1260	1257	1260	2530
+AMMMCCPO_00119	Q6GI31|ATL_STAAR	Bifunctional autolysin	Staphylococcus aureus (strain MRSA252)	100.0	99.762	1260	1257	1260	2530
+AMMMCCPO_00315	P54159|YPBR_BACSU	Uncharacterized protein YpbR	Bacillus subtilis (strain 168)	86.0	26.380	1146	1193	1069	286
+AMMMCCPO_00050	Q6GG04|DPO3A_STAAR	DNA polymerase III subunit alpha	Staphylococcus aureus (strain MRSA252)	100.0	100.000	1065	1065	1065	2193
+AMMMCCPO_00304	Q6GDU5|FNBA_STAAR	Fibronectin-binding protein A	Staphylococcus aureus (strain MRSA252)	100.0	86.385	1042	965	1043	1675
+AMMMCCPO_00303	A0A0H2XKG3|FNBB_STAA3	Fibronectin-binding protein B	Staphylococcus aureus (strain USA300)	100.0	82.038	909	940	952	1420
+AMMMCCPO_00329	Q6GGV4|DING_STAAR	3'-5' exonuclease DinG	Staphylococcus aureus (strain MRSA252)	100.0	100.000	897	897	897	1833
+AMMMCCPO_00078	Q2FXJ2|ISDH_STAA8	Iron-regulated surface determinant protein H	Staphylococcus aureus (strain NCTC 8325 / PS 47)	100.0	93.520	890	895	895	1680
+AMMMCCPO_00038	O34996|DPO1_BACSU	DNA polymerase I	Bacillus subtilis (strain 168)	99.0	59.548	876	880	885	1030
+AMMMCCPO_00013	Q6GG42|SYV_STAAR	Valine--tRNA ligase	Staphylococcus aureus (strain MRSA252)	100.0	99.886	876	876	876	1804
+AMMMCCPO_00192	P96642|YDDE_BACSU	Uncharacterized protein YddE	Bacillus subtilis (strain 168)	99.0	39.136	831	831	833	647
+AMMMCCPO_00143	P96642|YDDE_BACSU	Uncharacterized protein YddE	Bacillus subtilis (strain 168)	99.0	39.136	831	831	833	647
+AMMMCCPO_00105	Q6GFU3|SYL_STAAR	Leucine--tRNA ligase	Staphylococcus aureus (strain MRSA252)	99.0	99.751	805	804	804	1656
+AMMMCCPO_00250	A7Z8R4|NHAK_BACVZ	Sodium, potassium, lithium and rubidium/H(+) antiporter	Bacillus velezensis (strain DSM 23117 / BGSC 10A6 / FZB42)	97.0	32.374	692	671	695	335
+AMMMCCPO_00112	Q5HH24|QOX1_STAAC	Probable quinol oxidase subunit 1	Staphylococcus aureus (strain COL)	100.0	99.849	662	662	662	1345
+AMMMCCPO_00223	Q5HH24|QOX1_STAAC	Probable quinol oxidase subunit 1	Staphylococcus aureus (strain COL)	100.0	99.849	662	662	662	1345
+AMMMCCPO_00031	Q8NW68|SYT_STAAW	Threonine--tRNA ligase	Staphylococcus aureus (strain MW2)	100.0	100.000	645	645	645	1340
+AMMMCCPO_00324	P39793|PBPA_BACSU	Penicillin-binding protein 1A/1B	Bacillus subtilis (strain 168)	88.0	37.421	716	914	636	387
+AMMMCCPO_00311	O32225|YVAC_BACSU	Uncharacterized membrane protein YvaC	Bacillus subtilis (strain 168)	99.0	24.510	607	631	612	167
+AMMMCCPO_00251	P96589|KIMA_BACSU	Potassium transporter KimA	Bacillus subtilis (strain 168)	100.0	56.721	609	607	610	699
+AMMMCCPO_00045	Q6GG09|KPYK_STAAR	Pyruvate kinase	Staphylococcus aureus (strain MRSA252)	100.0	100.000	585	585	585	1175
+AMMMCCPO_00240	Q2LVL0|MSBA_SYNAS	Lipid A export ATP-binding/permease protein MsbA	Syntrophus aciditrophicus (strain SB)	96.0	31.678	577	601	584	295
+AMMMCCPO_00080	P39062|ACSA_BACSU	Acetyl-coenzyme A synthetase	Bacillus subtilis (strain 168)	100.0	69.877	568	572	571	851
+AMMMCCPO_00065	Q6GFZ0|EZRA_STAAR	Septation ring formation regulator EzrA	Staphylococcus aureus (strain MRSA252)	100.0	100.000	564	564	564	1130
+AMMMCCPO_00206	Q6GI39|MEND_STAAR	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase	Staphylococcus aureus (strain MRSA252)	100.0	100.000	557	557	557	1155
+AMMMCCPO_00129	Q6GI39|MEND_STAAR	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase	Staphylococcus aureus (strain MRSA252)	100.0	100.000	557	557	557	1155
+AMMMCCPO_00079	Q8NW37|FTHS_STAAW	Formate--tetrahydrofolate ligase	Staphylococcus aureus (strain MW2)	100.0	100.000	555	555	555	1133
+AMMMCCPO_00299	Q6GDU9|PGCA_STAAR	Phosphoglucomutase	Staphylococcus aureus (strain MRSA252)	100.0	100.000	545	552	545	1124
+AMMMCCPO_00261	Q45577|YBEC_BACSU	Probable amino acid-proton symporter YbeC	Bacillus subtilis (strain 168)	99.0	47.963	545	539	540	539
+AMMMCCPO_00277	Q2FVE7|CNTA_STAA8	Metal-staphylopine-binding protein CntA	Staphylococcus aureus (strain NCTC 8325 / PS 47)	100.0	99.624	532	532	532	1085
+AMMMCCPO_00071	P35136|SERA_BACSU	D-3-phosphoglycerate dehydrogenase	Bacillus subtilis (strain 168)	97.0	42.054	534	525	516	435
+AMMMCCPO_00306	P12011|GNTK_BACSU	Gluconokinase	Bacillus subtilis (strain 168)	98.0	62.451	517	513	506	682
+AMMMCCPO_00270	O34849|YERD_BACSU	Glutamate synthase large subunit-like protein YerD	Bacillus subtilis (strain 168)	95.0	57.884	525	525	501	599
+AMMMCCPO_00241	A0R6H8|IRTA_MYCS2	Mycobactin import ATP-binding/permease protein IrtA	Mycolicibacterium smegmatis (strain ATCC 700084 / mc(2)155)	84.0	34.669	587	860	499	291
+AMMMCCPO_00252	Q6GDZ1|FLP_STAAR	Protein flp	Staphylococcus aureus (strain MRSA252)	100.0	100.000	499	499	499	1020
+AMMMCCPO_00030	A2RNZ6|LYSP_LACLM	Lysine permease LysP	Lactococcus lactis subsp. cremoris (strain MG1363)	98.0	54.435	497	508	496	533
+AMMMCCPO_00101	O34674|MURJ_BACSU	Lipid II flippase MurJ	Bacillus subtilis (strain 168)	90.0	38.182	553	544	495	357
+AMMMCCPO_00153	A0A0H2WWV6|TARM_STAAC	Poly(ribitol-phosphate) alpha-N-acetylglucosaminyltransferase	Staphylococcus aureus (strain COL)	100.0	99.594	493	493	493	999
+AMMMCCPO_00182	A0A0H2WWV6|TARM_STAAC	Poly(ribitol-phosphate) alpha-N-acetylglucosaminyltransferase	Staphylococcus aureus (strain COL)	100.0	99.594	493	493	493	999
+AMMMCCPO_00283	P46133|ABGT_ECOLI	p-aminobenzoyl-glutamate transport protein	Escherichia coli (strain K12)	95.0	35.510	512	508	490	320
+AMMMCCPO_00073	O34521|PTWCB_BACSU	PTS system N-acetylglucosamine-specific EIICB component	Bacillus subtilis (strain 168)	99.0	43.149	488	452	489	324
+AMMMCCPO_00352	Q53630|EBPS_STAAU	Elastin-binding protein EbpS	Staphylococcus aureus	100.0	100.000	486	486	486	979
+AMMMCCPO_00098	Q6GFV0|PEPVL_STAAR	Putative dipeptidase SAR1836	Staphylococcus aureus (strain MRSA252)	100.0	100.000	469	469	469	974
+AMMMCCPO_00226	P94422|YCNB_BACSU	Uncharacterized MFS-type transporter YcnB	Bacillus subtilis (strain 168)	97.0	42.060	479	472	466	378
+AMMMCCPO_00262	P37967|PNBA_BACSU	Para-nitrobenzyl esterase	Bacillus subtilis (strain 168)	98.0	32.403	450	489	466	220
+AMMMCCPO_00255	Q5HFY7|NORB_STAAC	Quinolone resistance protein NorB	Staphylococcus aureus (strain COL)	99.0	57.419	466	463	465	526
+AMMMCCPO_00033	P07908|DNAB_BACSU	Replication initiation and membrane attachment protein	Bacillus subtilis (strain 168)	96.0	29.004	466	472	462	177
+AMMMCCPO_00249	P0AAE0|CYCA_ECOLI	D-serine/D-alanine/glycine transporter	Escherichia coli (strain K12)	96.0	50.441	469	470	454	490
+AMMMCCPO_00142	P96634|YDCQ_BACSU	Ftsk domain-containing protein YdcQ	Bacillus subtilis (strain 168)	98.0	32.009	452	480	453	213
+AMMMCCPO_00193	P96634|YDCQ_BACSU	Ftsk domain-containing protein YdcQ	Bacillus subtilis (strain 168)	98.0	32.009	452	480	453	213
+AMMMCCPO_00238	Q2FVJ6|BIOA_STAA8	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	Staphylococcus aureus (strain NCTC 8325 / PS 47)	100.0	99.558	452	452	452	932
+AMMMCCPO_00044	P0AAE0|CYCA_ECOLI	D-serine/D-alanine/glycine transporter	Escherichia coli (strain K12)	98.0	52.000	453	470	450	494
+AMMMCCPO_00021	Q6GG33|HEM1_STAAR	Glutamyl-tRNA reductase	Staphylococcus aureus (strain MRSA252)	100.0	99.777	448	448	448	909
+AMMMCCPO_00305	P12012|GNTP_BACSU	Gluconate permease	Bacillus subtilis (strain 168)	99.0	62.640	452	448	447	555
+AMMMCCPO_00312	P42237|GUDP_BACSU	Probable glucarate transporter	Bacillus subtilis (strain 168)	97.0	29.596	425	455	446	181
+AMMMCCPO_00087	Q6GFW8|MURC_STAAR	UDP-N-acetylmuramate--L-alanine ligase	Staphylococcus aureus (strain MRSA252)	100.0	100.000	437	437	437	900
+AMMMCCPO_00230	Q6GE15|SBI_STAAR	Immunoglobulin-binding protein Sbi	Staphylococcus aureus (strain MRSA252)	100.0	100.000	437	437	437	888
+AMMMCCPO_00130	P23973|MENF_BACSU	Isochorismate synthase MenF	Bacillus subtilis (strain 168)	92.0	34.862	453	471	436	247
+AMMMCCPO_00205	P23973|MENF_BACSU	Isochorismate synthase MenF	Bacillus subtilis (strain 168)	92.0	34.862	453	471	436	247
+AMMMCCPO_00347	P64061|DER_STAAW	GTPase Der	Staphylococcus aureus (strain MW2)	100.0	100.000	436	436	436	887
+AMMMCCPO_00053	O34921|YTOI_BACSU	Uncharacterized protein YtoI	Bacillus subtilis (strain 168)	99.0	45.747	432	439	435	410
+AMMMCCPO_00167	O31658|KTRD_BACSU	Ktr system potassium uptake protein D	Bacillus subtilis (strain 168)	100.0	50.575	434	449	435	427
+AMMMCCPO_00278	A0A0H3JT80|ODH_STAAM	Staphylopine synthase	Staphylococcus aureus (strain Mu50 / ATCC 700699)	100.0	99.076	433	433	433	894
+AMMMCCPO_00024	Q6GG30|TIG_STAAR	Trigger factor	Staphylococcus aureus (strain MRSA252)	100.0	100.000	433	433	433	859
+AMMMCCPO_00338	Q6GGU5|AROA_STAAR	3-phosphoshikimate 1-carboxyvinyltransferase	Staphylococcus aureus (strain MRSA252)	100.0	100.000	432	432	432	873
+AMMMCCPO_00328	Q6GGV5|SYN_STAAR	Asparagine--tRNA ligase	Staphylococcus aureus (strain MRSA252)	100.0	100.000	430	430	430	896
+AMMMCCPO_00002	Q6GG60|OBG_STAAR	GTPase Obg	Staphylococcus aureus (strain MRSA252)	100.0	99.767	430	430	430	866
+AMMMCCPO_00016	Q6GG38|GSA1_STAAR	Glutamate-1-semialdehyde 2,1-aminomutase 1	Staphylococcus aureus (strain MRSA252)	100.0	100.000	428	428	428	876
+AMMMCCPO_00012	Q05865|FOLC_BACSU	Dihydrofolate synthase/folylpolyglutamate synthase	Bacillus subtilis (strain 168)	98.0	42.857	423	430	427	364
+AMMMCCPO_00042	Q6GG12|IDH_STAAR	Isocitrate dehydrogenase [NADP]	Staphylococcus aureus (strain MRSA252)	100.0	100.000	422	422	422	860
+AMMMCCPO_00023	Q6GG31|CLPX_STAAR	ATP-dependent Clp protease ATP-binding subunit ClpX	Staphylococcus aureus (strain MRSA252)	100.0	100.000	420	420	420	847
+AMMMCCPO_00076	Q7A0M7|SYY_STAAW	Tyrosine--tRNA ligase	Staphylococcus aureus (strain MW2)	100.0	99.762	420	420	420	863
+AMMMCCPO_00102	Q795R8|YTFP_BACSU	Uncharacterized protein YtfP	Bacillus subtilis (strain 168)	99.0	59.189	422	420	419	498
+AMMMCCPO_00337	P54389|YPIA_BACSU	TPR repeat-containing protein YpiA	Bacillus subtilis (strain 168)	99.0	31.100	414	423	418	188
+AMMMCCPO_00075	P39668|YYXA_BACSU	Uncharacterized serine protease YyxA	Bacillus subtilis (strain 168)	94.0	42.927	424	400	410	268
+AMMMCCPO_00219	P52078|Y997_STAA8	Uncharacterized protein SAOUHSC_00997	Staphylococcus aureus (strain NCTC 8325 / PS 47)	100.0	96.324	408	405	408	797
+AMMMCCPO_00116	P52078|Y997_STAA8	Uncharacterized protein SAOUHSC_00997	Staphylococcus aureus (strain NCTC 8325 / PS 47)	100.0	96.324	408	405	408	797
+AMMMCCPO_00063	Q6GFZ2|THII_STAAR	Probable tRNA sulfurtransferase	Staphylococcus aureus (strain MRSA252)	100.0	99.509	407	407	407	831
+AMMMCCPO_00049	O34962|MAO4_BACSU	Probable NAD-dependent malic enzyme 4	Bacillus subtilis (strain 168)	99.0	74.384	409	410	406	584
+AMMMCCPO_00331	Q6GGV2|CCA_STAAR	CCA-adding enzyme	Staphylococcus aureus (strain MRSA252)	100.0	100.000	400	400	400	825
+AMMMCCPO_00059	Q6GFZ6|ACKA_STAAR	Acetate kinase	Staphylococcus aureus (strain MRSA252)	100.0	100.000	400	400	400	816
+AMMMCCPO_00220	Q6GI27|FMTA_STAAR	Teichoic acid D-alanine hydrolase	Staphylococcus aureus (strain MRSA252)	100.0	99.496	397	397	397	797
+AMMMCCPO_00115	Q6GI27|FMTA_STAAR	Teichoic acid D-alanine hydrolase	Staphylococcus aureus (strain MRSA252)	100.0	99.496	397	397	397	797
+AMMMCCPO_00272	A0A0H3JTK0|CNTE_STAAM	Staphylopine export protein	Staphylococcus aureus (strain Mu50 / ATCC 700699)	100.0	99.244	397	397	397	783
+AMMMCCPO_00210	P0C1S6|SSPB_STAAU	Staphopain B	Staphylococcus aureus	100.0	100.000	393	393	393	813
+AMMMCCPO_00259	Q9KHT9|OPUCA_LISMN	Carnitine transport ATP-binding protein OpuCA	Listeria monocytogenes	96.0	60.305	408	397	393	489
+AMMMCCPO_00125	P0C1S6|SSPB_STAAU	Staphopain B	Staphylococcus aureus	100.0	100.000	393	393	393	813
+AMMMCCPO_00348	Q6GGT5|RS1_STAAR	30S ribosomal protein S1	Staphylococcus aureus (strain MRSA252)	100.0	100.000	391	391	391	771
+AMMMCCPO_00082	Q6GFX3|ACUC_STAAR	Acetoin utilization protein AcuC	Staphylococcus aureus (strain MRSA252)	100.0	100.000	389	389	389	813
+AMMMCCPO_00340	Q6GGU3|AROC_STAAR	Chorismate synthase	Staphylococcus aureus (strain MRSA252)	100.0	99.742	388	388	388	795
+AMMMCCPO_00213	P16524|DAPX_BACSU	Probable N-acetyl-LL-diaminopimelate aminotransferase	Bacillus subtilis (strain 168)	100.0	45.195	384	393	385	345
+AMMMCCPO_00122	P16524|DAPX_BACSU	Probable N-acetyl-LL-diaminopimelate aminotransferase	Bacillus subtilis (strain 168)	100.0	45.195	384	393	385	345
+AMMMCCPO_00318	P50840|YPSC_BACSU	Putative RNA methyltransferase YpsC	Bacillus subtilis (strain 168)	99.0	56.806	381	385	382	454
+AMMMCCPO_00064	O34874|ISCS2_BACSU	Putative cysteine desulfurase IscS 2	Bacillus subtilis (strain 168)	98.0	37.958	388	381	382	269
+AMMMCCPO_00332	Q81ST7|BSHA_BACAN	N-acetyl-alpha-D-glucosaminyl L-malate synthase	Bacillus anthracis	99.0	55.291	380	381	378	444
+AMMMCCPO_00236	A6LMP4|BIOF_THEM4	8-amino-7-oxononanoate synthase	Thermosipho melanesiensis (strain DSM 12029 / CIP 104789 / BI429)	98.0	30.400	371	391	375	200
+AMMMCCPO_00057	Q6GFZ8|DHA2_STAAR	Alanine dehydrogenase 2	Staphylococcus aureus (strain MRSA252)	100.0	100.000	372	372	372	754
+AMMMCCPO_00243	Q9Z9P2|GLXK_BACHD	Glycerate kinase	Bacillus halodurans (strain ATCC BAA-125 / DSM 18197 / FERM 7344 / JCM 9153 / C-125)	98.0	50.538	380	380	372	360
+AMMMCCPO_00245	P96709|YDGK_BACSU	Uncharacterized MFS-type transporter YdgK	Bacillus subtilis (strain 168)	91.0	34.595	403	402	370	197
+AMMMCCPO_00043	P39120|CISY2_BACSU	Citrate synthase 2	Bacillus subtilis (strain 168)	98.0	58.856	373	372	367	466
+AMMMCCPO_00224	Q7A181|QOX2_STAAW	Probable quinol oxidase subunit 2	Staphylococcus aureus (strain MW2)	100.0	100.000	366	366	366	761
+AMMMCCPO_00111	Q7A181|QOX2_STAAW	Probable quinol oxidase subunit 2	Staphylococcus aureus (strain MW2)	100.0	100.000	366	366	366	761
+AMMMCCPO_00168	O31658|KTRD_BACSU	Ktr system potassium uptake protein D	Bacillus subtilis (strain 168)	100.0	50.689	362	449	363	355
+AMMMCCPO_00266	P94521|YSDC_BACSU	Putative aminopeptidase YsdC	Bacillus subtilis (strain 168)	100.0	52.089	358	361	359	392
+AMMMCCPO_00106	O34546|YTTB_BACSU	Uncharacterized MFS-type transporter YttB	Bacillus subtilis (strain 168)	91.0	54.875	393	397	359	395
+AMMMCCPO_00070	Q9X1C0|SAT_THEMA	Serine-pyruvate aminotransferase	Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099)	92.0	35.294	386	384	357	241
+AMMMCCPO_00211	Q6GI34|SSPA_STAAR	Glutamyl endopeptidase	Staphylococcus aureus (strain MRSA252)	100.0	99.440	357	357	357	709
+AMMMCCPO_00124	Q6GI34|SSPA_STAAR	Glutamyl endopeptidase	Staphylococcus aureus (strain MRSA252)	100.0	99.440	357	357	357	709
+AMMMCCPO_00263	Q797E3|PBUE_BACSU	Purine efflux pump PbuE	Bacillus subtilis (strain 168)	90.0	30.618	395	388	356	176
+AMMMCCPO_00339	Q6GGU4|AROB_STAAR	3-dehydroquinate synthase	Staphylococcus aureus (strain MRSA252)	100.0	100.000	354	354	354	721
+AMMMCCPO_00084	P39912|AROG_BACSU	Protein AroA(G)	Bacillus subtilis (strain 168)	97.0	65.537	363	358	354	462
+AMMMCCPO_00015	P75747|ABRB_ECOLI	Putative regulator AbrB	Escherichia coli (strain K12)	98.0	23.580	355	348	352	74.3
+AMMMCCPO_00056	Q6GFZ9|Y1786_STAAR	Uncharacterized peptidase SAR1786	Staphylococcus aureus (strain MRSA252)	100.0	100.000	351	351	351	723
+AMMMCCPO_00188	P96635|NICK_BACSU	Putative DNA relaxase NicK	Bacillus subtilis (strain 168)	94.0	36.963	363	352	349	233
+AMMMCCPO_00147	P96635|NICK_BACSU	Putative DNA relaxase NicK	Bacillus subtilis (strain 168)	94.0	36.963	363	352	349	233
+AMMMCCPO_00092	O34924|YTOP_BACSU	Putative aminopeptidase YtoP	Bacillus subtilis (strain 168)	96.0	44.828	358	357	348	324
+AMMMCCPO_00189	O31491|YDDB_BACSU	Uncharacterized protein YddB	Bacillus subtilis (strain 168)	93.0	28.488	355	354	344	108
+AMMMCCPO_00146	O31491|YDDB_BACSU	Uncharacterized protein YddB	Bacillus subtilis (strain 168)	93.0	28.488	355	354	344	108
+AMMMCCPO_00035	Q6GG19|G3P2_STAAR	Glyceraldehyde-3-phosphate dehydrogenase 2	Staphylococcus aureus (strain MRSA252)	100.0	100.000	341	341	341	697
+AMMMCCPO_00237	Q6GE08|BIOB_STAAR	Biotin synthase	Staphylococcus aureus (strain MRSA252)	100.0	100.000	335	335	335	694
+AMMMCCPO_00346	Q6GGT7|GPDA_STAAR	Glycerol-3-phosphate dehydrogenase [NAD(P)+]	Staphylococcus aureus (strain MRSA252)	100.0	100.000	332	332	332	681
+AMMMCCPO_00350	P30363|ASPG_BACLI	L-asparaginase	Bacillus licheniformis	99.0	36.364	322	322	330	194
+AMMMCCPO_00354	P50728|YPBB_BACSU	Uncharacterized protein YpbB	Bacillus subtilis (strain 168)	92.0	22.121	317	352	330	75.1
+AMMMCCPO_00330	E0U174|BIRA_BACPZ	Bifunctional ligase/repressor BirA	Bacillus subtilis subsp. spizizenii (strain ATCC 23059 / NRRL B-14472 / W23)	99.0	34.043	323	325	329	187
+AMMMCCPO_00121	O31660|YKRP_BACSU	Putative membrane-bound acyltransferase YkrP	Bacillus subtilis (strain 168)	97.0	34.954	336	340	329	191
+AMMMCCPO_00214	O31660|YKRP_BACSU	Putative membrane-bound acyltransferase YkrP	Bacillus subtilis (strain 168)	97.0	34.954	336	340	329	191
+AMMMCCPO_00083	Q6GFX2|CCPA_STAAR	Catabolite control protein A	Staphylococcus aureus (strain MRSA252)	100.0	99.696	329	329	329	667
+AMMMCCPO_00161	A0A0H3JR16|LPLA1_STAAM	Lipoate--protein ligase 1	Staphylococcus aureus (strain Mu50 / ATCC 700699)	100.0	99.390	328	328	328	667
+AMMMCCPO_00174	A0A0H3JR16|LPLA1_STAAM	Lipoate--protein ligase 1	Staphylococcus aureus (strain Mu50 / ATCC 700699)	100.0	99.390	328	328	328	667
+AMMMCCPO_00351	P50736|YPDA_BACSU	Uncharacterized protein YpdA	Bacillus subtilis (strain 168)	98.0	63.804	328	324	326	402
+AMMMCCPO_00233	Q6GE12|HLGB_STAAR	Gamma-hemolysin component B	Staphylococcus aureus (strain MRSA252)	100.0	100.000	325	325	325	670
+AMMMCCPO_00017	P64335|HEM2_STAAW	Delta-aminolevulinic acid dehydratase	Staphylococcus aureus (strain MW2)	100.0	99.691	324	324	324	669
+AMMMCCPO_00060	P37876|YTXK_BACSU	Uncharacterized protein YtxK	Bacillus subtilis (strain 168)	96.0	35.093	315	329	322	197
+AMMMCCPO_00046	Q6GG08|PFKA_STAAR	ATP-dependent 6-phosphofructokinase	Staphylococcus aureus (strain MRSA252)	100.0	100.000	322	322	322	653
+AMMMCCPO_00342	P31114|HEPS2_BACSU	Heptaprenyl diphosphate synthase component 2	Bacillus subtilis (strain 168)	99.0	46.372	319	348	317	302
+AMMMCCPO_00232	Q6GE13|HLGC_STAAR	Gamma-hemolysin component C	Staphylococcus aureus (strain MRSA252)	100.0	100.000	315	315	315	648
+AMMMCCPO_00047	Q6GG07|ACCA_STAAR	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha	Staphylococcus aureus (strain MRSA252)	100.0	100.000	314	314	314	640
+AMMMCCPO_00254	Q9CFY8|PANE_LACLA	2-dehydropantoate 2-reductase	Lactococcus lactis subsp. lactis (strain IL1403)	99.0	43.269	311	312	312	268
+AMMMCCPO_00276	Q2FVE8|CNTB_STAA8	Metal-staphylopine import system permease protein CntB	Staphylococcus aureus (strain NCTC 8325 / PS 47)	100.0	99.678	311	311	311	622
+AMMMCCPO_00231	P0A073|HLGA_STAAW	Gamma-hemolysin component A	Staphylococcus aureus (strain MW2)	96.0	99.676	321	309	309	633
+AMMMCCPO_00019	Q6GG35|HEM3_STAAR	Porphobilinogen deaminase	Staphylococcus aureus (strain MRSA252)	100.0	100.000	308	308	308	629
+AMMMCCPO_00107	O35008|YTQA_BACSU	Uncharacterized protein YtqA	Bacillus subtilis (strain 168)	97.0	75.490	317	322	306	499
+AMMMCCPO_00051	O34600|NRNA_BACSU	Bifunctional oligoribonuclease and PAP phosphatase NrnA	Bacillus subtilis (strain 168)	97.0	49.346	313	313	306	312
+AMMMCCPO_00131	P39582|MENA_BACSU	1,4-dihydroxy-2-naphthoate octaprenyltransferase	Bacillus subtilis (strain 168)	96.0	50.498	312	311	301	303
+AMMMCCPO_00204	P39582|MENA_BACSU	1,4-dihydroxy-2-naphthoate octaprenyltransferase	Bacillus subtilis (strain 168)	96.0	50.498	312	311	301	303
+AMMMCCPO_00032	P06567|DNAI_BACSU	Primosomal protein DnaI	Bacillus subtilis (strain 168)	96.0	43.051	306	311	295	251
+AMMMCCPO_00037	B8F586|FPG_HAEPS	Formamidopyrimidine-DNA glycosylase	Haemophilus parasuis serovar 5 (strain SH0165)	100.0	36.644	290	274	292	176
+AMMMCCPO_00275	Q2FVE9|CNTC_STAA8	Metal-staphylopine import system permease protein CntC	Staphylococcus aureus (strain NCTC 8325 / PS 47)	100.0	100.000	289	289	289	584
+AMMMCCPO_00302	Q8NUU9|GTAB_STAAW	UTP--glucose-1-phosphate uridylyltransferase	Staphylococcus aureus (strain MW2)	100.0	100.000	288	288	288	583
+AMMMCCPO_00229	P46348|MNES_BACSU	Manganese efflux system protein MneS	Bacillus subtilis (strain 168)	99.0	41.958	288	290	286	233
+AMMMCCPO_00090	Q2FXI7|Y1859_STAA8	UPF0354 protein SAOUHSC_01859	Staphylococcus aureus (strain NCTC 8325 / PS 47)	100.0	100.000	285	285	285	587
+AMMMCCPO_00048	A8Z2L6|ACCD_STAAT	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta	Staphylococcus aureus (strain USA300 / TCH1516)	100.0	100.000	285	285	285	593
+AMMMCCPO_00257	Q9KHT7|OPUCC_LISMN	Carnitine transport binding protein OpuCC	Listeria monocytogenes	90.0	61.131	313	308	283	372
+AMMMCCPO_00097	Q8NW24|DAAA_STAAW	D-alanine aminotransferase	Staphylococcus aureus (strain MW2)	100.0	100.000	282	282	282	573
+AMMMCCPO_00007	Q8Y6Y4|MREC_LISMO	Cell shape-determining protein MreC	Listeria monocytogenes serovar 1/2a (strain ATCC BAA-679 / EGD-e)	95.0	37.681	280	295	276	180
+AMMMCCPO_00094	O34760|YTNP_BACSU	Probable quorum-quenching lactonase YtnP	Bacillus subtilis (strain 168)	98.0	52.174	280	281	276	296
+AMMMCCPO_00077	Q8XJ01|PBPA_CLOPE	Penicillin-binding protein 1A	Clostridium perfringens (strain 13 / Type A)	89.0	32.000	301	679	275	117
+AMMMCCPO_00208	Q6GI37|MENB_STAAR	1,4-dihydroxy-2-naphthoyl-CoA synthase	Staphylococcus aureus (strain MRSA252)	100.0	100.000	273	273	273	567
+AMMMCCPO_00280	A0A0H3JU78|CNTK_STAAM	Histidine racemase	Staphylococcus aureus (strain Mu50 / ATCC 700699)	100.0	98.168	273	273	273	566
+AMMMCCPO_00127	Q6GI37|MENB_STAAR	1,4-dihydroxy-2-naphthoyl-CoA synthase	Staphylococcus aureus (strain MRSA252)	100.0	100.000	273	273	273	567
+AMMMCCPO_00279	A0A0H3JXA8|NASLD_STAAM	D-histidine 2-aminobutanoyltransferase	Staphylococcus aureus (strain Mu50 / ATCC 700699)	100.0	99.265	272	272	272	556
+AMMMCCPO_00274	Q2FVF0|CNTD_STAA8	Metal-staphylopine import system ATP-binding protein CntD	Staphylococcus aureus (strain NCTC 8325 / PS 47)	100.0	97.417	271	271	271	542
+AMMMCCPO_00282	P46331|YXBG_BACSU	Uncharacterized oxidoreductase YxbG	Bacillus subtilis (strain 168)	99.0	58.364	272	273	269	346
+AMMMCCPO_00020	P16645|HEMX_BACSU	Protein HemX	Bacillus subtilis (strain 168)	97.0	33.712	271	276	264	142
+AMMMCCPO_00294	Q6GDV3|Y2570_STAAR	Uncharacterized protein SAR2570	Staphylococcus aureus (strain MRSA252)	100.0	100.000	264	264	264	534
+AMMMCCPO_00128	P23974|MENH_BACSU	Putative 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase	Bacillus subtilis (strain 168)	97.0	34.483	267	274	261	170
+AMMMCCPO_00207	P23974|MENH_BACSU	Putative 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase	Bacillus subtilis (strain 168)	97.0	34.483	267	274	261	170
+AMMMCCPO_00314	P54161|EX53_BACSU	5'-3' exonuclease	Bacillus subtilis (strain 168)	88.0	54.023	292	296	261	313
+AMMMCCPO_00295	Q2FVD0|Y2783_STAA8	Uncharacterized protein SAOUHSC_02783	Staphylococcus aureus (strain NCTC 8325 / PS 47)	100.0	80.934	253	264	257	399
+AMMMCCPO_00281	P96655|YDDR_BACSU	UPF0173 protein YddR	Bacillus subtilis (strain 168)	99.0	50.394	255	254	254	257
+AMMMCCPO_00062	P46490|Y198_HAEIN	Probable membrane transporter protein HI_0198	Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)	98.0	36.614	256	255	254	151
+AMMMCCPO_00273	Q2FVF1|CNTF_STAA8	Metal-staphylopine import system ATP-binding protein CntF	Staphylococcus aureus (strain NCTC 8325 / PS 47)	100.0	99.598	249	249	249	513
+AMMMCCPO_00264	P77307|FETB_ECOLI	Probable iron export permease protein FetB	Escherichia coli (strain K12)	96.0	45.968	258	259	248	228
+AMMMCCPO_00068	O07592|YHDW_BACSU	Putative glycerophosphodiester phosphodiesterase YhdW	Bacillus subtilis (strain 168)	96.0	35.484	247	243	248	150
+AMMMCCPO_00343	Q6GGU0|MENG_STAAR	Demethylmenaquinone methyltransferase	Staphylococcus aureus (strain MRSA252)	100.0	99.585	241	241	241	499
+AMMMCCPO_00041	P13792|PHOP_BACSU	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP	Bacillus subtilis (strain 168)	99.0	67.089	233	240	237	322
+AMMMCCPO_00296	Q6GDV2|Y2573_STAAR	Uncharacterized lipoprotein SAR2573	Staphylococcus aureus (strain MRSA252)	100.0	100.000	233	257	233	472
+AMMMCCPO_00291	Q6GDV6|Y2567_STAAR	Uncharacterized oxidoreductase SAR2567	Staphylococcus aureus (strain MRSA252)	100.0	100.000	231	231	231	464
+AMMMCCPO_00235	Q6GE10|BIOW_STAAR	6-carboxyhexanoate--CoA ligase	Staphylococcus aureus (strain MRSA252)	100.0	100.000	230	230	230	478
+AMMMCCPO_00055	Q6GG00|Y1785_STAAR	UPF0173 metal-dependent hydrolase SAR1785	Staphylococcus aureus (strain MRSA252)	100.0	100.000	229	229	229	467
+AMMMCCPO_00228	Q6GE17|GPMA_STAAR	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	Staphylococcus aureus (strain MRSA252)	100.0	100.000	228	228	228	472
+AMMMCCPO_00010	Q5HFB1|Y1707_STAAC	UPF0758 protein SACOL1707	Staphylococcus aureus (strain COL)	100.0	99.561	228	228	228	460
+AMMMCCPO_00100	O32068|YTZG_BACSU	Uncharacterized RNA pseudouridine synthase YtzG	Bacillus subtilis (strain 168)	94.0	46.429	231	239	224	206
+AMMMCCPO_00018	Q59294|HEM4_RUMJO	Porphyrin biosynthesis protein HemD	Ruminiclostridium josui	90.0	27.803	222	504	223	84.0
+AMMMCCPO_00156	P9WQK1|Y986_MYCTU	Uncharacterized ABC transporter ATP-binding protein Rv0986	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	100.0	35.426	213	248	223	140
+AMMMCCPO_00179	P9WQK1|Y986_MYCTU	Uncharacterized ABC transporter ATP-binding protein Rv0986	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	100.0	35.426	213	248	223	140
+AMMMCCPO_00239	Q8CQD8|BIOD_STAES	ATP-dependent dethiobiotin synthetase BioD	Staphylococcus epidermidis (strain ATCC 12228 / FDA PCI 1200)	97.0	64.414	228	223	222	297
+AMMMCCPO_00307	P10585|GNTR_BACSU	Gluconate operon transcriptional repressor	Bacillus subtilis (strain 168)	98.0	46.396	226	243	222	230
+AMMMCCPO_00349	Q6GGT4|KCY_STAAR	Cytidylate kinase	Staphylococcus aureus (strain MRSA252)	100.0	100.000	219	219	219	442
+AMMMCCPO_00256	Q9KHT6|OPUCD_LISMN	Carnitine transport permease protein OpuCD	Listeria monocytogenes	94.0	61.111	231	223	216	273
+AMMMCCPO_00326	P39788|END3_BACSU	Endonuclease III	Bacillus subtilis (strain 168)	99.0	63.889	219	219	216	285
+AMMMCCPO_00095	Q6GFV3|TRMB_STAAR	tRNA (guanine-N(7)-)-methyltransferase	Staphylococcus aureus (strain MRSA252)	100.0	100.000	214	214	214	451
+AMMMCCPO_00011	P0C6D9|LEP4_VIBCH	Prepilin leader peptidase/N-methyltransferase	Vibrio cholerae serotype O1 (strain ATCC 39315 / El Tor Inaba N16961)	82.0	28.638	235	253	213	70.1
+AMMMCCPO_00334	O05248|YUGP_BACSU	Putative membrane protease YugP	Bacillus subtilis (strain 168)	91.0	45.024	232	225	211	154
+AMMMCCPO_00327	P39787|DNAD_BACSU	DNA replication protein DnaD	Bacillus subtilis (strain 168)	89.0	36.493	228	232	211	137
+AMMMCCPO_00089	O34943|YTPR_BACSU	Putative tRNA-binding protein YtpR	Bacillus subtilis (strain 168)	99.0	56.398	212	201	211	199
+AMMMCCPO_00081	Q65G33|ACUA_BACLD	Acetoin utilization protein AcuA	Bacillus licheniformis (strain ATCC 14580 / DSM 13 / JCM 2505 / NBRC 12200 / NCIMB 9375 / NRRL NRS-1264 / Gibson 46)	100.0	52.857	210	210	210	238
+AMMMCCPO_00323	Q6GGW0|RECU_STAAR	Holliday junction resolvase RecU	Staphylococcus aureus (strain MRSA252)	100.0	100.000	208	208	208	428
+AMMMCCPO_00258	Q9KHT8|OPUCB_LISMN	Carnitine transport permease protein OpuCB	Listeria monocytogenes	99.0	53.365	211	218	208	227
+AMMMCCPO_00036	P63832|COAE_STAAW	Dephospho-CoA kinase	Staphylococcus aureus (strain MW2)	100.0	99.517	207	207	207	417
+AMMMCCPO_00265	P77279|FETA_ECOLI	Probable iron export ATP-binding protein FetA	Escherichia coli (strain K12)	93.0	42.927	220	225	205	169
+AMMMCCPO_00026	P50619|YMAB_BACSU	Uncharacterized protein YmaB	Bacillus subtilis (strain 168)	99.0	42.365	202	206	203	168
+AMMMCCPO_00074	O07584|PLSC_BACSU	1-acyl-sn-glycerol-3-phosphate acyltransferase	Bacillus subtilis (strain 168)	98.0	46.535	205	199	202	187
+AMMMCCPO_00113	Q7A183|QOX3_STAAW	Probable quinol oxidase subunit 3	Staphylococcus aureus (strain MW2)	100.0	100.000	201	201	201	409
+AMMMCCPO_00222	Q7A183|QOX3_STAAW	Probable quinol oxidase subunit 3	Staphylococcus aureus (strain MW2)	100.0	100.000	201	201	201	409
+AMMMCCPO_00067	Q6GFY8|RS4_STAAR	30S ribosomal protein S4	Staphylococcus aureus (strain MRSA252)	100.0	100.000	200	200	200	409
+AMMMCCPO_00260	P96666|YDEI_BACSU	Uncharacterized protein YdeI	Bacillus subtilis (strain 168)	99.0	54.545	199	197	198	225
+AMMMCCPO_00022	Q6GG32|ENGB_STAAR	Probable GTP-binding protein EngB	Staphylococcus aureus (strain MRSA252)	100.0	100.000	196	196	196	402
+AMMMCCPO_00336	Q6GGU7|Y1473_STAAR	UPF0302 protein SAR1473	Staphylococcus aureus (strain MRSA252)	93.0	100.000	205	191	191	386
+AMMMCCPO_00313	Q48630|APL_LACLM	Alkaline phosphatase-like protein	Lactococcus lactis subsp. cremoris (strain MG1363)	94.0	43.979	203	214	191	167
+AMMMCCPO_00321	A6U1R6|Y1535_STAA2	UPF0398 protein SaurJH1_1535	Staphylococcus aureus (strain JH1)	100.0	100.000	187	187	187	385
+AMMMCCPO_00108	O34614|YTQB_BACSU	Putative rRNA methylase YtqB	Bacillus subtilis (strain 168)	98.0	51.337	187	194	187	183
+AMMMCCPO_00356	E5QVT2|RIBU_STAAH	Riboflavin transporter RibU	Staphylococcus aureus (strain TCH60)	100.0	100.000	181	189	181	343
+AMMMCCPO_00014	P44321|3MGA_HAEIN	DNA-3-methyladenine glycosylase	Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)	97.0	45.856	186	185	181	180
+AMMMCCPO_00029	Q6GG25|IF3_STAAR	Translation initiation factor IF-3	Staphylococcus aureus (strain MRSA252)	94.0	99.429	186	175	175	351
+AMMMCCPO_00335	P54392|YPJA_BACSU	Uncharacterized protein YpjA	Bacillus subtilis (strain 168)	86.0	41.071	195	185	168	128
+AMMMCCPO_00058	Q2FXL6|Y1819_STAA8	Putative universal stress protein SAOUHSC_01819	Staphylococcus aureus (strain NCTC 8325 / PS 47)	100.0	100.000	166	166	166	344
+AMMMCCPO_00061	Q6GFZ4|TPX_STAAR	Thiol peroxidase	Staphylococcus aureus (strain MRSA252)	100.0	100.000	164	164	164	338
+AMMMCCPO_00086	Q2G247|Y1855_STAA8	UPF0478 protein SAOUHSC_01855	Staphylococcus aureus (strain NCTC 8325 / PS 47)	100.0	100.000	163	163	163	328
+AMMMCCPO_00034	P67317|NRDR_STAAW	Transcriptional repressor NrdR	Staphylococcus aureus (strain MW2)	100.0	100.000	156	156	156	324
+AMMMCCPO_00218	P0A0Q4|Y996_STAA8	Uncharacterized protein SAOUHSC_00996	Staphylococcus aureus (strain NCTC 8325 / PS 47)	100.0	99.359	156	156	156	324
+AMMMCCPO_00117	P0A0Q4|Y996_STAA8	Uncharacterized protein SAOUHSC_00996	Staphylococcus aureus (strain NCTC 8325 / PS 47)	100.0	99.359	156	156	156	324
+AMMMCCPO_00054	Q57997|Y577_METJA	Universal stress protein MJ0577	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	100.0	32.903	137	162	155	60.1
+AMMMCCPO_00001	Q2FXT2|Y1752_STAA8	UPF0735 ACT domain-containing protein SAOUHSC_01752	Staphylococcus aureus (strain NCTC 8325 / PS 47)	100.0	100.000	151	151	151	299
+AMMMCCPO_00269	P33385|Y207_LISMO	Uncharacterized lipoprotein Lmo0207	Listeria monocytogenes serovar 1/2a (strain ATCC BAA-679 / EGD-e)	97.0	38.411	151	153	151	92.4
+AMMMCCPO_00234	P22821|BIOX_LYSSH	Protein BioX	Lysinibacillus sphaericus	95.0	40.397	155	166	151	92.8
+AMMMCCPO_00066	O34553|YTSP_BACSU	Protein YtsP	Bacillus subtilis (strain 168)	95.0	52.349	154	163	149	164
+AMMMCCPO_00341	P68870|NDK_STAAU	Nucleoside diphosphate kinase	Staphylococcus aureus	100.0	100.000	149	149	149	306
+AMMMCCPO_00118	Q6GI30|ATSE_STAAR	Putative acetyltransferase SAR1027	Staphylococcus aureus (strain MRSA252)	100.0	100.000	144	144	144	298
+AMMMCCPO_00217	Q6GI30|ATSE_STAAR	Putative acetyltransferase SAR1027	Staphylococcus aureus (strain MRSA252)	100.0	100.000	144	144	144	298
+AMMMCCPO_00069	O31790|YMAD_BACSU	Uncharacterized protein YmaD	Bacillus subtilis (strain 168)	95.0	39.007	148	150	141	113
+AMMMCCPO_00284	P96684|YDFG_BACSU	Uncharacterized protein YdfG	Bacillus subtilis (strain 168)	94.0	35.338	140	147	133	102
+AMMMCCPO_00109	Q7A0L8|ROT_STAAW	HTH-type transcriptional regulator rot	Staphylococcus aureus (strain MW2)	100.0	100.000	133	166	133	270
+AMMMCCPO_00298	P77788|NUDG_ECOLI	CTP pyrophosphohydrolase	Escherichia coli (strain K12)	97.0	38.095	130	135	126	90.5
+AMMMCCPO_00027	P66109|RL20_STAAW	50S ribosomal protein L20	Staphylococcus aureus (strain MW2)	100.0	100.000	118	118	118	238
+AMMMCCPO_00197	P96647|YDDJ_BACSU	Uncharacterized protein YddJ	Bacillus subtilis (strain 168)	96.0	30.172	113	126	116	45.8
+AMMMCCPO_00138	P96647|YDDJ_BACSU	Uncharacterized protein YddJ	Bacillus subtilis (strain 168)	96.0	30.172	113	126	116	45.8
+AMMMCCPO_00320	Q7A0V6|GPSB_STAAW	Cell cycle protein GpsB	Staphylococcus aureus (strain MW2)	100.0	100.000	114	114	114	229
+AMMMCCPO_00126	Q6GI36|SSPC_STAAR	Staphostatin B	Staphylococcus aureus (strain MRSA252)	100.0	100.000	109	109	109	224
+AMMMCCPO_00209	Q6GI36|SSPC_STAAR	Staphostatin B	Staphylococcus aureus (strain MRSA252)	100.0	100.000	109	109	109	224
+AMMMCCPO_00004	P26942|YSXB_BACSU	Uncharacterized protein YsxB	Bacillus subtilis (strain 168)	98.0	37.963	106	112	108	83.6
+AMMMCCPO_00333	P42979|YPJD_BACSU	Uncharacterized protein YpjD	Bacillus subtilis (strain 168)	99.0	62.500	105	111	104	141
+AMMMCCPO_00005	Q7A0Q2|RL21_STAAW	50S ribosomal protein L21	Staphylococcus aureus (strain MW2)	100.0	100.000	102	102	102	202
+AMMMCCPO_00091	O34357|YTPP_BACSU	Thioredoxin-like protein YtpP	Bacillus subtilis (strain 168)	97.0	50.495	103	107	101	111
+AMMMCCPO_00114	Q6GI26|QOX4_STAAR	Probable quinol oxidase subunit 4	Staphylococcus aureus (strain MRSA252)	100.0	100.000	96	96	96	188
+AMMMCCPO_00221	Q6GI26|QOX4_STAAR	Probable quinol oxidase subunit 4	Staphylococcus aureus (strain MRSA252)	100.0	100.000	96	96	96	188
+AMMMCCPO_00003	P66134|RL27_STAAW	50S ribosomal protein L27	Staphylococcus aureus (strain MW2)	100.0	100.000	94	94	94	186
+AMMMCCPO_00104	O32072|YTWF_BACSU	Putative sulfurtransferase YtwF	Bacillus subtilis (strain 168)	90.0	43.011	103	103	93	83.2
+AMMMCCPO_00345	Q7A0U9|DBH_STAAW	DNA-binding protein HU	Staphylococcus aureus (strain MW2)	100.0	100.000	90	90	90	178
+AMMMCCPO_00355	P50727|FER_BACSU	Ferredoxin	Bacillus subtilis (strain 168)	100.0	81.707	82	82	82	99.0
+AMMMCCPO_00200	O34348|YFMC_BACSU	Fe(3+)-citrate-binding protein YfmC	Bacillus subtilis (strain 168)	83.0	44.286	83	315	70	56.6
+AMMMCCPO_00135	O34348|YFMC_BACSU	Fe(3+)-citrate-binding protein YfmC	Bacillus subtilis (strain 168)	83.0	44.286	83	315	70	56.6
+AMMMCCPO_00028	P66277|RL35_STAAW	50S ribosomal protein L35	Staphylococcus aureus (strain MW2)	100.0	100.000	66	66	66	127
+AMMMCCPO_00160	O31684|YKVS_BACSU	Uncharacterized protein YkvS	Bacillus subtilis (strain 168)	98.0	61.404	58	61	57	76.3
+AMMMCCPO_00175	O31684|YKVS_BACSU	Uncharacterized protein YkvS	Bacillus subtilis (strain 168)	98.0	61.404	58	61	57	76.3

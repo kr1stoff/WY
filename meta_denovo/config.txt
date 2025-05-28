@@ -1,0 +1,37 @@
+# 过滤，去宿主
+python = /home/earthtest/miniconda3/envs/base_env/bin/python
+perl = /home/earthtest/miniconda3/envs/base_env/bin/perl
+Rscript  = /home/earthtest/miniconda3/envs/base_env/bin/Rscript
+
+fastqc = /home/earthtest/miniconda3/envs/base_env/bin/fastqc
+fastp = /home/earthtest/miniconda3/envs/base_env/bin/fastp
+
+human_db = /sdbb/share/database/genome/Human/hg38.fa
+blast_db = /sdbb/share/database/nt/Full_2022_01_08/
+nt = /sdbb/share/database/nt/Full_2022_01_08/
+taxdump_db = /sdbb/share/database/taxdump/
+
+# assembly
+spades = /home/earthtest/miniconda3/envs/denovo/bin/spades.py
+
+checkM = /home/earthtest/miniconda3/envs/checkm/bin/checkm
+bowtie2 = /home/earthtest/miniconda3/envs/base_env/bin/bowtie2
+coverm = /home/earthtest/miniconda3/envs/coverm/bin/coverm
+taxonkit = /home/earthtest/miniconda3/envs/base_env/bin/taxonkit
+
+bedtools = /home/earthtest/miniconda3/envs/base_env/bin/bedtools
+
+
+# function
+func_bin = /sdbb/share/pipeline/meta_denovo/bin/function
+eggNOG = /sdbb/share/database/eggNOG/
+KEGG = /sdbb/share/database/KEGG/db/
+GO = /sdbb/share/database/GO/
+COG = /sdbb/share/database/COG/
+CARD_db = /sdbb/share/database/CARD/2020-08-06/
+vfdb_dir = /sdbb/share/database/VFDB/VFDB_setB_pro/
+
+activate = /home/earthtest/miniconda3/bin/activate
+convert = /home/earthtest/miniconda3/envs/base_env/bin/convert
+
+AnalysisResults = /sdbb/Earth/AnalysisResults

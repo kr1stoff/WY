@@ -1,0 +1,68 @@
+---
+version : 1.1
+
+# necessary 
+matrix  : ""
+group   : ""
+outpre  : ""
+
+# optional
+width               : auto
+height              : auto
+transpose           : F
+group_type          : auto          # auto(a) | string(s) | numeric(n)
+
+clean               : T             # T | F
+limit               : 200           # NA
+
+rm_empty            : F
+rm_empty_cols       : default       # default | T | F
+rm_empty_rows       : default       # default | T | F
+show_bar            : T
+show_row_bar        : default       # default | T | F
+show_col_bar        : default       # default | T | F
+
+color_list          : "#E64B35,#4DBBD5,#00A087,#3C5488,#F39B7F,#8491B4,#91D1C2,#DC0000"
+color_bg            : "#D8DBE5"
+color_border        : "#FFFFFF"     # NA | '#FFFFFF'
+
+title_size          : 14
+name_size           : 10
+
+row_title           : ""
+row_title_side      : right         # right | left
+row_title_size      : default
+row_title_font      : bold          # plain | bold | italic | oblique | bold.italic
+
+col_title           : ""
+col_title_side      : top           # top | bottom
+col_title_size      : default
+col_title_font      : bold          # plain | bold | italic | oblique | bold.italic
+
+legend_title        : ""
+legend_title_size   : default
+legend_title_font   : bold          # plain | bold | italic | oblique | bold.italic
+legend_title_pos    : topleft       # topleft | topcenter | leftcenter | lefttop 
+legend_direction    : vertical      # vertical | horizontal
+legend_side         : right         # left | right | bottom | top
+
+show_pct            : T             # T | F
+pct_size            : default
+pct_font            : plain         # plain | bold | italic | oblique | bold.italic
+pct_side            : left          # left | right 
+pct_digits          : 0
+
+show_row_names      : T             # T | F
+row_names_size      : default
+row_names_font      : plain         # plain | bold | italic | oblique | bold.italic
+row_names_side      : right         # right | left
+row_names_rot       : 0
+keep_row_order      : F
+
+show_col_names      : T             # T | F
+col_names_size      : default
+col_names_font      : plain         # plain | bold | italic | oblique | bold.italic
+col_names_side      : bottom        # bottom | top
+col_names_rot       : 90
+keep_col_order      : F
+

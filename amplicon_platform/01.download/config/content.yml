@@ -1,0 +1,24 @@
+"1313":
+  name: "Streptococcus pneumoniae"
+  name_cn: "肺炎链球菌"
+"158836":
+  name: "Enterobacter hormaechei"
+  name_cn: "霍氏肠杆菌"
+"1773":
+  name: "Mycobacterium tuberculosis"
+  name_cn: "结核分枝杆菌"
+"28450":
+  name: "Burkholderia pseudomallei"
+  name_cn: "类鼻疽伯克霍尔德菌"
+"287":
+  name: "Pseudomonas aeruginosa"
+  name_cn: "铜绿假单胞菌"
+"562":
+  name: "Escherichia coli"
+  name_cn: "大肠埃希菌"
+"573":
+  name: "Klebsiella pneumoniae"
+  name_cn: "肺炎克雷伯菌"
+"550_included_158836":
+  name: "Enterobacter cloacae"
+  name_cn: "阴沟肠杆菌"

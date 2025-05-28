@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    a {
+      color: red;
+    }
+
+    table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+  }
+
+  th {
+    background-color: #f2f2f2;
+  }
+  </style>
+</head>
+<body>
+  <div>
+    <table>
+      <thead>
+        <tr>
+          <th>Chrom</th>
+          <th>HashID</th>
+          <th>OuterLeft</th>
+          <th>OuterRight</th>
+          <th>InnerLeft</th>
+          <th>InnerRight</th>
+          <th>Probe</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- <tr>
+          <td>M<a title="A:20,C:1">a</a>rk</td>
+          <td>Otto</td>
+          <td>@mdo</td>
+        </tr> -->
+
+        {% block tbody %}
+
+      </tbody>
+    </table>
+  </div>
+
+  <div>
+    <p>
+      <br>注: <br>
+      1. 红色为简并碱基或多态性位点小写标注;<br>
+      2. 鼠标悬停在红色字母, 会显示当前碱基基因组中的多态性碱基比例, 用四位数字代表四个碱基的数量, ","逗号分隔. 顺序为 ATGC. 如 0,126,23,0 表示这个位置126个基因组含有T碱基和23个含G碱基<br>
+    </p>
+  </div>
+</body>
+</html>

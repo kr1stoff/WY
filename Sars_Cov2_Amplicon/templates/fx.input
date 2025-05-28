@@ -1,0 +1,13 @@
+XG0128	/sdbb/bioinfor/lanlei/data_test/sars_tree_fa/XG0128.consensus.fa
+XG0221	/sdbb/bioinfor/lanlei/data_test/sars_tree_fa/XG0221.consensus.fa
+XG0222	/sdbb/bioinfor/lanlei/data_test/sars_tree_fa/XG0222.consensus.fa
+XG0120	/sdbb/share/test_data/Sars_Cov2_Amplicon/XG0120_S1_R1_001.fastq.gz	/sdbb/share/test_data/Sars_Cov2_Amplicon/XG0120_S1_R2_001.fastq.gz
+XG0121	/sdbb/share/test_data/Sars_Cov2_Amplicon/XG0121_S2_R1_001.fastq.gz	/sdbb/share/test_data/Sars_Cov2_Amplicon/XG0121_S2_R2_001.fastq.gz
+XG0122	/sdbb/share/test_data/Sars_Cov2_Amplicon/XG0122_S3_R1_001.fastq.gz	/sdbb/share/test_data/Sars_Cov2_Amplicon/XG0122_S3_R2_001.fastq.gz
+XG0123	/sdbb/share/test_data/Sars_Cov2_Amplicon/XG0123_S4_R1_001.fastq.gz	/sdbb/share/test_data/Sars_Cov2_Amplicon/XG0123_S4_R2_001.fastq.gz
+XG0124	/sdbb/share/test_data/Sars_Cov2_Amplicon/XG0124_S5_R1_001.fastq.gz	/sdbb/share/test_data/Sars_Cov2_Amplicon/XG0124_S5_R2_001.fastq.gz
+XG0125	/sdbb/share/test_data/Sars_Cov2_Amplicon/XG0125_S6_R1_001.fastq.gz	/sdbb/share/test_data/Sars_Cov2_Amplicon/XG0125_S6_R2_001.fastq.gz
+XG0126	/sdbb/share/test_data/Sars_Cov2_Amplicon/XG0126_S7_R1_001.fastq.gz	/sdbb/share/test_data/Sars_Cov2_Amplicon/XG0126_S7_R2_001.fastq.gz
+XG0127	/sdbb/share/test_data/Sars_Cov2_Amplicon/XG0127_S8_R1_001.fastq.gz	/sdbb/share/test_data/Sars_Cov2_Amplicon/XG0127_S8_R2_001.fastq.gz
+XG0128	/sdbb/share/test_data/Sars_Cov2_Amplicon/XG0128_S9_R1_001.fastq.gz	/sdbb/share/test_data/Sars_Cov2_Amplicon/XG0128_S9_R2_001.fastq.gz
+XG0129	/sdbb/share/test_data/Sars_Cov2_Amplicon/XG0129_S10_R1_001.fastq.gz	/sdbb/share/test_data/Sars_Cov2_Amplicon/XG0129_S10_R2_001.fastq.gz

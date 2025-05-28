@@ -1,0 +1,32 @@
+# 项目名称
+project: Test
+
+# 现在还只能使用默认的数据库
+# TODO: 流感全库路径(没有则填 no，如果有则提供，会覆盖默认数据库)
+db_all: "/sdbb/bioinfor/Database/Flu/v1.0.0/flu"
+# TODO: 流感参考路径(没有则填 no，如果有则提供，会覆盖默认数据库)
+db_ref: "/sdbb/bioinfor/Database/Flu/v1.0.0/ref"
+
+# 引物路径（没有则填 no）
+primer: no
+
+# 移除宿主（没有则填 no）
+# TODO: 暂时不启用
+host: no
+
+# 是否通过流感参考来筛选reads(如果开启此选项则不需要移除宿主)
+# TODO: 暂时不启用
+filter: yes
+
+# 输入序列类型
+# SE | PE | Nanopore
+data_type: SE
+
+# 提供 SE 或者 PE 的序列
+samples:
+  Balf: [ "/sdbb/bioinfor/renchaobo/Develop/FluAmplicon/test/rawdata/balf.part.fastq.gz" ]
+
+# Some Pipe param
+threads: 30
+memory: 100
+parallel: 8

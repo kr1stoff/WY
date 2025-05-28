@@ -1,0 +1,39 @@
+######## Software ########
+path:
+  activate: /home/earthtest/miniconda3/bin/activate
+  snakemake: /home/earthtest/miniconda3/envs/snakemake/bin/snakemake
+  python: /home/earthtest/miniconda3/envs/microbial_wgs/bin/python
+  perl: /home/earthtest/miniconda3/envs/microbial_wgs/bin/perl
+  bgzip: /home/earthtest/miniconda3/envs/microbial_wgs/bin/bgzip
+  samtools: /home/earthtest/miniconda3/envs/microbial_wgs/bin/samtools
+  bcftools: /home/earthtest/miniconda3/envs/microbial_wgs/bin/bcftools
+  pangolin: /home/earthtest/miniconda3/envs/pangolin/bin/pangolin
+  freyja: /home/earthtest/miniconda3/envs/freyja/bin/freyja
+  NanoStat: /home/earthtest/miniconda3/envs/nano/bin/NanoStat
+  NanoFilt: /home/earthtest/miniconda3/envs/nano/bin/NanoFilt
+  minimap2: /home/earthtest/miniconda3/envs/nano/bin/minimap2
+  ivar: /home/earthtest/miniconda3/envs/microbial_wgs/bin/ivar
+  lofreq: /home/earthtest/miniconda3/envs/microbial_wgs/bin/lofreq
+  snpEff: /home/earthtest/miniconda3/envs/microbial_wgs/bin/snpEff
+
+######## Custom ########
+custom:
+  wastewater_smkpipe: /sdbb/share/pipeline/SARS2Wastewater/workflowONT/Snakefile
+
+######## Parameters ########
+params:
+  NanoFilt: '-q 10 --length 200'
+  minimap2: '-a -x map-ont'
+  lofreq: '--force-overwrite -q 20 -Q 20 -C 20' #https://doi.org/10.3389/fmicb.2022.889811
+
+######## Database ########
+database:
+  reference: /sdbb/share/pipeline/SARS2Wastewater/db/wuhan.fa
+  genome_gff: /sdbb/share/pipeline/SARS2Wastewater/db/covidGenomeAnnotation-NCBI.gff
+  primer_bed: /sdbb/share/pipeline/SARS2Wastewater/db/none.bed
+  usher_barcodes: /sdbb/share/pipeline/SARS2Wastewater/db/usher_barcodes.csv
+
+######## Resource ########
+threads:
+  high: 40
+  low: 20

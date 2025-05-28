@@ -1,0 +1,19 @@
+[Header]
+IEMFileVersion,5
+Date,2022/5/26
+Workflow,GenerateFASTQ
+Application,NextSeq FASTQ Only
+Instrument Type,NextSeq/MiniSeq
+Assay,Nextera DNA
+Index Adapters,"Nextera Index Kit (24 Indexes 96 Samples)"
+Chemistry,Amplicon
+
+[Reads]
+151
+
+[Settings]
+
+[Data]
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+T1,,,,N701,TAAGGCGA,N502,ATAGAGAG,,
+T2,,,,N702,CGTACTAG,N503,AGAGGATA,,

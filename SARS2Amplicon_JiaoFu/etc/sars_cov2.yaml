@@ -1,0 +1,14 @@
+# env LC_ALL (Rscript CN Important)
+LC_ALL: zh_CN.utf8
+# env PATH
+PATH: /home/earthtest/miniconda3/envs/microbial_wgs/bin:/home/earthtest/miniconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+# reference
+REFERENCE: /sdbb/share/database/genome/NC_045512.2/NC_045512.2.fasta
+RLABEL: NC_045512.2
+SC2ISOLATES: /sdbb/share/database/genome/Coronaviruses_ForSC2WGSPipe/SARS-CoV-2_isolates13.fasta
+# parameters
+JOBS: 16
+THREADS: 8
+MIN_ALT_COUNT: 10
+MIN_ALT_FRACTION: 0.03
+MIN_COVERAGE: 10

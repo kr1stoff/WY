@@ -1,0 +1,151 @@
+barcode_mismatch: null
+barcode_ori_data: ''
+barcode_type: ''
+blast_database: null
+blast_database_taxonomy: ''
+blast_databases_nucl_type: null
+created_by: 8
+created_library_strategy: null
+created_name: 超级管理员
+created_time: !!str 2022-09-30 15:46:33
+error_message: null
+genome_typing_database: null
+host_id: null
+host_name: null
+i5_seq_direction: ''
+id: 7006
+input_fq_or_fa: ''
+insertion_element_end_lenght: ''
+insertion_element_end_length: null
+insertion_element_start_lenght: ''
+insertion_element_start_length: null
+interface_type: null
+is_deleted: !!binary |
+  AA==
+level1_pipeline: wholeGenome
+level2_pipeline: singlePathogen
+mars_content: ''
+mars_result_record: ''
+n50_cutoff: null
+new_pathogen_data_source: ''
+pathogen_id: null
+pathogen_type: 病毒
+pe_or_se: 双端
+primer_seq: ''
+primer_seq_name: ''
+random_blast_seq_num: ''
+reads_length: ''
+reference_genome: '1392'
+remark: null
+rrna_type: ''
+samples:
+  virmap_test_1:
+    address: ''
+    area: ''
+    barcode: ''
+    barcode1: ''
+    barcode2: ''
+    barcode_outdir_path: null
+    city: ''
+    created_by: 8
+    created_library_strategy: null
+    created_name: 超级管理员
+    created_time: 2022-09-30 15:46:33
+    examinee_id: ''
+    fasta: ''
+    fasta_sequence: ''
+    hear: ''
+    id: 6999
+    label: null
+    label_compare: null
+    level1_pipeline: wholeGenome
+    level2_pipeline: singlePathogen
+    pathogen_id: null
+    pathogene: ''
+    patient_age: ''
+    patient_name: ''
+    patient_sex: '3'
+    process: null
+    province: ''
+    receive_date: 2022-09-30 15:53:52
+    return_analysis_keyword: null
+    return_fasta: /sdbb/Earth/AnalysisResults/99996/virmap_test_1/2.align/virmap_test_1_consensus.fa
+    return_file_path: /sdbb/Earth/AnalysisResults/99996/virmap_test_1.zip
+    return_genotype_file_path: /sdbb/Earth/AnalysisResults/99996/virmap_test_1/Tree_Typing.zip
+    return_genotype_html_url: /file/weiyuan/AnalysisResults/99996/virmap_test_1/Tree_Typing/index.html
+    return_html_url: /file/weiyuan/AnalysisResults/99996/virmap_test_1/index.html
+    return_umsi: null
+    sample_name: ''
+    sample_number: virmap_test_1
+    sample_properties: ''
+    sequencing_data1: /sdbb/bioinfor/mengxf/TASKS/WY23110101/rawdata/SRR20752878.fastq.gz
+    sequencing_data2: null
+    sequencing_length: ''
+    sequencing_platform: ''
+    source_area: DOMESTIC
+    source_unit_name: ''
+    task_id: 99996
+    task_type: null
+    type_name: ''
+    updated_time: !!str 2022-09-30 15:46:33
+  virmap_test_2:
+    address: ''
+    area: ''
+    barcode: ''
+    barcode1: ''
+    barcode2: ''
+    barcode_outdir_path: null
+    city: ''
+    created_by: 8
+    created_library_strategy: null
+    created_name: 超级管理员
+    created_time: 2022-09-30 15:46:33
+    examinee_id: ''
+    fasta: ''
+    fasta_sequence: ''
+    hear: ''
+    id: 6999
+    label: null
+    label_compare: null
+    level1_pipeline: wholeGenome
+    level2_pipeline: singlePathogen
+    pathogen_id: null
+    pathogene: ''
+    patient_age: ''
+    patient_name: ''
+    patient_sex: '3'
+    process: null
+    province: ''
+    receive_date: 2022-09-30 15:53:52
+    return_analysis_keyword: null
+    return_fasta: /sdbb/Earth/AnalysisResults/99996/virmap_test_2/2.align/virmap_test_2_consensus.fa
+    return_file_path: /sdbb/Earth/AnalysisResults/99996/virmap_test_2.zip
+    return_genotype_file_path: /sdbb/Earth/AnalysisResults/99996/virmap_test_2/Tree_Typing.zip
+    return_genotype_html_url: /file/weiyuan/AnalysisResults/99996/virmap_test_2/Tree_Typing/index.html
+    return_html_url: /file/weiyuan/AnalysisResults/99996/virmap_test_2/index.html
+    return_umsi: null
+    sample_name: ''
+    sample_number: virmap_test_2
+    sample_properties: ''
+    sequencing_data1: /sdbb/bioinfor/mengxf/TASKS/WY23110101/rawdata/SRR20752877.fastq.gz
+    sequencing_data2: null
+    sequencing_length: ''
+    sequencing_platform: ''
+    source_area: DOMESTIC
+    source_unit_name: ''
+    task_id: 99996
+    task_type: null
+    type_name: ''
+    updated_time: !!str 2022-09-30 15:46:33
+sars_cov_2_database: 否
+sequence_type: ''
+sequencing_platform: ''
+status: ANALYSEING
+task_id: 99996
+task_name: WSH-副流感
+template: null
+tree_building_method: null
+tree_data: ''
+tree_method: ''
+type: null
+updated_time: !!str 2022-09-30 15:46:33

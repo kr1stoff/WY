@@ -1,0 +1,145 @@
+BCL_folder: /sdbb/bioinfor/mengxf/Project/8.split_barcode/BCL/ILMN_PE_DualIndex/220317_TPNB500510_0206_AHHWHVAFX3
+library: 220527_ILMN_PE_Dual
+FASTQ_folder: /sdbb/bioinfor/mengxf/Project/8.split_barcode/FASTQ
+mismatch: 1
+index_type: Dual # Single
+index2_direction: forward # reverse
+samples:
+  NCrun9:
+    index: AAAGCCCG
+    index2: CCTCGTTA
+  XG0350:
+    index: TTAACGTT
+    index2: CCACAACA
+  XG0351:
+    index: AACAAATG
+    index2: CCACAACA
+  XG0352:
+    index: TCAAGGCG
+    index2: CCACAACA
+  XG0353:
+    index: TTCTAGGA
+    index2: CCACAACA
+  XG0354:
+    index: GATTACTT
+    index2: CCACAACA
+  XG0355:
+    index: AAGTATTG
+    index2: CCACAACA
+  XG0356:
+    index: TGGGAATT
+    index2: CCACAACA
+  XG0357:
+    index: TAAGGGCC
+    index2: CCACAACA
+  XG0358:
+    index: TGCTTGGG
+    index2: CCACAACA
+  XG0359:
+    index: AAGTTGTC
+    index2: CCACAACA
+  XG0360:
+    index: TTGGGTCC
+    index2: CCACAACA
+  XG0361:
+    index: ATTACCTT
+    index2: CCACAACA
+  XG0362:
+    index: TACCTAAG
+    index2: CCACAACA
+  XG0363:
+    index: TCCCTGGA
+    index2: CCACAACA
+  XG0364:
+    index: CCCGTAAG
+    index2: CCACAACA
+  XG0365:
+    index: ACACCAAG
+    index2: CCACAACA
+  XG0366:
+    index: TTAACGTT
+    index2: CCTCGTTA
+  XG0367:
+    index: AACAAATG
+    index2: CCTCGTTA
+  XG0368:
+    index: TCAAGGCG
+    index2: CCTCGTTA
+  XG0369:
+    index: TTCTAGGA
+    index2: CCTCGTTA
+  XG0370:
+    index: GATTACTT
+    index2: CCTCGTTA
+  XG0371:
+    index: AAGTATTG
+    index2: CCTCGTTA
+  XG0372:
+    index: TGGGAATT
+    index2: CCTCGTTA
+  XG0373:
+    index: TAAGGGCC
+    index2: CCTCGTTA
+  XG0374:
+    index: TGCTTGGG
+    index2: CCTCGTTA
+  XG0375:
+    index: AAGTTGTC
+    index2: CCTCGTTA
+  XG0376:
+    index: TTGGGTCC
+    index2: CCTCGTTA
+  XG0377:
+    index: ATTACCTT
+    index2: CCTCGTTA
+  XG0378:
+    index: TACCTAAG
+    index2: CCTCGTTA
+  XG0379:
+    index: TCCCTGGA
+    index2: CCTCGTTA
+  XG0380:
+    index: CCCGTAAG
+    index2: CCTCGTTA
+  XG0381:
+    index: ACACCAAG
+    index2: CCTCGTTA
+  XG0382:
+    index: CAGTGCTG
+    index2: CCTCGTTA
+  XG0383:
+    index: CTCGCACG
+    index2: CCTCGTTA
+  XG0384:
+    index: CGTGTCGT
+    index2: CCTCGTTA
+  XG0385:
+    index: GTAGCAGC
+    index2: CCTCGTTA
+  XG0386:
+    index: TATACGTA
+    index2: CCTCGTTA
+  XG0387:
+    index: TGGAAAGC
+    index2: CCTCGTTA
+  XG0388:
+    index: GGAGGTTT
+    index2: CCTCGTTA
+  XG0389:
+    index: TGTTCGCT
+    index2: CCTCGTTA
+  XG0390:
+    index: GATTAAAG
+    index2: CCTCGTTA
+  XG0391:
+    index: AGGTTCCC
+    index2: CCTCGTTA
+  XG0392:
+    index: GTGGTGCT
+    index2: CCTCGTTA
+  XG0393:
+    index: AGGCGTTT
+    index2: CCTCGTTA
+  XG0394:
+    index: AGTTGCGG
+    index2: CCTCGTTA

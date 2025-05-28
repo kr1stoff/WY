@@ -1,0 +1,355 @@
+<svg height="1330" id="symbols_legend_map" width="400" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs >
+		<style type="text/css"><![CDATA[text {
+	fill:#000;
+	font-family:arial;
+	font-size:12px;
+}
+
+text.header
+{
+	font-weight:bold;	
+}
+
+line 
+{
+	stroke-width:1;
+	stroke:#000;
+}
+
+line.boundary 
+{
+	stroke:#fff;
+}
+]]></style>
+		<symbol class="symbol" id="symbol1" viewBox="0 0 20 20">
+			<rect height="18" style="fill: #ff0000; stroke: #000; stroke-width: 1" width="18" x="1" y="1" />
+		</symbol>
+		<symbol class="symbol" id="symbol2" viewBox="0 0 20 20">
+			<circle cx="10" cy="10" r="9" style="fill: #ff2100; stroke: #000; stroke-width: 1" />
+		</symbol>
+		<symbol class="symbol" id="symbol3" viewBox="0 0 20 20">
+			<path d="M10 1 L19 10 L10 19 L1 10 Z" style="fill: #ff4300; stroke: #000; stroke-width: 1" />
+		</symbol>
+		<symbol class="symbol" id="symbol4" viewBox="0 0 20 20">
+			<path d="M10 1 L2.2058 14.5 L17.7942 14.5 Z" style="fill: #ff6500; stroke: #000; stroke-width: 1" />
+		</symbol>
+		<symbol class="symbol" id="symbol5" viewBox="0 0 20 20">
+			<path d="M10 19 L2.2058 5.5 L17.7942 5.5 Z" style="fill: #ff8700; stroke: #000; stroke-width: 1" />
+		</symbol>
+		<symbol class="symbol" id="symbol6" viewBox="0 0 20 20">
+			<line style="stroke: #ffa900; stroke-width: 1" x1="10" x2="10" y1="1" y2="19" />
+			<line style="stroke: #ffa900; stroke-width: 1" x1="1" x2="19" y1="10" y2="10" />
+		</symbol>
+		<symbol class="symbol" id="symbol7" viewBox="0 0 20 20">
+			<line style="stroke: #ffcb00; stroke-width: 1" x1="1" x2="19" y1="1" y2="19" />
+			<line style="stroke: #ffcb00; stroke-width: 1" x1="1" x2="19" y1="19" y2="1" />
+		</symbol>
+		<symbol class="symbol" id="symbol8" viewBox="0 0 20 20">
+			<line style="stroke: #ffed00; stroke-width: 1" x1="10" x2="10" y1="1" y2="19" />
+			<line style="stroke: #ffed00; stroke-width: 1" x1="1" x2="19" y1="10" y2="10" />
+			<line style="stroke: #ffed00; stroke-width: 1" x1="1" x2="19" y1="1" y2="19" />
+			<line style="stroke: #ffed00; stroke-width: 1" x1="1" x2="19" y1="19" y2="1" />
+		</symbol>
+		<symbol class="symbol" id="symbol9" viewBox="0 0 20 20">
+			<rect height="18" style="fill: none; stroke: #eeff00; stroke-width: 1" width="18" x="1" y="1" />
+			<line style="stroke: #eeff00; stroke-width: 1" x1="10" x2="10" y1="1" y2="19" />
+			<line style="stroke: #eeff00; stroke-width: 1" x1="1" x2="19" y1="10" y2="10" />
+		</symbol>
+		<symbol class="symbol" id="symbol10" viewBox="0 0 20 20">
+			<rect height="18" style="fill: none; stroke: #ccff00; stroke-width: 1" width="18" x="1" y="1" />
+			<line style="stroke: #ccff00; stroke-width: 1" x1="1" x2="19" y1="1" y2="19" />
+			<line style="stroke: #ccff00; stroke-width: 1" x1="1" x2="19" y1="19" y2="1" />
+		</symbol>
+		<symbol class="symbol" id="symbol11" viewBox="0 0 20 20">
+			<rect height="18" style="fill: none; stroke: #aaff00; stroke-width: 1" width="18" x="1" y="1" />
+			<line style="stroke: #aaff00; stroke-width: 1" x1="1" x2="10" y1="1" y2="19" />
+			<line style="stroke: #aaff00; stroke-width: 1" x1="10" x2="19" y1="19" y2="1" />
+		</symbol>
+		<symbol class="symbol" id="symbol12" viewBox="0 0 20 20">
+			<circle cx="10" cy="10" r="9" style="fill: none; stroke: #88ff00; stroke-width: 1" />
+			<line style="stroke: #88ff00; stroke-width: 1" x1="10" x2="10" y1="1" y2="19" />
+			<line style="stroke: #88ff00; stroke-width: 1" x1="1" x2="19" y1="10" y2="10" />
+		</symbol>
+		<symbol class="symbol" id="symbol13" viewBox="0 0 20 20">
+			<circle cx="10" cy="10" r="9" style="fill: none; stroke: #66ff00; stroke-width: 1" />
+			<line style="stroke: #66ff00; stroke-width: 1" x1="1" x2="19" y1="1" y2="19" />
+			<line style="stroke: #66ff00; stroke-width: 1" x1="1" x2="19" y1="19" y2="1" />
+		</symbol>
+		<symbol class="symbol" id="symbol14" viewBox="0 0 20 20">
+			<path d="M10 1 L19 10 L10 19 L1 10 Z" style="fill: none; stroke: #44ff00; stroke-width: 1" />
+			<line style="stroke: #44ff00; stroke-width: 1" x1="10" x2="10" y1="1" y2="19" />
+			<line style="stroke: #44ff00; stroke-width: 1" x1="1" x2="19" y1="10" y2="10" />
+		</symbol>
+		<symbol class="symbol" id="symbol15" viewBox="0 0 20 20">
+			<path d="M10 1 L2.2058 14.5 L17.7942 14.5 Z" style="fill: #22ff00; stroke: #000; stroke-width: 1" />
+			<path d="M10 19 L2.2058 5.5 L17.7942 5.5 Z" style="fill: #22ff00; stroke: #000; stroke-width: 1" />
+			<path d="M10 1 L2.2058 14.5 L17.7942 14.5 Z" style="fill: none; stroke: #000; stroke-width: 1" />
+			<path d="M10 19 L2.2058 5.5 L17.7942 5.5 Z" style="fill: none; stroke: #000; stroke-width: 1" />
+		</symbol>
+		<symbol class="symbol" id="symbol16" viewBox="0 0 20 20">
+			<polygon points="10,1 12.0206,7.2188 18.5595,7.2188 13.2694,11.0623 15.2901,17.2812 10,13.4377 4.7099,17.2812 6.7306,11.0623 1.4405,7.2188 7.9794,7.2188 " style="fill: #00ff00; stroke: #000; stroke-width: 1" />
+		</symbol>
+		<symbol class="symbol" id="symbol17" viewBox="0 0 20 20">
+			<polygon points="10,1 12.5981,5.5 17.7942,5.5 15.1962,10 17.7942,14.5 12.5981,14.5 10,19 7.4019,14.5 2.2058,14.5 4.8038,10 2.2058,5.5 7.4019,5.5 " style="fill: #00ff21; stroke: #000; stroke-width: 1" />
+		</symbol>
+		<symbol class="symbol" id="symbol18" viewBox="0 0 20 20">
+			<line style="stroke: #000; stroke-width: 1" x1="1" x2="19" y1="10" y2="10" />
+		</symbol>
+		<symbol class="symbol" id="symbol19" viewBox="0 0 20 20">
+			<line style="stroke: #000; stroke-width: 1" x1="1" x2="19" y1="10" y2="10" />
+			<circle cx="10" cy="10" r="3" style="fill: #000; stroke-width: 0" />
+		</symbol>
+		<symbol class="symbol" id="symbol20" viewBox="0 0 20 20">
+			<rect height="9" style="fill: #00ff87; stroke: #000; stroke-width: 1" width="18" x="1" y="5.5" />
+			<line style="stroke: #000; stroke-width: 1" x1="1" x2="19" y1="10" y2="10" />
+			<line style="stroke: #000; stroke-width: 1" x1="10" x2="10" y1="1" y2="5.5" />
+			<line style="stroke: #000; stroke-width: 1" x1="10" x2="10" y1="14.5" y2="19" />
+		</symbol>
+		<symbol class="symbol" id="symbol21" viewBox="0 0 20 20">
+			<line style="stroke: #000; stroke-width: 1" x1="10" x2="10" y1="1" y2="19" />
+		</symbol>
+		<symbol class="symbol" id="symbol22" viewBox="0 0 20 20">
+			<line style="stroke: #000; stroke-width: 1" x1="10" x2="10" y1="1" y2="19" />
+			<circle cx="10" cy="10" r="3" style="fill: #000; stroke-width: 0" />
+		</symbol>
+		<symbol class="symbol" id="symbol23" viewBox="0 0 20 20">
+			<rect height="18" style="fill: #00ffed; stroke: #000; stroke-width: 1" width="18" x="1" y="1" />
+			<line style="stroke: #000; stroke-width: 1" x1="1" x2="19" y1="10" y2="10" />
+		</symbol>
+		<symbol class="symbol" id="symbol24" viewBox="0 0 20 20">
+			<line style="stroke: #00eeff; stroke-width: 1" x1="10" x2="10" y1="1" y2="19" />
+			<line style="stroke: #00eeff; stroke-width: 1" x1="1" x2="19" y1="1" y2="1" />
+			<line style="stroke: #00eeff; stroke-width: 1" x1="1" x2="19" y1="19" y2="19" />
+		</symbol>
+		<symbol class="symbol" id="symbol25" viewBox="0 0 80 20">
+			<polygon points="79,1 79,19 19,19 1,10 19,1 " style="fill: #00ccff; stroke: #000; stroke-width: 1" />
+		</symbol>
+		<symbol class="symbol" id="symbol26" viewBox="0 0 80 20">
+			<polygon points="1,1 61,1 79,10 61,19 1,19 " style="fill: #00aaff; stroke: #000; stroke-width: 1" />
+		</symbol>
+		<symbol class="symbol" id="symbol27" viewBox="0 0 80 20">
+			<polygon points="1,1 79,10 1,19 " style="fill: #0088ff; stroke: #000; stroke-width: 1" />
+		</symbol>
+		<symbol class="symbol" id="symbol28" viewBox="0 0 80 20">
+			<polygon points="1,10 79,1 79,19 " style="fill: #0066ff; stroke: #000; stroke-width: 1" />
+		</symbol>
+		<symbol class="symbol" id="symbol29" viewBox="0 0 80 20">
+			<polygon points="1,5.5 53,1 79,10 53,19 1,14.5 " style="fill: #0044ff; stroke: #000; stroke-width: 1" />
+		</symbol>
+		<symbol class="symbol" id="symbol30" viewBox="0 0 80 20">
+			<polygon points="1,10 27,1 79,5.5 79,14.5 27,19 " style="fill: #0022ff; stroke: #000; stroke-width: 1" />
+		</symbol>
+		<symbol class="symbol" id="symbol31" viewBox="0 0 80 20">
+			<polygon points="1,7 40,1 79,7 59.5,19 20.5,19 " style="fill: #0000ff; stroke: #000; stroke-width: 1" />
+		</symbol>
+		<symbol class="symbol" id="symbol32" viewBox="0 0 80 20">
+			<polygon points="20.5,1 59.5,1 79,13 40,19 1,13 " style="fill: #2100ff; stroke: #000; stroke-width: 1" />
+		</symbol>
+		<symbol class="symbol" id="symbol33" viewBox="0 0 80 20">
+			<polygon points="1,10 20.5,1 59.5,1 79,10 59.5,19 20.5,19 " style="fill: #4300ff; stroke: #000; stroke-width: 1" />
+		</symbol>
+		<symbol class="symbol" id="symbol34" viewBox="0 0 80 20">
+			<polygon points="1,14.5 1,5.5 40,1 79,5.5 79,14.5 40,19 " style="fill: #6500ff; stroke: #000; stroke-width: 1" />
+		</symbol>
+		<symbol class="symbol" id="symbol35" viewBox="0 0 80 20">
+			<polygon points="20.5,1 59.5,1 79,5.5 79,14.5 59.5,19 20.5,19 1,14.5 1,5.5 " style="fill: #8700ff; stroke: #000; stroke-width: 1" />
+		</symbol>
+		<symbol class="symbol" id="symbol36" viewBox="0 0 80 20">
+			<rect height="6" style="fill: #000; stroke: #000; stroke-width: 1" width="78" x="1" y="7" />
+		</symbol>
+		<symbol class="symbol" id="symbol37" viewBox="0 0 80 20">
+			<ellipse cx="40" cy="10" rx="39" ry="9" style="fill: #cb00ff; stroke: #000; stroke-width: 1" />
+		</symbol>
+		<symbol class="symbol" id="symbol38" viewBox="0 0 80 20">
+			<rect height="18" rx="9" ry="9" style="fill: #ed00ff; stroke: #000; stroke-width: 1" width="78" x="1" y="1" />
+		</symbol>
+		<symbol class="symbol" id="symbol39" viewBox="0 0 80 20">
+			<polygon points="1,10 19,1 19,5.5 79,5.5 79,14.5 19,14.5 19,19 " style="fill: #ff00aa; stroke: #000; stroke-width: 1" />
+		</symbol>
+		<symbol class="symbol" id="symbol40" viewBox="0 0 80 20">
+			<polygon points="1,5.5 61,5.5 61,1 79,10 61,19 61,14.5 1,14.5 " style="fill: #ff0088; stroke: #000; stroke-width: 1" />
+		</symbol>
+		<symbol class="symbol" id="symbol41" viewBox="0 0 40 20">
+			<path arrow="0" d="M36.48 0.186 A75 75 1.453 0 1 36.477 17.845 L0.728000000000002 13.599 A39 39 1.453 0 0 0.730000000000004 4.417 Z" style="fill: #ff0066; stroke: #000; stroke-width: 1" theta_type="theta" />
+		</symbol>
+		<symbol class="symbol" id="symbol42" viewBox="0 0 40 20">
+			<path d="M1 19 A16 16 0 1 1 39 19" style="fill: #ff0044; stroke: #000; stroke-width: 1" />
+		</symbol>
+	</defs>
+	<rect height="1290" style="fill:#ccc;stroke-width:0" width="360" x="20" y="20" />
+	<line class="boundary" x1="80" x2="80" y1="20" y2="1310" />
+	<line class="boundary" x1="280" x2="280" y1="20" y2="1310" />
+	<text class="header" x="30" y="39.38">Code</text>
+	<text class="header" x="90" y="39.38">Shape</text>
+	<text class="header" x="290" y="39.38">Example</text>
+	<line class="boundary" x1="20" x2="380" y1="50" y2="50" />
+	<text x="30" y="69.38">0</text>
+	<text x="90" y="69.38">rectangle(rect)</text>
+	<use height="20" width="20" x="320" xlink:href="#symbol1" y="55" />
+	<line class="boundary" x1="20" x2="380" y1="80" y2="80" />
+	<text x="30" y="99.38">1</text>
+	<text x="90" y="99.38">circle</text>
+	<use height="20" width="20" x="320" xlink:href="#symbol2" y="85" />
+	<line class="boundary" x1="20" x2="380" y1="110" y2="110" />
+	<text x="30" y="129.38">2</text>
+	<text x="90" y="129.38">diamond</text>
+	<use height="20" width="20" x="320" xlink:href="#symbol3" y="115" />
+	<line class="boundary" x1="20" x2="380" y1="140" y2="140" />
+	<text x="30" y="159.38">3</text>
+	<text x="90" y="159.38">up pointing regular triangle</text>
+	<use height="20" width="20" x="320" xlink:href="#symbol4" y="145" />
+	<line class="boundary" x1="20" x2="380" y1="170" y2="170" />
+	<text x="30" y="189.38">4</text>
+	<text x="90" y="189.38">low pointing regular triangle</text>
+	<use height="20" width="20" x="320" xlink:href="#symbol5" y="175" />
+	<line class="boundary" x1="20" x2="380" y1="200" y2="200" />
+	<text x="30" y="219.38">5</text>
+	<text x="90" y="219.38">cross</text>
+	<use height="20" width="20" x="320" xlink:href="#symbol6" y="205" />
+	<line class="boundary" x1="20" x2="380" y1="230" y2="230" />
+	<text x="30" y="249.38">6</text>
+	<text x="90" y="249.38">error</text>
+	<use height="20" width="20" x="320" xlink:href="#symbol7" y="235" />
+	<line class="boundary" x1="20" x2="380" y1="260" y2="260" />
+	<text x="30" y="279.38">7</text>
+	<text x="90" y="279.38">cross and error</text>
+	<use height="20" width="20" x="320" xlink:href="#symbol8" y="265" />
+	<line class="boundary" x1="20" x2="380" y1="290" y2="290" />
+	<text x="30" y="309.38">8</text>
+	<text x="90" y="309.38">rect and cross</text>
+	<use height="20" width="20" x="320" xlink:href="#symbol9" y="295" />
+	<line class="boundary" x1="20" x2="380" y1="320" y2="320" />
+	<text x="30" y="339.38">9</text>
+	<text x="90" y="339.38">rect and error</text>
+	<use height="20" width="20" x="320" xlink:href="#symbol10" y="325" />
+	<line class="boundary" x1="20" x2="380" y1="350" y2="350" />
+	<text x="30" y="369.38">10</text>
+	<text x="90" y="369.38">email</text>
+	<use height="20" width="20" x="320" xlink:href="#symbol11" y="355" />
+	<line class="boundary" x1="20" x2="380" y1="380" y2="380" />
+	<text x="30" y="399.38">11</text>
+	<text x="90" y="399.38">circle and cross</text>
+	<use height="20" width="20" x="320" xlink:href="#symbol12" y="385" />
+	<line class="boundary" x1="20" x2="380" y1="410" y2="410" />
+	<text x="30" y="429.38">12</text>
+	<text x="90" y="429.38">circle and error</text>
+	<use height="20" width="20" x="320" xlink:href="#symbol13" y="415" />
+	<line class="boundary" x1="20" x2="380" y1="440" y2="440" />
+	<text x="30" y="459.38">13</text>
+	<text x="90" y="459.38">diamond and cross</text>
+	<use height="20" width="20" x="320" xlink:href="#symbol14" y="445" />
+	<line class="boundary" x1="20" x2="380" y1="470" y2="470" />
+	<text x="30" y="489.38">14</text>
+	<text x="90" y="489.38">3 and 4</text>
+	<use height="20" width="20" x="320" xlink:href="#symbol15" y="475" />
+	<line class="boundary" x1="20" x2="380" y1="500" y2="500" />
+	<text x="30" y="519.38">15</text>
+	<text x="90" y="519.38">five points star</text>
+	<use height="20" width="20" x="320" xlink:href="#symbol16" y="505" />
+	<line class="boundary" x1="20" x2="380" y1="530" y2="530" />
+	<text x="30" y="549.38">16</text>
+	<text x="90" y="549.38">six points star</text>
+	<use height="20" width="20" x="320" xlink:href="#symbol17" y="535" />
+	<line class="boundary" x1="20" x2="380" y1="560" y2="560" />
+	<text x="30" y="579.38">17</text>
+	<text x="90" y="579.38">horizontal line</text>
+	<use height="20" width="20" x="320" xlink:href="#symbol18" y="565" />
+	<line class="boundary" x1="20" x2="380" y1="590" y2="590" />
+	<text x="30" y="609.38">18</text>
+	<text x="90" y="609.38">horizontal line and a point</text>
+	<use height="20" width="20" x="320" xlink:href="#symbol19" y="595" />
+	<line class="boundary" x1="20" x2="380" y1="620" y2="620" />
+	<text x="30" y="639.38">19</text>
+	<text x="90" y="639.38">boxplot</text>
+	<use height="20" width="20" x="320" xlink:href="#symbol20" y="625" />
+	<line class="boundary" x1="20" x2="380" y1="650" y2="650" />
+	<text x="30" y="669.38">20</text>
+	<text x="90" y="669.38">vertical line</text>
+	<use height="20" width="20" x="320" xlink:href="#symbol21" y="655" />
+	<line class="boundary" x1="20" x2="380" y1="680" y2="680" />
+	<text x="30" y="699.38">21</text>
+	<text x="90" y="699.38">vertical line and a point</text>
+	<use height="20" width="20" x="320" xlink:href="#symbol22" y="685" />
+	<line class="boundary" x1="20" x2="380" y1="710" y2="710" />
+	<text x="30" y="729.38">22</text>
+	<text x="90" y="729.38">box bar</text>
+	<use height="20" width="20" x="320" xlink:href="#symbol23" y="715" />
+	<line class="boundary" x1="20" x2="380" y1="740" y2="740" />
+	<text x="30" y="759.38">23</text>
+	<text x="90" y="759.38">err bar</text>
+	<use height="20" width="20" x="320" xlink:href="#symbol24" y="745" />
+	<line class="boundary" x1="20" x2="380" y1="770" y2="770" />
+	<text x="30" y="789.38">24</text>
+	<text x="90" y="789.38">left pointing pencil</text>
+	<use height="20" width="80" x="290" xlink:href="#symbol25" y="775" />
+	<line class="boundary" x1="20" x2="380" y1="800" y2="800" />
+	<text x="30" y="819.38">25</text>
+	<text x="90" y="819.38">right pointing pencil</text>
+	<use height="20" width="80" x="290" xlink:href="#symbol26" y="805" />
+	<line class="boundary" x1="20" x2="380" y1="830" y2="830" />
+	<text x="30" y="849.38">26</text>
+	<text x="90" y="849.38">right pointing triangle</text>
+	<use height="20" width="80" x="290" xlink:href="#symbol27" y="835" />
+	<line class="boundary" x1="20" x2="380" y1="860" y2="860" />
+	<text x="30" y="879.38">27</text>
+	<text x="90" y="879.38">left pointing triangle</text>
+	<use height="20" width="80" x="290" xlink:href="#symbol28" y="865" />
+	<line class="boundary" x1="20" x2="380" y1="890" y2="890" />
+	<text x="30" y="909.38">28</text>
+	<text x="90" y="909.38">right pointing pentagram</text>
+	<use height="20" width="80" x="290" xlink:href="#symbol29" y="895" />
+	<line class="boundary" x1="20" x2="380" y1="920" y2="920" />
+	<text x="30" y="939.38">29</text>
+	<text x="90" y="939.38">left pointing pentagram</text>
+	<use height="20" width="80" x="290" xlink:href="#symbol30" y="925" />
+	<line class="boundary" x1="20" x2="380" y1="950" y2="950" />
+	<text x="30" y="969.38">30</text>
+	<text x="90" y="969.38">up pointing pentagram</text>
+	<use height="20" width="80" x="290" xlink:href="#symbol31" y="955" />
+	<line class="boundary" x1="20" x2="380" y1="980" y2="980" />
+	<text x="30" y="999.38">31</text>
+	<text x="90" y="999.38">down pointing pentagram</text>
+	<use height="20" width="80" x="290" xlink:href="#symbol32" y="985" />
+	<line class="boundary" x1="20" x2="380" y1="1010" y2="1010" />
+	<text x="30" y="1029.38">32</text>
+	<text x="90" y="1029.38">horizontal hexagon</text>
+	<use height="20" width="80" x="290" xlink:href="#symbol33" y="1015" />
+	<line class="boundary" x1="20" x2="380" y1="1040" y2="1040" />
+	<text x="30" y="1059.38">33</text>
+	<text x="90" y="1059.38">vertical hexagon</text>
+	<use height="20" width="80" x="290" xlink:href="#symbol34" y="1045" />
+	<line class="boundary" x1="20" x2="380" y1="1070" y2="1070" />
+	<text x="30" y="1089.38">34</text>
+	<text x="90" y="1089.38">octagon</text>
+	<use height="20" width="80" x="290" xlink:href="#symbol35" y="1075" />
+	<line class="boundary" x1="20" x2="380" y1="1100" y2="1100" />
+	<text x="30" y="1119.38">35</text>
+	<text x="90" y="1119.38">1/3 height rect</text>
+	<use height="20" width="80" x="290" xlink:href="#symbol36" y="1105" />
+	<line class="boundary" x1="20" x2="380" y1="1130" y2="1130" />
+	<text x="30" y="1149.38">36</text>
+	<text x="90" y="1149.38">ellipse</text>
+	<use height="20" width="80" x="290" xlink:href="#symbol37" y="1135" />
+	<line class="boundary" x1="20" x2="380" y1="1160" y2="1160" />
+	<text x="30" y="1179.38">37</text>
+	<text x="90" y="1179.38">rounded rect</text>
+	<use height="20" width="80" x="290" xlink:href="#symbol38" y="1165" />
+	<line class="boundary" x1="20" x2="380" y1="1190" y2="1190" />
+	<text x="30" y="1209.38">40</text>
+	<text x="90" y="1209.38">left pointing arrow</text>
+	<use height="20" width="80" x="290" xlink:href="#symbol39" y="1195" />
+	<line class="boundary" x1="20" x2="380" y1="1220" y2="1220" />
+	<text x="30" y="1239.38">41</text>
+	<text x="90" y="1239.38">right pointing arrow</text>
+	<use height="20" width="80" x="290" xlink:href="#symbol40" y="1225" />
+	<line class="boundary" x1="20" x2="380" y1="1250" y2="1250" />
+	<text x="30" y="1269.38">42</text>
+	<text x="90" y="1269.38">fan (Center on the left)</text>
+	<use height="20" width="40" x="310" xlink:href="#symbol41" y="1255" />
+	<line class="boundary" x1="20" x2="380" y1="1280" y2="1280" />
+	<text x="30" y="1299.38">43</text>
+	<text x="90" y="1299.38">semicircle</text>
+	<use height="20" width="40" x="310" xlink:href="#symbol42" y="1285" />
+	<line class="boundary" x1="20" x2="380" y1="1310" y2="1310" />
+</svg>

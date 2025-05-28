@@ -1,0 +1,892 @@
+Lineage	Most common countries	Earliest date	# designated	# assigned	Description	WHO Name
+A	United States of America 32.0%, United_Arab_Emirates 11.0%, China 9.0%, Germany 7.0%, Canada 4.0%	2019-12-30	1697	2580	One of the two original haplotypes of the pandemic (A and B). Many sequences originating from China and many global exports; including to South East Asia Japan South Korea Australia the USA and Europe represented in this lineage	-
+B	United States of America 38.0%, United Kingdom 18.0%, China 7.0%, Mexico 5.0%, Germany 4.0%	2019-12-24	4001	9814	One of the two original haplotypes of the pandemic(and first to be discovered)	-
+B.1	United States of America 46.0%, Turkey 12.0%, United Kingdom 7.0%, Canada 4.0%, France 3.0%	2020-01-01	46228	110367	A large European lineage the origin of which roughly corresponds to the Northern Italian outbreak early in 2020.	-
+B.1.1	United Kingdom 26.0%, United States of America 15.0%, Japan 7.0%, Russia 5.0%, Turkey 5.0%	2020-01-04	22790	50451	European lineage with 3 clear SNPs `28881GA`,`28882GA`,`28883GC`	-
+B.1.1.1	United Kingdom 51.0%, Peru 11.0%, Belgium 3.0%, United States of America 3.0%, Italy 2.0%	2020-03-02	1743	2998	England	-
+C.1.2	South_Africa 90.0%, Eswatini 4.0%, United Kingdom 1.0%, Botswana 1.0%, France 0.0%	2021-05-11	15	315	Alias of B.1.1.1.1.2, mostly South Africa, from pango-designation issue #139	-
+C.36	Egypt 33.0%, Germany 11.0%, United Kingdom 10.0%, United States of America 7.0%, Denmark 6.0%	2020-03-13	220	1067	Alias of B.1.1.1.36, Egypt mainly and other countries	-
+C.36.3	Germany 17.0%, United States of America 17.0%, Italy 11.0%, Switzerland 8.0%, Egypt 7.0%	2020-06-21	488	1847	Alias of B.1.1.1.36.3, Europe and USA lineage, from pango-designation issue #80	-
+C.37	Peru 44.0%, Chile 19.0%, Argentina 13.0%, United States of America 12.0%, Ecuador 3.0%	2020-07-21	370	9751	Alias of B.1.1.1.37, lineage in Peru, Chile, USA and Germany, from pango-designation issue #52	-
+C.37.1	Spain 28.0%, United States of America 22.0%, Peru 17.0%, Switzerland 6.0%, Germany 5.0%	2021-02-09	106	359	Alias of B.1.1.1.37.1, lineage outside of South America, from pango-designation issue #158	-
+B.1.1.7	United Kingdom 24.0%, United States of America 20.0%, Germany 9.0%, Sweden 6.0%, Denmark 6.0%	2020-02-07	69636	1109913	UK lineage of concern, associated with the N501Y mutation. More information can be found at cov-lineages.org/global_report.html	-
+Q.2	Italy 99.0%, Spain 0.0%, Sweden 0.0%, France 0.0%, Germany 0.0%	2020-12-15	1382	1479	Alias of B.1.1.7.2, Italy lineage, from pango-designation issue #79	-
+Q.3	United States of America 99.0%, Mexico 0.0%, Canada 0.0%, United Kingdom 0.0%, Puerto_Rico 0.0%	2020-07-08	5327	7143	Alias of B.1.1.7.3, USA lineage, from pango-designation issue #92	-
+Q.7	France 86.0%, Netherlands 8.0%, Belgium 4.0%, Switzerland 1.0%, United Kingdom 1.0%	2021-01-29	829	880	Alias of B.1.1.7.7, predominantly France lineage, from pango-designation issue #183	-
+B.1.1.10	United Kingdom 46.0%, Azerbaijan 8.0%, Estonia 6.0%, United States of America 5.0%, Iceland 5.0%	2020-03-01	538	973	European lineage	-
+B.1.1.25	Bangladesh 53.0%, Canada 27.0%, United States of America 9.0%, United Kingdom 4.0%, United_Arab_Emirates 1.0%	2020-03-31	740	2084	Bangladesh Lineage	-
+B.1.1.28	Brazil 76.0%, Philippines 11.0%, United States of America 4.0%, Paraguay 2.0%, Japan 1.0%	2020-03-05	854	4055	Brazil mostly, absorbed B.1.1.94 and B.1.1.143	-
+P.1	Brazil 58.0%, United States of America 27.0%, Chile 3.0%, Argentina 2.0%, Spain 1.0%	2020-04-07	29947	69388	Alias of B.1.1.28.1, Brazilian lineage with a number of spike mutaions with likely functional significance E484K, K417T, and N501Y. Described in https://virological.org/t/genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-manaus-preliminary-findings/586.	-
+P.1.7.1	Peru 94.0%, United States of America 2.0%, Brazil 1.0%, Chile 0.0%, France 0.0%	2021-02-07	731	806	Alias of B.1.1.28.1.7.1, Peru lineage, from pango-designation issue #326	-
+P.1.12	Peru 60.0%, United States of America 13.0%, Brazil 13.0%, Mexico 6.0%, French_Guiana 2.0%	2020-12-23	536	1368	Alias of B.1.1.28.1.12, predominantly Peru lineage, from pango-designation issue #212	-
+P.1.15	Chile 53.0%, Argentina 30.0%, United States of America 8.0%, Brazil 3.0%, Mexico 1.0%	2020-09-22	2755	4850	Alias of B.1.1.28.1.15, predominantly Chile lineage, from pango-designation issue #231	-
+P.2	Brazil 60.0%, United States of America 23.0%, Canada 4.0%, Argentina 2.0%, Paraguay 2.0%	2020-04-13	424	5970	Alias of B.1.1.28.2, Brazilian lineage	-
+P.3	Philippines 83.0%, United States of America 3.0%, Germany 2.0%, Malaysia 2.0%, United Kingdom 2.0%	2021-01-08	31	560	Alias of B.1.1.28.3, Lineage predominantly in the Philippines with spike mutations E484K, N501Y, P681H, 141-143del. Described in Tablizo et al 2021: https://www.medrxiv.org/content/10.1101/2021.03.03.21252812v2	-
+P.7	Brazil 80.0%, Paraguay 5.0%, Uruguay 4.0%, France 4.0%, Argentina 2.0%	2020-07-01	166	250	Alias of B.1.1.28.7, Brazil lineage, from pango-designation issue #29	-
+B.1.1.33	Brazil 85.0%, United States of America 5.0%, Chile 2.0%, Uruguay 2.0%, Paraguay 1.0%	2020-03-01	930	3084	Brazillian	-
+B.1.1.97	United Kingdom 91.0%, United States of America 3.0%, India 3.0%, Brazil 3.0%	2020-05-06	25	35	England	-
+B.1.1.117	South_Africa 68.0%, United States of America 10.0%, Russia 9.0%, Latvia 4.0%, Finland 2.0%	2020-04-07	58	120	South African some Argentina, now contains B.1.1.252	-
+B.1.1.161	Saudi_Arabia 21.0%, United States of America 15.0%, Germany 15.0%, Finland 10.0%, Italy 8.0%	2020-03-04	61	194	Saudi lineage	-
+B.1.1.216	India 79.0%, United Kingdom 5.0%, Canada 3.0%, Indonesia 3.0%, United States of America 2.0%	2020-05-06	135	992	Predominantly Indian lineage with exports elsewhere	-
+B.1.1.222	United States of America 79.0%, Mexico 20.0%, Canada 0.0%, Spain 0.0%, Germany 0.0%	2020-04-04	720	5371	USA/Mexico	-
+B.1.1.263	Philippines 50.0%, United_Arab_Emirates 43.0%, Japan 1.0%, United States of America 1.0%, South_Korea 1.0%	2020-04-03	275	617	UAE lineage (~95%)	-
+R.1	Japan 69.0%, United States of America 23.0%, Sweden 2.0%, Germany 2.0%, Austria 1.0%	2020-01-14	72	10984	Alias of B.1.1.316.1, Sublineage of B.1.1.316 with 3 additional spike mutations, circulating in a number of countries. pango-designation issue #17	-
+B.1.1.317	Germany 42.0%, Russia 28.0%, Estonia 4.0%, Finland 4.0%, Norway 3.0%	2020-03-19	310	2615	Russian lineage	-
+B.1.1.376	United States of America 99.0%, Italy 1.0%, Slovenia 1.0%	2020-05-11	127	170	USA (California)	-
+B.1.1.409	Russia 29.0%, United_Arab_Emirates 12.0%, United States of America 10.0%, Turkey 9.0%, India 6.0%	2020-03-17	41	214	UAE, Israel, Saudi Arabia	-
+B.1.1.486	United States of America 98.0%, Puerto_Rico 1.0%, Japan 0.0%, Singapore 0.0%, Finland 0.0%	2020-08-13	149	604	US Lineage	-
+B.1.1.519	United States of America 59.0%, Mexico 31.0%, Canada 6.0%, Germany 1.0%, Canary_Islands 1.0%	2020-08-28	485	25649	USA/ Mexico lineage	-
+B.1.1.529	-	-	0	0	South Africa and Botswana lineage, from pango-designation issue #343	-
+BA.1	United Kingdom 40.0%, United States of America 22.0%, Denmark 5.0%, Germany 4.0%, Brazil 4.0%	2020-06-25	66001	426965	Alias of B.1.1.529.1, from pango-designation issue #361	-
+BA.1.1	United States of America 47.0%, United Kingdom 20.0%, Germany 7.0%, Canada 4.0%, France 2.0%	2020-06-11	104527	955657	Alias of B.1.1.529.1.1, from pango-designation issue #360	-
+BA.1.1.1	France 33.0%, Germany 18.0%, United Kingdom 10.0%, Spain 6.0%, Poland 5.0%	2020-10-29	15936	58992	Alias of B.1.1.529.1.1.1, European lineage	-
+BC.1	Japan 100.0%, United States of America 0.0%, Belgium 0.0%, France 0.0%, Vietnam 0.0%	2021-01-13	5781	6319	Alias of B.1.1.529.1.1.1.1, Japan lineage	-
+BC.2	Peru 81.0%, Canada 11.0%, Chile 2.0%, Germany 2.0%, Kenya 2.0%	2021-12-16	96	130	Alias of B.1.1.529.1.1.1.2, Peru lineage, from pango-designation issue #570	-
+BA.1.1.2	Japan 92.0%, United States of America 7.0%, Canada 0.0%, United Kingdom 0.0%, France 0.0%	2021-01-06	16241	60247	Alias of B.1.1.529.1.1.2, Japan lineage	-
+BA.1.1.3	Switzerland 75.0%, Germany 13.0%, United Kingdom 3.0%, Netherlands 2.0%, France 1.0%	2021-11-28	291	376	Alias of B.1.1.529.1.1.3, Switzerland lineage	-
+BA.1.1.4	United Kingdom 82.0%, Sweden 5.0%, Norway 3.0%, Slovakia 2.0%, United States of America 2.0%	2021-12-13	792	1943	Alias of B.1.1.529.1.1.4, UK lineage	-
+BA.1.1.5	South_Korea 99.0%, Japan 1.0%, Israel 0.0%, United Kingdom 0.0%	2021-12-12	106	362	Alias of B.1.1.529.1.1.5, South Korea lineage	-
+BA.1.1.6	Canada 88.0%, United States of America 9.0%, United Kingdom 1.0%, Germany 0.0%, Switzerland 0.0%	2021-12-05	353	859	Alias of B.1.1.529.1.1.6, Canada lineage	-
+BA.1.1.7	India 58.0%, United Kingdom 16.0%, United States of America 9.0%, Singapore 6.0%, Japan 2.0%	2021-12-08	226	879	Alias of B.1.1.529.1.1.7, lineage in India and other countries	-
+BA.1.1.8	United States of America 98.0%, Canada 0.0%, Japan 0.0%, Norway 0.0%, Honduras 0.0%	2021-11-26	381	995	Alias of B.1.1.529.1.1.8, USA lineage	-
+BA.1.1.9	New_Zealand 95.0%, United Kingdom 2.0%, Australia 1.0%, Luxembourg 0.0%, United States of America 0.0%	2021-12-28	228	1424	Alias of B.1.1.529.1.1.9, New Zealand lineage	-
+BA.1.1.10	Canada 55.0%, United States of America 21.0%, United Kingdom 9.0%, Croatia 4.0%, France 3.0%	2021-11-29	1143	3594	Alias of B.1.1.529.1.1.10, Canada lineage	-
+BA.1.1.11	Switzerland 53.0%, Germany 13.0%, Italy 9.0%, United Kingdom 6.0%, France 4.0%	2021-01-01	1983	3900	Alias of B.1.1.529.1.1.11, European lineage	-
+BA.1.1.12	United Kingdom 99.0%, Germany 1.0%, Romania 0.0%, United States of America 0.0%, Poland 0.0%	2021-12-06	1927	3924	Alias of B.1.1.529.1.1.12, UK lineage	-
+BA.1.1.13	United Kingdom 92.0%, Germany 2.0%, Greece 1.0%, United States of America 1.0%, Lithuania 0.0%	2021-11-30	4146	8085	Alias of B.1.1.529.1.1.13, UK lineage	-
+BA.1.1.14	United Kingdom 52.0%, United States of America 16.0%, Germany 6.0%, Spain 6.0%, Brazil 4.0%	2020-12-10	6372	19127	Alias of B.1.1.529.1.1.14, European lineage	-
+BA.1.1.15	United Kingdom 71.0%, Ireland 8.0%, Germany 4.0%, Australia 3.0%, France 2.0%	2021-04-29	6296	16291	Alias of B.1.1.529.1.1.15, Europe and Australia lineage	-
+BA.1.1.16	Canada 74.0%, United States of America 14.0%, U.S._Virgin_Islands 5.0%, Panama 3.0%, Germany 2.0%	2021-12-02	1020	4229	Alias of B.1.1.529.1.1.16, Canada and USA lineage	-
+BA.1.1.17	United States of America 95.0%, Germany 2.0%, Canada 1.0%, United Kingdom 1.0%, Vietnam 0.0%	2021-01-12	403	590	Alias of B.1.1.529.1.1.17, USA lineage, from pango-designation issue #452	-
+BA.1.1.18	United States of America 96.0%, United Kingdom 1.0%, Canada 1.0%, Germany 0.0%, Mexico 0.0%	2020-08-27	34614	61504	Alias of B.1.1.529.1.1.18, USA lineage	-
+BA.1.2	Mayotte 56.0%, Reunion 37.0%, France 6.0%, Germany 2.0%	2021-12-22	61	133	Alias of B.1.1.529.1.2, Mayotte and Reunion lineage	-
+BA.1.3	Canada 98.0%, United States of America 2.0%, South_Korea 0.0%, Germany 0.0%, United Kingdom 0.0%	2021-12-02	198	429	Alias of B.1.1.529.1.3, Canada lineage	-
+BA.1.4	France 96.0%, Switzerland 1.0%, Germany 1.0%, United Kingdom 0.0%, Reunion 0.0%	2021-11-26	182	760	Alias of B.1.1.529.1.4, France lineage	-
+BA.1.5	United Kingdom 96.0%, Brazil 1.0%, Poland 1.0%, Portugal 1.0%, Sweden 0.0%	2021-07-14	191	500	Alias of B.1.1.529.1.5, UK lineage	-
+BA.1.6	Canada 66.0%, United States of America 13.0%, Denmark 3.0%, Germany 3.0%, United Kingdom 2.0%	2021-12-01	251	682	Alias of B.1.1.529.1.6, Canada and Sint Maarten lineage	-
+BA.1.7	United Kingdom 94.0%, Poland 2.0%, United States of America 1.0%, Germany 0.0%, Norway 0.0%	2021-12-01	473	663	Alias of B.1.1.529.1.7, UK lineage	-
+BA.1.8	United Kingdom 34.0%, Germany 17.0%, Spain 9.0%, Italy 5.0%, Poland 5.0%	2021-12-08	354	893	Alias of B.1.1.529.1.8, European lineage	-
+BA.1.9	Brazil 92.0%, United Kingdom 5.0%, United States of America 1.0%, Japan 0.0%, Belgium 0.0%	2021-12-07	308	883	Alias of B.1.1.529.1.9, Brazil lineage	-
+BA.1.10	United Kingdom 73.0%, Croatia 9.0%, Slovenia 4.0%, Germany 2.0%, South_Africa 2.0%	2021-11-24	1251	2293	Alias of B.1.1.529.1.10, UK lineage	-
+BA.1.12	United Kingdom 88.0%, Germany 5.0%, Netherlands 2.0%, United States of America 1.0%, Denmark 1.0%	2021-11-22	1862	2633	Alias of B.1.1.529.1.12, UK lineage	-
+BA.1.13	France 33.0%, Sweden 17.0%, Germany 9.0%, United States of America 6.0%, United Kingdom 5.0%	2021-11-16	1518	4288	Alias of B.1.1.529.1.13, European lineage	-
+BA.1.13.1	Indonesia 96.0%, Maldives 1.0%, Japan 1.0%, Singapore 0.0%, Malaysia 0.0%	2021-12-12	1536	3538	Alias of B.1.1.529.1.13.1, Indonesia lineage	-
+BA.1.14	Belgium 22.0%, Brazil 20.0%, United Kingdom 10.0%, Denmark 9.0%, Germany 7.0%	2021-01-10	3727	10231	Alias of B.1.1.529.1.14, lineage in Brazil and other countries	-
+BA.1.14.1	Brazil 93.0%, United States of America 2.0%, United Kingdom 2.0%, Peru 1.0%, Germany 0.0%	2021-11-17	1941	4825	Alias of B.1.1.529.1.14.1, Brazil lineage, from pango-designation issue #506	-
+BA.1.14.2	Brazil 91.0%, United Kingdom 3.0%, Denmark 1.0%, United States of America 1.0%, Switzerland 1.0%	2021-11-08	400	879	Alias of B.1.1.529.1.14.2, Brazil lineage	-
+BA.1.15	United States of America 69.0%, United Kingdom 13.0%, Canada 4.0%, Germany 2.0%, Brazil 2.0%	2020-05-30	35340	174125	Alias of B.1.1.529.1.15, lineage in USA and other countries	-
+BA.1.15.1	United Kingdom 86.0%, Germany 3.0%, United States of America 2.0%, France 1.0%, Poland 1.0%	2021-01-01	19949	40299	Alias of B.1.1.529.1.15.1, UK lineage	-
+BA.1.15.2	United States of America 94.0%, Mexico 3.0%, Canada 1.0%, United Kingdom 0.0%, Germany 0.0%	2021-12-12	1449	2188	Alias of B.1.1.529.1.15.2, USA lineage, from pango-designation issue #508	-
+BA.1.15.3	Peru 64.0%, United States of America 22.0%, United Kingdom 3.0%, Chile 2.0%, Mexico 2.0%	2021-11-28	157	233	Alias of B.1.1.529.1.15.3, Peru lineage, from pango-designation issue #573	-
+BA.1.16	United Kingdom 87.0%, Germany 3.0%, Belgium 1.0%, Poland 1.0%, France 1.0%	2021-02-05	7651	12958	Alias of B.1.1.529.1.16, UK lineage	-
+BA.1.16.1	Thailand 87.0%, Cambodia 3.0%, United Kingdom 3.0%, Indonesia 3.0%, Singapore 1.0%	2022-01-03	63	143	Alias of B.1.1.529.1.16.1, Thailand, Cambodia and Indonesia lineage	-
+BA.1.16.2	Greece 61.0%, Germany 15.0%, Bulgaria 8.0%, United Kingdom 5.0%, Czech_Republic 3.0%	2021-12-22	78	96	Alias of B.1.1.529.1.16.2, Greece lineage	-
+BA.1.17	Australia 26.0%, United Kingdom 15.0%, Spain 15.0%, United States of America 8.0%, Germany 6.0%	2021-01-04	11367	66677	Alias of B.1.1.529.1.17, European lineage	-
+BA.1.17.1	Australia 95.0%, New_Zealand 2.0%, Singapore 1.0%, United States of America 1.0%, Hong_Kong 0.0%	2021-12-18	307	476	Alias of B.1.1.529.1.17.1, Australia lineage	-
+BA.1.17.2	United Kingdom 68.0%, United States of America 6.0%, Canada 4.0%, Germany 3.0%, Denmark 3.0%	2020-10-23	29853	189062	Alias of B.1.1.529.1.17.2, lineage from pango-designation issue #462	-
+BD.1	United Kingdom 97.0%, Germany 0.0%, Denmark 0.0%, France 0.0%, Romania 0.0%	2021-03-02	4404	5443	Alias of B.1.1.529.1.17.2.1, UK lineage, from pango-designation issue #461	-
+BA.1.18	France 27.0%, United States of America 20.0%, Germany 17.0%, United Kingdom 7.0%, Belgium 4.0%	2021-01-01	20829	57772	Alias of B.1.1.529.1.18, Europe and North America lineage, from pango-designation issue #474	-
+BA.1.19	Denmark 23.0%, United States of America 20.0%, Germany 13.0%, Portugal 11.0%, United Kingdom 8.0%	2020-08-20	2661	3846	Alias of B.1.1.529.1.19, Europe lineage	-
+BA.1.20	United States of America 84.0%, Canada 5.0%, Germany 2.0%, United Kingdom 1.0%, Poland 1.0%	2020-09-13	17377	36158	Alias of B.1.1.529.1.20, USA lineage, from pango-designation issue #375	-
+BA.1.21	Norway 49.0%, Germany 9.0%, Italy 5.0%, South_Africa 5.0%, Denmark 5.0%	2021-01-09	4525	6488	Alias of B.1.1.529.1.21, lineage from pango-designation issue #505	-
+BA.1.21.1	Italy 81.0%, Germany 7.0%, United Kingdom 3.0%, Sweden 2.0%, France 1.0%	2021-01-03	539	1017	Alias of B.1.1.529.1.21.1, Italy lineage, from pango-designation issue #409	-
+BA.1.22	Peru 90.0%, Chile 4.0%, South_Korea 3.0%, United Kingdom 1.0%, United States of America 1.0%	2021-12-29	32	73	Alias of B.1.1.529.1.22, Peru lineage from pango-designation issue #529	-
+BA.1.23	United States of America 100.0%	2022-02-06	9	16	Alias of B.1.1.529.1.23, mainly found in USA, from pango-designation issue #663	-
+BA.1.24	Spain 100.0%	2022-02-17	6	8	Alias of B.1.1.529.1.24, found in Spain, from pango-designation issue #666	-
+BA.2	United Kingdom 29.0%, Germany 13.0%, United States of America 12.0%, Denmark 12.0%, France 7.0%	2020-03-28	111257	1187096	Alias of B.1.1.529.2, from pango-designation issue #361	-
+BA.2.1	United Kingdom 80.0%, United States of America 7.0%, Germany 5.0%, France 1.0%, Canada 1.0%	2021-12-08	3532	15401	Alias of B.1.1.529.2.1, UK lineage	-
+BA.2.2	Hong_Kong 85.0%, Australia 7.0%, United Kingdom 3.0%, China 2.0%, United States of America 1.0%	2022-01-04	956	6621	Alias of B.1.1.529.2.2, Hong Kong lineage	-
+BA.2.2.1	China 78.0%, Canada 5.0%, Hong_Kong 5.0%, Japan 3.0%, Seychelles 3.0%	2022-01-14	19	37	Alias of B.1.1.529.2.2.1, China lineage, from pango-designation issue #675	-
+BA.2.3	United States of America 25.0%, United Kingdom 17.0%, Canada 10.0%, Japan 9.0%, South_Korea 6.0%	2020-09-24	19173	106735	Alias of B.1.1.529.2.3, lineage in Philippines and other countries	-
+BA.2.3.1	Japan 100.0%, Canada 0.0%, Vietnam 0.0%, United States of America 0.0%, Singapore 0.0%	2022-01-10	1259	10690	Alias of B.1.1.529.2.3.1, Japan lineage, from pango-designation issue #495	-
+BA.2.3.2	Vietnam 30.0%, Japan 27.0%, United States of America 10.0%, Australia 5.0%, Laos 4.0%	2022-01-22	618	2157	Alias of B.1.1.529.2.3.2, Vietnam and Japan lineage	-
+BS.1	Australia 29.0%, Japan 23.0%, Vietnam 12.0%, Singapore 9.0%, United States of America 5.0%	2022-08-22	11	77	Alias of B.1.1.529.2.3.2.1, Vietnam lineage, from pango-designation issue #1052	-
+BS.1.1	Japan 34.0%, Vietnam 19.0%, Australia 19.0%, Denmark 8.0%, Hong_Kong 5.0%	2022-08-20	13	252	Alias of B.1.1.529.2.3.2.1.1, Vietnam lineage, defined by S:K356T, from pango-designation issue #1097	-
+BS.1.2	Vietnam 60.0%, Thailand 10.0%, Israel 10.0%, Germany 10.0%, Denmark 10.0%	2022-08-17	5	10	Alias of B.1.1.529.2.3.2.1.2, Vietnam lineage, defined by S:T430I	-
+BA.2.3.4	United States of America 54.0%, Canada 42.0%, United Kingdom 1.0%, Paraguay 1.0%, Japan 0.0%	2022-01-24	204	1036	Alias of B.1.1.529.2.3.4, Canada lineage	-
+BA.2.3.5	United States of America 38.0%, United Kingdom 25.0%, Spain 14.0%, Guatemala 8.0%, Germany 3.0%	2022-01-07	212	365	Alias of B.1.1.529.2.3.5, mainly found in USA, England and Spain, from pango-designation issue #627	-
+BA.2.3.6	Canada 62.0%, United States of America 30.0%, Brazil 2.0%, United Kingdom 1.0%, Germany 1.0%	2022-01-13	644	1320	Alias of B.1.1.529.2.3.6, mainly found in Canada and USA, from pango-designation issue #633	-
+BA.2.3.7	Taiwan 87.0%, Japan 4.0%, United States of America 3.0%, Indonesia 2.0%, Hong_Kong 1.0%	2022-03-27	570	1999	Alias of B.1.1.529.2.3.7, mainly found in Japan, Hong Kong and Taiwan, from pango-designation issue #643	-
+BA.2.3.8	South_Korea 91.0%, Japan 4.0%, United States of America 2.0%, Canada 1.0%, Northern_Mariana_Islands 1.0%	2022-02-10	148	262	Alias of B.1.1.529.2.3.8, South Korea lineage	-
+BA.2.3.9	Netherlands 51.0%, Germany 17.0%, United Kingdom 9.0%, Denmark 8.0%, United States of America 4.0%	2022-01-22	332	467	Alias of B.1.1.529.2.3.9, lineage in Netherlands and other countries	-
+BA.2.3.10	Canada 62.0%, United States of America 33.0%, Denmark 1.0%, France 1.0%, Israel 1.0%	2022-02-17	625	838	Alias of B.1.1.529.2.3.10, Canada and USA lineage	-
+BA.2.3.11	Japan 91.0%, Canada 4.0%, United States of America 1.0%, South_Korea 1.0%, Israel 1.0%	2022-01-01	995	2443	Alias of B.1.1.529.2.3.11, Japan lineage	-
+BA.2.3.12	South_Korea 81.0%, United States of America 8.0%, Japan 4.0%, Laos 2.0%, Northern_Mariana_Islands 1.0%	2022-02-08	707	1267	Alias of B.1.1.529.2.3.12, South Korea lineage	-
+BA.2.3.13	Japan 100.0%, United States of America 0.0%, France 0.0%, Canada 0.0%, Thailand 0.0%	2022-01-07	2075	6648	Alias of B.1.1.529.2.3.13, Japan lineage	-
+BA.2.3.14	South_Korea 75.0%, United States of America 17.0%, Japan 4.0%, Northern_Mariana_Islands 1.0%, Israel 1.0%	2022-02-11	608	1126	Alias of B.1.1.529.2.3.14, South Korea lineage	-
+BA.2.3.15	Italy 44.0%, Spain 16.0%, Germany 14.0%, United Kingdom 6.0%, United States of America 4.0%	2022-01-07	951	1652	Alias of B.1.1.529.2.3.15, Italy and Spain lineage	-
+BA.2.3.16	Papua_New_Guinea 44.0%, Australia 34.0%, United States of America 6.0%, Japan 3.0%, United Kingdom 2.0%	2022-01-11	192	394	Alias of B.1.1.529.2.3.16, Papua New Guinea lineage, from pango-designation issue #524	-
+BP.1	Australia 40.0%, Canada 25.0%, Philippines 20.0%, Singapore 5.0%, South_Korea 5.0%	2022-07-22	6	20	Alias of B.1.1.529.2.3.16.1, Oceania/South East Asia lineage, from pango-designation issue #1009	-
+BA.2.3.17	United States of America 64.0%, Northern_Mariana_Islands 26.0%, Guam 4.0%, Canada 3.0%, South_Korea 1.0%	2022-01-11	1214	2168	Alias of B.1.1.529.2.3.17, Northern Mariana Islands and USA lineage, from pango-designation issue #677	-
+BA.2.3.18	Japan 100.0%, Australia 0.0%, Chile 0.0%	2022-01-19	161	701	Alias of B.1.1.529.2.3.18, Japan lineage, from pango-designation issue #687	-
+BA.2.3.19	Brunei 100.0%	2022-04-16	23	59	Alias of B.1.1.529.2.3.19, found Brunei, from pango-designation issue #824	-
+BA.2.3.20	United States of America 25.0%, Philippines 12.0%, Australia 12.0%, Japan 10.0%, South_Korea 6.0%	2022-08-12	3	1170	Alias of B.1.1.529.2.3.20, found globally, unclear origin, from pango-designation issue #1013	-
+CM.1	Canada 23.0%, Israel 21.0%, Singapore 15.0%, United States of America 8.0%, Denmark 6.0%	2022-07-30	29	144	Alias of B.1.1.529.2.3.20.1, S:N17S, from pango-designation issue #1129	-
+CM.2	United States of America 26.0%, Austria 11.0%, Denmark 9.0%, Australia 8.0%, Japan 7.0%	2022-08-26	69	1658	Alias of B.1.1.529.2.3.20.2, international, ORF1a:S2103F	-
+CM.2.1	Indonesia 45.0%, Australia 40.0%, South_Korea 10.0%, Singapore 5.0%	2022-10-30	7	20	Alias of B.1.1.529.2.3.20.2.1, Indonesia/Australia, S:F486S, issue #1356	-
+CM.3	Australia 49.0%, South_Korea 15.0%, United States of America 10.0%, Japan 5.0%, New_Zealand 5.0%	2022-09-10	7	110	Alias of B.1.1.529.2.3.20.3, USA/South Korea/Australia, S:G485D	-
+CM.4	United States of America 27.0%, Australia 25.0%, Japan 15.0%, Philippines 7.0%, South_Korea 5.0%	2022-09-04	39	324	Alias of B.1.1.529.2.3.20.4, USA/Singapore/SouthKorea, ORF1b:D146G	-
+CM.5	United States of America 32.0%, France 14.0%, Austria 9.0%, Philippines 9.0%, South_Korea 8.0%	2022-01-10	22	207	Alias of B.1.1.529.2.3.20.5, global, 10802T	-
+CM.5.1	Australia 39.0%, Solomon_Islands 27.0%, United States of America 7.0%, United Kingdom 5.0%, Singapore 5.0%	2022-09-10	8	44	Alias of B.1.1.529.2.3.20.5.1, S:Q675R	-
+CM.6	United States of America 35.0%, Philippines 27.0%, South_Korea 12.0%, Japan 12.0%, Hong_Kong 4.0%	2022-08-28	18	26	Alias of B.1.1.529.2.3.20.6, global, ORF1a:G30A	-
+CM.6.1	United States of America 46.0%, Italy 23.0%, Singapore 12.0%, Philippines 4.0%, Hong_Kong 4.0%	2022-09-23	6	26	Alias of B.1.1.529.2.3.20.6.1, S:A348S	-
+CM.7	Japan 51.0%, United States of America 20.0%, Singapore 9.0%, United Kingdom 6.0%, Germany 3.0%	2022-09-30	8	35	Alias of B.1.1.529.2.3.20.7, Japan/Singapore, S:F486S	-
+CM.8	United States of America 45.0%, Japan 9.0%, South_Korea 9.0%, Philippines 8.0%, Australia 5.0%	2022-09-06	6	183	Alias of B.1.1.529.2.3.20.8, S:G446S	-
+CM.8.1	Philippines 33.0%, Australia 17.0%, United States of America 17.0%, Canada 17.0%, United Kingdom 17.0%	2022-10-25	2	6	Alias of B.1.1.529.2.3.20.8.1, Australia/England, S:F486S	-
+CM.9	United States of America 56.0%, Canada 24.0%, United Kingdom 9.0%, Israel 4.0%, Australia 4.0%	2022-09-17	19	45	Alias of B.1.1.529.2.3.20.9, USA/Canada/Israel, S:S256L	-
+BA.2.3.21	Philippines 59.0%, Thailand 9.0%, Malaysia 9.0%, Belgium 9.0%, United States of America 9.0%	2022-02-16	9	22	Alias of B.1.1.529.2.3.21, Philippines, S:P9L and 493 reversion	-
+DD.1	Philippines 79.0%, Australia 14.0%, United States of America 7.0%	2022-08-11	9	14	Alias of B.1.1.529.2.3.21.1, Philippines/Australia, Δ69-70, Δ144, V213E, G339N, R346T, Y449N, N460K, N481K, Q493L, K1205N, from #1287	-
+BA.2.4	Singapore 49.0%, United States of America 17.0%, Australia 6.0%, United Kingdom 5.0%, India 5.0%	2021-12-30	96	466	Alias of B.1.1.529.2.4, Singapore lineage	-
+BA.2.5	Germany 40.0%, Portugal 18.0%, United Kingdom 7.0%, Spain 6.0%, United States of America 4.0%	2022-01-05	884	3538	Alias of B.1.1.529.2.5, lineage in Portugal and other countries	-
+BA.2.6	France 66.0%, United States of America 14.0%, United Kingdom 6.0%, Denmark 3.0%, Germany 2.0%	2021-11-15	327	2980	Alias of B.1.1.529.2.6, lineage in France and other countries	-
+BA.2.7	United States of America 89.0%, Germany 2.0%, Denmark 1.0%, United Kingdom 1.0%, France 1.0%	2021-11-15	508	4101	Alias of B.1.1.529.2.7, USA lineage	-
+BA.2.8	United Kingdom 93.0%, United States of America 3.0%, Germany 2.0%, Denmark 1.0%, Spain 0.0%	2022-02-05	1614	6632	Alias of B.1.1.529.2.8, UK lineage, from pango-designation issue #486	-
+BA.2.9	Denmark 27.0%, Germany 17.0%, United Kingdom 13.0%, United States of America 10.0%, France 4.0%	2020-07-21	42851	196101	Alias of B.1.1.529.2.9, European lineage, from pango-designation issue #432	-
+BA.2.9.1	Denmark 47.0%, United Kingdom 37.0%, Germany 8.0%, United States of America 1.0%, Canada 1.0%	2022-02-10	99	763	Alias of B.1.1.529.2.9.1, UK lineage, from pango-designation issue #530	-
+BA.2.9.2	United States of America 82.0%, Spain 3.0%, Sweden 3.0%, United Kingdom 2.0%, Germany 2.0%	2022-02-08	429	889	Alias of B.1.1.529.2.9.2, USA lineage	-
+BA.2.9.3	France 51.0%, Germany 8.0%, United States of America 6.0%, United Kingdom 5.0%, Israel 5.0%	2021-10-02	733	3892	Alias of B.1.1.529.2.9.3, mainly found in France, England, and Germany, from pango-designation issue #630	-
+BA.2.9.4	France 83.0%, Germany 4.0%, Switzerland 3.0%, Luxembourg 1.0%, Denmark 1.0%	2022-02-12	264	786	Alias of B.1.1.529.2.9.4, mainly found in France, from pango-designation issue #635	-
+BA.2.9.5	Thailand 79.0%, Japan 3.0%, Germany 3.0%, Israel 3.0%, Denmark 2.0%	2022-01-25	527	1806	Alias of B.1.1.529.2.9.5, Thailand lineage	-
+BA.2.9.6	Spain 27.0%, Denmark 20.0%, Germany 19.0%, Austria 6.0%, United States of America 5.0%	2022-01-25	411	483	Alias of B.1.1.529.2.9.6, mainly found in Spain, Denmark and Germany, from pango-designation issue #671	-
+BA.2.9.7	United States of America 57.0%, Denmark 14.0%, Peru 6.0%, Venezuela 5.0%, Canada 3.0%	2022-04-11	493	561	Alias of B.1.1.529.2.9.7, found mainly in USA, from pango-designation issue #864	-
+BA.2.10	India 32.0%, United Kingdom 27.0%, United States of America 10.0%, Japan 9.0%, New_Zealand 4.0%	2020-04-03	11647	56549	Alias of B.1.1.529.2.10, lineage from pango-designation issue #496	-
+BA.2.10.1	Australia 24.0%, India 13.0%, United Kingdom 13.0%, United States of America 12.0%, Japan 8.0%	2021-12-06	1668	8342	Alias of B.1.1.529.2.10.1, lineage in Singapore and other countries	-
+BJ.1	India 53.0%, United States of America 8.0%, Bangladesh 8.0%, Singapore 7.0%, South_Korea 4.0%	2022-06-29	6	112	Alias of B.1.1.529.2.10.1.1, mainly found in India (West Bengal), from pango-designation issue #915	-
+BA.2.10.2	Japan 96.0%, India 2.0%, United Kingdom 1.0%, Germany 0.0%, Denmark 0.0%	2022-01-06	251	1780	Alias of B.1.1.529.2.10.2, mainly found in Japan, from pango-designation issue #569	-
+BA.2.10.3	United Kingdom 31.0%, India 15.0%, Netherlands 13.0%, Bangladesh 9.0%, Germany 7.0%	2021-12-26	55	192	Alias of B.1.1.529.2.10.3, mainly found in England, India and Bangladesh, from pango-designation issue #609	-
+BA.2.10.4	India 63.0%, United Kingdom 23.0%, United States of America 6.0%, France 3.0%, Singapore 2.0%	2022-06-24	66	62	Alias of B.1.1.529.2.10.4, mainly found in India, from pango-designation issue #898	-
+BA.2.11	France 79.0%, Germany 13.0%, United Kingdom 2.0%, Denmark 1.0%, United States of America 1.0%	2022-02-06	126	1201	Alias of B.1.1.529.2.11, France lineage, from pango-designation issue #491	-
+BA.2.12	United States of America 40.0%, United Kingdom 14.0%, Australia 14.0%, Germany 9.0%, France 5.0%	2021-12-06	2460	7047	Alias of B.1.1.529.2.12, North America and Europe lineage, from pango-designation issue #499	-
+BA.2.12.1	United States of America 81.0%, Canada 5.0%, United Kingdom 2.0%, Germany 1.0%, Mexico 1.0%	2020-04-15	39747	266248	Alias of B.1.1.529.2.12.1, USA and Canada lineage, from pango-designation issue #499	-
+BG.1	Peru 82.0%, United States of America 10.0%, United Kingdom 4.0%, Aruba 2.0%, Mexico 1.0%	2022-04-15	37	301	Alias of B.1.1.529.2.12.1.1, Peru lineage, from pango-designation issue #679	-
+BG.2	United States of America 72.0%, Canada 11.0%, Denmark 5.0%, United Kingdom 2.0%, Peru 1.0%	2022-02-26	351	1101	Alias of B.1.1.529.2.12.1.2, mainly found in USA, and Denmark, from pango-designation issue #767	-
+BG.3	Peru 84.0%, United States of America 12.0%, South_Africa 1.0%, Belgium 1.0%, Mexico 1.0%	2022-05-03	29	178	Alias of B.1.1.529.2.12.1.3, mainly found in Peru, from pango-designation issue #784	-
+BG.4	Israel 58.0%, United States of America 10.0%, United Kingdom 8.0%, Canada 6.0%, South_Korea 3.0%	2022-05-01	111	236	Alias of B.1.1.529.2.12.1.4, Israel lineage	-
+BG.5	United States of America 85.0%, Japan 4.0%, Canada 2.0%, United Kingdom 1.0%, South_Korea 1.0%	2022-04-09	1244	1854	Alias of B.1.1.529.2.12.1.5, mainly found in USA, from pango-designation issue #763	-
+BG.6	Peru 86.0%, Canada 11.0%, United Kingdom 2.0%, Colombia 2.0%	2022-05-10	41	66	Alias of B.1.1.529.2.12.1.6, Peru lineage, from pango-designation issue #836	-
+BG.7	Peru 100.0%	2022-06-22	27	35	Alias of B.1.1.529.2.12.1.7, found in Peru, from pango-designation issue #1157	-
+BA.2.12.2	Australia 78.0%, Japan 14.0%, New_Zealand 3.0%, Ireland 1.0%, United Kingdom 1.0%	2022-02-05	436	1408	Alias of B.1.1.529.2.12.2, mainly found in Australia, from pango-designation issue #686	-
+BA.2.13	United States of America 37.0%, Belgium 17.0%, Finland 7.0%, Germany 6.0%, Netherlands 4.0%	2022-01-19	1245	4863	Alias of B.1.1.529.2.13, Europe lineage, from pango-designation issue #531	-
+BA.2.13.1	United States of America 76.0%, Japan 14.0%, Canada 3.0%, United Kingdom 1.0%, Germany 1.0%	2022-04-09	442	1116	Alias of B.1.1.529.2.13.1, mainly found in USA, Canada and Colombia, from pango-designation issue #785	-
+BA.2.14	Denmark 76.0%, Germany 6.0%, United States of America 4.0%, United Kingdom 4.0%, Israel 4.0%	2022-01-13	502	1567	Alias of B.1.1.529.2.14, Denmark lineage, from pango-designation issue #512	-
+BA.2.15	South_Africa 55.0%, United Kingdom 27.0%, Ireland 5.0%, France 3.0%, United States of America 3.0%	2022-01-10	58	265	Alias of B.1.1.529.2.15, South Africa lineage, from pango-designation issue #533	-
+BA.2.16	United Kingdom 98.0%, France 1.0%, Israel 0.0%, South_Africa 0.0%, Germany 0.0%	2022-01-08	379	491	Alias of B.1.1.529.2.16, UK lineage, from pango-designation issue #534	-
+BA.2.17	Vietnam 33.0%, Japan 29.0%, United States of America 15.0%, Australia 12.0%, Canada 2.0%	2022-02-13	56	392	Alias of B.1.1.529.2.17, Vietnam and Japan lineage, from pango-designation issue #520	-
+BA.2.18	United Kingdom 30.0%, United States of America 28.0%, Japan 11.0%, Ireland 7.0%, France 6.0%	2021-11-15	1960	12312	Alias of B.1.1.529.2.18, UK lineage, from pango-designation issue #528	-
+BA.2.19	Germany 91.0%, Ireland 2.0%, United States of America 1.0%, Italy 1.0%, Luxembourg 1.0%	2021-12-07	382	583	Alias of B.1.1.529.2.19, Germany lineage, from pango-designation issue #535	-
+BA.2.20	Canada 50.0%, United States of America 43.0%, Peru 1.0%, Israel 1.0%, Puerto_Rico 1.0%	2022-01-07	207	1561	Alias of B.1.1.529.2.20, Canada lineage, from pango-designation issue #544	-
+BA.2.21	United States of America 52.0%, Canada 41.0%, Israel 1.0%, Mexico 1.0%, United Kingdom 1.0%	2022-01-24	695	2107	Alias of B.1.1.529.2.21, Canada and USA lineage, from pango-designation issue #547	-
+BA.2.22	United Kingdom 83.0%, United States of America 6.0%, Germany 2.0%, Ireland 1.0%, Denmark 1.0%	2022-01-30	992	1892	Alias of B.1.1.529.2.22, UK lineage, from pango-designation issue #562	-
+BA.2.23	United Kingdom 73.0%, United States of America 8.0%, France 3.0%, Germany 2.0%, Brazil 2.0%	2020-10-11	6280	16292	Alias of B.1.1.529.2.23, UK lineage, from pango-designation issue #546	-
+BA.2.23.1	United States of America 44.0%, United Kingdom 37.0%, Denmark 10.0%, Germany 3.0%, Ireland 1.0%	2022-02-22	307	1019	Alias of B.1.1.529.2.23.1, mainly found in England, USA and Denmark, from pango-designation issue #532	-
+BA.2.24	Japan 100.0%, France 0.0%, United States of America 0.0%, Denmark 0.0%, Philippines 0.0%	2022-01-27	1520	8305	Alias of B.1.1.529.2.24, Japan lineage	-
+BA.2.25	Sweden 44.0%, Germany 13.0%, Denmark 10.0%, Belgium 7.0%, United Kingdom 5.0%	2022-01-03	392	747	Alias of B.1.1.529.2.25, Sweden lineage	-
+BA.2.25.1	Slovakia 53.0%, Czech_Republic 31.0%, Germany 10.0%, Netherlands 3.0%, Austria 2.0%	2022-02-08	32	109	Alias of B.1.1.529.2.25.1, Slovakia lineage	-
+BA.2.26	United States of America 93.0%, United Kingdom 2.0%, Denmark 1.0%, Germany 1.0%, Canada 1.0%	2022-02-13	245	1331	Alias of B.1.1.529.2.26, USA lineage	-
+BA.2.27	Thailand 69.0%, France 6.0%, United States of America 5.0%, United Kingdom 4.0%, India 3.0%	2021-12-31	40	304	Alias of B.1.1.529.2.27, Thailand lineage	-
+BA.2.28	United States of America 45.0%, Singapore 22.0%, Israel 16.0%, India 4.0%, Latvia 2.0%	2022-01-13	31	134	Alias of B.1.1.529.2.28, Singapore lineage	-
+BA.2.29	Japan 99.0%, United States of America 1.0%, United Kingdom 0.0%, Israel 0.0%, Australia 0.0%	2022-01-17	565	5508	Alias of B.1.1.529.2.29, Japan lineage	-
+BA.2.30	Curaçao 52.0%, Aruba 12.0%, United States of America 11.0%, Bonaire 7.0%, Belgium 4.0%	2022-02-23	43	276	Alias of B.1.1.529.2.30, Curacao lineage	-
+BA.2.31	Israel 54.0%, United States of America 33.0%, United Kingdom 4.0%, Germany 2.0%, Canada 1.0%	2022-01-03	456	2637	Alias of B.1.1.529.2.31, Israel lineage	-
+BA.2.31.1	Australia 28.0%, United States of America 26.0%, Uganda 17.0%, Kenya 9.0%, United Kingdom 3.0%	2022-02-23	252	326	Alias of B.1.1.529.2.31.1, mainly found in Uganda, defined by S:68T, from pango-designation issue #819	-
+BA.2.32	United States of America 39.0%, Indonesia 20.0%, United Kingdom 8.0%, Malaysia 7.0%, Israel 5.0%	2022-01-06	348	1458	Alias of B.1.1.529.2.32, Indonesia lineage	-
+BA.2.33	Australia 98.0%, New_Zealand 0.0%, Indonesia 0.0%, India 0.0%, Japan 0.0%	2022-02-06	318	720	Alias of B.1.1.529.2.33, Australia lineage	-
+BA.2.34	Norway 61.0%, United Kingdom 12.0%, Germany 6.0%, United States of America 4.0%, Sweden 4.0%	2022-01-05	181	454	Alias of B.1.1.529.2.34, Norway lineage	-
+BA.2.35	Portugal 29.0%, France 21.0%, Spain 17.0%, United Kingdom 5.0%, Germany 4.0%	2022-03-01	62	426	Alias of B.1.1.529.2.35, Predominantly Portugal lineage, from pango-designation issue #554	-
+BA.2.36	Germany 19.0%, United Kingdom 18.0%, France 14.0%, Belgium 12.0%, United States of America 8.0%	2021-11-15	3000	12938	Alias of B.1.1.529.2.36, mainly found in Germany, Belgium, England and Denmark, from pango-designation issue #565	-
+BA.2.37	United Kingdom 64.0%, United States of America 14.0%, India 5.0%, Germany 2.0%, Australia 2.0%	2021-12-06	3967	6809	Alias of B.1.1.529.2.37, mainly found in England, Scotland, Wales, from pango-designation issue #572	-
+BA.2.38	India 60.0%, United States of America 11.0%, United Kingdom 8.0%, Australia 3.0%, Denmark 2.0%	2022-01-07	1131	6611	Alias of B.1.1.529.2.38, lineage in India and other countries, from pango-designation issue #541	-
+BA.2.38.1	India 82.0%, United States of America 5.0%, Singapore 2.0%, Australia 1.0%, Denmark 1.0%	2022-05-22	339	908	Alias of B.1.1.529.2.38.1, India lineage, from pango-designation issue #809	-
+BA.2.38.2	India 89.0%, United States of America 3.0%, Singapore 3.0%, Canada 1.0%, Australia 1.0%	2022-05-04	57	534	Alias of B.1.1.529.2.38.2, mainly found in India, from pango-designation issue #828	-
+BA.2.38.3	India 85.0%, Nepal 4.0%, United States of America 3.0%, Japan 3.0%, France 1.0%	2022-05-15	26	156	Alias of B.1.1.529.2.38.3, mainly found in India, from pango-designation issue #840	-
+BA.2.38.4	India 95.0%, Japan 1.0%, United States of America 1.0%, Malaysia 0.0%, Bahrain 0.0%	2022-05-06	298	322	Alias of B.1.1.529.2.38.4, mainly found in India, from pango-designation issue #746	-
+BH.1	India 47.0%, United States of America 25.0%, Canada 4.0%, United Kingdom 4.0%, Australia 3.0%	2022-06-23	15	182	Alias of B.1.1.529.2.38.3.1, mainly found in India, from pango-designation issue #913	-
+BA.2.39	United Kingdom 83.0%, Germany 7.0%, United States of America 4.0%, Maldives 2.0%, Brazil 1.0%	2022-01-11	437	707	Alias of B.1.1.529.2.39, mainly found in England, from pango-designation issue #575	-
+BA.2.40	Malaysia 96.0%, Australia 1.0%, Israel 1.0%, Denmark 1.0%	2022-02-06	24	77	Alias of B.1.1.529.2.40, mainly found in Malaysia, England, Denmark and Germany, from pango-designation issue #542	-
+BA.2.40.1	Malaysia 33.0%, United States of America 16.0%, Singapore 9.0%, French_Guiana 5.0%, Germany 5.0%	2022-02-11	478	2573	Alias of B.1.1.529.2.40.1, mainly found in Malaysia, England, Germany and Denmark, from pango-designation issue #542	-
+BA.2.41	United Kingdom 68.0%, United States of America 18.0%, Germany 6.0%, Israel 1.0%, France 1.0%	2022-01-31	612	1484	Alias of B.1.1.529.2.41, mainly found in England and Scotland, from pango-designation issue #586	-
+BA.2.42	Australia 78.0%, United States of America 10.0%, New_Zealand 6.0%, United Kingdom 1.0%, Singapore 1.0%	2022-03-14	475	1267	Alias of B.1.1.529.2.42, mainly found in Australia, from pango-designation issue #610	-
+BA.2.43	India 74.0%, United States of America 9.0%, Denmark 4.0%, Australia 2.0%, Japan 2.0%	2022-03-10	225	509	Alias of B.1.1.529.2.43, mainly found in India, from pango-designation issue #612	-
+BA.2.44	Belgium 21.0%, Germany 18.0%, France 16.0%, Luxembourg 7.0%, Italy 6.0%	2021-11-15	149	961	Alias of B.1.1.529.2.44, mainly found in Belgium and Luxembourg, from pango-designation issue #613	-
+BA.2.45	Sweden 69.0%, Denmark 14.0%, Germany 4.0%, United States of America 4.0%, Lithuania 3.0%	2022-01-01	438	730	Alias of B.1.1.529.2.45, mainly found in Sweden and Denmark, from pango-designation issue #616	-
+BA.2.46	United Kingdom 92.0%, Germany 4.0%, Ireland 3.0%, Switzerland 1.0%	2022-03-02	117	144	Alias of B.1.1.529.2.46, mainly found in Scotland, from pango-designation issue #626	-
+BA.2.47	Denmark 42.0%, United States of America 22.0%, United Kingdom 20.0%, Germany 4.0%, Belgium 2.0%	2022-01-13	848	1250	Alias of B.1.1.529.2.47, mainly found in Denmark, England, and USA, from pango-designation issue #631	-
+BA.2.48	United States of America 73.0%, United Kingdom 12.0%, Ireland 3.0%, Brazil 2.0%, Denmark 2.0%	2022-01-19	692	2161	Alias of B.1.1.529.2.48, mainly found in USA, Scotland and England, from pango-designation issue #634	-
+BA.2.49	France 59.0%, United Kingdom 17.0%, United States of America 5.0%, Germany 3.0%, Denmark 3.0%	2022-01-10	670	1527	Alias of B.1.1.529.2.49, mainly found in France, England and USA, from pango-designation issue #640	-
+BA.2.50	United Kingdom 84.0%, United States of America 3.0%, Germany 3.0%, France 2.0%, Canada 1.0%	2022-01-21	548	743	Alias of B.1.1.529.2.50, mainly found in Scotland and England, from pango-designation issue #641	-
+BA.2.51	Denmark 66.0%, United Kingdom 8.0%, Germany 6.0%, Spain 3.0%, Lithuania 3.0%	2021-12-31	308	448	Alias of B.1.1.529.2.51, mainly found in Denmark, from pango-designation issue #644	-
+BA.2.52	Italy 17.0%, United States of America 16.0%, France 14.0%, Germany 13.0%, United Kingdom 12.0%	2021-11-15	240	1450	Alias of B.1.1.529.2.52, mainly found in Italy, Germany, Denmark and USA, from pango-designation issue #648	-
+BA.2.53	Denmark 35.0%, Peru 22.0%, United Kingdom 11.0%, Germany 6.0%, France 5.0%	2022-03-08	145	472	Alias of B.1.1.529.2.53, mainly found in Denmark, from pango-designation issue #651	-
+BA.2.54	Germany 32.0%, Spain 31.0%, Peru 6.0%, Denmark 5.0%, France 5.0%	2021-11-15	136	773	Alias of B.1.1.529.2.54, mainly found in Germany, Spain and Denmark, from pango-designation issue #658	-
+BA.2.55	United Kingdom 48.0%, United States of America 23.0%, Japan 12.0%, Croatia 5.0%, Germany 4.0%	2022-02-13	115	288	Alias of B.1.1.529.2.55, mainly found in England, USA and Scotland, from pango-designation issue #660	-
+BA.2.56	Brazil 17.0%, Spain 11.0%, United States of America 11.0%, Belgium 9.0%, France 7.0%	2021-06-30	496	4731	Alias of B.1.1.529.2.56, mainly found in Europe, from pango-designation issue #668	-
+BA.2.56.1	Japan 97.0%, Spain 1.0%, Reunion 1.0%, France 1.0%	2022-03-27	30	134	Alias of B.1.1.529.2.56.1, mainly found in Japan, from pango-designation issue #745	-
+BA.2.57	Malaysia 40.0%, Singapore 24.0%, Australia 19.0%, United States of America 7.0%, New_Zealand 1.0%	2022-01-15	314	535	Alias of B.1.1.529.2.57, Malaysia, Singapore and Australia lineage	-
+BA.2.58	Reunion 71.0%, France 17.0%, India 5.0%, United Kingdom 1.0%, United States of America 1.0%	2021-06-30	112	382	Alias of B.1.1.529.2.58, Reunion lineage	-
+BA.2.59	United States of America 100.0%, Canada 0.0%	2022-03-06	206	361	Alias of B.1.1.529.2.59, mainly found in USA, from pango-designation issue #672	-
+BA.2.60	Peru 54.0%, United States of America 15.0%, Chile 12.0%, Germany 5.0%, Canada 4.0%	2022-04-07	88	188	Alias of B.1.1.529.2.60, Peru and Chile lineage	-
+BA.2.61	Singapore 54.0%, Malaysia 16.0%, Japan 10.0%, United States of America 3.0%, Australia 2.0%	2022-03-31	66	474	Alias of B.1.1.529.2.61, Singapore lineage	-
+BA.2.62	Australia 81.0%, United Kingdom 5.0%, New_Zealand 4.0%, United States of America 2.0%, Germany 2.0%	2022-01-20	268	655	Alias of B.1.1.529.2.62, Australia lineage	-
+BA.2.63	Greece 35.0%, United States of America 18.0%, United Kingdom 11.0%, Germany 10.0%, France 6.0%	2022-01-18	128	282	Alias of B.1.1.529.2.63, Greece lineage	-
+BA.2.64	Indonesia 43.0%, United States of America 21.0%, Malaysia 10.0%, Australia 8.0%, United Kingdom 6.0%	2022-01-02	413	652	Alias of B.1.1.529.2.64, Indonesia lineage	-
+BA.2.65	United States of America 31.0%, Canada 25.0%, Sweden 9.0%, South_Korea 8.0%, Japan 6.0%	2021-10-11	2022	4424	Alias of B.1.1.529.2.65, Canada and USA lineage	-
+BA.2.66	Canada 87.0%, United States of America 9.0%, Peru 2.0%, Mexico 1.0%, United Kingdom 0.0%	2022-03-02	284	382	Alias of B.1.1.529.2.66, Canada lineage	-
+BA.2.67	Slovakia 75.0%, Germany 7.0%, Israel 4.0%, United Kingdom 4.0%, Ireland 2.0%	2021-11-09	256	356	Alias of B.1.1.529.2.67, Slovakia lineage	-
+BA.2.68	South_Korea 83.0%, United States of America 8.0%, Japan 3.0%, Germany 1.0%, Taiwan 1.0%	2022-02-06	711	1453	Alias of B.1.1.529.2.68, South Korea lineage	-
+BA.2.69	Martinique 51.0%, France 30.0%, French_Guiana 6.0%, Sint_Maarten 5.0%, Guadeloupe 3.0%	2022-01-05	69	186	Alias of B.1.1.529.2.69, Martinique lineage	-
+BA.2.70	Croatia 54.0%, Germany 24.0%, Slovenia 7.0%, Austria 4.0%, United States of America 3.0%	2022-02-18	195	444	Alias of B.1.1.529.2.70, Croatia lineage	-
+BA.2.71	Sweden 29.0%, Norway 17.0%, Denmark 11.0%, France 7.0%, Germany 6.0%	2022-01-29	77	493	Alias of B.1.1.529.2.71, mainly found in Norway, Sweden and Denmark, from pango-designation issue #695	-
+BA.2.72	United States of America 55.0%, Germany 16.0%, Switzerland 5.0%, Japan 3.0%, Denmark 2.0%	2020-12-11	343	969	Alias of B.1.1.529.2.72, mainly found in USA, Germany and Switzerland, from pango-designation issue #698	-
+BA.2.73	United States of America 45.0%, Puerto_Rico 40.0%, Germany 2.0%, Denmark 2.0%, Peru 2.0%	2020-12-11	189	637	Alias of B.1.1.529.2.73, Puerto Rico and USA lineage, from pango-designation issue #632	-
+BA.2.74	India 71.0%, United States of America 6.0%, Denmark 5.0%, Australia 3.0%, Canada 2.0%	2022-01-05	228	1630	Alias of B.1.1.529.2.74, mainly found in India, from pango-designation issue #775	-
+BA.2.75	India 70.0%, United States of America 6.0%, Canada 3.0%, United Kingdom 3.0%, Australia 3.0%	2021-12-31	565	3757	Alias of B.1.1.529.2.75, mainly found in India, from pango-designation issue #773	-
+BA.2.75.1	India 53.0%, United States of America 9.0%, United Kingdom 5.0%, Australia 5.0%, Singapore 3.0%	2022-01-01	202	2515	Alias of B.1.1.529.2.75.1, mainly found in India from pango-designation issue #856	-
+BL.1	India 27.0%, United States of America 12.0%, United Kingdom 7.0%, Australia 6.0%, Japan 5.0%	2022-01-03	26	1639	Alias of B.1.1.529.2.75.1.1, mainly found in India from pango-designation issue #944, S:R346T on polytomy	-
+BL.1.1	Singapore 38.0%, Australia 30.0%, India 14.0%, United Kingdom 5.0%, Switzerland 5.0%	2022-08-17	5	37	Alias of B.1.1.529.2.75.1.1.1, from pango-designation issue #1079, defined by S:G614S	-
+BL.1.2	Austria 69.0%, Germany 25.0%, Belgium 6.0%	2022-08-24	6	16	Alias of B.1.1.529.2.75.1.1.2, mainly Austria, issue #1066, defined by S:G261D, S:V308L	-
+BL.1.3	Switzerland 41.0%, Israel 12.0%, Germany 12.0%, Austria 9.0%, India 9.0%	2022-07-20	10	32	Alias of B.1.1.529.2.75.1.1.3, Switzerland, Israel, Canada, issue #1124, defined by S:F490L	-
+BL.1.4	India 41.0%, United Kingdom 17.0%, United States of America 13.0%, Australia 10.0%, Chile 3.0%	2022-07-07	12	63	Alias of B.1.1.529.2.75.1.1.4, India/England/New Zealand, defined by S:F490V	-
+BL.2	Singapore 20.0%, United States of America 18.0%, India 16.0%, Australia 10.0%, Denmark 7.0%	2022-06-09	23	474	Alias of B.1.1.529.2.75.1.2, mainly found in India, defined by S:R346T on A26612T branch	-
+BL.2.1	Australia 71.0%, Belgium 29.0%	2022-09-20	6	7	Alias of B.1.1.529.2.75.1.2.1, Australia/Belgium, defined by S:K182E	-
+BL.3	India 42.0%, Singapore 17.0%, Denmark 12.0%, Australia 9.0%, United States of America 7.0%	2022-06-09	74	199	Alias of B.1.1.529.2.75.1.3, mainly found in India, defined by ORF1a:P2685S on A26612T branch	-
+BL.4	India 77.0%, United Kingdom 4.0%, Australia 4.0%, United States of America 3.0%, Singapore 3.0%	2022-06-09	133	245	Alias of B.1.1.529.2.75.1.4, mainly found in India, defined by ORF7a:P45L with 11224T and 22720G branch	-
+BL.5	Denmark 32.0%, Malaysia 8.0%, South_Korea 7.0%, Germany 7.0%, Australia 5.0%	2022-07-27	8	73	Alias of B.1.1.529.2.75.1.5, mainly found in Denmark, from pango-designation issue #1105	-
+BA.2.75.2	India 17.0%, United States of America 17.0%, United Kingdom 11.0%, Australia 8.0%, Canada 8.0%	2022-01-01	10	3704	Alias of B.1.1.529.2.75.2, mainly found in Asia and Australia, pango-designation issue #963	-
+CA.1	United States of America 83.0%, United Kingdom 4.0%, France 2.0%, India 1.0%, Ireland 1.0%	2022-08-14	87	304	Alias of B.1.1.529.2.75.2.1, USA lineage, defined by S:604I and S:452R, pango-designation issue #1063	-
+CA.2	India 17.0%, United Kingdom 14.0%, France 12.0%, Denmark 10.0%, United States of America 6.0%	2022-07-22	9	78	Alias of B.1.1.529.2.75.2.2, international lineage, defined by S:S494P	-
+CA.3	India 49.0%, United Kingdom 15.0%, United States of America 8.0%, Ireland 6.0%, Singapore 4.0%	2022-08-02	131	387	Alias of B.1.1.529.2.75.2.3, India, defined by N:M101I	-
+CA.3.1	United States of America 93.0%, Australia 3.0%, Netherlands 3.0%, United Kingdom 1.0%	2022-09-28	4	72	Alias of B.1.1.529.2.75.2.3.1, USA, S:K444M, S:L452R	-
+CA.5	United States of America 92.0%, Canada 2.0%, Australia 1.0%, Israel 1.0%, United Kingdom 1.0%	2022-08-24	8	150	Alias of B.1.1.529.2.75.2.5, USA, S:A260D, S:Q613H	-
+CA.6	India 65.0%, United Kingdom 10.0%, Australia 5.0%, Denmark 5.0%, Spain 2.0%	2022-08-06	19	40	Alias of B.1.1.529.2.75.2.6, India, ORF1a:Y196H	-
+CA.7	United Kingdom 27.0%, United States of America 18.0%, Spain 18.0%, Canada 5.0%, France 5.0%	2022-09-27	8	220	Alias of B.1.1.529.2.75.2.7, S:L452R after ORF1a:L3776I	-
+BA.2.75.3	India 56.0%, United States of America 13.0%, Australia 5.0%, Canada 4.0%, Japan 3.0%	2022-06-07	95	657	Alias of B.1.1.529.2.75.3, mainly found in India, pango-designation issue #965	-
+BM.1	India 46.0%, United States of America 22.0%, Singapore 4.0%, Canada 4.0%, South_Korea 3.0%	2022-06-09	19	136	Alias of B.1.1.529.2.75.3.1, mainly found in India, pango-designation issue #965	-
+BM.1.1	United States of America 29.0%, India 16.0%, Australia 11.0%, United Kingdom 6.0%, Austria 6.0%	2022-07-25	7	515	Alias of B.1.1.529.2.75.3.1.1, mainly found in India (West Bengal), defined by S:346T	-
+BM.1.1.1	India 39.0%, Singapore 13.0%, United States of America 10.0%, Denmark 6.0%, Australia 5.0%	2022-07-02	224	313	Alias of B.1.1.529.2.75.3.1.1.1, mainly found in India (West Bengal), defined by S:490S	-
+CJ.1	Denmark 33.0%, Germany 10.0%, United Kingdom 9.0%, Sweden 7.0%, United States of America 6.0%	2022-07-05	20	324	Alias of B.1.1.529.2.75.3.1.1.1.1, S:S486P, #1171	-
+BM.1.1.2	United Kingdom 92.0%, India 8.0%	2022-09-06	10	13	Alias of B.1.1.529.2.75.3.1.1.2, England, S:T883I, S:S939F, S:P1079T	-
+BM.1.1.3	India 20.0%, United States of America 14.0%, Australia 10.0%, United Kingdom 8.0%, Singapore 5.0%	2022-01-04	543	2072	Alias of B.1.1.529.2.75.3.1.1.3, India, defined by ORF10:A8V	-
+CV.1	Ireland 25.0%, United States of America 21.0%, United Kingdom 11.0%, Israel 10.0%, Denmark 8.0%	2022-09-16	12	206	Alias of B.1.1.529.2.75.3.1.1.3.1, Ireland, S:L452R	-
+BM.2	India 43.0%, Australia 15.0%, United States of America 9.0%, Germany 5.0%, Japan 4.0%	2022-06-21	58	147	Alias of B.1.1.529.2.75.3.2, mainly found in India (Telangana), defined by S:346T	-
+BM.2.1	United States of America 18.0%, India 18.0%, Canada 18.0%, Singapore 11.0%, Malaysia 9.0%	2022-08-22	11	55	Alias of B.1.1.529.2.75.3.2.1, India, defined by S:F486V	-
+BM.2.2	Israel 44.0%, India 22.0%, Australia 22.0%, Japan 11.0%	2022-08-02	4	9	Alias of B.1.1.529.2.75.3.2.2, Japan/Israel, defined by S:L455S	-
+BM.2.3	India 25.0%, United States of America 25.0%, Qatar 12.0%, Finland 12.0%, Singapore 12.0%	2022-09-05	3	8	Alias of B.1.1.529.2.75.3.2.3, India/Singapore, defined by S:F486I	-
+BM.3	Japan 30.0%, Nepal 30.0%, Israel 19.0%, Norway 4.0%, Netherlands 4.0%	2022-06-23	17	27	Alias of B.1.1.529.2.75.3.3, found in Nepal and globally, defined by ORF1b:P1652S	-
+BM.4	India 79.0%, United States of America 17.0%, Australia 4.0%	2022-06-20	15	24	Alias of B.1.1.529.2.75.3.4, mainly found in India, defined by ORF1a:Q1198K, from pango-designation issue #957	-
+BM.4.1	India 49.0%, United Kingdom 14.0%, Australia 7.0%, Austria 5.0%, United States of America 5.0%	2022-07-18	24	76	Alias of B.1.1.529.2.75.3.4.1, mainly found in India, defined by S:F486S, from pango-designation issue #957	-
+BM.4.1.1	India 25.0%, United States of America 23.0%, United Kingdom 10.0%, Australia 8.0%, Singapore 4.0%	2022-07-19	35	768	Alias of B.1.1.529.2.75.3.4.1.1, mainly found in India, defined by S:346T	-
+CH.1	Austria 47.0%, United States of America 17.0%, India 15.0%, Italy 6.0%, Japan 2.0%	2022-08-17	8	47	Alias of B.1.1.529.2.75.3.4.1.1.1, defined by S:K444T, issue #1113	-
+CH.1.1	United Kingdom 25.0%, New_Zealand 15.0%, United States of America 11.0%, Australia 10.0%, Denmark 9.0%	2022-09-16	6	1863	Alias of B.1.1.529.2.75.3.4.1.1.1.1, defined by S:L452R, issue #1113	-
+CH.1.1.1	United Kingdom 45.0%, Australia 16.0%, Sweden 12.0%, Denmark 7.0%, United States of America 6.0%	2022-10-03	58	386	Alias of B.1.1.529.2.75.3.4.1.1.1.1.1, defined by S:N185D	-
+CH.1.1.2	United Kingdom 47.0%, Australia 23.0%, Denmark 9.0%, United States of America 6.0%, Germany 3.0%	2022-10-23	19	86	Alias of B.1.1.529.2.75.3.4.1.1.1.1.2, defined by S:T883I, ORF1a:Y1846C, ORF1a:G2294S on T27576C branch	-
+CH.2	India 34.0%, United States of America 21.0%, Slovenia 10.0%, Denmark 7.0%, Australia 7.0%	2022-08-11	12	29	Alias of B.1.1.529.2.75.3.4.1.1.2, defined by S:Q183H	-
+BM.5	Denmark 26.0%, United Kingdom 16.0%, United States of America 16.0%, India 13.0%, Australia 10.0%	2022-07-28	15	31	Alias of B.1.1.529.2.75.3.5, mainly found in India, defined by S:L455S, from pango-designation issue #1047	-
+BM.6	India 64.0%, United States of America 14.0%, Netherlands 7.0%, Israel 7.0%, Denmark 7.0%	2022-07-04	15	14	Alias of B.1.1.529.2.75.3.6, India, defined by S:G75V followed by S:L455S	-
+BA.2.75.4	United States of America 25.0%, India 15.0%, Australia 13.0%, Denmark 7.0%, Germany 7.0%	2022-01-20	14	569	Alias of B.1.1.529.2.75.4, mainly found in India, pango-designation issue #935	-
+BR.1	United States of America 50.0%, United Kingdom 50.0%	2022-08-15	12	2	Alias of B.1.1.529.2.75.4.1, mainly found in India (Karnataka), defined by S:K444M	-
+BR.1.1	Austria 75.0%, Australia 25.0%	2022-09-13	9	8	Alias of B.1.1.529.2.75.4.1.1, Austria/Australia, S:T307S	-
+BR.1.2	United States of America 63.0%, Canada 12.0%, Australia 7.0%, Germany 6.0%, France 3.0%	2022-09-06	4	153	Alias of B.1.1.529.2.75.4.1.2, Italy/USA, S:F486S	-
+BR.2	Australia 75.0%, New_Zealand 7.0%, Denmark 7.0%, Japan 2.0%, United States of America 2.0%	2022-08-29	7	287	Alias of B.1.1.529.2.75.4.2, found in Australia, defined by S:R346T and S:486I, from issue #1063	-
+BR.2.1	Australia 87.0%, United States of America 3.0%, New_Zealand 3.0%, Denmark 2.0%, United Kingdom 2.0%	2022-01-11	33	1372	Alias of B.1.1.529.2.75.4.2.1, found mainly in Australia, from pango-designation issue #1292	-
+BR.3	Austria 41.0%, Germany 13.0%, Australia 10.0%, India 8.0%, United Kingdom 5.0%	2022-08-16	6	143	Alias of B.1.1.529.2.75.4.3, India, Australia, Austria, defined by S:R346T, from issue #1063	-
+BR.4	United States of America 27.0%, Canada 17.0%, Israel 17.0%, India 14.0%, Australia 11.0%	2022-07-28	5	66	Alias of B.1.1.529.2.75.4.4, S:K444T and S:G446S reversion, from issue #1179	-
+BA.2.75.5	United States of America 19.0%, India 17.0%, Australia 11.0%, United Kingdom 11.0%, Canada 4.0%	2022-07-01	13	1280	Alias of B.1.1.529.2.75.5, mainly found in India, pango-designation issue #947	-
+BN.1	United States of America 38.0%, Australia 11.0%, United Kingdom 9.0%, Austria 5.0%, Indonesia 4.0%	2022-07-28	3	1426	Alias of B.1.1.529.2.75.5.1, mainly found in India, pango-designation issue #994	-
+BN.1.1	United States of America 20.0%, Japan 20.0%, India 9.0%, Israel 9.0%, Australia 8.0%	2022-08-09	10	188	Alias of B.1.1.529.2.75.5.1.1, India/Austria, S:S494P	-
+BN.1.1.1	South_Korea 23.0%, Austria 14.0%, Australia 13.0%, Thailand 10.0%, Japan 7.0%	2022-09-26	7	70	Alias of B.1.1.529.2.75.5.1.1.1, Austria, S:N185D	-
+BN.1.2	Japan 18.0%, Denmark 12.0%, Australia 12.0%, United States of America 9.0%, South_Korea 9.0%	2022-01-24	40	1815	Alias of B.1.1.529.2.75.5.1.2, Singapore/England, E:D72G	-
+BN.1.2.1	United Kingdom 43.0%, Denmark 26.0%, South_Korea 6.0%, France 5.0%, Ireland 4.0%	2022-09-21	10	299	Alias of B.1.1.529.2.75.5.1.2.1, England/Portugal, S:T470N	-
+BN.1.3	United States of America 16.0%, Australia 13.0%, Germany 10.0%, Japan 9.0%, South_Korea 9.0%	2022-01-24	127	4576	Alias of B.1.1.529.2.75.5.1.3, India, ORF3a:T229I	-
+BN.1.3.1	Denmark 49.0%, United States of America 13.0%, United Kingdom 11.0%, Germany 4.0%, Israel 4.0%	2022-09-16	41	1708	Alias of B.1.1.529.2.75.5.1.3.1, found mainly in Israel, England and Denmark, from pango-designation issue #1257	-
+BN.1.4	Denmark 35.0%, United States of America 16.0%, United Kingdom 9.0%, Australia 7.0%, Netherlands 5.0%	2022-02-11	104	1592	Alias of B.1.1.529.2.75.5.1.4, India, 27501C	-
+BN.1.5	United Kingdom 39.0%, United States of America 21.0%, Denmark 8.0%, India 4.0%, Australia 3.0%	2022-03-11	113	1618	Alias of B.1.1.529.2.75.5.1.5, ORF1a:S2103F	-
+BN.1.6	Belgium 23.0%, Austria 20.0%, Netherlands 11.0%, Israel 9.0%, India 9.0%	2022-09-20	12	44	Alias of B.1.1.529.2.75.5.1.6, S:D1139H	-
+BN.1.7	United Kingdom 57.0%, United States of America 29.0%, Denmark 6.0%, Germany 3.0%, Luxembourg 2.0%	2022-09-14	38	257	Alias of B.1.1.529.2.75.5.1.7, England, S:M177T, S:H1101Y	-
+BN.1.8	Iceland 79.0%, Denmark 8.0%, Malaysia 4.0%, France 3.0%, United States of America 3.0%	2022-10-07	11	75	Alias of B.1.1.529.2.75.5.1.8, Iceland/USA, S:A475V	-
+BN.1.9	Indonesia 30.0%, United States of America 15.0%, Thailand 9.0%, Australia 9.0%, Japan 6.0%	2022-01-24	24	398	Alias of B.1.1.529.2.75.5.1.9, found mainly in Indonesia, from pango-designation issue #1327	-
+BN.2	India 46.0%, South_Korea 11.0%, Austria 10.0%, Germany 7.0%, United States of America 5.0%	2022-07-08	30	207	Alias of B.1.1.529.2.75.5.2, mainly found in India, pango-designation issue #1021	-
+BN.2.1	United States of America 63.0%, Canada 17.0%, India 6.0%, Saint_Lucia 6.0%, Italy 6.0%	2022-08-04	6	35	Alias of B.1.1.529.2.75.5.2.1, mainly USA and Canada lineage, defined by S:H49Y and S:F490S	-
+BN.3	India 31.0%, France 15.0%, Malaysia 5.0%, Denmark 5.0%, Italy 5.0%	2022-03-11	7	62	Alias of B.1.1.529.2.75.5.3, defined by S:N450D on ORF1a:392D branch	-
+BN.3.1	Germany 12.0%, France 9.0%, United States of America 9.0%, Denmark 8.0%, United Kingdom 8.0%	2022-09-21	5	274	Alias of B.1.1.529.2.75.5.3.1, South Korea/Austria/Israel/Belgium, defined by S:F490S	-
+BN.4	Netherlands 37.0%, Australia 11.0%, United Kingdom 11.0%, India 8.0%, United States of America 8.0%	2022-08-29	20	38	Alias of B.1.1.529.2.75.5.4, Netherlands/Germany, defined by S:F490S on ORF1a:392D branch	-
+BN.5	India 36.0%, United States of America 19.0%, Singapore 11.0%, United Kingdom 7.0%, France 4.0%	2022-06-09	179	353	Alias of B.1.1.529.2.75.5.5, India, defined by ORF1a:V2995M	-
+BN.6	India 38.0%, United States of America 19.0%, United Kingdom 15.0%, Singapore 5.0%, Australia 3.0%	2022-06-25	163	304	Alias of B.1.1.529.2.75.5.6, India, defined by ORF1a:T3959A	-
+BA.2.75.6	India 38.0%, United States of America 17.0%, Canada 11.0%, United Kingdom 9.0%, Germany 7.0%	2022-06-22	27	196	Alias of B.1.1.529.2.75.6, mainly found in India, defined by S:R346T on the BA.2.75 polytomy	-
+BY.1	United States of America 19.0%, India 19.0%, Qatar 8.0%, Canada 6.0%, Australia 6.0%	2022-01-01	27	1073	Alias of B.1.1.529.2.75.6.1, mainly found in India, defined by S:F486S on BA.2.75.6	-
+BY.1.1	Chile 38.0%, Australia 38.0%, United States of America 12.0%, India 12.0%	2022-08-21	3	8	Alias of B.1.1.529.2.75.6.1.1, S:L452R	-
+BY.1.1.1	United Kingdom 24.0%, Denmark 20.0%, Spain 13.0%, Norway 11.0%, Austria 9.0%	2022-09-13	9	46	Alias of B.1.1.529.2.75.6.1.1.1, Europe, S:N185D, S:H207R,	-
+BY.1.2	United States of America 21.0%, United Kingdom 19.0%, Belgium 15.0%, Canada 8.0%, Austria 7.0%	2022-08-20	35	98	Alias of B.1.1.529.2.75.6.1.2, Europe, 26828T	-
+BY.1.2.1	Austria 86.0%, France 7.0%, United Kingdom 7.0%	2022-09-19	11	14	Alias of B.1.1.529.2.75.6.1.2.1, Austria/England, S:S494P	-
+BA.2.75.7	India 50.0%, United States of America 9.0%, Turkey 7.0%, Australia 6.0%, Singapore 4.0%	2022-07-19	18	98	Alias of B.1.1.529.2.75.7, mainly found in India, defined by S:F486S on the BA.2.75 polytomy	-
+BA.2.75.8	New_Zealand 55.0%, Australia 21.0%, Singapore 13.0%, France 5.0%, Japan 4.0%	2022-08-27	10	76	Alias of B.1.1.529.2.75.8, Singapore/Australia, defined by S:L452Q, issue #1085	-
+BA.2.75.9	India 51.0%, Germany 23.0%, Israel 10.0%, United States of America 7.0%, Vietnam 3.0%	2022-07-14	20	61	Alias of B.1.1.529.2.75.9, India, defined by S:R346T after 17679T	-
+CB.1	United Kingdom 30.0%, Denmark 18.0%, Germany 13.0%, United States of America 8.0%, Australia 7.0%	2022-08-16	20	245	Alias of B.1.1.529.2.75.9.1, England, defined by S:486V	-
+BA.2.75.10	India 87.0%, Japan 3.0%, United States of America 3.0%, Singapore 1.0%, Malaysia 1.0%	2022-06-08	419	470	Alias of B.1.1.529.2.75.10, India, ORF1a:T3959A	-
+BA.2.76	India 68.0%, United States of America 10.0%, Australia 3.0%, United Kingdom 3.0%, Japan 2.0%	2022-02-07	680	5195	Alias of B.1.1.529.2.76, mainly found in India and USA, from pango-designation issue #787	-
+BA.2.76.1	India 91.0%, Singapore 3.0%, United States of America 3.0%, New_Zealand 1.0%, France 1.0%	2022-06-19	18	67	Alias of B.1.1.529.2.76.1, mainly found in India, from pango-designation issue #899	-
+BA.2.76.2	Japan 100.0%	2022-06-23	26	72	Alias of B.1.1.529.2.76.2, found in Japan, from pango-designation issue #939	-
+BA.2.77	Ireland 33.0%, United Kingdom 26.0%, Czech_Republic 17.0%, United States of America 10.0%, Germany 5.0%	2022-05-01	13	42	Alias of B.1.1.529.2.77, mainly found in Ireland, England and USA, from pango-designation issue #732	-
+BA.2.78	India 54.0%, United States of America 11.0%, United Kingdom 9.0%, Germany 7.0%, New_Zealand 3.0%	2022-03-29	116	246	Alias of B.1.1.529.2.78, mainly found in India, from pango-designation issue #814	-
+BA.2.79	Kuwait 19.0%, Germany 13.0%, Israel 12.0%, United States of America 10.0%, India 9.0%	2022-04-13	100	284	Alias of B.1.1.529.2.79, Kuwait and Israel lineage, from pango-designation issue #812	-
+BA.2.79.1	India 93.0%, United States of America 2.0%, Singapore 1.0%, Mauritius 1.0%, Australia 1.0%	2022-05-05	14	88	Alias of B.1.1.529.2.79.1, India lineage, from pango-designation issue #814	-
+BA.2.80	Denmark 100.0%	2022-05-04	20	25	Alias of B.1.1.529.2.80, found in Demark, from pango-designation issue #733	-
+BA.2.81	Brazil 84.0%, United States of America 8.0%, Canada 1.0%, Germany 1.0%, United Kingdom 1.0%	2022-03-11	309	601	Alias of B.1.1.529.2.81, Brazil lineage	-
+BA.2.82	Australia 31.0%, New_Zealand 10.0%, Israel 8.0%, Pakistan 8.0%, Japan 8.0%	2022-04-28	69	168	Alias of B.1.1.529.2.82, mainly found in Australia, Israel and Japan, from pango-designation issue #874	-
+BA.2.83	India 64.0%, Denmark 32.0%, Canada 4.0%	2022-07-11	4	25	Alias of B.1.1.529.2.83, mainly found in India, from pango-designation issue #1053	-
+BA.2.85	Japan 92.0%, Greece 2.0%, India 1.0%, Canada 1.0%, United States of America 1.0%	2022-02-06	148	177	Alias of B.1.1.529.2.85, mainly found in Japan, from pango-designation issue #983	-
+BA.3	Poland 55.0%, South_Africa 19.0%, India 6.0%, United Kingdom 5.0%, Germany 5.0%	2021-11-23	204	538	Alias of B.1.1.529.3, from pango-designation issue #367	-
+BA.3.1	Poland 46.0%, Germany 12.0%, United States of America 9.0%, United Kingdom 9.0%, France 7.0%	2022-01-01	192	268	Alias of B.1.1.529.3.1, mainly found in Poland, from pango-designation issue #540	-
+BA.4	United Kingdom 23.0%, United States of America 21.0%, Brazil 7.0%, Germany 7.0%, South_Africa 5.0%	2020-07-02	3634	34636	Alias of B.1.1.529.4, from pango-designation issue #517	-
+BA.4.1	United States of America 48.0%, United Kingdom 8.0%, Germany 4.0%, Israel 4.0%, France 4.0%	2021-06-30	8368	56045	Alias of B.1.1.529.4.1, mainly found in South Africa, from pango-designation issue #548	-
+BA.4.1.1	United States of America 34.0%, Chile 13.0%, Germany 8.0%, United Kingdom 8.0%, Denmark 4.0%	2022-01-01	1349	4691	Alias of B.1.1.529.4.1.1, mainly found in South Africa and Germany, from pango-designation issue #667	-
+BA.4.1.2	Austria 52.0%, Germany 19.0%, Japan 9.0%, Israel 6.0%, Sweden 5.0%	2022-04-19	91	236	Alias of B.1.1.529.4.1.2, Austria lineage	-
+BA.4.1.3	Israel 79.0%, Denmark 9.0%, United States of America 3.0%, Germany 3.0%, United Kingdom 2.0%	2020-10-14	124	398	Alias of B.1.1.529.4.1.3, Israel lineage	-
+BA.4.1.4	Israel 83.0%, United Kingdom 3.0%, United States of America 3.0%, Denmark 3.0%, France 2.0%	2022-05-12	254	821	Alias of B.1.1.529.4.1.4, Israel lineage	-
+BA.4.1.5	Israel 84.0%, United States of America 6.0%, United Kingdom 3.0%, Germany 1.0%, Canada 1.0%	2022-04-24	211	637	Alias of B.1.1.529.4.1.5, Israel lineage	-
+BA.4.1.6	United States of America 86.0%, Canada 3.0%, United Kingdom 2.0%, Peru 2.0%, Germany 1.0%	2022-05-07	530	1369	Alias of B.1.1.529.4.1.6, USA lineage	-
+BA.4.1.7	Australia 96.0%, Brazil 1.0%, New_Zealand 1.0%, Indonesia 1.0%	2022-05-22	47	75	Alias of B.1.1.529.4.1.7, Australia lineage	-
+BA.4.1.8	United States of America 50.0%, United Kingdom 12.0%, Mexico 9.0%, South_Africa 8.0%, Luxembourg 6.0%	2022-04-19	76	1692	Alias of B.1.1.529.4.1.8, mainly found in England, USA, South Africa and Mexico, from pango-designation issue #800	-
+BA.4.1.9	United States of America 50.0%, Denmark 7.0%, France 5.0%, Zambia 5.0%, United Kingdom 3.0%	2021-12-22	67	507	Alias of B.1.1.529.4.1.9, mainly found in Zambia, USA, England and Mexico, from pango-designation issue #926	-
+BA.4.1.10	France 67.0%, United States of America 7.0%, United Kingdom 6.0%, Sweden 4.0%, Spain 2.0%	2022-06-04	38	289	Alias of B.1.1.529.4.1.10, mainly found in France, from issue #1073, defined by S:N354D, S:R346T	-
+CS.1	United Kingdom 44.0%, Denmark 22.0%, Israel 11.0%, Netherlands 11.0%, United States of America 11.0%	2022-08-15	6	9	Alias of B.1.1.529.4.1.10.1, Denmark, Netherlands, England, defined by S:K444R	-
+BA.4.2	United States of America 72.0%, Mexico 8.0%, Canada 7.0%, Germany 2.0%, United Kingdom 2.0%	2022-01-19	761	4447	Alias of B.1.1.529.4.2, USA lineage	-
+BA.4.3	Israel 74.0%, United States of America 10.0%, Germany 4.0%, Denmark 2.0%, France 2.0%	2020-10-13	52	125	Alias of B.1.1.529.4.3, Israel lineage	-
+BA.4.4	United States of America 60.0%, United Kingdom 8.0%, Costa_Rica 8.0%, Mexico 4.0%, France 3.0%	2020-07-20	1030	6954	Alias of B.1.1.529.4.4, USA lineage	-
+BA.4.5	Australia 58.0%, New_Zealand 22.0%, United Kingdom 4.0%, United States of America 3.0%, Singapore 2.0%	2022-03-25	234	1020	Alias of B.1.1.529.4.5, Australia lineage	-
+BA.4.6	United States of America 61.0%, Canada 8.0%, United Kingdom 6.0%, France 4.0%, Denmark 3.0%	2020-07-20	1179	44370	Alias of B.1.1.529.4.6, mainly found in USA, England and Denmark, from pango-designation issue #741	-
+BA.4.6.1	United Kingdom 60.0%, United States of America 10.0%, Netherlands 8.0%, Denmark 4.0%, Germany 3.0%	2022-06-09	212	911	Alias of B.1.1.529.4.6.1, mainly found in UK, USA and Germany, from pango-designation issue #900	-
+BA.4.6.2	United States of America 51.0%, Canada 19.0%, Dominican_Republic 12.0%, Australia 5.0%, France 5.0%	2022-08-11	29	189	Alias of B.1.1.529.4.6.2, Dominican Republic, USA, defined by S:V445A, from pango-designation issue #1198	-
+BA.4.6.3	United Kingdom 31.0%, Denmark 17.0%, United States of America 17.0%, Australia 9.0%, Canada 5.0%	2022-08-20	6	208	Alias of B.1.1.529.4.6.3, defined by S:444N, S:460K, S:144-, from pango-designation issue #1195	-
+BA.4.6.4	Australia 62.0%, United States of America 16.0%, New_Zealand 10.0%, Canada 5.0%, United Kingdom 1.0%	2022-05-29	748	1409	Alias of B.1.1.529.4.6.4, Oceania, defined by ORF7a:Q62H	-
+BA.4.6.5	United States of America 55.0%, Canada 15.0%, United Kingdom 7.0%, Denmark 3.0%, Germany 3.0%	2022-05-19	3118	3940	Alias of B.1.1.529.4.6.5, global, defined by ORF9b:N36S	-
+DC.1	United States of America 45.0%, France 13.0%, Denmark 9.0%, Sweden 9.0%, Ireland 8.0%	2022-08-08	90	181	Alias of B.1.1.529.4.6.5.1, global, defined by S:N460S	-
+BA.4.7	United Kingdom 24.0%, Germany 9.0%, United States of America 8.0%, Sweden 7.0%, France 7.0%	2020-07-25	244	1569	Alias of B.1.1.529.4.7, mainly found in England, South Africa and Scotland, from pango-designation issue #777	-
+BA.4.8	South_Africa 57.0%, Eswatini 14.0%, United States of America 7.0%, Denmark 5.0%, United Kingdom 4.0%	2022-03-08	57	81	Alias of B.1.1.529.4.8, mainly South Africa and Eswatini, from pango-designation issue #670	-
+BA.5	United States of America 41.0%, United Kingdom 8.0%, France 7.0%, Germany 7.0%, Denmark 4.0%	2020-07-20	2464	30661	Alias of B.1.1.529.5, from pango-designation issue #517	-
+BA.5.1	United States of America 19.0%, France 11.0%, Germany 11.0%, United Kingdom 9.0%, Denmark 7.0%	2020-06-30	23803	199032	Alias of B.1.1.529.5.1, Portugal lineage	-
+BA.5.1.1	United States of America 71.0%, Canada 11.0%, Mexico 4.0%, Japan 2.0%, United Kingdom 2.0%	2022-02-20	1190	11220	Alias of B.1.1.529.5.1.1, USA lineage	-
+BA.5.1.2	United States of America 24.0%, Denmark 10.0%, France 10.0%, Germany 9.0%, Canada 9.0%	2022-02-26	588	6258	Alias of B.1.1.529.5.1.2, mainly found in Denmark, Portugal and Luxembourg, from pango-designation issue #790	-
+BA.5.1.3	Germany 31.0%, United States of America 21.0%, Denmark 8.0%, China 5.0%, Spain 5.0%	2021-09-17	742	7550	Alias of B.1.1.529.5.1.3, mainly found in Germany Portugal and Spain, from pango-designation issue #765	-
+BA.5.1.4	Denmark 28.0%, United Kingdom 17.0%, United States of America 8.0%, Germany 6.0%, France 6.0%	2022-05-25	116	1104	Alias of B.1.1.529.5.1.4, mainly found in Denmark and England, from pango-designation issue #801	-
+BA.5.1.5	United States of America 21.0%, United Kingdom 13.0%, Germany 11.0%, France 8.0%, Denmark 8.0%	2022-04-26	180	6562	Alias of B.1.1.529.5.1.5, mainly found in UK, Denmark, and Belgium, from pango-designation issue #835	-
+BA.5.1.6	United States of America 51.0%, Mexico 40.0%, Canada 3.0%, United Kingdom 1.0%, Denmark 1.0%	2022-03-08	275	3406	Alias of B.1.1.529.5.1.6, Mexico lineage	-
+BA.5.1.7	Canada 76.0%, United States of America 19.0%, United Kingdom 1.0%, Germany 0.0%, Costa_Rica 0.0%	2022-05-15	121	1737	Alias of B.1.1.529.5.1.7, Canada lineage	-
+BA.5.1.8	Peru 90.0%, United States of America 4.0%, Italy 2.0%, Canada 1.0%, Chile 1.0%	2022-05-13	74	706	Alias of B.1.1.529.5.1.8, Peru lineage	-
+BA.5.1.9	United Kingdom 32.0%, Luxembourg 12.0%, Ireland 10.0%, France 8.0%, Germany 7.0%	2022-05-12	213	725	Alias of B.1.1.529.5.1.9, mainly found in England, Luxembourg, Scotland and Ireland from pango-designation issue #786	-
+BA.5.1.10	United States of America 41.0%, Germany 8.0%, Italy 8.0%, United Kingdom 7.0%, Denmark 5.0%	2020-03-31	1019	9729	Alias of B.1.1.529.5.1.10, mainly found in USA, Italy and England, from pango-designation issue #901	-
+BK.1	United States of America 78.0%, Canada 15.0%, Japan 1.0%, France 1.0%, United Kingdom 1.0%	2022-06-09	93	1510	Alias of B.1.1.529.5.1.10.1, mainly found in USA, and Canada, from pango-designation issue #901	-
+BA.5.1.11	Denmark 91.0%, Sweden 2.0%, United States of America 1.0%, United Kingdom 1.0%, Portugal 1.0%	2022-05-22	374	527	Alias of B.1.1.529.5.1.11, mainly found in Denmark, from pango-designation issue #908	-
+BA.5.1.12	United States of America 28.0%, Peru 15.0%, United Kingdom 11.0%, Canada 8.0%, Spain 6.0%	2022-02-08	59	1676	Alias of B.1.1.529.5.1.12, mainly found in Spain, from pango-designation issue #902	-
+BA.5.1.14	Brazil 92.0%, Chile 3.0%, Italy 3.0%, Peru 3.0%	2022-05-13	29	37	Alias of B.1.1.529.5.1.14, mainly found in Brazil	-
+BA.5.1.15	Peru 59.0%, Brazil 14.0%, Canada 8.0%, United States of America 6.0%, Japan 3.0%	2022-05-26	180	623	Alias of B.1.1.529.5.1.15, Peru and Brazil lineage	-
+DL.1	Brazil 68.0%, United States of America 18.0%, Chile 3.0%, Peru 2.0%, French_Guiana 2.0%	2022-10-02	147	305	Alias of B.1.1.529.5.1.15.1, found mainly in Brazil and USA, from pango-designation issue #1376	-
+BA.5.1.16	Japan 86.0%, United States of America 6.0%, France 2.0%, Germany 2.0%, Brazil 1.0%	2022-05-18	581	1572	Alias of B.1.1.529.5.1.16, Japan lineage	-
+BA.5.1.17	France 53.0%, Germany 9.0%, United States of America 5.0%, Netherlands 4.0%, Denmark 4.0%	2021-11-15	801	1849	Alias of B.1.1.529.5.1.17, France lineage	-
+BA.5.1.18	United States of America 85.0%, Canada 4.0%, United Kingdom 2.0%, Denmark 2.0%, Luxembourg 1.0%	2022-06-15	63	1482	Alias of B.1.1.529.5.1.18, mainly found in USA, from pango-designation issue #930	-
+BA.5.1.19	Germany 22.0%, Netherlands 17.0%, United States of America 12.0%, Russia 8.0%, United Kingdom 6.0%	2022-06-05	200	527	Alias of B.1.1.529.5.1.19, mainly found in Netherlands, Germany, USA, and England, from pango-designation issue #999	-
+BA.5.1.20	United States of America 45.0%, Canada 30.0%, Belgium 7.0%, France 3.0%, United Kingdom 3.0%	2022-05-23	33	341	Alias of B.1.1.529.5.1.20, mainly found in USA and Belgium, from pango-designation issue #1000	-
+BA.5.1.21	United States of America 21.0%, Germany 16.0%, United Kingdom 7.0%, Netherlands 6.0%, Brazil 6.0%	2022-02-08	733	1168	Alias of B.1.1.529.5.1.21, mainly found in Gambia and Japan, from pango-designation issue #958	-
+BT.1	Japan 38.0%, United Kingdom 19.0%, United States of America 14.0%, Netherlands 6.0%, Denmark 4.0%	2022-06-07	183	270	Alias of B.1.1.529.5.1.21.1, mainly found in Japan, from pango-designation issue #958	-
+BT.2	Denmark 28.0%, Germany 17.0%, France 9.0%, United Kingdom 7.0%, United States of America 7.0%	2022-06-19	169	516	Alias of B.1.1.529.5.1.21.2, mainly found in Denmark, Germany and France, from pango-designation issue #1192	-
+BA.5.1.22	United States of America 22.0%, Germany 14.0%, France 11.0%, United Kingdom 11.0%, Denmark 6.0%	2021-11-15	11818	16355	Alias of B.1.1.529.5.1.22, mainly found in Europe, defined by ORF1b:S1273L, from pango-designation issue #1135	-
+DH.1	Denmark 99.0%, Poland 1.0%	2022-08-27	30	99	Alias of B.1.1.529.5.1.22.1, found mainly in Denmark, from pango-designation issue #1242	-
+BA.5.1.23	United States of America 26.0%, Germany 9.0%, Spain 8.0%, United Kingdom 8.0%, France 7.0%	2021-05-17	9532	13318	Alias of B.1.1.529.5.1.23, mainly found in Spain, defined by ORF1a:S302F, from pango-designation issue #1135	-
+DE.1	United States of America 26.0%, Canada 21.0%, United Kingdom 7.0%, Mexico 5.0%, Sweden 5.0%	2022-02-24	438	419	Alias of B.1.1.529.5.1.23.1, S:A694V	-
+DE.2	Germany 25.0%, United States of America 14.0%, Canada 11.0%, Denmark 10.0%, Italy 8.0%	2022-09-20	45	92	Alias of B.1.1.529.5.1.23.2, S:R346T, S:G181V	-
+BA.5.1.24	United States of America 18.0%, United Kingdom 16.0%, Germany 12.0%, Denmark 8.0%, Finland 7.0%	2022-04-07	5166	6512	Alias of B.1.1.529.5.1.24, mainly found in Finland, defined by ORF1b:V1271L, from pango-designation issue #1135	-
+BA.5.1.25	United States of America 55.0%, Peru 9.0%, Mexico 7.0%, Canada 5.0%, United Kingdom 4.0%	2022-05-11	2849	4411	Alias of B.1.1.529.5.1.25, mainly found in Mexico and Peru, defined by ORF7b:H42Y, from pango-designation issue #1135	-
+DJ.1	Peru 92.0%, United States of America 4.0%, Colombia 1.0%, France 0.0%, Mexico 0.0%	2022-06-28	126	272	Alias of B.1.1.529.5.1.25.1, found mainly in Peru, from pango-designation issue #1245	-
+DJ.1.1	Peru 88.0%, United States of America 5.0%, Sweden 3.0%, Netherlands 1.0%, Chile 1.0%	2022-08-04	17	413	Alias of B.1.1.529.5.1.25.1.1, found in Peru, from pango-designation issue #1245	-
+BA.5.1.26	Germany 22.0%, Czech_Republic 22.0%, United Kingdom 8.0%, Sweden 6.0%, Slovakia 6.0%	2022-06-08	162	360	Alias of B.1.1.529.5.1.26, mainly found in Czechia, defined by S:R346T	-
+CU.1	Slovenia 81.0%, Germany 8.0%, Croatia 6.0%, Denmark 3.0%, Austria 3.0%	2022-08-05	9	36	Alias of B.1.1.529.5.1.26.1, Central/Eastern Europe, S:T95I, S:T547K	-
+BA.5.1.27	United States of America 92.0%, Canada 2.0%, United Kingdom 2.0%, Spain 1.0%, Guatemala 0.0%	2022-07-08	120	986	Alias of B.1.1.529.5.1.27, mainly found in North America, defined by S:R346T	-
+BA.5.1.28	South_Korea 30.0%, United States of America 22.0%, Germany 9.0%, Italy 8.0%, France 6.0%	2022-06-24	89	303	Alias of B.1.1.529.5.1.28, mainly found in North America, defined by S:R346T (and A18480G)	-
+BA.5.1.29	Russia 31.0%, France 11.0%, Luxembourg 9.0%, Georgia 9.0%, Estonia 9.0%	2022-07-09	9	35	Alias of B.1.1.529.5.1.29, mainly found in Russia, Germany and Estonia, from pango-designation issue #1060	-
+CL.1	Russia 42.0%, Denmark 13.0%, Germany 12.0%, United States of America 8.0%, United Kingdom 5.0%	2022-08-10	15	881	Alias of B.1.1.529.5.1.29.1, S:150E and S:460K, issue #1187	-
+BA.5.1.30	United States of America 36.0%, Canada 9.0%, Germany 7.0%, United Kingdom 6.0%, France 6.0%	2021-09-24	1000	5157	Alias of B.1.1.529.5.1.30, ORF6:D6G	-
+BA.5.1.31	France 33.0%, Germany 12.0%, Denmark 11.0%, Switzerland 9.0%, Spain 6.0%	2022-07-11	32	132	Alias of B.1.1.529.5.1.31, found mainly in France and Denmark, from pango-designation issue #991	-
+BA.5.2	United States of America 19.0%, Japan 18.0%, Germany 7.0%, United Kingdom 5.0%, Russia 5.0%	2020-07-20	10695	223011	Alias of B.1.1.529.5.2, mainly found in South Africa, England and USA, from pango-designation issue #551	-
+BA.5.2.1	United States of America 40.0%, Japan 11.0%, Canada 6.0%, Germany 5.0%, United Kingdom 5.0%	2020-07-21	14791	242716	Alias of B.1.1.529.5.2.1, mainly found in South Africa, England and USA, from pango-designation issue #657	-
+BF.1	United Kingdom 20.0%, United States of America 16.0%, Japan 15.0%, Germany 11.0%, Spain 7.0%	2020-07-23	1146	8971	Alias of B.1.1.529.5.2.1.1, mainly found in England, Denmark, Spain and Scotland, from pango-designation issue #618	-
+BF.1.1	United States of America 88.0%, Canada 3.0%, Denmark 2.0%, Germany 2.0%, Ireland 1.0%	2022-04-28	122	386	Alias of B.1.1.529.5.2.1.1.1, USA lineage	-
+BF.2	France 21.0%, Japan 18.0%, Denmark 18.0%, United States of America 8.0%, United Kingdom 7.0%	2022-04-30	138	1873	Alias of B.1.1.529.5.2.1.2, Denmark lineage	-
+BF.3	India 43.0%, United States of America 23.0%, Japan 5.0%, Singapore 5.0%, United Kingdom 4.0%	2022-05-03	188	1587	Alias of B.1.1.529.5.2.1.3, India lineage	-
+BF.3.1	India 52.0%, United States of America 17.0%, Japan 10.0%, Singapore 8.0%, Australia 2.0%	2022-06-01	40	184	Alias of B.1.1.529.5.2.1.3.1, mainly found India, Singapore, and USA, from pango-designation issue #825	-
+BF.4	United States of America 32.0%, United Kingdom 21.0%, Japan 14.0%, Canada 8.0%, Germany 4.0%	2022-04-29	382	3252	Alias of B.1.1.529.5.2.1.4, mainly found in England, from pango-designation issue #788	-
+BF.5	Japan 49.0%, Israel 15.0%, United States of America 12.0%, Germany 4.0%, Denmark 3.0%	2020-07-21	3304	59468	Alias of B.1.1.529.5.2.1.5, Israel lineage	-
+BF.6	United Kingdom 49.0%, United States of America 12.0%, Germany 7.0%, Spain 4.0%, Ireland 4.0%	2022-05-24	160	1350	Alias of B.1.1.529.5.2.1.6, mainly found in England and Scotland, from pango-designation issue #821	-
+BF.7	Germany 17.0%, United States of America 16.0%, Denmark 10.0%, France 10.0%, Belgium 6.0%	2022-01-24	268	32376	Alias of B.1.1.529.5.2.1.7, mainly found in Belgium, England and Denmark, from pango-designation issue #827	-
+BF.7.1	Germany 58.0%, Netherlands 9.0%, Sweden 8.0%, France 5.0%, Austria 3.0%	2022-01-31	17	363	Alias of B.1.1.529.5.2.1.7.1, mainly found in Germany, S:G261V, from pango-designation issue #1132	-
+BF.7.2	Denmark 99.0%, Poland 1.0%, France 1.0%	2022-09-02	40	162	Alias of B.1.1.529.5.2.1.7.2, Denmark, S:H1101Y and S:V486I, issue #1216	-
+BF.7.3	Czech_Republic 21.0%, Germany 20.0%, Luxembourg 15.0%, France 14.0%, Denmark 5.0%	2022-08-19	34	198	Alias of B.1.1.529.5.2.1.7.3, France/Czechia, S:K182E	-
+BF.7.4	United States of America 36.0%, Germany 11.0%, Belgium 8.0%, Denmark 8.0%, United Kingdom 7.0%	2022-06-14	1038	3637	Alias of B.1.1.529.5.2.1.7.4, Europe, ORF8:H17Y	-
+BF.7.4.1	United States of America 54.0%, Japan 20.0%, Netherlands 5.0%, Canada 5.0%, United Kingdom 2.0%	2022-08-03	55	1834	Alias of B.1.1.529.5.2.1.7.4.1, found mainly in USA and Netherlands, from pango-designation issue #1253	-
+BF.7.4.2	Sweden 35.0%, Germany 13.0%, United Kingdom 12.0%, United States of America 7.0%, Belgium 6.0%	2022-07-23	356	574	Alias of B.1.1.529.5.2.1.7.4.2, Europe	-
+BF.7.5	Germany 28.0%, Denmark 23.0%, United States of America 9.0%, Sweden 6.0%, United Kingdom 5.0%	2022-07-12	741	3259	Alias of B.1.1.529.5.2.1.7.5, Europe, ORF1b:P1427L	-
+BF.7.5.1	Germany 49.0%, Denmark 22.0%, Switzerland 10.0%, Italy 4.0%, United States of America 4.0%	2022-09-12	22	189	Alias of B.1.1.529.5.2.1.7.5.1, found mainly in Germany and Denmark, from pango-designation issue #1317	-
+BF.7.6	Germany 28.0%, United States of America 12.0%, Denmark 11.0%, United Kingdom 6.0%, Netherlands 6.0%	2021-02-26	597	1995	Alias of B.1.1.529.5.2.1.7.6, Europe, ORF3a:E239D	-
+BF.7.7	Netherlands 84.0%, Germany 9.0%, United Kingdom 3.0%, Denmark 3.0%	2022-08-05	1	32	Alias of B.1.1.529.5.2.1.7.7, Europe, S:D80G	-
+BF.7.8	Belgium 22.0%, Germany 19.0%, United States of America 12.0%, Netherlands 9.0%, France 8.0%	2022-07-09	84	501	Alias of B.1.1.529.5.2.1.7.8, Europe, S:T883I	-
+BF.7.9	Belgium 19.0%, Austria 18.0%, France 16.0%, Germany 11.0%, Denmark 7.0%	2022-07-04	38	158	Alias of B.1.1.529.5.2.1.7.9, Europe, S:Q677H	-
+BF.7.10	Germany 25.0%, Iceland 17.0%, Netherlands 17.0%, United Kingdom 9.0%, United States of America 7.0%	2022-06-27	37	187	Alias of B.1.1.529.5.2.1.7.10, Europe, S:Q1201K	-
+BF.7.11	Netherlands 55.0%, Germany 17.0%, Denmark 9.0%, United Kingdom 6.0%, Luxembourg 5.0%	2022-08-08	36	132	Alias of B.1.1.529.5.2.1.7.11, Europe, S:D1260Y	-
+BF.7.12	United States of America 27.0%, Germany 14.0%, United Kingdom 12.0%, Australia 11.0%, Iceland 11.0%	2022-06-23	21	184	Alias of B.1.1.529.5.2.1.7.12, Europe, S:A942S	-
+BF.7.13	Belgium 29.0%, France 28.0%, Netherlands 8.0%, Germany 8.0%, United Kingdom 5.0%	2022-06-08	47	109	Alias of B.1.1.529.5.2.1.7.13, Belgium, ORF1a:H388Y, ORF1a:H1160Y,	-
+BF.7.13.1	Germany 53.0%, Sweden 13.0%, Belgium 7.0%, United Kingdom 7.0%, Switzerland 7.0%	2022-07-16	21	30	Alias of B.1.1.529.5.2.1.7.13.1, Europe, S:T430I, S:P681Y	-
+BF.7.13.2	Germany 31.0%, United Kingdom 22.0%, Denmark 15.0%, Poland 11.0%, Switzerland 5.0%	2022-08-29	36	100	Alias of B.1.1.529.5.2.1.7.13.2, Poland, S:A653V	-
+BF.8	United States of America 80.0%, Canada 5.0%, Mexico 3.0%, Japan 2.0%, Germany 2.0%	2022-04-27	706	4687	Alias of B.1.1.529.5.2.1.8, USA lineage	-
+BF.9	Canada 64.0%, United States of America 32.0%, Belgium 1.0%, United Kingdom 1.0%, Israel 1.0%	2022-05-28	84	698	Alias of B.1.1.529.5.2.1.9, Canada lineage	-
+BF.10	United States of America 72.0%, Canada 12.0%, United Kingdom 2.0%, Japan 2.0%, Australia 1.0%	2020-07-25	1351	18657	Alias of B.1.1.529.5.2.1.10, USA lineage	-
+BF.11	United States of America 36.0%, United Kingdom 23.0%, Germany 8.0%, Canada 4.0%, Sweden 4.0%	2022-06-21	204	4244	Alias of B.1.1.529.5.2.1.11, mainly found in England, S:R346T, from pango-designation issue #837	-
+BF.11.1	United Kingdom 37.0%, Germany 13.0%, United States of America 11.0%, Japan 8.0%, Denmark 6.0%	2022-06-17	310	684	Alias of B.1.1.529.5.2.1.11.1, England, S:S1252F	-
+BF.11.2	United Kingdom 56.0%, Denmark 18.0%, Australia 5.0%, United States of America 3.0%, Ireland 3.0%	2022-08-24	26	322	Alias of B.1.1.529.5.2.1.11.2, Wales, S:K147N	-
+BF.11.3	Canada 44.0%, Germany 17.0%, United States of America 8.0%, France 6.0%, Austria 6.0%	2022-07-25	78	322	Alias of B.1.1.529.5.2.1.11.3, ORF1a:L122F	-
+BF.11.4	Denmark 44.0%, United States of America 16.0%, Germany 12.0%, United Kingdom 11.0%, Australia 7.0%	2022-08-11	53	305	Alias of B.1.1.529.5.2.1.11.4, England, S:S704L	-
+BF.11.5	United Kingdom 56.0%, United States of America 7.0%, Denmark 7.0%, Japan 5.0%, Germany 4.0%	2022-08-11	93	335	Alias of B.1.1.529.5.2.1.11.5, England, ORF8:I121L	-
+BF.12	Japan 47.0%, Brazil 13.0%, Austria 6.0%, United States of America 6.0%, France 6.0%	2022-05-06	63	709	Alias of B.1.1.529.5.2.1.12, mainly found Austria, Brazil, and England, from pango-designation issue #752	-
+BF.13	United States of America 69.0%, Canada 8.0%, Germany 3.0%, Denmark 3.0%, Japan 3.0%	2022-06-09	36	1785	Alias of B.1.1.529.5.2.1.13, mainly found in USA, from pango-designation issue #883	-
+BF.14	Austria 22.0%, Germany 16.0%, United States of America 14.0%, Denmark 10.0%, Czech_Republic 7.0%	2022-06-20	60	3598	Alias of B.1.1.529.5.2.1.14, mainly found in Austria, from pango-designation issue #843	-
+BF.15	Australia 23.0%, United States of America 16.0%, Denmark 10.0%, United Kingdom 10.0%, Japan 6.0%	2022-06-16	56	591	Alias of B.1.1.529.5.2.1.15, Sri Lanka lineage, from pango-designation issue #893	-
+BF.16	United States of America 86.0%, Canada 8.0%, Australia 2.0%, Bonaire 1.0%, Denmark 1.0%	2022-05-29	59	514	Alias of B.1.1.529.5.2.1.16, found in USA, from pango-designation issue #942	-
+BF.17	Australia 84.0%, New_Zealand 6.0%, United States of America 2.0%, Japan 1.0%, Germany 1.0%	2022-06-01	217	595	Alias of B.1.1.529.5.2.1.17, Australia lineage	-
+BF.18	Australia 58.0%, New_Zealand 34.0%, United Kingdom 1.0%, Belgium 1.0%, United States of America 1.0%	2022-05-17	252	905	Alias of B.1.1.529.5.2.1.18, Australia lineage	-
+BF.19	Greece 44.0%, United States of America 14.0%, Germany 12.0%, Israel 7.0%, Spain 3.0%	2022-06-05	70	147	Alias of B.1.1.529.5.2.1.19, Greece lineage	-
+BF.20	Kenya 28.0%, United Kingdom 17.0%, Canada 12.0%, United States of America 10.0%, Germany 8.0%	2022-05-24	141	201	Alias of B.1.1.529.5.2.1.20, lineage in Kenya and other countries	-
+BF.21	United States of America 48.0%, Japan 37.0%, Northern_Mariana_Islands 4.0%, Canada 3.0%, South_Korea 3.0%	2022-05-12	2940	8966	Alias of B.1.1.529.5.2.1.21, USA lineage	-
+BF.22	Japan 99.0%, United States of America 0.0%, Mexico 0.0%, Germany 0.0%, Australia 0.0%	2022-06-22	63	1400	Alias of B.1.1.529.5.2.1.22, mainly found in Japan, from pango-designation issue #1010	-
+BF.23	India 34.0%, United States of America 16.0%, Australia 11.0%, Germany 11.0%, Denmark 5.0%	2022-05-16	170	261	Alias of B.1.1.529.5.2.1.23, mainly found in Czechia, from pango-designation issue #1036	-
+BF.24	Indonesia 50.0%, Australia 13.0%, United States of America 13.0%, South_Korea 5.0%, Singapore 4.0%	2022-05-31	329	727	Alias of B.1.1.529.5.2.1.24, mainly found in Indonesia, defined by ORF1a:G683C on S:1020S branch	-
+BF.25	United States of America 80.0%, Japan 5.0%, Canada 4.0%, Australia 2.0%, United Kingdom 2.0%	2022-07-16	72	608	Alias of B.1.1.529.5.2.1.25, USA lineage, defined by S:445A and C18657T	-
+BF.26	United States of America 74.0%, Canada 6.0%, Sweden 4.0%, Germany 3.0%, Denmark 3.0%	2022-02-08	4018	7800	Alias of B.1.1.529.5.2.1.26, North America lineage, defined by ORF1b:G376S, issue #1142	-
+BF.27	United States of America 70.0%, Canada 8.0%, Singapore 4.0%, United Kingdom 3.0%, Denmark 3.0%	2022-05-10	4225	6252	Alias of B.1.1.529.5.2.1.27, Singapore lineage, defined by ORF1a:A2784V, issue #1140	-
+BF.28	United States of America 36.0%, United Kingdom 13.0%, Germany 9.0%, Canada 6.0%, Israel 5.0%	2020-07-22	5746	7639	Alias of B.1.1.529.5.2.1.28, Singapore lineage, defined by ORF1a:Q44L, issue #1141	-
+BF.29	Denmark 66.0%, United States of America 20.0%, Canada 4.0%, United Kingdom 1.0%, France 1.0%	2022-06-28	114	313	Alias of B.1.1.529.5.2.1.29, mainly found in Denmark and USA, from pango-designation issue #1162	-
+BF.30	United Kingdom 56.0%, Ireland 11.0%, United States of America 7.0%, New_Zealand 4.0%, France 3.0%	2022-07-14	32	107	Alias of B.1.1.529.5.2.1.30, South Africa/England, defined by S:R346T after C25916T, C14599T	-
+BF.31	Chile 67.0%, United States of America 9.0%, Germany 5.0%, Peru 3.0%, United Kingdom 3.0%	2022-05-29	811	974	Alias of B.1.1.529.5.2.1.31, Chile, 23758T	-
+BF.31.1	Chile 55.0%, Canada 24.0%, United States of America 11.0%, Peru 2.0%, Australia 2.0%	2022-07-27	99	345	Alias of B.1.1.529.5.2.1.31.1, Chile, S:A701V and S:S247N/S:Y248-	-
+BF.32	United States of America 92.0%, Germany 1.0%, Portugal 1.0%, Australia 1.0%, Spain 1.0%	2022-08-06	138	426	Alias of B.1.1.529.5.2.1.32, found mainly in USA, from pango-designation issue #1250	-
+BF.33	Brazil 90.0%, France 10.0%	2022-09-03	16	20	Alias of B.1.1.529.5.2.1.33, Brazil/France, S:R346I, S:N460K	-
+BF.34	Canada 27.0%, United Kingdom 23.0%, Australia 20.0%, United States of America 11.0%, Germany 7.0%	2022-08-19	47	105	Alias of B.1.1.529.5.2.1.34, found mainly in UK and Canada, from pango-designation issue #1233	-
+BA.5.2.2	France 34.0%, United States of America 13.0%, Canada 8.0%, Martinique 7.0%, French_Guiana 6.0%	2022-05-02	391	2866	Alias of B.1.1.529.5.2.2, France and Martinique lineage	-
+BA.5.2.3	United Kingdom 25.0%, United States of America 17.0%, Denmark 10.0%, Germany 8.0%, France 6.0%	2022-02-27	594	6608	Alias of B.1.1.529.5.2.3, UK lineage	-
+BZ.1	Denmark 98.0%, United States of America 2.0%, Germany 1.0%	2022-07-14	85	121	Alias of B.1.1.529.5.2.3.1, Denmark lineage, defined by S:Q677H	-
+BA.5.2.4	Australia 51.0%, United States of America 11.0%, New_Zealand 7.0%, Denmark 4.0%, United Kingdom 4.0%	2022-05-15	120	653	Alias of B.1.1.529.5.2.4, Australia lineage	-
+BA.5.2.5	Indonesia 78.0%, Australia 7.0%, Germany 3.0%, France 3.0%, New_Zealand 1.0%	2022-06-07	51	148	Alias of B.1.1.529.5.2.5, Indonesia lineage	-
+BA.5.2.6	United States of America 24.0%, Indonesia 12.0%, Japan 10.0%, Germany 8.0%, Australia 6.0%	2022-01-02	65	7552	Alias of B.1.1.529.5.2.6, global lineage, S:R346T, from pango-designation issue #870	-
+CP.1	United States of America 37.0%, Ireland 17.0%, United Kingdom 11.0%, Japan 8.0%, Australia 7.0%	2022-01-05	67	598	Alias of B.1.1.529.5.2.6.1, global lineage, 27360C	-
+CP.1.1	United States of America 38.0%, United Kingdom 18.0%, Portugal 10.0%, Israel 10.0%, Belgium 7.0%	2022-08-24	7	61	Alias of B.1.1.529.5.2.6.1.1, Portugal, France, Denmark, UK lineage, S:V445A	-
+CP.1.2	United Kingdom 40.0%, United States of America 19.0%, Netherlands 18.0%, New_Zealand 12.0%, Denmark 4.0%	2022-09-03	28	57	Alias of B.1.1.529.5.2.6.1.2, England, S:K150N	-
+CP.1.3	United Kingdom 84.0%, Ireland 6.0%, Denmark 3.0%, United States of America 3.0%, Sweden 3.0%	2022-09-18	22	32	Alias of B.1.1.529.5.2.6.1.3, England, S:G446S	-
+CP.2	United States of America 21.0%, Germany 13.0%, Indonesia 9.0%, Sweden 9.0%, Japan 7.0%	2022-08-11	17	447	Alias of B.1.1.529.5.2.6.2, Bangladesh, S:N334K	-
+CP.3	Israel 23.0%, United States of America 17.0%, Denmark 12.0%, United Kingdom 12.0%, Germany 8.0%	2022-08-29	11	48	Alias of B.1.1.529.5.2.6.3, Turkey, S:N460Y	-
+CP.4	Denmark 73.0%, United States of America 12.0%, Turkey 6.0%, Sweden 2.0%, Indonesia 2.0%	2022-09-19	21	49	Alias of B.1.1.529.5.2.6.4, Turkey, S:I770V	-
+CP.5	United States of America 46.0%, South_Africa 17.0%, Sweden 13.0%, Denmark 5.0%, Germany 3.0%	2022-07-04	44	94	Alias of B.1.1.529.5.2.6.5, South Africa, S:C1247F	-
+CP.6	United States of America 61.0%, Australia 25.0%, Singapore 7.0%, Japan 2.0%, Thailand 2.0%	2022-08-26	22	44	Alias of B.1.1.529.5.2.6.6, S:V1264L	-
+BA.5.2.7	United Kingdom 18.0%, Germany 16.0%, United States of America 12.0%, Russia 12.0%, Japan 6.0%	2022-01-26	62	1803	Alias of B.1.1.529.5.2.7, global lineage, from pango-designation issue #924	-
+CY.1	Netherlands 29.0%, Belgium 24.0%, Luxembourg 14.0%, United States of America 10.0%, Denmark 6.0%	2022-09-07	3	70	Alias of B.1.1.529.5.2.7.1, found mainly in Belgium, Netherlands and Luxembourg, from pango-designation issue #1247	-
+BA.5.2.8	Israel 29.0%, United States of America 24.0%, Canada 22.0%, Germany 7.0%, United Kingdom 4.0%	2022-06-03	455	1286	Alias of B.1.1.529.5.2.8, Israel lineage	-
+BA.5.2.9	United States of America 68.0%, Mexico 7.0%, Canada 6.0%, United Kingdom 4.0%, Denmark 2.0%	2022-02-26	3582	13632	Alias of B.1.1.529.5.2.9, USA lineage	-
+BA.5.2.10	Brazil 80.0%, United States of America 3.0%, Germany 3.0%, Croatia 3.0%, France 2.0%	2022-05-09	201	368	Alias of B.1.1.529.5.2.10, Brazil lineage	-
+BA.5.2.11	Philippines 88.0%, New_Zealand 6.0%, Denmark 3.0%, United States of America 1.0%, Australia 1.0%	2022-06-20	136	170	Alias of B.1.1.529.5.2.11, Philippines lineage	-
+BA.5.2.12	Japan 95.0%, United States of America 1.0%, Germany 1.0%, Russia 0.0%, France 0.0%	2022-05-31	700	4550	Alias of B.1.1.529.5.2.12, Japan lineage	-
+BA.5.2.13	United Kingdom 40.0%, United States of America 15.0%, Canada 12.0%, Germany 8.0%, Denmark 8.0%	2022-06-23	69	1973	Alias of B.1.1.529.5.2.13, mainly found in England, from pango-designation issue #959	-
+BA.5.2.14	United States of America 34.0%, Canada 21.0%, Sweden 13.0%, Germany 7.0%, Denmark 6.0%	2022-07-18	9	360	Alias of B.1.1.529.5.2.14, mainly found in Denmark, Canada and Pakistan, from pango-designation issue #1002	-
+BA.5.2.16	United States of America 25.0%, Indonesia 19.0%, United Kingdom 5.0%, Germany 5.0%, Russia 4.0%	2022-01-09	681	1550	Alias of B.1.1.529.5.2.16, Indonesia lineage, defined by ORF1a:A3697V, indirectly from pango-designation issue #1065	-
+BU.1	United States of America 66.0%, United Kingdom 8.0%, Mexico 5.0%, Finland 2.0%, Canada 2.0%	2022-08-01	82	420	Alias of B.1.1.529.5.2.16.1, defined by S:444M and S:460K, from pango-designation issue #1065	-
+BU.2	United States of America 88.0%, Canada 8.0%, Denmark 1.0%, Croatia 1.0%, Israel 1.0%	2022-07-13	78	102	Alias of B.1.1.529.5.2.16.2, USA lineage, S:V445A	-
+BU.3	United States of America 36.0%, Germany 24.0%, France 10.0%, Luxembourg 6.0%, Guatemala 6.0%	2022-08-30	10	174	Alias of B.1.1.529.5.2.16.3, Guatemala, S:K147N, S:N450D	-
+BA.5.2.18	United States of America 16.0%, Germany 15.0%, Russia 12.0%, Sweden 9.0%, United Kingdom 7.0%	2021-11-01	163	1735	Alias of B.1.1.529.5.2.18, mainly Scandinavia, defined by S:K444R on ORF1b:1050N branch, from pango-designation issue #1025	-
+CR.1	Japan 18.0%, United Kingdom 16.0%, United States of America 15.0%, Denmark 12.0%, Indonesia 10.0%	2022-07-13	19	274	Alias of B.1.1.529.5.2.18.1, global, S:R346T	-
+CR.1.1	United States of America 92.0%, Denmark 3.0%, Australia 2.0%, Japan 1.0%, Germany 1.0%	2022-09-28	17	274	Alias of B.1.1.529.5.2.18.1.1, S:V62I	-
+CR.1.2	Canada 67.0%, Israel 20.0%, United States of America 7.0%, United Kingdom 7.0%	2022-09-12	7	15	Alias of B.1.1.529.5.2.18.1.2, Canada/Israel, S:V445A	-
+CR.2	United Kingdom 68.0%, Austria 11.0%, Spain 8.0%, Canada 4.0%, United States of America 4.0%	2022-09-05	15	53	Alias of B.1.1.529.5.2.18.2, England, S:Y145H	-
+BA.5.2.19	South_Korea 38.0%, United States of America 27.0%, Japan 9.0%, Indonesia 4.0%, United Kingdom 3.0%	2022-06-14	788	1816	Alias of B.1.1.529.5.2.19, mainly Scandinavia, defined by ORF3a:T14I on ORF1b:1050N branch, from issue #916	-
+BA.5.2.20	United States of America 20.0%, Germany 10.0%, France 10.0%, Japan 7.0%, United Kingdom 7.0%	2020-07-20	1127	14165	Alias of B.1.1.529.5.2.20, mainly Indonesia, defined by C23707T on ORF1b:1050N branch to reduce unspecified BA.5.2	-
+BV.1	Denmark 19.0%, United States of America 19.0%, Germany 14.0%, Slovenia 10.0%, France 9.0%	2022-07-01	33	188	Alias of B.1.1.529.5.2.20.1, mainly found in Denmark, from pango-designation issue #1019, formerly BA.5.2.17	-
+BV.2	Germany 34.0%, United Kingdom 9.0%, United States of America 8.0%, Switzerland 6.0%, Pakistan 5.0%	2022-06-27	25	154	Alias of B.1.1.529.5.2.20.2, defined by S:K444N	-
+BA.5.2.21	United States of America 54.0%, Japan 9.0%, Canada 8.0%, Germany 5.0%, United Kingdom 4.0%	2022-05-21	816	8090	Alias of B.1.1.529.5.2.21, mainly Indonesia, defined by C5284T on ORF1b:1050N branch to reduce unspecified BA.5.2	-
+CN.1	United Kingdom 22.0%, United States of America 21.0%, Germany 12.0%, Denmark 9.0%, Canada 4.0%	2022-05-31	86	482	Alias of B.1.1.529.5.2.21.1, S:N450D, issue #1108	-
+BA.5.2.22	United States of America 27.0%, Canada 18.0%, Germany 8.0%, Japan 8.0%, Thailand 4.0%	2022-05-17	1308	4175	Alias of B.1.1.529.5.2.22, mainly found in USA, Canada and Germany, from pango-designation issue #945	-
+BA.5.2.23	United States of America 58.0%, Costa_Rica 25.0%, Canada 3.0%, Sweden 2.0%, United Kingdom 1.0%	2022-08-02	25	1240	Alias of B.1.1.529.5.2.23, mainly found in USA, from pango-designation issue #1090	-
+BA.5.2.24	United States of America 14.0%, Australia 14.0%, Russia 12.0%, Germany 7.0%, Denmark 5.0%	2022-06-13	88	845	Alias of B.1.1.529.5.2.24, defined by S:K444N on ORF1b:1050N branch	-
+CK.1	United States of America 49.0%, United Kingdom 7.0%, Germany 7.0%, Singapore 5.0%, Canada 5.0%	2022-08-09	38	652	Alias of B.1.1.529.5.2.24.1, Pakistan, defined by S:N460K, issue #1120	-
+CK.2	United States of America 46.0%, Pakistan 15.0%, Australia 8.0%, United Kingdom 6.0%, Switzerland 5.0%	2022-07-12	44	171	Alias of B.1.1.529.5.2.24.2, Pakistan, defined by E:V62F	-
+CK.2.1	Australia 28.0%, Denmark 24.0%, United States of America 17.0%, Pakistan 9.0%, Russia 6.0%	2022-09-11	10	89	Alias of B.1.1.529.5.2.24.2.1, Pakistan, defined by S:N460K	-
+CK.2.1.1	Germany 26.0%, United States of America 24.0%, United Kingdom 8.0%, Denmark 8.0%, Spain 8.0%	2022-09-17	33	690	Alias of B.1.1.529.5.2.24.2.1.1, defined by S:S255F	-
+CK.3	Singapore 24.0%, United States of America 23.0%, United Kingdom 13.0%, Australia 9.0%, Sweden 7.0%	2022-09-06	91	298	Alias of B.1.1.529.5.2.24.3, found mainly in Singapore and USA, from pango-designation issue #1121	-
+DG.1	United States of America 21.0%, Spain 16.0%, Australia 16.0%, New_Zealand 16.0%, Germany 7.0%	2022-10-06	19	116	Alias of B.1.1.529.5.2.24.2.1.1.1, defined by S:G252S	-
+BA.5.2.25	France 22.0%, United States of America 20.0%, Canada 19.0%, Germany 6.0%, Belgium 5.0%	2022-07-29	25	745	Alias of B.1.1.529.5.2.25, mainly found in France, USA and Canada, from pango-designation issue #1111	-
+DB.1	France 24.0%, Canada 16.0%, Denmark 15.0%, Australia 9.0%, United States of America 8.0%	2022-09-23	5	127	Alias of B.1.1.529.5.2.25.1, France/Netherlands/Spain, S:R346T, S:N460K	-
+DB.2	Belgium 46.0%, United States of America 8.0%, Denmark 7.0%, France 7.0%, Luxembourg 7.0%	2022-09-04	31	59	Alias of B.1.1.529.5.2.25.2, BeNeLux, S:A262S	-
+BA.5.2.26	Japan 23.0%, Germany 16.0%, Thailand 9.0%, United States of America 6.0%, Poland 5.0%	2022-02-20	2011	3829	Alias of B.1.1.529.5.2.26, most common in Thailand, defined by ORF3a:L108V, from pango-designation issue #1133	-
+BA.5.2.27	United States of America 31.0%, Japan 12.0%, Russia 6.0%, Canada 5.0%, Vietnam 4.0%	2022-05-22	1377	2888	Alias of B.1.1.529.5.2.27, most common in Vietnam, defined by ORF1a:I2332V, from pango-designation issue #1133	-
+CF.1	United States of America 78.0%, Canada 11.0%, Mexico 11.0%	2022-07-19	6	9	Alias of B.1.1.529.5.2.27.1, US and Mexico lineage, defined by S:K97T, originally designated as BA.5.2.15 from issue #1054	-
+CG.1	Germany 29.0%, Denmark 12.0%, Canada 7.0%, United States of America 6.0%, Czech_Republic 5.0%	2022-06-27	37	371	Alias of B.1.1.529.5.2.26.1, mainly found in Germany, Poland and Denmark, from pango-designation issue #1126	-
+BA.5.2.28	United States of America 27.0%, Japan 24.0%, Malaysia 10.0%, United Kingdom 5.0%, Germany 4.0%	2022-03-22	1957	3560	Alias of B.1.1.529.5.2.28, most common in Malaysia, defined by ORF1a:T1437I, from pango-designation issue #1133	-
+BA.5.2.29	Denmark 62.0%, Sweden 17.0%, Australia 3.0%, Bahrain 2.0%, United States of America 2.0%	2022-07-01	88	321	Alias of B.1.1.529.5.2.29, mainly found in Denmark, from pango-designation issue #1050	-
+BA.5.2.30	Denmark 18.0%, Germany 15.0%, United States of America 13.0%, Japan 7.0%, Belgium 5.0%	2021-10-24	92	474	Alias of B.1.1.529.5.2.30, Europe lineage, defined by S:G446D	-
+BA.5.2.31	United States of America 76.0%, Japan 4.0%, Canada 3.0%, Germany 2.0%, Israel 2.0%	2022-06-06	599	1535	Alias of B.1.1.529.5.2.31, US lineage, defined by S:L84I	-
+CD.1	United States of America 87.0%, Canada 4.0%, Denmark 4.0%, Australia 4.0%, United Kingdom 2.0%	2022-08-03	23	55	Alias of B.1.1.529.5.2.31.1, US lineage, defined by S:G446D, S:A688T	-
+CD.2	United States of America 96.0%, France 2.0%, Australia 1.0%	2022-08-02	42	85	Alias of B.1.1.529.5.2.31.2, US lineage, defined by S:A435S	-
+BA.5.2.32	Russia 38.0%, United Kingdom 14.0%, United States of America 9.0%, Canada 9.0%, Germany 8.0%	2022-07-29	21	481	Alias of B.1.1.529.5.2.32, Russia lineage, defined by S:N450D	-
+BA.5.2.33	United States of America 23.0%, Australia 14.0%, United Kingdom 12.0%, Japan 8.0%, France 6.0%	2020-07-22	599	1310	Alias of B.1.1.529.5.2.33, UK lineage, defined by ORF8:P93S	-
+CE.1	United Kingdom 30.0%, Germany 26.0%, United States of America 15.0%, Australia 7.0%, Canada 6.0%	2022-07-26	63	254	Alias of B.1.1.529.5.2.33.1, UK lineage, defined by S:R346I	-
+BA.5.2.34	United States of America 46.0%, Israel 14.0%, Canada 7.0%, Germany 7.0%, United Kingdom 3.0%	2022-01-02	76	2610	Alias of B.1.1.529.5.2.34, mainly found in Israel and USA, from pango-designation issue #992	-
+BA.5.2.35	United Kingdom 45.0%, United States of America 20.0%, Netherlands 5.0%, Germany 5.0%, Denmark 4.0%	2022-06-18	252	1820	Alias of B.1.1.529.5.2.35, Pakistan lineage, defined by S:R346T after G28423C and C7006T	-
+BA.5.2.36	United States of America 15.0%, Denmark 12.0%, Indonesia 12.0%, United Kingdom 11.0%, Sweden 7.0%	2022-07-03	38	432	Alias of B.1.1.529.5.2.36, India/Pakistan lineage, defined by S:K444T	-
+CT.1	United States of America 36.0%, Australia 15.0%, United Kingdom 10.0%, France 10.0%, Japan 8.0%	2022-08-07	10	39	Alias of B.1.1.529.5.2.36.1, India/Pakistan lineage, defined by S:K356T	-
+BA.5.2.37	United States of America 36.0%, India 16.0%, Canada 9.0%, Germany 7.0%, United Kingdom 6.0%	2022-06-30	49	321	Alias of B.1.1.529.5.2.37, found mainly in USA and India, from pango-designation issue #1117	-
+BA.5.2.38	United States of America 29.0%, Germany 11.0%, Japan 9.0%, Russia 8.0%, United Kingdom 7.0%	2022-06-18	41	142	Alias of B.1.1.529.5.2.38, S:T430I	-
+DA.1	Indonesia 62.0%, United Kingdom 20.0%, Singapore 7.0%, United States of America 5.0%, Australia 2.0%	2022-01-10	102	133	Alias of B.1.1.529.5.2.38.1, Indonesia, S:R346T	-
+BA.5.2.39	United States of America 76.0%, United Kingdom 11.0%, Germany 6.0%, Switzerland 5.0%, Mexico 1.0%	2022-08-18	42	88	Alias of B.1.1.529.5.2.39, USA, S:R346T	-
+BA.5.2.40	Sweden 71.0%, United Kingdom 14.0%, Luxembourg 5.0%, Israel 5.0%, France 5.0%	2022-09-02	15	21	Alias of B.1.1.529.5.2.40, Sweden, S:N450D	-
+BA.5.2.41	Sweden 63.0%, United States of America 18.0%, Denmark 13.0%, Pakistan 4.0%, Germany 1.0%	2022-07-20	41	78	Alias of B.1.1.529.5.2.41, found mainly in Sweden, from pango-designation issue #1328	-
+BA.5.2.42	Australia 87.0%, New_Zealand 11.0%, Indonesia 1.0%, United Kingdom 1.0%	2022-09-12	50	90	Alias of B.1.1.529.5.2.42, found mainly in Australia, from pango-designation issue #1266	-
+BA.5.2.43	South_Korea 49.0%, Japan 32.0%, Mongolia 8.0%, Germany 3.0%, United States of America 3.0%	2022-09-15	31	108	Alias of B.1.1.529.5.2.43, found mainly in SouthKorea, from pango-designation issue #1312	-
+BA.5.2.44	South_Korea 21.0%, United States of America 15.0%, Indonesia 12.0%, Russia 11.0%, Malaysia 6.0%	2022-06-04	886	929	Alias of B.1.1.529.5.2.44, Indonesia/Malaysia/SouthKorea/global, ORF1a:L2564F	-
+BA.5.2.45	Australia 58.0%, New_Zealand 24.0%, Thailand 5.0%, United States of America 5.0%, Germany 3.0%	2022-09-17	19	38	Alias of B.1.1.529.5.2.45, found mainly in Australia, from pango-designation issue #1383	-
+BA.5.3	Germany 40.0%, United States of America 18.0%, Austria 7.0%, Denmark 4.0%, France 4.0%	2022-01-05	490	3071	Alias of B.1.1.529.5.3, mainly found in Germany and South Africa, from pango-designation issue #550	-
+BA.5.3.1	Japan 22.0%, United States of America 12.0%, Germany 11.0%, Israel 10.0%, United Kingdom 7.0%	2022-02-11	950	7620	Alias of B.1.1.529.5.3.1, mainly found in South Africa, Austria, and England, from pango-designation issue #625	-
+BE.1	United States of America 29.0%, United Kingdom 14.0%, Germany 6.0%, Australia 5.0%, Japan 4.0%	2020-07-21	1838	23817	Alias of B.1.1.529.5.3.1.1, mainly found in South Africa, Austria and England, from pango-designation issue #625	-
+BE.1.1	Germany 40.0%, United States of America 12.0%, Denmark 7.0%, United Kingdom 6.0%, Japan 4.0%	2022-02-01	6607	45575	Alias of B.1.1.529.5.3.1.1.1, Germany lineage	-
+BE.1.1.1	United States of America 40.0%, Italy 13.0%, United Kingdom 12.0%, Germany 6.0%, Canada 6.0%	2022-06-18	48	1772	Alias of B.1.1.529.5.3.1.1.1.1, found globally, from pango-designation issue #931	-
+BQ.1	United States of America 56.0%, Canada 7.0%, United Kingdom 6.0%, Sweden 4.0%, France 4.0%	2022-01-11	10	12925	Alias of B.1.1.529.5.3.1.1.1.1.1, Nigeria lineage, from pango-designation issue #993	-
+BQ.1.1	United States of America 34.0%, France 17.0%, United Kingdom 7.0%, Canada 7.0%, Spain 3.0%	2020-10-15	2	27596	Alias of B.1.1.529.5.3.1.1.1.1.1.1, found globally, defining mutations ORF1b:N1191S and S:R346T, from issue #993	-
+BQ.1.1.1	United Kingdom 22.0%, United States of America 22.0%, Canada 11.0%, France 10.0%, Germany 5.0%	2022-08-21	54	1207	Alias of B.1.1.529.5.3.1.1.1.1.1.1.1, Europe, ORF1b:V1639A	-
+CZ.1	Romania 33.0%, South_Korea 17.0%, Austria 17.0%, United Kingdom 17.0%, Germany 17.0%	2022-10-07	3	6	Alias of B.1.1.529.5.3.1.1.1.1.1.1.1.1, England/SouthKorea/Romania, S:F490I	-
+BQ.1.1.2	United Kingdom 45.0%, United States of America 23.0%, Denmark 12.0%, Sweden 5.0%, Ireland 4.0%	2022-08-10	9	339	Alias of B.1.1.529.5.3.1.1.1.1.1.1.2, England, S:D253G, from issue #1209	-
+BQ.1.1.3	United States of America 59.0%, United Kingdom 9.0%, France 5.0%, Belgium 5.0%, Germany 3.0%	2022-08-24	116	1956	Alias of B.1.1.529.5.3.1.1.1.1.1.1.3, England, A15111G	-
+BQ.1.1.4	United States of America 45.0%, France 19.0%, Canada 7.0%, United Kingdom 5.0%, Germany 4.0%	2022-07-29	112	2939	Alias of B.1.1.529.5.3.1.1.1.1.1.1.4, T29173C	-
+BQ.1.1.5	United States of America 54.0%, United Kingdom 9.0%, France 6.0%, Germany 4.0%, Canada 4.0%	2022-08-03	91	2163	Alias of B.1.1.529.5.3.1.1.1.1.1.1.5, ORF1b:P2313L, ORF1a:V3855I	-
+BQ.1.1.6	United Kingdom 36.0%, Ireland 23.0%, United States of America 20.0%, Brazil 6.0%, Italy 2.0%	2022-02-11	49	987	Alias of B.1.1.529.5.3.1.1.1.1.1.1.6, ORF1a:L681F	-
+BQ.1.1.7	United States of America 30.0%, Germany 23.0%, Netherlands 8.0%, Denmark 7.0%, Canada 4.0%	2022-01-24	51	1181	Alias of B.1.1.529.5.3.1.1.1.1.1.1.7, ORF1a:S216Y	-
+DK.1	United States of America 76.0%, United Kingdom 18.0%, Netherlands 6.0%	2022-10-23	9	17	Alias of B.1.1.529.5.3.1.1.1.1.1.1.7.1, S:339N, ORF1a:A1809T	-
+BQ.1.1.8	United Kingdom 58.0%, United States of America 15.0%, Germany 3.0%, France 3.0%, Canada 2.0%	2022-04-11	46	901	Alias of B.1.1.529.5.3.1.1.1.1.1.1.8, ORF1a:H374Y, ORF1a:L969F	-
+BQ.1.1.9	United Kingdom 68.0%, France 10.0%, United States of America 8.0%, Spain 5.0%, New_Zealand 5.0%	2022-09-26	8	40	Alias of B.1.1.529.5.3.1.1.1.1.1.1.9, S:S151I	-
+BQ.1.1.10	Sweden 32.0%, Denmark 21.0%, United States of America 20.0%, Germany 9.0%, United Kingdom 6.0%	2022-10-01	7	296	Alias of B.1.1.529.5.3.1.1.1.1.1.1.10, S:Y144-, T16413C, Denmark/Germany	-
+BQ.1.1.11	Germany 20.0%, United States of America 13.0%, Belgium 11.0%, Italy 7.0%, Switzerland 7.0%	2022-10-05	7	137	Alias of B.1.1.529.5.3.1.1.1.1.1.1.11, Germany/Hongkong/Denmark, S:S494P, on ORF1a:P2537H branch	-
+BQ.1.1.12	France 24.0%, United States of America 18.0%, Spain 9.0%, Switzerland 7.0%, Germany 5.0%	2022-08-14	3	300	Alias of B.1.1.529.5.3.1.1.1.1.1.1.12, France/US, S:S494P, on ORF1a:T4368I branch	-
+BQ.1.1.13	Spain 21.0%, United Kingdom 20.0%, United States of America 19.0%, Denmark 8.0%, France 7.0%	2022-09-21	6	669	Alias of B.1.1.529.5.3.1.1.1.1.1.1.13, Denmark/Israel/Switzerland/France, E:V62F and S:Y144-	-
+BQ.1.1.14	United Kingdom 66.0%, United States of America 8.0%, Ireland 7.0%, Sweden 6.0%, Kenya 3.0%	2022-09-20	28	181	Alias of B.1.1.529.5.3.1.1.1.1.1.1.14, England, G23608T	-
+CW.1	United Kingdom 62.0%, Ireland 23.0%, France 8.0%, Spain 8.0%	2022-10-15	4	13	Alias of B.1.1.529.5.3.1.1.1.1.1.1.14.1, England, S:G446S	-
+BQ.1.1.15	Spain 16.0%, United States of America 13.0%, Denmark 11.0%, United Kingdom 9.0%, France 8.0%	2022-01-24	31	940	Alias of B.1.1.529.5.3.1.1.1.1.1.1.15, Spain, T18897C	-
+BQ.1.1.16	United Kingdom 57.0%, Austria 13.0%, France 10.0%, Germany 10.0%, United States of America 7.0%	2022-09-07	11	30	Alias of B.1.1.529.5.3.1.1.1.1.1.1.16, England, S:Q607H	-
+BQ.1.1.17	Israel 31.0%, United States of America 22.0%, France 16.0%, Switzerland 6.0%, Brazil 5.0%	2022-03-03	44	800	Alias of B.1.1.529.5.3.1.1.1.1.1.1.17, France, ORF1a:S2273F	-
+BQ.1.1.18	Denmark 24.0%, France 22.0%, United States of America 16.0%, Germany 5.0%, Japan 4.0%	2022-01-24	173	4793	Alias of B.1.1.529.5.3.1.1.1.1.1.1.18, France, C6541T	-
+BQ.1.1.19	United Kingdom 52.0%, United States of America 11.0%, France 5.0%, Australia 4.0%, New_Zealand 3.0%	2022-09-09	38	547	Alias of B.1.1.529.5.3.1.1.1.1.1.1.19, England, N:Q380H	-
+BQ.1.1.20	Denmark 99.0%, Germany 0.0%, Sweden 0.0%, United Kingdom 0.0%, United States of America 0.0%	2022-10-13	15	1198	Alias of B.1.1.529.5.3.1.1.1.1.1.1.20, Denmark, S:144- and ORF3a:H204Y	-
+BQ.1.1.21	France 56.0%, Switzerland 15.0%, United States of America 12.0%, United Kingdom 3.0%, Denmark 3.0%	2022-09-15	28	481	Alias of B.1.1.529.5.3.1.1.1.1.1.1.21, Switzerland/France, S:144- and A17946G	-
+BQ.1.1.22	United States of America 23.0%, France 15.0%, United Kingdom 12.0%, Denmark 10.0%, Australia 6.0%	2022-09-08	24	3574	Alias of B.1.1.529.5.3.1.1.1.1.1.1.22, Australia/England/Denmark, S:144- and C913A	-
+BQ.1.1.23	France 33.0%, United States of America 15.0%, Switzerland 11.0%, Israel 6.0%, Denmark 5.0%	2022-08-25	56	462	Alias of B.1.1.529.5.3.1.1.1.1.1.1.23, France, ORF3a:V97I, S:Y144-, on G6421T branch	-
+BQ.1.1.24	United States of America 35.0%, United Kingdom 21.0%, Denmark 9.0%, Sweden 6.0%, France 6.0%	2022-09-18	16	984	Alias of B.1.1.529.5.3.1.1.1.1.1.1.24, England, 11941T, S:Y144-	-
+BQ.1.1.25	United States of America 92.0%, Canada 4.0%, Indonesia 3.0%, South_Africa 0.0%	2022-10-10	37	219	Alias of B.1.1.529.5.3.1.1.1.1.1.1.25, USA/Canada, S:F490S and S:Y144-, from issue #1350	-
+BQ.1.1.26	United States of America 28.0%, Brazil 22.0%, Spain 22.0%, Germany 10.0%, France 6.0%	2022-09-15	22	116	Alias of B.1.1.529.5.3.1.1.1.1.1.1.26, S:E471Q	-
+BQ.1.1.27	United States of America 41.0%, France 34.0%, Germany 7.0%, United Kingdom 3.0%, Switzerland 3.0%	2022-09-26	58	152	Alias of B.1.1.529.5.3.1.1.1.1.1.1.27, France/USA, S:G181R, ORF1a:F2864L, on G6421T branch	-
+BQ.1.1.28	United States of America 65.0%, United Kingdom 6.0%, Denmark 4.0%, France 4.0%, Israel 3.0%	2022-08-15	119	649	Alias of B.1.1.529.5.3.1.1.1.1.1.1.28, S:P251L, ORF1b:P976S, on C18828T branch	-
+BQ.1.2	United States of America 43.0%, Canada 15.0%, United Kingdom 10.0%, Germany 4.0%, Denmark 3.0%	2022-01-24	17	3566	Alias of B.1.1.529.5.3.1.1.1.1.1.2, found globally, defined by S:I666V, from issue #1082	-
+BQ.1.3	United States of America 67.0%, Spain 5.0%, United Kingdom 4.0%, Denmark 3.0%, Canada 3.0%	2022-08-09	6	2387	Alias of B.1.1.529.5.3.1.1.1.1.1.3, found globally, defined by S:E619Q, from issue #1082	-
+BQ.1.4	United States of America 29.0%, Denmark 25.0%, United Kingdom 14.0%, Spain 7.0%, Germany 7.0%	2022-09-07	17	166	Alias of B.1.1.529.5.3.1.1.1.1.1.4, England and Denmark, defined by S:R190T	-
+BQ.1.5	United States of America 25.0%, Israel 10.0%, United Kingdom 9.0%, Denmark 7.0%, Germany 7.0%	2022-08-24	59	2051	Alias of B.1.1.529.5.3.1.1.1.1.1.5, defined by ORF1b:T1076I	-
+BQ.1.6	United States of America 87.0%, Denmark 2.0%, Canada 1.0%, Turkey 1.0%, Mexico 1.0%	2022-07-25	53	528	Alias of B.1.1.529.5.3.1.1.1.1.1.6, US lineage, defined by ORF1a:G94C	-
+BQ.1.7	United States of America 67.0%, United Kingdom 7.0%, Canada 6.0%, Italy 5.0%, France 5.0%	2022-07-29	17	97	Alias of B.1.1.529.5.3.1.1.1.1.1.7, defined by S:L54F	-
+BQ.1.8	United Kingdom 37.0%, United States of America 14.0%, Denmark 8.0%, Ireland 6.0%, Sweden 5.0%	2021-09-04	48	2428	Alias of B.1.1.529.5.3.1.1.1.1.1.8, defined by ORF1a:S505F and S:Y144-, issue #1202	-
+BQ.1.8.1	United Kingdom 79.0%, Australia 21.0%	2022-09-17	7	19	Alias of B.1.1.529.5.3.1.1.1.1.1.8.1, England/Australia, S:256L	-
+BQ.1.8.2	United Kingdom 63.0%, Sweden 12.0%, Germany 10.0%, Denmark 4.0%, Spain 2.0%	2022-09-14	12	249	Alias of B.1.1.529.5.3.1.1.1.1.1.8.2, England/Scotland, S:A688V	-
+BQ.1.9	United States of America 47.0%, United Kingdom 18.0%, Germany 8.0%, France 5.0%, Netherlands 4.0%	2022-09-13	8	440	Alias of B.1.1.529.5.3.1.1.1.1.1.9, US lineage, defined by ORF1a:V2604I followed by S:346T (independent from BQ.1.1)	-
+BQ.1.10	United States of America 39.0%, Denmark 9.0%, France 6.0%, Portugal 5.0%, United Kingdom 5.0%	2022-09-03	73	2248	Alias of B.1.1.529.5.3.1.1.1.1.1.10, international lineage, 27600T	-
+BQ.1.10.1	United States of America 26.0%, Canada 20.0%, Denmark 19.0%, Italy 7.0%, United Kingdom 6.0%	2022-09-22	24	524	Alias of B.1.1.529.5.3.1.1.1.1.1.10.1, Italy/England/Denmark, S:H146L, issue #1189	-
+BQ.1.11	United States of America 59.0%, Denmark 8.0%, United Kingdom 7.0%, Canada 3.0%, New_Zealand 3.0%	2022-08-01	66	2113	Alias of B.1.1.529.5.3.1.1.1.1.1.11, international lineage, 29541T	-
+BQ.1.12	United States of America 75.0%, Canada 12.0%, United Kingdom 4.0%, Spain 1.0%, Germany 1.0%	2022-08-12	52	2195	Alias of B.1.1.529.5.3.1.1.1.1.1.12, international lineage, 28849T	-
+BQ.1.13	United States of America 62.0%, Canada 9.0%, United Kingdom 6.0%, Israel 3.0%, Germany 2.0%	2022-02-18	48	1338	Alias of B.1.1.529.5.3.1.1.1.1.1.13, international lineage, ORF1a:V627I	-
+BQ.1.14	United States of America 65.0%, Canada 7.0%, Germany 6.0%, United Kingdom 4.0%, Australia 3.0%	2022-08-15	46	1927	Alias of B.1.1.529.5.3.1.1.1.1.1.14, international lineage, 18570A	-
+BQ.1.15	United States of America 57.0%, United Kingdom 9.0%, Germany 6.0%, Switzerland 5.0%, Italy 5.0%	2022-09-01	41	555	Alias of B.1.1.529.5.3.1.1.1.1.1.15, international lineage, ORF1a:L3116F	-
+BQ.1.16	United States of America 27.0%, Ireland 19.0%, France 15.0%, Canada 10.0%, United Kingdom 9.0%	2022-01-24	42	548	Alias of B.1.1.529.5.3.1.1.1.1.1.16, international lineage, ORF1a:A540V	-
+BQ.1.17	Denmark 70.0%, Germany 16.0%, United States of America 4.0%, France 3.0%, Netherlands 1.0%	2022-09-07	10	77	Alias of B.1.1.529.5.3.1.1.1.1.1.17, Denmark/Germany, S:K444T mutated further to S:444M	-
+BQ.1.18	Denmark 30.0%, Germany 19.0%, United States of America 12.0%, Switzerland 6.0%, United Kingdom 5.0%	2022-09-28	10	774	Alias of B.1.1.529.5.3.1.1.1.1.1.18, Denmark/Austria, E:P71S, then S:R346T and S:Y144-	-
+BQ.1.19	Canada 25.0%, Australia 17.0%, Ireland 16.0%, United Kingdom 12.0%, United States of America 8.0%	2022-08-14	10	119	Alias of B.1.1.529.5.3.1.1.1.1.1.19, S:S494P	-
+BQ.1.20	United Kingdom 35.0%, United States of America 32.0%, Denmark 15.0%, France 9.0%, Germany 4.0%	2022-08-29	8	81	Alias of B.1.1.529.5.3.1.1.1.1.1.20, S:A348S	-
+BQ.1.21	France 28.0%, United Kingdom 23.0%, Germany 19.0%, Switzerland 6.0%, Slovenia 6.0%	2022-09-21	12	97	Alias of B.1.1.529.5.3.1.1.1.1.1.21, England/France, S:R346S, S:Y144-	-
+BQ.1.22	United States of America 25.0%, Canada 15.0%, United Kingdom 14.0%, Netherlands 12.0%, Denmark 6.0%	2022-09-26	12	479	Alias of B.1.1.529.5.3.1.1.1.1.1.22, Canada, S:R346T after C26681T	-
+BQ.1.23	United States of America 34.0%, Australia 9.0%, United Kingdom 9.0%, Indonesia 6.0%, Belgium 5.0%	2022-04-10	88	3786	Alias of B.1.1.529.5.3.1.1.1.1.1.23, Singapore/Indonesia/Australia, A2653G and S:Y144-	-
+BQ.1.24	South_Africa 36.0%, South_Korea 28.0%, United Kingdom 28.0%, United States of America 6.0%, Singapore 2.0%	2022-09-05	7	47	Alias of B.1.1.529.5.3.1.1.1.1.1.24, South Africa, S:T240I, S:R346T, #1240	-
+BQ.1.25	United States of America 44.0%, Israel 17.0%, Sweden 6.0%, Japan 5.0%, Canada 4.0%	2022-08-12	37	381	Alias of B.1.1.529.5.3.1.1.1.1.1.25, S:R346T, T8038C, T25569C, G26031A	-
+BQ.1.26	Spain 21.0%, United States of America 13.0%, United Kingdom 11.0%, France 9.0%, Germany 8.0%	2022-07-11	4	591	Alias of B.1.1.529.5.3.1.1.1.1.1.26, found mainly in Denmark, from pango-designation issue #1315	-
+BQ.1.26.1	Denmark 88.0%, United States of America 11.0%, Germany 1.0%	2022-10-06	68	161	Alias of B.1.1.529.5.3.1.1.1.1.1.26.1, found mainly in Denmark, from pango-designation issue #1369	-
+BQ.2	United States of America 57.0%, Australia 23.0%, United Kingdom 17.0%, Italy 1.0%, France 1.0%	2022-08-06	15	93	Alias of B.1.1.529.5.3.1.1.1.1.2, international, S:A522P	-
+BE.1.2	United States of America 54.0%, Costa_Rica 16.0%, United Kingdom 7.0%, Panama 4.0%, Canada 4.0%	2022-06-19	41	1078	Alias of B.1.1.529.5.3.1.1.2, mainly found in Costa Rica and USA, from pango-designation issue #923	-
+BE.1.1.2	Germany 43.0%, United States of America 8.0%, Denmark 8.0%, United Kingdom 7.0%, France 4.0%	2022-04-07	3495	6018	Alias of B.1.1.529.5.3.1.1.1.2, Germany lineage, defined by ORF9b:S50L	-
+CC.1	Germany 60.0%, Canada 18.0%, France 7.0%, Switzerland 7.0%, Netherlands 2.0%	2022-06-27	43	190	Alias of B.1.1.529.5.3.1.1.1.2.1, Germany lineage, defined by S:N450D	-
+BE.1.2.1	Canada 35.0%, United States of America 35.0%, Costa_Rica 16.0%, Panama 5.0%, Sweden 2.0%	2022-07-04	30	912	Alias of B.1.1.529.5.3.1.1.2.1, Panama, Canada, USA, defined by S:V445A, from issue #1095	-
+BE.1.3	Finland 22.0%, United Kingdom 13.0%, United States of America 13.0%, Germany 12.0%, Sweden 10.0%	2022-04-20	594	878	Alias of B.1.1.529.5.3.1.1.3, Finland and Estonia lineage	-
+BE.1.4	United States of America 57.0%, United Kingdom 12.0%, Canada 9.0%, Mexico 6.0%, Germany 3.0%	2022-02-17	2374	3058	Alias of B.1.1.529.5.3.1.1.4, America lineage, ORF1b:V1787I	-
+BE.1.4.1	United States of America 78.0%, Canada 9.0%, United Kingdom 4.0%, Germany 3.0%, Denmark 2.0%	2022-06-18	292	362	Alias of B.1.1.529.5.3.1.1.4.1, S:A701V	-
+BE.1.4.2	United States of America 94.0%, Canada 2.0%, France 1.0%, Israel 1.0%, Sweden 1.0%	2022-08-05	64	283	Alias of B.1.1.529.5.3.1.1.4.2, S:R346T	-
+BE.1.4.3	Mexico 54.0%, United States of America 46.0%	2022-07-21	23	26	Alias of B.1.1.529.5.3.1.1.4.3, Mexico, S:V445A	-
+BE.1.4.4	United Kingdom 45.0%, United States of America 20.0%, France 11.0%, Slovenia 10.0%, Germany 4.0%	2022-06-08	94	93	Alias of B.1.1.529.5.3.1.1.4.4, S:L176F	-
+BE.2	United States of America 63.0%, Belgium 10.0%, Mexico 8.0%, Germany 4.0%, France 3.0%	2022-04-06	247	1298	Alias of B.1.1.529.5.3.1.2, Belgium lineage	-
+BE.3	United States of America 83.0%, Denmark 3.0%, Canada 2.0%, Germany 1.0%, Japan 1.0%	2021-08-20	1426	8206	Alias of B.1.1.529.5.3.1.3, USA lineage	-
+BE.4	United States of America 22.0%, Japan 19.0%, Bangladesh 8.0%, Singapore 8.0%, United Kingdom 7.0%	2022-04-26	1431	2169	Alias of B.1.1.529.5.3.1.4, Bangladesh, defined by ORF1a:T3308N, from issue #1115	-
+BE.4.1	United States of America 20.0%, Denmark 15.0%, United Kingdom 11.0%, France 8.0%, Italy 6.0%	2022-07-05	55	416	Alias of B.1.1.529.5.3.1.4.1, Bangladesh, defined by S:P209L, S:R346T, from issue #1115	-
+BE.4.1.1	United Kingdom 51.0%, United States of America 14.0%, Ireland 7.0%, Australia 7.0%, Italy 7.0%	2022-08-07	10	43	Alias of B.1.1.529.5.3.1.4.1.1, Bangladesh, defined by S:K444R, from issue #1115	-
+CQ.1	Sweden 35.0%, United Kingdom 19.0%, Australia 11.0%, Denmark 8.0%, Malaysia 5.0%	2022-08-30	20	275	Alias of B.1.1.529.5.3.1.4.1.1.1, Bangladesh, defined by S:Y144- and 11866T	-
+CQ.1.1	United Kingdom 49.0%, United States of America 40.0%, Canada 9.0%, Austria 2.0%	2022-09-15	19	47	Alias of B.1.1.529.5.3.1.4.1.1.1.1, Canada/England, S:A262S	-
+CQ.2	United States of America 82.0%, Japan 10.0%, Denmark 5.0%, Switzerland 1.0%, Canada 1.0%	2022-09-24	6	441	Alias of B.1.1.529.5.3.1.4.1.1.2, Japan/US, defined by S:V445A	-
+BE.4.2	United States of America 81.0%, United Kingdom 5.0%, Spain 3.0%, Italy 3.0%, Singapore 2.0%	2022-09-01	16	196	Alias of B.1.1.529.5.3.1.4.2, Bangladesh, defined by S:K444N & S:N460K, from issue #1114	-
+BE.5	United States of America 33.0%, South_Africa 18.0%, Canada 12.0%, United Kingdom 10.0%, Brazil 7.0%	2022-04-19	943	1193	Alias of B.1.1.529.5.3.1.5, South Africa, S:R346T, #1281	-
+BE.6	France 73.0%, Denmark 4.0%, Israel 4.0%, South_Africa 3.0%, United Kingdom 3.0%	2022-06-27	32	228	Alias of B.1.1.529.5.3.1.6, France, S:R346S	-
+BE.7	South_Africa 68.0%, Denmark 7.0%, Japan 7.0%, Netherlands 5.0%, United States of America 2.0%	2022-04-27	94	330	Alias of B.1.1.529.5.3.1.7, South Africa, S:R346T, #1280	-
+BE.8	South_Africa 52.0%, Netherlands 18.0%, Japan 9.0%, Denmark 6.0%, France 3.0%	2022-05-05	116	231	Alias of B.1.1.529.5.3.1.8, South Africa, S:R346T, #1278	-
+BE.9	Brazil 78.0%, United States of America 7.0%, Denmark 3.0%, Peru 2.0%, Luxembourg 1.0%	2022-09-08	233	378	Alias of B.1.1.529.5.3.1.9, found mainly in Brazil, from pango-designation issue #1302	-
+BA.5.3.2	Germany 66.0%, Denmark 9.0%, United Kingdom 6.0%, France 3.0%, Austria 2.0%	2021-12-20	438	2005	Alias of B.1.1.529.5.3.2, mainly found in Germany, from pango-designation issue #697	-
+BA.5.3.3	United Kingdom 56.0%, Denmark 6.0%, United States of America 6.0%, France 4.0%, Netherlands 4.0%	2021-07-05	647	2209	Alias of B.1.1.529.5.3.3, UK lineage	-
+BA.5.3.4	Germany 72.0%, Denmark 4.0%, United Kingdom 4.0%, United States of America 3.0%, Netherlands 2.0%	2021-11-15	152	760	Alias of B.1.1.529.5.3.4, Germany lineage	-
+BA.5.3.5	South_Africa 65.0%, United States of America 17.0%, United Kingdom 11.0%, Netherlands 2.0%, New_Zealand 2.0%	2022-06-15	25	328	Alias of B.1.1.529.5.3.5, mainly found in South Africa, from pango-designation issue #1042	-
+BA.5.5	United States of America 82.0%, Canada 3.0%, Japan 3.0%, United Kingdom 2.0%, Germany 1.0%	2022-01-10	6044	49098	Alias of B.1.1.529.5.5, mainly found in USA, from pango-designation issue #656	-
+BA.5.5.1	United States of America 67.0%, Japan 19.0%, Canada 3.0%, United Kingdom 2.0%, Israel 1.0%	2022-06-04	93	2054	Alias of B.1.1.529.5.5.1, mainly found in USA, from pango-designation issue #873	-
+BA.5.5.2	United States of America 70.0%, Canada 6.0%, United Kingdom 6.0%, Ireland 5.0%, Japan 3.0%	2022-05-22	510	1032	Alias of B.1.1.529.5.5.2, mainly found in USA, Canada, England and Ireland, from pango-designation issue #938	-
+BA.5.5.3	United States of America 87.0%, Canada 3.0%, United Kingdom 2.0%, Denmark 1.0%, Greece 1.0%	2022-06-06	156	277	Alias of B.1.1.529.5.5.3, USA lineage, from pango-designation issue #1015	-
+BA.5.6	United States of America 73.0%, Canada 5.0%, Peru 2.0%, Germany 2.0%, United Kingdom 2.0%	2021-10-11	2406	33626	Alias of B.1.1.529.5.6, USA lineage	-
+BA.5.6.1	Peru 83.0%, United States of America 11.0%, Canada 1.0%, France 1.0%, Chile 1.0%	2022-06-09	44	1432	Alias of B.1.1.529.5.6.1, Peru lineage	-
+BA.5.6.2	United States of America 75.0%, Japan 7.0%, Belgium 3.0%, Canada 3.0%, Mexico 3.0%	2021-12-14	69	977	Alias of B.1.1.529.5.6.2, mainly found in USA, Belgium and Mexico, from pango-designation issue #903	-
+BA.5.6.3	United States of America 44.0%, United Kingdom 20.0%, Germany 5.0%, Romania 5.0%, Denmark 4.0%	2022-06-09	11	241	Alias of B.1.1.529.5.6.3, mainly found in England, from pango-designation issue #1118	-
+BA.5.6.4	Germany 29.0%, United States of America 23.0%, Switzerland 11.0%, France 9.0%, Canada 5.0%	2022-07-03	5	114	Alias of B.1.1.529.5.6.4, found in USA and Europe, from pango-designation issue #1191	-
+BW.1	Mexico 60.0%, United States of America 23.0%, Canada 9.0%, Denmark 3.0%, United Kingdom 1.0%	2022-08-05	10	244	Alias of B.1.1.529.5.6.2.1, Mexico lineage, from pango-designation issue #1059, defined by S:460K	-
+BW.1.1	United States of America 43.0%, Mexico 26.0%, Canada 8.0%, United Kingdom 5.0%, Switzerland 3.0%	2022-08-10	27	187	Alias of B.1.1.529.5.6.2.1.1, Mexico lineage, defined by S:V486A, issue #1341	-
+BA.5.7	Australia 86.0%, New_Zealand 11.0%, United States of America 1.0%, United Kingdom 0.0%, Germany 0.0%	2022-05-15	70	1052	Alias of B.1.1.529.5.7, Australia lineage	-
+BA.5.8	United States of America 31.0%, United Kingdom 20.0%, Denmark 9.0%, Germany 7.0%, France 6.0%	2022-02-20	1277	4400	Alias of B.1.1.529.5.8, mainly found in England, USA, Denmark and Scotland, from pango-designation issue #743	-
+BA.5.9	Germany 39.0%, United States of America 10.0%, United Kingdom 8.0%, Denmark 6.0%, France 5.0%	2022-01-24	217	5906	Alias of B.1.1.529.5.9, mainly found in Germany, Switzerland and Denmark, from pango-designation issue #753	-
+BA.5.10	United States of America 35.0%, Canada 17.0%, Philippines 16.0%, Japan 6.0%, South_Korea 3.0%	2022-05-03	40	1050	Alias of B.1.1.529.5.10, mainly found in Philippines, Canada, and USA, from pango-designation issue #936	-
+BA.5.10.1	Australia 26.0%, United States of America 20.0%, Canada 14.0%, Philippines 11.0%, United Kingdom 9.0%	2022-08-03	10	152	Alias of B.1.1.529.5.10.1, mainly from Philippines, defined by S:346T, from pango-designation issue #1031	-
+DF.1	United States of America 30.0%, United Kingdom 16.0%, Australia 15.0%, Canada 10.0%, New_Zealand 7.0%	2022-07-23	13	691	Alias of B.1.1.529.5.10.1.1, found mainly in UK, from pango-designation issue #1270	-
+BA.5.11	Denmark 79.0%, South_Africa 14.0%, Australia 2.0%, United Kingdom 2.0%, France 1.0%	2022-07-14	234	994	Alias of B.1.1.529.5.11, South Africa, C1627T, S:R346T, #1277	-
+B.1.2	United States of America 94.0%, Canada 5.0%, Mexico 0.0%, Germany 0.0%, Denmark 0.0%	2020-01-04	22372	134742	USA	-
+B.1.36	India 36.0%, Canada 27.0%, Hong_Kong 11.0%, United Kingdom 6.0%, Denmark 3.0%	2020-02-16	1694	7180	Global many subliniages (see below)	-
+B.1.36.8	India 54.0%, Canada 19.0%, United States of America 9.0%, Denmark 7.0%, Bangladesh 3.0%	2020-04-11	495	928	Prodominantly Indian lineage with global records (inc. Canada)	-
+B.1.36.19	Indonesia 69.0%, Singapore 17.0%, Australia 6.0%, Hong_Kong 3.0%, Malaysia 2.0%	2020-06-17	32	109	Oceana	-
+B.1.110.3	United States of America 99.0%, Canada 1.0%, United Kingdom 0.0%, Russia 0.0%, Puerto_Rico 0.0%	2020-03-15	206	1497	USA lineage	-
+B.1.111	United States of America 51.0%, Colombia 21.0%, Trinidad_and_Tobago 4.0%, Canada 3.0%, Venezuela 3.0%	2020-03-07	169	777	South/ Central American lineage (mostly Trinidad and Colombia, an a small cluster from Norwich)	-
+B.1.160	France 20.0%, Denmark 13.0%, Canada 10.0%, Switzerland 8.0%, United Kingdom 7.0%	2020-02-02	10409	28159	Large European lineage, sequences from BeNeLuX, Denmark, Switzerland, Hungary and UK.	-
+B.1.177	United Kingdom 60.0%, Spain 13.0%, Italy 4.0%, Germany 4.0%, Switzerland 4.0%	2020-02-02	37243	72950	Major mostly European lineage, result of opening borders summer 2020	-
+B.1.177.23	Switzerland 98.0%, Austria 1.0%, Spain 0.0%, South_Korea 0.0%, United Kingdom 0.0%	2020-08-17	189	282	Swiss lineage	-
+B.1.177.33	Italy 71.0%, United Kingdom 14.0%, Germany 6.0%, Switzerland 3.0%, Iceland 2.0%	2020-09-01	196	435	Mostly italian, some swiss, some english	-
+B.1.177.43	Switzerland 68.0%, Germany 15.0%, Spain 11.0%, Austria 3.0%, United Kingdom 1.0%	2020-08-17	254	636	Swiss, then into Germany and Austria	-
+B.1.177.86	Germany 50.0%, Denmark 29.0%, Sweden 17.0%, Switzerland 1.0%, Austria 1.0%	2020-09-21	1276	5440	German and Danish lineage	-
+B.1.221.3	Denmark 99.0%, Germany 0.0%, Switzerland 0.0%	2020-09-14	858	1187	Danish lineage	-
+B.1.234	United States of America 99.0%, Canada 0.0%, Japan 0.0%, Puerto_Rico 0.0%, United Kingdom 0.0%	2020-05-22	1680	8204	USA lineage	-
+B.1.240	United States of America 97.0%, Canada 1.0%, Puerto_Rico 0.0%, United Kingdom 0.0%, The_Bahamas 0.0%	2020-03-22	1504	6363	USA	-
+B.1.243	United States of America 94.0%, Mexico 3.0%, Canada 1.0%, Northern_Mariana_Islands 0.0%, Puerto_Rico 0.0%	2020-03-23	4096	15300	USA lineage	-
+B.1.258	Germany 18.0%, United Kingdom 15.0%, Denmark 13.0%, Sweden 7.0%, Romania 5.0%	2020-03-22	5498	15370	UK lineage	-
+B.1.258.3	United Kingdom 76.0%, Romania 7.0%, Ireland 6.0%, Germany 5.0%, Spain 1.0%	2020-07-06	337	583	UK lineage	-
+B.1.351	South_Africa 19.0%, Philippines 9.0%, United States of America 9.0%, Sweden 8.0%, Germany 7.0%	2020-02-18	1279	32501	Lineage of concern detected in South Africa	-
+B.1.351.5	Spain 78.0%, Djibouti 8.0%, United States of America 3.0%, Sweden 2.0%, Germany 1.0%	2020-05-10	1156	1524	Sublineage of B.1.351 in Spain, from pango-designation issue #211	-
+B.1.393	Uganda 74.0%, Kenya 13.0%, Rwanda 5.0%, United States of America 3.0%, Germany 3.0%	2020-05-29	18	38	Uganda	-
+B.1.416	Senegal 32.0%, Gambia 22.0%, France 13.0%, Canada 8.0%, Italy 6.0%	2020-04-03	348	785	Senegal/ Gambian lineage, reassigned from B.1.5.12	-
+B.1.425	United States of America 100.0%, Puerto_Rico 0.0%	2020-05-07	233	330	USA lineage	-
+B.1.428.2	Tunisia 46.0%, France 17.0%, Italy 15.0%, United Kingdom 7.0%, Germany 5.0%	2020-04-07	10	41	Tunisia, England, France	-
+B.1.429	United States of America 97.0%, Canada 2.0%, Mexico 1.0%, South_Korea 0.0%, Chile 0.0%	2020-01-26	2129	47186	A lineage predominantly circulating in California but with exports to other countries. Characterised by the spike L452R mutation but also has spike:W152C orf1ab:D5584Y and N:T205I.	-
+B.1.437	United States of America 98.0%, Germany 2.0%	2020-06-03	37	43	USA - FL	-
+B.1.456	Indonesia 72.0%, Singapore 12.0%, Taiwan 6.0%, Saudi_Arabia 4.0%, United States of America 1.0%	2020-02-20	24	67	SE Asian (reasigned)	-
+B.1.466.2	Indonesia 72.0%, East Timor 9.0%, Malaysia 6.0%, Papua_New_Guinea 5.0%, Singapore 3.0%	2020-08-06	47	2985	Indonesia	-
+B.1.470	Indonesia 81.0%, Malaysia 5.0%, Singapore 3.0%, South_Korea 3.0%, Japan 2.0%	2020-04-09	112	753	Indonesia/Singapore	-
+B.1.517	United States of America 99.0%, Canada 0.0%, Puerto_Rico 0.0%, Cabo_Verde 0.0%, Italy 0.0%	2020-04-26	411	2252	USA (mostly AZ)	-
+B.1.526	United States of America 97.0%, Ecuador 1.0%, Canada 1.0%, Puerto_Rico 1.0%, Spain 0.0%	2020-01-28	253	41252	A lineage predominantly circulating in New York but with a few exports to other countries. Characterised by spike mutations T95I and D253G, plus others. The most frequent spike mutation pattern is L5F T95I D253G E484K D614G A701V, with a smaller fraction having S477N instead of E484K. Spike mutation E484K is present in about half of this lineage (as of 2021-02-10) - Very possible not all new additions carry T95I and D253G (someone should check this, e.g. for USA/NY-Wadsworth-21008455-01/2021 and Aruba/AW-RIVM-11403/2021)	-
+B.1.558	United States of America 76.0%, Mexico 22.0%, Guatemala 1.0%, Canada 1.0%, South_Korea 0.0%	2020-04-06	88	274	USA/ Mexico lineage	-
+B.1.567	United States of America 96.0%, Canada 2.0%, Hong_Kong 1.0%, Mexico 0.0%, Puerto_Rico 0.0%	2020-03-23	104	284	USA lineage, formally part of B.1.2	-
+B.1.575	United States of America 89.0%, Spain 4.0%, Dominican_Republic 2.0%, Puerto_Rico 1.0%, Bonaire 1.0%	2020-10-23	1535	3263	"USA and Aruba lineage with spike mutations ""S:P681H"",""S:S494P"" and ""S:T716I""."	-
+B.1.575.1	Spain 86.0%, Germany 5.0%, Switzerland 2.0%, Canary_Islands 2.0%, Sweden 1.0%	2020-12-05	168	409	"Spanish sub lineage of B.1.575 with spike mutations ""S:P681H"",""S:S494P"" and ""S:T716I""."	-
+B.1.577	United States of America 91.0%, Canada 8.0%, Togo 0.0%, United Kingdom 0.0%, Mexico 0.0%	2020-03-20	361	1513	USA lineage, formally part of B.1.2	-
+B.1.588	United States of America 86.0%, Puerto_Rico 13.0%, Ireland 0.0%, Aruba 0.0%, Canada 0.0%	2020-08-05	246	1246	USA (NY/PR) lineage	-
+B.1.595	United States of America 99.0%, Canada 0.0%, Singapore 0.0%, Puerto_Rico 0.0%, Mexico 0.0%	2020-03-09	1602	4352	USA (was B.1.2)	-
+B.1.609	United States of America 79.0%, Mexico 16.0%, Canada 2.0%, India 1.0%, France 0.0%	2020-03-10	383	1894	USA/ Mexico lineage	-
+B.1.617	India 100.0%	2021-02-25	1	1	Predominantly India lineage with several spike mutations, pango-designation issue #38	-
+B.1.617.1	India 71.0%, Canada 7.0%, United Kingdom 6.0%, United States of America 4.0%, Ireland 3.0%	2020-03-03	442	7173	Predominantly India lineage with 484Q, pango-designation issue #49	-
+B.1.617.2	United States of America 18.0%, India 18.0%, Turkey 16.0%, United Kingdom 12.0%, Germany 5.0%	2020-03-27	8274	192561	Predominantly India lineage with several spike mutations, pango-designation issue #49	-
+AY.1	United States of America 70.0%, Philippines 8.0%, India 5.0%, Japan 2.0%, United Kingdom 2.0%	2021-03-31	243	3424	Alias of B.1.617.2.1, in several European countries, from pango-designation issue #95	-
+AY.3	United States of America 96.0%, United Kingdom 1.0%, Mexico 1.0%, Puerto_Rico 1.0%, Canada 0.0%	2020-05-07	845	159980	Alias of B.1.617.2.3, USA lineage, from pango-designation issue #121	-
+AY.3.1	United States of America 99.0%, Canada 0.0%, Puerto_Rico 0.0%, Japan 0.0%, U.S._Virgin_Islands 0.0%	2020-11-20	195	15481	Alias of B.1.617.2.3.1, USA lineage, from pango-designation issue #147	-
+AY.3.2	Peru 48.0%, United States of America 33.0%, Mexico 15.0%, Canada 1.0%, Germany 1.0%	2021-07-23	68	294	Alias of B.1.617.2.3.2, Peru lineage, from pango-designation issue #312	-
+AY.3.3	United States of America 99.0%, Canada 1.0%, Costa_Rica 0.0%, United Kingdom 0.0%, Israel 0.0%	2021-07-11	109	1169	Alias of B.1.617.2.3.3, USA lineage, from pango-designation issue #365	-
+AY.4	United Kingdom 84.0%, Denmark 3.0%, Germany 2.0%, Ireland 2.0%, France 1.0%	2020-05-11	34453	829943	Alias of B.1.617.2.4, UK lineage, from pango-designation issue #180	-
+AY.4.2	United Kingdom 88.0%, Denmark 4.0%, Germany 1.0%, France 1.0%, Poland 1.0%	2021-01-01	7636	84697	Alias of B.1.617.2.4.2, predominantly UK lineage, from pango-designation issue #223	-
+AY.4.2.1	United Kingdom 93.0%, Germany 2.0%, Bulgaria 1.0%, Poland 1.0%, Canada 1.0%	2020-12-21	1289	17728	Alias of B.1.617.2.4.2.1, predominantly UK lineage, from pango-designation issue #248	-
+AY.4.2.2	United Kingdom 96.0%, France 1.0%, Ireland 1.0%, Sweden 0.0%, Germany 0.0%	2021-04-12	3241	28230	Alias of B.1.617.2.4.2.2, UK lineage, from pango-designation issue #249	-
+AY.4.2.3	United Kingdom 25.0%, Germany 22.0%, Italy 10.0%, France 8.0%, Poland 7.0%	2021-05-13	1237	6051	Alias of B.1.617.2.4.2.3, European lineage, from pango-designation issue #356	-
+AY.4.2.4	Belgium 52.0%, Germany 12.0%, France 8.0%, Italy 7.0%, Poland 6.0%	2021-08-28	114	204	Alias of B.1.617.2.4.2.4, European lineage	-
+AY.4.2.5	United Kingdom 99.0%, Singapore 0.0%, Ireland 0.0%, Denmark 0.0%, Germany 0.0%	2021-10-22	754	790	Alias of B.1.617.2.4.2.5, UK lineage, from pango-designation issue #543	-
+AY.4.3	Norway 19.0%, Ireland 11.0%, Bulgaria 11.0%, Germany 11.0%, United Kingdom 10.0%	2021-04-21	425	2249	Alias of B.1.617.2.4.3, lineage in several countries, from pango-designation issue #222	-
+AY.4.4	Bulgaria 29.0%, Germany 21.0%, United Kingdom 14.0%, Denmark 5.0%, Slovakia 5.0%	2020-11-29	1093	3875	Alias of B.1.617.2.4.4, lineage in several European countries, from pango-designation issue #237	-
+AY.4.5	Lithuania 62.0%, Denmark 7.0%, United Kingdom 7.0%, Sweden 5.0%, Germany 4.0%	2021-01-11	3767	16162	Alias of B.1.617.2.4.5, predominantly Lithuania lineage, from pango-designation issue #241	-
+AY.4.6	Denmark 80.0%, Germany 6.0%, United Kingdom 4.0%, Netherlands 2.0%, Czech_Republic 2.0%	2020-06-11	7486	13817	Alias of B.1.617.2.4.6, European lineage, from pango-designation issue #264	-
+AY.4.7	Netherlands 19.0%, Germany 16.0%, Aruba 14.0%, Denmark 9.0%, Belgium 5.0%	2021-03-16	2708	3621	Alias of B.1.617.2.4.7, lineage in Aruba and other countries, from pango-designation issue #291	-
+AY.4.8	United Kingdom 94.0%, Sweden 2.0%, Poland 1.0%, Belgium 1.0%, Germany 1.0%	2021-07-01	1253	4388	Alias of B.1.617.2.4.8, UK lineage, from pango-designation issue #304	-
+AY.4.9	Germany 22.0%, United Kingdom 17.0%, France 15.0%, Switzerland 13.0%, Belgium 7.0%	2020-08-11	614	2349	Alias of B.1.617.2.4.9, European lineage, from pango-designation issue #332	-
+AY.4.10	United Kingdom 36.0%, Ireland 26.0%, Denmark 23.0%, Poland 6.0%, Germany 3.0%	2021-02-19	642	4753	Alias of B.1.617.2.4.10, European lineage, from pango-designation issue #332	-
+AY.4.11	United Kingdom 49.0%, Poland 26.0%, Germany 9.0%, Belgium 6.0%, France 1.0%	2021-06-23	816	1917	Alias of B.1.617.2.4.11, European lineage	-
+AY.4.12	Canada 99.0%, United Kingdom 1.0%, United States of America 0.0%	2021-07-10	605	618	Alias of B.1.617.2.4.12, Canada lineage	-
+AY.4.13	Czech_Republic 64.0%, Germany 8.0%, Slovakia 6.0%, United Kingdom 6.0%, France 3.0%	2021-06-04	392	1626	Alias of B.1.617.2.4.13, European lineage	-
+AY.4.14	Denmark 95.0%, Switzerland 3.0%, Sweden 1.0%, United Kingdom 0.0%, Spain 0.0%	2021-07-14	768	780	Alias of B.1.617.2.4.14, lineage in Denmark and other countries	-
+AY.4.15	Denmark 58.0%, United Kingdom 24.0%, Sweden 9.0%, France 3.0%, Germany 1.0%	2021-07-01	1343	2491	Alias of B.1.617.2.4.15, Denmark lineage	-
+AY.4.16	Gibraltar 46.0%, United Kingdom 43.0%, Ireland 6.0%, Belgium 1.0%, Germany 1.0%	2021-07-20	170	358	Alias of B.1.617.2.4.16, Gibraltar lineage	-
+AY.4.17	United Kingdom 40.0%, Slovenia 30.0%, Israel 13.0%, Lithuania 12.0%, Spain 2.0%	2021-06-17	147	1259	Alias of B.1.617.2.4.17, Lithuania lineage	-
+AY.5	United Kingdom 64.0%, France 6.0%, United States of America 4.0%, Portugal 4.0%, Germany 3.0%	2020-09-08	2812	62521	Alias of B.1.617.2.5, UK lineage, from pango-designation issue #180	-
+AY.5.2	Belgium 41.0%, Portugal 34.0%, Brazil 7.0%, United Kingdom 6.0%, France 3.0%	2021-05-31	182	547	Alias of B.1.617.2.5.2, Portugal lineage	-
+AY.5.3	United States of America 97.0%, United Kingdom 1.0%, Germany 1.0%, Norway 0.0%, Canada 0.0%	2021-07-02	445	2333	Alias of B.1.617.2.5.3, USA lineage	-
+AY.5.4	France 35.0%, Belgium 14.0%, Germany 9.0%, Netherlands 8.0%, Poland 7.0%	2021-05-21	1064	4345	Alias of B.1.617.2.5.4, European lineage	-
+AY.5.6	Saint_Vincent_and_the_Grenadines 47.0%, Czech_Republic 16.0%, United Kingdom 8.0%, Grenada 8.0%, United States of America 8.0%	2021-07-30	23	38	Alias of B.1.617.2.5.6, lineage in Saint Vincent and the Grenadines, Grenada and other countries	-
+AY.5.7	Israel 100.0%	2021-11-05	188	274	Alias of B.1.617.2.5.7, mainly found in Israel, from pango-designation issue #387	-
+AY.6	United Kingdom 83.0%, Germany 3.0%, Ireland 2.0%, Italy 2.0%, Denmark 2.0%	2021-03-16	1215	28184	Alias of B.1.617.2.6, UK lineage, from pango-designation issue #180	-
+AY.7	United Kingdom 92.0%, Canary_Islands 2.0%, Ireland 2.0%, Germany 1.0%, Spain 1.0%	2021-05-01	794	5287	Alias of B.1.617.2.7, UK lineage, from pango-designation issue #180	-
+AY.7.1	Denmark 65.0%, Germany 16.0%, Switzerland 7.0%, Czech_Republic 4.0%, Sweden 2.0%	2021-02-09	4810	10881	Alias of B.1.617.2.7.1, Denmark lineage	-
+AY.7.2	Italy 30.0%, Germany 14.0%, France 10.0%, Slovenia 7.0%, Switzerland 7.0%	2021-03-16	341	2207	Alias of B.1.617.2.7.2, predominantly Italy lineage in multiple other European countries	-
+AY.9	United Kingdom 75.0%, Greece 5.0%, Germany 4.0%, Netherlands 2.0%, Sweden 1.0%	2021-01-20	2836	15292	Alias of B.1.617.2.9, UK lineage, from pango-designation issue #180	-
+AY.9.2	Germany 14.0%, Netherlands 13.0%, France 9.0%, United Kingdom 8.0%, Sweden 7.0%	2020-07-16	20526	47873	Alias of B.1.617.2.9.2, European lineage	-
+AY.9.2.2	Sweden 92.0%, Denmark 6.0%, Norway 1.0%, Germany 1.0%, France 0.0%	2021-08-18	772	1163	Alias of B.1.617.2.9.2.2, Sweden lineage, from pango-designation issue #284	-
+AY.13	United States of America 96.0%, Mexico 1.0%, Canada 1.0%, Switzerland 0.0%, Panama 0.0%	2021-01-11	661	6723	Alias of B.1.617.2.13, USA lineage	-
+AY.14	United States of America 96.0%, Philippines 1.0%, Germany 1.0%, Switzerland 0.0%, Italy 0.0%	2021-03-30	109	14091	Alias of B.1.617.2.14, USA lineage	-
+AY.16	Kenya 31.0%, India 27.0%, United States of America 23.0%, Denmark 5.0%, Germany 2.0%	2020-10-26	149	3286	Alias of B.1.617.2.16, lineage in Kenya and multiple other countries	-
+AY.17	United Kingdom 61.0%, Ireland 22.0%, India 6.0%, South_Korea 6.0%, Germany 1.0%	2021-03-30	57	287	Alias of B.1.617.2.17, Ireland and Northern Ireland lineage	-
+AY.20	United States of America 57.0%, Mexico 32.0%, India 2.0%, Germany 1.0%, Colombia 1.0%	2020-09-22	2442	35915	Alias of B.1.617.2.20, USA and Mexico lineage	-
+AY.20.1	Czech_Republic 78.0%, Slovakia 9.0%, Germany 6.0%, United Kingdom 3.0%, India 1.0%	2021-09-05	80	283	Alias of B.1.617.2.20.1, Czech Republic lineage	-
+AY.21	Italy 53.0%, India 14.0%, United States of America 11.0%, Switzerland 9.0%, Germany 5.0%	2021-04-06	222	548	Alias of B.1.617.2.21, lineage predominantly in Italy and Switzerland	-
+AY.23	Indonesia 30.0%, Singapore 29.0%, Malaysia 14.0%, Papua_New_Guinea 5.0%, Germany 4.0%	2020-03-12	3109	17066	Alias of B.1.617.2.23, predominantly Singapore and Indonesia lineage, from pango-designation issue #175	-
+AY.23.1	Singapore 98.0%, Malaysia 1.0%, Indonesia 0.0%, Australia 0.0%, India 0.0%	2021-08-22	883	2371	Alias of B.1.617.2.23.1, Singapore lineage, from pango-designation issue #237	-
+AY.24	Indonesia 45.0%, Papua_New_Guinea 21.0%, United States of America 11.0%, Germany 4.0%, Japan 4.0%	2020-07-29	638	3225	Alias of B.1.617.2.24, predominantly Indonesia lineage, from pango-designation issue #175	-
+AY.24.1	Brunei 99.0%, United States of America 1.0%, Australia 0.0%, Indonesia 0.0%	2021-07-19	415	526	Alias of B.1.617.2.24.1, Brunei lineage	-
+AY.25	United States of America 96.0%, Argentina 1.0%, Northern_Mariana_Islands 1.0%, Canada 0.0%, United Kingdom 0.0%	2020-04-28	3853	136797	Alias of B.1.617.2.25, USA lineage, from pango-designation issue #181	-
+AY.25.1	United States of America 55.0%, Canada 39.0%, Chile 2.0%, Colombia 1.0%, Puerto_Rico 1.0%	2020-05-12	41309	127158	Alias of B.1.617.2.25.1, Canada and USA lineage, from pango-designation issue #313	-
+AY.25.1.1	Peru 95.0%, Chile 2.0%, United States of America 1.0%, Colombia 1.0%, Switzerland 1.0%	2021-07-26	82	161	Alias of B.1.617.2.25.1.1, Peru lineage, from pango-designation issue #355	-
+AY.25.1.2	Trinidad_and_Tobago 86.0%, United States of America 6.0%, Canada 3.0%, United Kingdom 2.0%, Panama 2.0%	2021-08-03	291	324	Alias of B.1.617.2.25.1.2, Trinidad and Tobago lineage	-
+AY.25.2	United States of America 64.0%, Argentina 33.0%, Northern_Mariana_Islands 1.0%, Chile 1.0%, Guam 1.0%	2020-07-31	122	480	Alias of B.1.617.2.25.2, Argentina lineage	-
+AY.25.3	United States of America 49.0%, Canada 49.0%, Argentina 1.0%, Denmark 1.0%, Spain 0.0%	2020-09-18	2323	4143	Alias of B.1.617.2.25.3, Canada and USA lineage	-
+AY.26	United States of America 83.0%, Mexico 12.0%, Brazil 1.0%, Israel 0.0%, Canada 0.0%	2020-07-31	5008	44676	Alias of B.1.617.2.26, USA and Mexico lineage, from pango-designation issue #188	-
+AY.26.1	Peru 91.0%, United States of America 3.0%, France 1.0%, Chile 1.0%, Luxembourg 1.0%	2020-10-06	92	163	Alias of B.1.617.2.26.1, Peru lineage, from pango-designation issue #278	-
+AY.27	Canada 98.0%, United States of America 1.0%, India 0.0%, United Kingdom 0.0%, Lithuania 0.0%	2021-04-06	1092	21670	Alias of B.1.617.2.27, Canada lineage, from pango-designation issue #196	-
+AY.28	Sri_Lanka 86.0%, Japan 2.0%, United Kingdom 2.0%, Canada 1.0%, Qatar 1.0%	2021-04-16	108	712	Alias of B.1.617.2.28, Sri Lanka lineage, from pango-designation issue #199	-
+AY.29	Japan 100.0%, United States of America 0.0%, United Kingdom 0.0%, India 0.0%, Sweden 0.0%	2021-01-28	808	85550	Alias of B.1.617.2.29, Japan lineage, from pango-designation issue #208	-
+AY.29.1	Japan 99.0%, India 1.0%, United States of America 0.0%, Switzerland 0.0%, Turkey 0.0%	2021-06-09	1875	5262	Alias of B.1.617.2.29.1, Japan lineage, from pango-designation issue #224	-
+AY.29.2	Japan 100.0%, France 0.0%, Canada 0.0%	2021-07-16	391	2642	Alias of B.1.617.2.29.2, Japan lineage, from pango-designation issue #381	-
+AY.30	Thailand 67.0%, Cambodia 20.0%, China 3.0%, India 2.0%, United States of America 1.0%	2021-01-08	525	3795	Alias of B.1.617.2.30, Thailand and Cambodia lineage, from pango-designation issue #207	-
+AY.32	South_Africa 72.0%, Germany 9.0%, Denmark 2.0%, Italy 2.0%, Egypt 2.0%	2021-04-16	354	2206	Alias of B.1.617.2.32, South Africa lineage, from pango-designation issue #209	-
+AY.33	Denmark 18.0%, Germany 15.0%, Sweden 10.0%, France 10.0%, Belgium 8.0%	2020-10-26	5630	20995	Alias of B.1.617.2.33, Lineage circulating mostly in Belgium, Denmark, France, Netherlands, Germany, from pango-designation issues #215 and #219	-
+AY.33.1	Reunion 72.0%, France 28.0%, Switzerland 0.0%, Benin 0.0%, Martinique 0.0%	2021-08-09	45	614	Alias of B.1.617.2.33.1, Reunion and France lineage, from pango-designation issue #370	-
+AY.33.2	Germany 47.0%, Poland 17.0%, Spain 13.0%, Gibraltar 6.0%, United Kingdom 3.0%	2021-07-08	601	720	Alias of B.1.617.2.33.2, mainly found in Germany, Poland, Gibraltar and Spain, from pango-designation issue #403	-
+AY.34	France 24.0%, United Kingdom 18.0%, Germany 13.0%, United States of America 8.0%, Spain 4.0%	2020-11-18	1689	11585	Alias of B.1.617.2.34, lineage with spike Q677H circulating in multiple countries, from pango-designation issue #217	-
+AY.34.1	United Kingdom 21.0%, France 19.0%, United States of America 16.0%, Belgium 8.0%, Germany 7.0%	2020-04-01	2136	7579	Alias of B.1.617.2.34.1, lineage in multiple countries including Gambia, Senegal, Benin and Mali, from pango-designation issue #255	-
+AY.34.1.1	Brazil 83.0%, Chile 9.0%, Peru 6.0%, Colombia 0.0%, Italy 0.0%	2021-06-02	874	2219	Alias of B.1.617.2.34.1.1, Brazil and Chile lineage	-
+AY.34.2	Martinique 63.0%, United Kingdom 14.0%, France 8.0%, Ireland 7.0%, Germany 4.0%	2021-07-12	573	1895	Alias of B.1.617.2.34.2, lineage in multiple countries including Martinique, from pango-designation issue #269	-
+AY.35	United States of America 96.0%, Colombia 1.0%, Puerto_Rico 1.0%, Dominican_Republic 1.0%, United Kingdom 0.0%	2020-08-21	574	4819	Alias of B.1.617.2.35, lineage with spike E484Q circulating in USA, from pango-designation issue #217	-
+AY.36	United Kingdom 25.0%, Denmark 14.0%, Nigeria 12.0%, Germany 9.0%, United States of America 9.0%	2020-08-11	1090	12540	Alias of B.1.617.2.36, lineage predominantly in Nigeria, UK and USA, from pango-designation issue #225	-
+AY.36.1	Germany 61.0%, Denmark 9.0%, United Kingdom 6.0%, Spain 4.0%, Finland 3.0%	2021-04-10	1971	4338	Alias of B.1.617.2.36.1, lineage in Germany and other countries, from pango-designation issue #434	-
+AY.37	United States of America 71.0%, France 12.0%, Belgium 2.0%, Liberia 1.0%, Guinea 1.0%	2021-02-18	938	3426	Alias of B.1.617.2.37, lineage predominantly in Liberia, USA and France, from pango-designation issue #228	-
+AY.38	South_Africa 69.0%, Sweden 10.0%, United States of America 4.0%, Germany 3.0%, India 3.0%	2020-09-06	920	1758	Alias of B.1.617.2.38, lineage predominantly in South Africa, from pango-designation issue #229	-
+AY.39	United States of America 84.0%, United Kingdom 4.0%, India 4.0%, Australia 2.0%, Germany 1.0%	2020-05-28	2268	52208	Alias of B.1.617.2.39, predominantly USA lineage, from pango-designation issue #234	-
+AY.39.1	Australia 65.0%, United States of America 34.0%, Spain 0.0%, United Kingdom 0.0%, France 0.0%	2021-01-06	4465	23001	Alias of B.1.617.2.39.1, Australia and USA lineage, from pango-designation issue #234	-
+AY.39.1.1	New_Zealand 98.0%, Australia 2.0%, India 0.0%, United States of America 0.0%, France 0.0%	2021-05-09	988	4620	Alias of B.1.617.2.39.1.1, predominantly New Zealand lineage, from pango-designation issue #234	-
+AY.39.1.2	Australia 100.0%, United Kingdom 0.0%, Germany 0.0%, Japan 0.0%	2021-06-25	4720	7337	Alias of B.1.617.2.39.1.2, Australia lineage, from pango-designation issue #307	-
+AY.39.1.4	Australia 97.0%, France 1.0%, United States of America 0.0%, United Kingdom 0.0%, India 0.0%	2021-04-15	2946	3794	Alias of B.1.617.2.39.1.4, Australian lineage, from pango-designation issue #438	-
+AY.39.2	Peru 76.0%, United States of America 12.0%, Switzerland 7.0%, Chile 3.0%, Italy 1.0%	2021-07-06	148	1970	Alias of B.1.617.2.39.2, Peru lineage, from pango-designation issue #295	-
+AY.39.3	United States of America 51.0%, Trinidad_and_Tobago 46.0%, Germany 1.0%, Canada 1.0%, Jordan 1.0%	2021-08-07	74	90	Alias of B.1.617.2.39.3, Trinidad and Tobago lineage	-
+AY.41	Germany 34.0%, Slovenia 30.0%, Croatia 15.0%, Austria 6.0%, Switzerland 5.0%	2020-10-20	1606	3869	Alias of B.1.617.2.41, European lineage, from pango-designation issue #237	-
+AY.42	France 21.0%, Germany 17.0%, Spain 17.0%, Switzerland 7.0%, Denmark 6.0%	2020-10-15	14252	29540	Alias of B.1.617.2.42, European lineage, from pango-designation issue #239	-
+AY.42.1	Bonaire 74.0%, Curaçao 11.0%, Netherlands 7.0%, United States of America 5.0%, Aruba 1.0%	2021-07-12	240	441	Alias of B.1.617.2.42.1, lineage in Bonaire, Curacao and other countries, from pango-designation issue #331	-
+AY.43	France 17.0%, Germany 14.0%, United Kingdom 11.0%, Denmark 9.0%, Spain 6.0%	2020-05-11	64648	303450	Alias of B.1.617.2.43, European lineage, from pango-designation issue #240	-
+AY.43.1	Brazil 98.0%, United States of America 0.0%, Chile 0.0%, Peru 0.0%, Colombia 0.0%	2021-07-19	287	1043	Alias of B.1.617.2.43.1, Brazil lineage, from pango-designation issue #319	-
+AY.43.2	Brazil 98.0%, France 1.0%, Japan 0.0%, Finland 0.0%, Belgium 0.0%	2021-07-04	530	1347	Alias of B.1.617.2.43.2, Brazil lineage, from pango-designation issue #319	-
+AY.43.3	Chile 77.0%, United States of America 9.0%, Denmark 6.0%, France 2.0%, United Kingdom 2.0%	2021-07-12	625	2224	Alias of B.1.617.2.43.3, Chile lineage, from pango-designation issue #337	-
+AY.43.4	Switzerland 86.0%, Germany 6.0%, France 3.0%, Liechtenstein 1.0%, United Kingdom 0.0%	2020-10-28	470	2942	Alias of B.1.617.2.43.4, Switzerland lineage, from pango-designation issue #317	-
+AY.43.5	Portugal 49.0%, Spain 41.0%, Italy 3.0%, Germany 2.0%, France 1.0%	2021-09-02	80	349	Alias of B.1.617.2.43.5, Portugal lineage, from pango-designation issue #335	-
+AY.43.6	Denmark 96.0%, France 1.0%, Sweden 1.0%, United Kingdom 1.0%, Norway 0.0%	2021-08-31	2704	6400	Alias of B.1.617.2.43.6, Denmark lineage, from pango-designation issue #315	-
+AY.43.7	Brazil 100.0%	2021-08-31	92	207	Alias of B.1.617.2.43.7, Brazil lineage, from pango-designation issue #378	-
+AY.43.8	Netherlands 33.0%, Germany 15.0%, France 9.0%, Belgium 7.0%, Suriname 5.0%	2021-01-12	2867	3832	Alias of B.1.617.2.43.8, lineage in Netherlands, Suriname and other countries	-
+AY.43.9	Slovakia 74.0%, Germany 14.0%, Czech_Republic 3.0%, Denmark 2.0%, Slovenia 2.0%	2021-08-09	798	936	Alias of B.1.617.2.43.9, Slovakia lineage	-
+AY.44	United States of America 98.0%, Canada 1.0%, India 0.0%, Germany 0.0%, United Kingdom 0.0%	2020-05-20	20001	247114	Alias of B.1.617.2.44, USA lineage, from pango-designation issue #242	-
+AY.45	South_Africa 70.0%, United States of America 5.0%, Sweden 3.0%, France 3.0%, United Kingdom 3.0%	2021-01-09	3667	7526	Alias of B.1.617.2.45, South Africa lineage, from pango-designation issue #246	-
+AY.46	Denmark 19.0%, United Kingdom 14.0%, Germany 10.0%, Sweden 7.0%, United States of America 6.0%	2020-06-01	3227	12689	Alias of B.1.617.2.46, Africa lineage, from pango-designation issue #247	-
+AY.46.1	United States of America 95.0%, India 2.0%, Canada 1.0%, France 1.0%, Italy 0.0%	2021-05-18	85	1476	Alias of B.1.617.2.46.1, USA lineage, from pango-designation issue #247	-
+AY.46.2	Germany 36.0%, Turkey 28.0%, United States of America 5.0%, France 5.0%, Sweden 4.0%	2021-03-09	481	1758	Alias of B.1.617.2.46.2, Germany and Turkey lineage, from pango-designation issue #247	-
+AY.46.3	Brazil 99.0%, Paraguay 0.0%, Chile 0.0%, United States of America 0.0%, Israel 0.0%	2021-06-21	675	1583	Alias of B.1.617.2.46.3, Brazil lineage, from pango-designation issue #247	-
+AY.46.4	United States of America 91.0%, Denmark 1.0%, Turkey 1.0%, France 1.0%, Uganda 1.0%	2020-11-09	835	6383	Alias of B.1.617.2.46.4, USA lineage, from pango-designation issue #247	-
+AY.46.5	United Kingdom 97.0%, Ireland 1.0%, Spain 0.0%, Sweden 0.0%, Germany 0.0%	2021-02-06	37	11121	Alias of B.1.617.2.46.5, UK lineage, from pango-designation issue #247	-
+AY.46.6	Germany 28.0%, Switzerland 18.0%, Italy 9.0%, Sweden 8.0%, Slovenia 7.0%	2020-08-11	5208	26131	Alias of B.1.617.2.46.6, European lineage, from pango-designation issue #247	-
+AY.46.6.1	Italy 94.0%, Luxembourg 2.0%, France 1.0%, United Kingdom 1.0%, Germany 1.0%	2021-10-17	80	182	Alias of B.1.617.2.46.6.1, Italy lineage, from pango-designation issue #369	-
+AY.47	United States of America 98.0%, United Kingdom 1.0%, Puerto_Rico 0.0%, Canada 0.0%, Germany 0.0%	2020-05-21	3230	37735	Alias of B.1.617.2.47, USA lineage, from pango-designation issue #254	-
+AY.48	United States of America 97.0%, Canada 1.0%, Belgium 1.0%, Turkey 0.0%, France 0.0%	2021-04-06	288	1693	Alias of B.1.617.2.48, USA lineage	-
+AY.51	Germany 44.0%, France 15.0%, Belgium 9.0%, Switzerland 9.0%, United States of America 5.0%	2021-04-17	470	1579	Alias of B.1.617.2.51, European lineage	-
+AY.53	Spain 49.0%, France 18.0%, Belgium 6.0%, India 4.0%, Italy 3.0%	2021-03-06	2666	4069	Alias of B.1.617.2.53, European lineage	-
+AY.54	United States of America 98.0%, India 1.0%, Canada 1.0%, United Kingdom 0.0%, Mexico 0.0%	2021-02-09	1693	12502	Alias of B.1.617.2.54, USA lineage	-
+AY.55	India 32.0%, Rwanda 28.0%, Germany 9.0%, United States of America 5.0%, Spain 5.0%	2021-01-29	232	305	Alias of B.1.617.2.55, lineage in Rwanda and other countries	-
+AY.56	United States of America 95.0%, India 3.0%, Puerto_Rico 1.0%, Switzerland 0.0%, British_Virgin_Islands 0.0%	2021-04-12	88	370	Alias of B.1.617.2.56, USA lineage	-
+AY.57	Vietnam 87.0%, Denmark 6.0%, United States of America 2.0%, Indonesia 1.0%, India 1.0%	2021-01-30	527	2703	Alias of B.1.617.2.57, Vietnam lineage	-
+AY.58	Italy 51.0%, United Kingdom 40.0%, India 2.0%, France 2.0%, Germany 1.0%	2021-03-16	512	1073	Alias of B.1.617.2.58, European lineage	-
+AY.59	Malaysia 78.0%, Indonesia 8.0%, Thailand 4.0%, India 3.0%, Singapore 3.0%	2021-01-08	831	3173	Alias of B.1.617.2.59, Malaysia lineage	-
+AY.60	Denmark 27.0%, Switzerland 18.0%, Germany 10.0%, Sweden 8.0%, Israel 7.0%	2021-04-29	587	1037	Alias of B.1.617.2.60, European lineage	-
+AY.61	Italy 81.0%, Germany 8.0%, Denmark 2.0%, Switzerland 2.0%, France 1.0%	2021-04-03	1471	1881	Alias of B.1.617.2.61, Italy lineage	-
+AY.62	United States of America 84.0%, Mexico 12.0%, India 2.0%, Canada 0.0%, Germany 0.0%	2021-04-27	550	2253	Alias of B.1.617.2.62, USA and Mexico lineage	-
+AY.64	United States of America 98.0%, Canada 2.0%, Nepal 0.0%, Argentina 0.0%, Japan 0.0%	2021-04-11	176	1906	Alias of B.1.617.2.64, USA lineage	-
+AY.65	Bahrain 40.0%, United States of America 13.0%, Germany 9.0%, Turkey 6.0%, Gibraltar 4.0%	2020-09-11	730	1989	Alias of B.1.617.2.65, lineage in Bahrain and other countries	-
+AY.66	Denmark 47.0%, Belgium 31.0%, Netherlands 10.0%, France 4.0%, Germany 2.0%	2021-01-07	725	1919	Alias of B.1.617.2.66, European lineage	-
+AY.67	United States of America 99.0%, India 1.0%, Canada 0.0%, Puerto_Rico 0.0%, Mexico 0.0%	2020-07-16	404	2207	Alias of B.1.617.2.67, USA lineage	-
+AY.68	Czech_Republic 43.0%, Germany 16.0%, Denmark 10.0%, Slovakia 8.0%, Italy 7.0%	2021-02-11	2366	2966	Alias of B.1.617.2.68, European lineage	-
+AY.69	South_Korea 100.0%, France 0.0%, Hong_Kong 0.0%, Singapore 0.0%, United States of America 0.0%	2021-05-08	3511	11372	Alias of B.1.617.2.69, South Korea lineage	-
+AY.70	Netherlands 24.0%, Belgium 18.0%, Slovenia 11.0%, Germany 11.0%, France 8.0%	2021-01-07	3279	5394	Alias of B.1.617.2.70, European lineage	-
+AY.71	Canary_Islands 40.0%, Italy 14.0%, Germany 11.0%, Turkey 8.0%, Spain 7.0%	2021-03-09	796	2005	Alias of B.1.617.2.71, European lineage	-
+AY.72	Netherlands 31.0%, Denmark 16.0%, France 13.0%, Belgium 12.0%, Germany 8.0%	2021-05-02	327	1270	Alias of B.1.617.2.72, European lineage	-
+AY.73	Sweden 22.0%, Germany 18.0%, France 15.0%, Spain 11.0%, Belgium 9.0%	2021-05-24	517	1481	Alias of B.1.617.2.73, European lineage	-
+AY.74	Canada 84.0%, United States of America 16.0%, Mexico 0.0%, Germany 0.0%, France 0.0%	2020-09-19	6487	5891	Alias of B.1.617.2.74, Canada lineage	-
+AY.75	United States of America 74.0%, India 10.0%, Sweden 6.0%, France 1.0%, Canada 1.0%	2020-07-15	5173	27245	Alias of B.1.617.2.75, USA and European lineage	-
+AY.75.2	Philippines 73.0%, Japan 5.0%, Nepal 4.0%, Denmark 4.0%, United States of America 3.0%	2021-04-30	280	358	Alias of B.1.617.2.75.2, Philippines lineage	-
+AY.76	Malaysia 83.0%, Japan 5.0%, United Kingdom 2.0%, New_Zealand 2.0%, India 2.0%	2021-05-04	90	358	Alias of B.1.617.2.76, predominantly Malaysia lineage	-
+AY.77	United States of America 48.0%, India 36.0%, United Kingdom 4.0%, Germany 4.0%, Belgium 1.0%	2020-10-26	230	975	Alias of B.1.617.2.77, USA lineage	-
+AY.78	Turkey 38.0%, Germany 20.0%, India 14.0%, Sweden 10.0%, Czech_Republic 4.0%	2021-03-29	333	824	Alias of B.1.617.2.78, Germany and Turkey lineage	-
+AY.79	Malaysia 65.0%, Indonesia 20.0%, Thailand 8.0%, Singapore 2.0%, India 2.0%	2021-01-03	331	2373	Alias of B.1.617.2.79, predominantly Malaysia lineage	-
+AY.80	Denmark 77.0%, India 7.0%, United Kingdom 4.0%, United States of America 3.0%, Switzerland 2.0%	2021-02-09	310	1355	Alias of B.1.617.2.80, European lineage	-
+AY.81	United States of America 92.0%, India 4.0%, Switzerland 1.0%, Bangladesh 0.0%, Germany 0.0%	2021-04-10	245	650	Alias of B.1.617.2.81, USA lineage	-
+AY.83	United States of America 84.0%, Switzerland 5.0%, Turkey 3.0%, Sweden 2.0%, Germany 1.0%	2021-05-07	114	951	Alias of B.1.617.2.83, USA lineage	-
+AY.84	Germany 54.0%, United States of America 6.0%, France 5.0%, India 5.0%, Switzerland 4.0%	2020-05-11	495	2224	Alias of B.1.617.2.84, European lineage	-
+AY.85	Thailand 82.0%, Cambodia 7.0%, Laos 4.0%, Sweden 1.0%, United Kingdom 1.0%	2021-01-09	470	5746	Alias of B.1.617.2.85, Thailand lineage	-
+AY.86	Canada 66.0%, United States of America 8.0%, India 7.0%, France 6.0%, Germany 6.0%	2020-10-28	497	1283	Alias of B.1.617.2.86, Canada and USA lineage	-
+AY.87	United Kingdom 75.0%, France 9.0%, Belgium 4.0%, United States of America 3.0%, Italy 2.0%	2021-05-18	760	1174	Alias of B.1.617.2.87, UK lineage	-
+AY.88	Ghana 33.0%, United Kingdom 15.0%, United States of America 14.0%, Denmark 14.0%, India 6.0%	2021-04-12	407	1309	Alias of B.1.617.2.88, lineage in Ghana and other countries	-
+AY.90	United Kingdom 97.0%, India 1.0%, Germany 1.0%, Spain 0.0%, Ireland 0.0%	2021-05-02	906	1796	Alias of B.1.617.2.90, UK lineage	-
+AY.91	South_Africa 31.0%, Germany 28.0%, Angola 7.0%, Namibia 6.0%, Portugal 6.0%	2021-02-08	563	1407	Alias of B.1.617.2.91, lineage in South Africa, Namibia and other countries	-
+AY.91.1	Denmark 42.0%, Netherlands 14.0%, Germany 11.0%, Turkey 9.0%, Switzerland 8.0%	2021-04-29	218	299	Alias of B.1.617.2.91.1, European lineage	-
+AY.92	Belgium 28.0%, France 16.0%, Germany 9.0%, India 8.0%, Poland 8.0%	2021-03-11	1069	4356	Alias of B.1.617.2.92, European lineage	-
+AY.93	Canada 99.0%, United States of America 0.0%, India 0.0%, Israel 0.0%, United Kingdom 0.0%	2021-04-25	1446	3856	Alias of B.1.617.2.93, Canada lineage	-
+AY.94	Portugal 30.0%, Spain 23.0%, Sweden 19.0%, United Kingdom 5.0%, France 4.0%	2021-03-08	1701	2833	Alias of B.1.617.2.94, European lineage	-
+AY.95	Maldives 45.0%, Bulgaria 9.0%, Netherlands 7.0%, Germany 6.0%, United States of America 4.0%	2021-01-07	694	1284	Alias of B.1.617.2.95, Maldives and European lineage	-
+AY.98	United Kingdom 90.0%, United States of America 2.0%, Germany 1.0%, Ireland 1.0%, Denmark 1.0%	2020-10-14	1925	41964	Alias of B.1.617.2.98, UK lineage	-
+AY.98.1	France 27.0%, Germany 13.0%, United States of America 8.0%, Slovenia 7.0%, Denmark 6.0%	2020-11-04	10420	32890	Alias of B.1.617.2.98.1, European lineage	-
+AY.98.1.1	Germany 78.0%, Denmark 15.0%, United Kingdom 4.0%, Czech_Republic 1.0%, Belgium 0.0%	2021-07-19	569	624	Alias of B.1.617.2.98.1.1, mainly found in Germany and Denmark, from pango-designation issue #604	-
+AY.99	South_Africa 33.0%, Nigeria 16.0%, United Kingdom 16.0%, Austria 10.0%, India 7.0%	2021-04-16	298	610	Alias of B.1.617.2.99, South Africa and Nigeria lineage	-
+AY.99.1	Brazil 95.0%, United States of America 4.0%, Colombia 0.0%, China 0.0%, United Kingdom 0.0%	2021-01-03	318	1534	Alias of B.1.617.2.99.1, Brazil lineage	-
+AY.99.2	Brazil 97.0%, United States of America 1.0%, Argentina 0.0%, Chile 0.0%, France 0.0%	2021-02-28	5209	26804	Alias of B.1.617.2.99.2, Brazil lineage	-
+AY.100	United States of America 87.0%, Mexico 4.0%, India 2.0%, Brazil 1.0%, Canada 1.0%	2020-05-27	16626	89183	Alias of B.1.617.2.100, USA lineage	-
+AY.101	Brazil 59.0%, India 24.0%, Chile 6.0%, Colombia 3.0%, United Kingdom 2.0%	2021-01-10	836	6949	Alias of B.1.617.2.101, Brazil and Chile lineage	-
+AY.102	India 20.0%, Germany 18.0%, Peru 9.0%, Turkey 7.0%, France 6.0%	2020-10-11	712	12786	Alias of B.1.617.2.102, Peru and Chile lineage, from pango-designation issue #272	-
+AY.102.1	Peru 95.0%, Chile 3.0%, India 1.0%	2021-05-31	130	211	Alias of B.1.617.2.102.1, Peru lineage, from pango-designation issue #325	-
+AY.102.2	Peru 99.0%, Brazil 0.0%, Chile 0.0%	2021-07-12	153	311	Alias of B.1.617.2.102.2, Peru lineage, from pango-designation issue #330	-
+AY.103	United States of America 97.0%, Canada 1.0%, United Kingdom 0.0%, Mexico 0.0%, Germany 0.0%	2020-05-07	18104	292299	Alias of B.1.617.2.103, USA lineage	-
+AY.103.1	Argentina 84.0%, United States of America 13.0%, United Kingdom 1.0%, Chile 1.0%, Ecuador 1.0%	2021-07-31	141	170	Alias of B.1.617.2.103.1, Argentina lineage	-
+AY.103.2	Canada 100.0%, United States of America 0.0%	2021-09-01	534	575	Alias of B.1.617.2.103.2, Canada lineage	-
+AY.104	Sri_Lanka 79.0%, United Kingdom 6.0%, India 3.0%, France 2.0%, Germany 1.0%	2021-03-11	181	669	Alias of B.1.617.2.104, Sri Lanka lineage	-
+AY.105	United States of America 83.0%, India 9.0%, Maldives 2.0%, Germany 1.0%, United Kingdom 1.0%	2021-02-08	230	1141	Alias of B.1.617.2.105, USA lineage	-
+AY.106	India 34.0%, Germany 15.0%, Jordan 8.0%, Israel 7.0%, United States of America 5.0%	2021-03-06	652	3582	Alias of B.1.617.2.106, lineage in Jordan and other countries	-
+AY.107	United States of America 76.0%, India 8.0%, Jamaica 5.0%, United Kingdom 3.0%, South_Africa 1.0%	2021-01-05	358	4175	Alias of B.1.617.2.107, USA lineage	-
+AY.108	Pakistan 31.0%, United Kingdom 16.0%, Denmark 13.0%, Norway 7.0%, United States of America 5.0%	2021-05-14	159	861	Alias of B.1.617.2.108, lineage in Pakistan and other countries	-
+AY.109	France 43.0%, United Kingdom 25.0%, Nigeria 9.0%, Switzerland 5.0%, United States of America 4.0%	2020-09-11	337	3588	Alias of B.1.617.2.109, lineage in Nigeria and other countries	-
+AY.110	United States of America 88.0%, Italy 2.0%, Germany 2.0%, United Kingdom 1.0%, Canada 1.0%	2021-04-14	1016	4047	Alias of B.1.617.2.110, USA lineage	-
+AY.111	United Kingdom 73.0%, Denmark 10.0%, India 3.0%, Poland 2.0%, Sweden 2.0%	2021-02-05	2070	8277	Alias of B.1.617.2.111, UK lineage	-
+AY.112	India 54.0%, Germany 9.0%, United States of America 4.0%, United Kingdom 4.0%, Norway 3.0%	2020-08-11	3408	17116	Alias of B.1.617.2.112, lineage in India and other countries, from pango-designation issue #283	-
+AY.112.2	India 95.0%, United Kingdom 2.0%, United States of America 2.0%, Switzerland 0.0%, Canada 0.0%	2021-01-10	1043	1330	Alias of B.1.617.2.112.2, mainly found in India, from pango-designation issue #385	-
+AY.112.3	Israel 100.0%, United States of America 0.0%	2021-08-23	196	234	Alias of B.1.617.2.112.3, mainly found in Israel, from pango-designation issue #388	-
+AY.113	United States of America 71.0%, Mexico 8.0%, Costa_Rica 5.0%, Czech_Republic 5.0%, Spain 2.0%	2020-12-16	1758	12439	Alias of B.1.617.2.113, USA and Mexico lineage	-
+AY.114	United States of America 93.0%, Germany 4.0%, Canada 1.0%, India 0.0%, Bulgaria 0.0%	2021-05-13	627	5279	Alias of B.1.617.2.114, USA lineage	-
+AY.116	Norway 13.0%, Sweden 11.0%, Brazil 11.0%, Kenya 9.0%, Zambia 8.0%	2021-02-01	996	3463	Alias of B.1.617.2.116, Africa lineage	-
+AY.116.1	United States of America 99.0%, Canada 0.0%, United Kingdom 0.0%, Mexico 0.0%, Colombia 0.0%	2021-03-23	473	4526	Alias of B.1.617.2.116.1, USA lineage	-
+AY.117	United States of America 96.0%, Canada 1.0%, Portugal 1.0%, France 0.0%, Slovakia 0.0%	2020-05-11	916	15227	Alias of B.1.617.2.117, USA lineage	-
+AY.118	United States of America 93.0%, France 2.0%, Puerto_Rico 1.0%, Netherlands 0.0%, United Kingdom 0.0%	2020-05-24	2183	21916	Alias of B.1.617.2.118, USA lineage	-
+AY.119	United States of America 94.0%, Germany 1.0%, Canada 1.0%, United Kingdom 0.0%, France 0.0%	2020-06-04	2356	36380	Alias of B.1.617.2.119, USA lineage	-
+AY.119.1	Peru 60.0%, Chile 11.0%, United States of America 9.0%, Brazil 5.0%, Spain 2.0%	2020-11-09	103	755	Alias of B.1.617.2.119.1, Chile and Peru lineage, from pango-designation issue #336	-
+AY.119.2	United States of America 88.0%, Canada 9.0%, Panama 1.0%, Dominican_Republic 0.0%, Israel 0.0%	2021-01-11	2081	12011	Alias of B.1.617.2.119.2, USA lineage, from pango-designation issue #288	-
+AY.120	United Kingdom 82.0%, India 4.0%, United States of America 3.0%, Germany 3.0%, France 2.0%	2020-10-26	15515	31184	Alias of B.1.617.2.120, UK lineage	-
+AY.120.1	United States of America 98.0%, United Kingdom 2.0%, Canada 0.0%, Switzerland 0.0%, India 0.0%	2020-12-27	783	4216	Alias of B.1.617.2.120.1, USA lineage	-

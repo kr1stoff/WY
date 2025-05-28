@@ -1,0 +1,5 @@
+python: /home/mengxf/mambaforge/envs/bio/bin/python
+seqkit: /home/mengxf/mambaforge/envs/bio/bin/seqkit
+primer3: /home/mengxf/mambaforge/envs/primer/bin/primer3_core
+bedtools: /usr/bin/bedtools
+parallel: /usr/bin/parallel

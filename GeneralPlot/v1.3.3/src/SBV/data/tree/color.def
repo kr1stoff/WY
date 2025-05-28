@@ -1,0 +1,8 @@
+AG_AG|PC_PC	range	00f
+AG_AG|PC_PC	clade	f0c
+PC_PC|PP_PP	range	0f0
+ML_ML|PG_PG	label	f00
+AG_AG	range	049
+MG_MG	range	0ff
+UM_UM	label	4fc
+M_UM	clade	0f0

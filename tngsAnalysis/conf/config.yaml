@@ -1,0 +1,18 @@
+#software
+seqtk: /home/mengxf/mambaforge/envs/bio/bin/seqtk
+blastn: /home/mengxf/mambaforge/envs/bio/bin/blastn
+makeblastdb: /home/mengxf/mambaforge/envs/bio/bin/makeblastdb
+fastqc: /home/mengxf/mambaforge/envs/bio/bin/fastqc
+fastp: /home/mengxf/mambaforge/envs/bio/bin/fastp
+bwa: /home/mengxf/mambaforge/envs/bio/bin/bwa
+samtools: /home/mengxf/mambaforge/envs/bio/bin/samtools
+python: /home/mengxf/mambaforge/envs/bio/bin/python
+pandaseq: /home/mengxf/mambaforge/envs/amplicon/bin/pandaseq
+#general parameter
+threads: 32
+#blastn arguments
+blastn_evalue: 999
+blastn_wordsize: 10 #视引物情况调整 15->10
+blastn_outfmt: '6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send qlen slen evalue bitscore'
+#fastp arguments
+options_fastp: '-q 15 -u 60 -t 0 -G -n 1 -l 60 -y -a CTGTCTCTTATACACATCTCCGAGCCCACGAGAC'

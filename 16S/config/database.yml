@@ -1,0 +1,3 @@
+greengenes: /sdbb/share/database/Greengenes/13_8/classifier.qza
+silva: /sdbb/share/database/Silva/138/classifier.qza
+unite: /sdbb/share/database/UNITE/8.3/classifier.qza

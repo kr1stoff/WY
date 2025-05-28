@@ -1,0 +1,17 @@
+kindom: bacteria
+library: '22086'
+reference: /sdbb/customer/Reference_genome/Yersinia_enterocolitica/Yersinia_enterocolitica_FDAARGOS_1090.fasta
+result_dir: /sdbb/Earth/Analysis
+samples:
+  TB22072801:
+  - /sdbb/customer/Rawdata/TracePathogen/snp_fastq_bacteria/ERR7445080_1.fastq.gz
+  - /sdbb/customer/Rawdata/TracePathogen/snp_fastq_bacteria/ERR7445080_2.fastq.gz
+  TB22072802:
+  - /sdbb/customer/Rawdata/TracePathogen/snp_fastq_bacteria/ERR7445081_1.fastq.gz
+  - /sdbb/customer/Rawdata/TracePathogen/snp_fastq_bacteria/ERR7445081_2.fastq.gz
+  TB22072803:
+  - /sdbb/customer/Rawdata/TracePathogen/snp_fastq_bacteria/ERR7445082_1.fastq.gz
+  - /sdbb/customer/Rawdata/TracePathogen/snp_fastq_bacteria/ERR7445082_2.fastq.gz
+  TB22072804:
+  - /sdbb/customer/Rawdata/TracePathogen/snp_fastq_bacteria/ERR7445083_1.fastq.gz
+  - /sdbb/customer/Rawdata/TracePathogen/snp_fastq_bacteria/ERR7445083_2.fastq.gz

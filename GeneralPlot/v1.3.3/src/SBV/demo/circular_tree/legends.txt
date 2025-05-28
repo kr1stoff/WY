@@ -1,0 +1,13 @@
+F8766D	shape=17;stroke_width=2;color=F8766D
+E18A00	shape=17;stroke_width=2;color=E18A00
+BE9C00	shape=17;stroke_width=2;color=BE9C00
+8CAB00	shape=17;stroke_width=2;color=8CAB00
+24B700	shape=17;stroke_width=2;color=24B700
+00BE70	shape=17;stroke_width=2;color=00BE70
+00C1AB	shape=17;stroke_width=2;color=00C1AB
+00BBDA	shape=17;stroke_width=2;color=00BBDA
+00ACFC	shape=17;stroke_width=2;color=00ACFC
+8B93FF	shape=17;stroke_width=2;color=8B93FF
+D575FE	shape=17;stroke_width=2;color=D575FE
+F962DD	shape=17;stroke_width=2;color=F962DD
+FF65AC	shape=17;stroke_width=2;color=FF65AC

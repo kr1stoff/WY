@@ -1,0 +1,22 @@
+library: 220526_sars2_02
+result_dir: /sdbb/bioinfor/mengxf/Project/7.amplicon_general_purpose/results
+samples:
+  TC0311:
+  - /sdbb/bioinfor/mengxf/Project/5.trace_pathogen/rawdata/snp_fastq/TC0311_S4_R1_001.fastq.gz
+  - /sdbb/bioinfor/mengxf/Project/5.trace_pathogen/rawdata/snp_fastq/TC0311_S4_R2_001.fastq.gz
+  TC0312:
+  - /sdbb/bioinfor/mengxf/Project/5.trace_pathogen/rawdata/snp_fastq/TC0312_S5_R1_001.fastq.gz
+  - /sdbb/bioinfor/mengxf/Project/5.trace_pathogen/rawdata/snp_fastq/TC0312_S5_R2_001.fastq.gz
+  TC0313:
+  - /sdbb/bioinfor/mengxf/Project/5.trace_pathogen/rawdata/snp_fastq/TC0313_S6_R1_001.fastq.gz
+  - /sdbb/bioinfor/mengxf/Project/5.trace_pathogen/rawdata/snp_fastq/TC0313_S6_R2_001.fastq.gz
+  TC0314:
+  - /sdbb/bioinfor/mengxf/Project/5.trace_pathogen/rawdata/snp_fastq/TC0314_S7_R1_001.fastq.gz
+  - /sdbb/bioinfor/mengxf/Project/5.trace_pathogen/rawdata/snp_fastq/TC0314_S7_R2_001.fastq.gz
+  TC0315:
+  - /sdbb/bioinfor/mengxf/Project/5.trace_pathogen/rawdata/snp_fastq/TC0315_S8_R1_001.fastq.gz
+  - /sdbb/bioinfor/mengxf/Project/5.trace_pathogen/rawdata/snp_fastq/TC0315_S8_R2_001.fastq.gz
+reference: /sdbb/bioinfor/Database/references/NC_045512.2/GCF_009858895.2_ASM985889v3_genomic.gbff
+bed: /sdbb/bioinfor/mengxf/Project/7.amplicon_general_purpose/AmpliconGP/etc/primers.bed
+kindom: virus # [virus, bacteria, fungi]
+trace: true

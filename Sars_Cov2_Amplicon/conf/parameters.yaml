@@ -1,0 +1,11 @@
+# base
+thread: 8
+parallel_number: 8
+# variant calling
+min_cov: 10
+min_alt_count: 10
+min_alt_frac: 0.3
+# fastp
+options_fastp: "-q 15 -u 40 -t 0 -G -n 1 -l 60 -y -a CTGTCTCTTATACACATCTCCGAGCCCACGAGAC" # 230129
+# fastp_options: "-t 0 -G -n 1 -l 40 -y -w 12 -a CTGTCTCTTATACACATCTCCGAGCCCACGAGAC" # IDSeq 230129
+# fastp_options: "-q 15 -u 40 -l 60 -a CTGTCTCTTATACACATCTCCGAGCCCACGAGAC --cut_right --cut_window_size 20 --cut_mean_quality 20 --correction"

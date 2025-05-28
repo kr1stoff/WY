@@ -1,0 +1,65 @@
+# 预扩增引物设计配置文件
+project: Test
+# 参考基因/基因组序列
+reference: /sdbb/bioinfor/renchaobo/Project/WY2023020801/Work/01.Data/KPC/ref.fna
+# 所有基因/基因组序列
+genomes: /sdbb/bioinfor/renchaobo/Project/WY2023020801/Work/01.Data/KPC/all.fna
+# 背景
+background:
+  - /sdbb/bioinfor/Database/human/hg38/hg38.fa
+# 特异性数据库
+# 保守性数据库
+
+# Primer3 的一些参数
+internal:
+  # 内引物&探针参数
+  PRIMER_TASK: generic
+  # 开启探针设计
+  PRIMER_PICK_LEFT_PRIMER: 1
+  PRIMER_PICK_INTERNAL_OLIGO: 1
+  PRIMER_PICK_RIGHT_PRIMER: 1
+  # 产物长度
+  PRIMER_PRODUCT_SIZE_RANGE: 70-110
+  # 返回结果的数目
+  PRIMER_NUM_RETURN: 500
+  # 引物长度设定
+  PRIMER_OPT_SIZE: 20
+  PRIMER_MIN_SIZE: 9
+  PRIMER_MAX_SIZE: 36
+  PRIMER_INTERNAL_MIN_SIZE: 13
+  PRIMER_INTERNAL_MAX_SIZE: 30
+  # 引物Tm值设定
+  PRIMER_OPT_TM: 59.0
+  PRIMER_MIN_TM: 58.0
+  PRIMER_MAX_TM: 60.0
+  PRIMER_PAIR_MAX_DIFF_TM: 2
+  PRIMER_INTERNAL_OPT_TM: 69
+  PRIMER_INTERNAL_MIN_TM: 68
+  PRIMER_INTERNAL_MAX_TM: 70
+  # 引物GC含量设定
+  PRIMER_MIN_GC: 30.0
+  PRIMER_MAX_GC: 80.0
+  PRIMER_MAX_END_GC: 2  # 3'末端的5bp碱基中最多允许的GC数目
+  PRIMER_INTERNAL_MIN_GC: 30
+  PRIMER_INTERNAL_MAX_GC: 80
+  # 产物阈值设定
+  PRIMER_PRODUCT_MIN_TM: 0
+  PRIMER_PRODUCT_MAX_TM: 85
+  # 小写表示Mask
+  PRIMER_LOWERCASE_MASKING: 1
+external:
+  # 外引物参数
+  PRIMER_TASK: pre-amplification-primer
+  PRIMER_PRODUCT_SIZE_RANGE: 175-250 150-400
+  PRIMER_OPT_SIZE: 22
+  PRIMER_MIN_SIZE: 18
+  PRIMER_MAX_SIZE: 28
+  PRIMER_NUM_RETURN: 500
+  PRIMER_OPT_TM: 63.5
+  PRIMER_MIN_TM: 60.0
+  PRIMER_MAX_TM: 66.0
+  PRIMER_OPT_GC_PERCENT: 50
+  PRIMER_MIN_GC: 30.0
+  PRIMER_MAX_GC: 70.0
+  PRIMER_LOWERCASE_MASKING: 1
+

@@ -1,0 +1,23 @@
+python: /sdbb/bioinfor/renchaobo/Software/miniconda3/bin/python
+seqkit: /sdbb/bioinfor/renchaobo/Software/SeqKit/SeqKit-0.12.0/seqkit
+bedtools: /usr/bin/bedtools
+primer3: /sdbb/bioinfor/renchaobo/Software/Primer3/primer3-v2.6.1/src/primer3_core
+primer3setting: /sdbb/bioinfor/renchaobo/Software/Primer3/primer3-v2.6.1/settings_files/p3_th_settings.txt
+mfeprimer: /sdbb/bioinfor/renchaobo/Software/MFEprimer/MFEprimer-v3.2.4/mfeprimer
+mafft: /sdbb/bioinfor/zengql/tools/miniconda3/bin/mafft
+rapidnj: /sdbb/bioinfor/zengql/tools/miniconda3/bin/rapidnj
+phyloFit: /sdbb/bioinfor/zengql/tools/CLAPACK-3.2.1/phast/bin/phyloFit
+phastCons: /sdbb/bioinfor/zengql/tools/CLAPACK-3.2.1/phast/bin/phastCons
+paired-kmers: /sdbb/bioinfor/renchaobo/Software/paired-kmers/v1.0.0/paired-kmers
+
+# 软件目录
+samtools: /sdbb/bioinfor/renchaobo/Software/Samtools/samtools-1.15/bin
+microgmt: /sdbb/bioinfor/renchaobo/Software/MicroGMT/MicroGMT-v1.4
+minimap2: /sdbb/bioinfor/renchaobo/Software/minimap2/minimap2-2.24
+bcftools: /sdbb/bioinfor/renchaobo/Software/BCFtools/bcftools-1.15/bin
+# 个人软件/模块
+EasyPipe: /sdbb/bioinfor/renchaobo/test
+
+# NGS_primerplex使用的Python
+python38: /home/yehui/software/python3/Python-3.8.15/bin/python3.8
+primerplex: /home/yehui/software/NGS-PrimerPlex/NGS-PrimerPlex-1.3.3/NGS_primerplex.py

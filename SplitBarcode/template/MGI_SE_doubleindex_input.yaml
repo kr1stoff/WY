@@ -1,0 +1,583 @@
+BCL_folder: /sdbb/bioinfor/mengxf/Project/8.split_barcode/BCL/MGI_SE_doubleindex/S200044065
+library: 220530_MGI_S50_Dual
+FASTQ_folder: /sdbb/bioinfor/mengxf/Project/8.split_barcode/FASTQ
+mismatch: 1
+index_type: Dual # Single
+reads_length: SE50
+samples:
+  UDB-1:
+    index: GTGAGTGATG
+    index2: TAGAGGACAA
+  UDB-10:
+    index: CCTAGCGAAT
+    index2: TAATCGTTCA
+  UDB-100:
+    index: TCCGTGACTC
+    index2: CGCTCACGAT
+  UDB-101:
+    index: AATTCACTGT
+    index2: AAGCTCTGTC
+  UDB-102:
+    index: CCTGAAGGAT
+    index2: CCAGAGATCT
+  UDB-103:
+    index: TTCCTTACTG
+    index2: GTGATTGCAC
+  UDB-104:
+    index: GGATGCTACC
+    index2: TGCTCACAGA
+  UDB-105:
+    index: CGACGATATG
+    index2: GTGATCTAGA
+  UDB-106:
+    index: GACGGTCGAG
+    index2: TCTGTATAGT
+  UDB-107:
+    index: ACGAAGGTCC
+    index2: AACCGTCGTC
+  UDB-108:
+    index: TTAACGACGA
+    index2: CGATAGGTCG
+  UDB-109:
+    index: AATTCCGAGT
+    index2: AACGCAACTA
+  UDB-11:
+    index: GTAGTCATCG
+    index2: GTTCGCTCTA
+  UDB-110:
+    index: CCTGTAACCA
+    index2: CCATACATAT
+  UDB-111:
+    index: TTGCTTCGTT
+    index2: TTGAGTCGAC
+  UDB-112:
+    index: GGCTACTTAC
+    index2: GGTCCGGCCG
+  UDB-113:
+    index: TAATGGCCTT
+    index2: AGAGTACGAC
+  UDB-114:
+    index: GTGACCGGTA
+    index2: ATCGAAGGTA
+  UDB-115:
+    index: ACCGATTAGG
+    index2: CAGACGTTGG
+  UDB-116:
+    index: CGTCTGATAT
+    index2: GCTCGTAACT
+  UDB-117:
+    index: AACGCATTCC
+    index2: TAATCTACTT
+  UDB-118:
+    index: CCGAGAGACC
+    index2: CCGTACCTGA
+  UDB-119:
+    index: TGATTCCGAG
+    index2: GTCATGGACG
+  UDB-12:
+    index: GCTGAGCTGT
+    index2: TCTCACACAT
+  UDB-120:
+    index: GTTCATACGA
+    index2: TGTCGCTCAC
+  UDB-121:
+    index: TAGACTGATC
+    index2: TCGATCGAGT
+  UDB-122:
+    index: GATTCCATGA
+    index2: AGTAAGCCGG
+  UDB-123:
+    index: ACACAGTGCT
+    index2: CAACCTTGCC
+  UDB-124:
+    index: CGCGTACCAG
+    index2: GTCGGAATTA
+  UDB-125:
+    index: ATACGCTAGA
+    index2: AACTACTGAG
+  UDB-126:
+    index: CCGGATACTC
+    index2: CCATCGGAAT
+  UDB-127:
+    index: TGCTTGCGCG
+    index2: TTGGTTCCTA
+  UDB-128:
+    index: GTTAGAGTAT
+    index2: GGTCGAATCC
+  UDB-129:
+    index: TGCTATGCAC
+    index2: GTAGGATTCC
+  UDB-13:
+    index: AACCTAGATA
+    index2: CTGTTAGGAT
+  UDB-130:
+    index: GTGCATAGAG
+    index2: CGTCGTTGCA
+  UDB-131:
+    index: AATGCGTACT
+    index2: AACTAGGCTT
+  UDB-132:
+    index: CCAGGACCTA
+    index2: TCGACGCAGG
+  UDB-133:
+    index: AAGCTCATGA
+    index2: AACGTCAGAC
+  UDB-134:
+    index: CCTAGAGTTG
+    index2: CCATCTGATA
+  UDB-135:
+    index: TGCATCCGGT
+    index2: TGTATCACGT
+  UDB-136:
+    index: GTATCGTACC
+    index2: GTGCAACTAG
+  UDB-137:
+    index: GTATCGAATT
+    index2: TATGGATCGT
+  UDB-138:
+    index: CGTACTACGT
+    index2: AGCTGAATGG
+  UDB-139:
+    index: AACGTACTCG
+    index2: CCAACTGGCC
+  UDB-14:
+    index: TTGCCATCTC
+    index2: CGCAGACGCG
+  UDB-140:
+    index: TCGCACTGAC
+    index2: GTGCAGCATA
+  UDB-141:
+    index: AACTGTGTGA
+    index2: AACGACCAAT
+  UDB-142:
+    index: CCGATGCACA
+    index2: CCATTCGGCA
+  UDB-143:
+    index: TGTGACGCAG
+    index2: TGTATGATTC
+  UDB-144:
+    index: GTACGATGTC
+    index2: GTGCCTTCAG
+  UDB-145:
+    index: CTCGTTCCGG
+    index2: GGCTGGCTTG
+  UDB-146:
+    index: CGTGCCAGGA
+    index2: CATAGAGACG
+  UDB-147:
+    index: AAGCGATATC
+    index2: ACACATTGAC
+  UDB-148:
+    index: GCAACTGTCT
+    index2: TTGGTCACGT
+  UDB-149:
+    index: TAATGGTCAG
+    index2: AACCTTCGGA
+  UDB-15:
+    index: AGATCTTGCG
+    index2: AAGGATCATC
+  UDB-150:
+    index: ACCTAGGACC
+    index2: CCGACCATCC
+  UDB-151:
+    index: TTGCACATTA
+    index2: TTAGCATCAA
+  UDB-152:
+    index: GGTATACGAT
+    index2: GGTTAGGATT
+  UDB-153:
+    index: CACACACAGG
+    index2: GCGTCGTCTC
+  UDB-154:
+    index: TAGTGCTGTC
+    index2: AATCCTAGCC
+  UDB-155:
+    index: ACACTGATAT
+    index2: CGAAGCCTGT
+  UDB-156:
+    index: GGTAATGCCT
+    index2: TTCGAAGTAG
+  UDB-157:
+    index: ATAGCACAGA
+    index2: AACCGGTACA
+  UDB-158:
+    index: CCTGACATCG
+    index2: CCATTCAATG
+  UDB-159:
+    index: TTGCTGTGAC
+    index2: TTGGTAGCAA
+  UDB-16:
+    index: CGCTATCGGC
+    index2: AGCGTTGAGC
+  UDB-160:
+    index: GGCTGTGCTA
+    index2: GGTAATCGGT
+  UDB-161:
+    index: AGGCACTGCC
+    index2: ACGACGAACG
+  UDB-162:
+    index: CGTCGTTAAC
+    index2: ACGTCTCAAC
+  UDB-163:
+    index: GAAGTAATGT
+    index2: CAACGCTGTA
+  UDB-164:
+    index: TCCAGTGCTA
+    index2: GGCAAGTCGT
+  UDB-165:
+    index: ATATCGCAAG
+    index2: TTAGTAGTTG
+  UDB-166:
+    index: CACGCAGTTG
+    index2: CATCGTCGGT
+  UDB-167:
+    index: TTGATCCGGA
+    index2: TTCGTCACAC
+  UDB-168:
+    index: GCTTAGACCT
+    index2: GGTTAAGTCA
+  UDB-169:
+    index: GACAGATTGG
+    index2: AGACTAAGGA
+  UDB-17:
+    index: GCAACGATGG
+    index2: TTAGATGCAT
+  UDB-170:
+    index: GAATTGGCCG
+    index2: GCGTGATCGT
+  UDB-171:
+    index: ACGCATCAAT
+    index2: CACACTGATG
+  UDB-172:
+    index: CGTGACAGTC
+    index2: TTAGAGCTAC
+  UDB-173:
+    index: TTAACTTGAA
+    index2: AATCACTTCA
+  UDB-174:
+    index: ACGCGACCGT
+    index2: CCGATCACAG
+  UDB-175:
+    index: TGTGTCATCA
+    index2: TGTGCGCGTC
+  UDB-176:
+    index: CTCTCGGATC
+    index2: GTCTGTGACT
+  UDB-177:
+    index: AGTAAGTGCT
+    index2: AGATTAACCA
+  UDB-178:
+    index: TATACTGCGT
+    index2: AGCTATGCCG
+  UDB-179:
+    index: CCAGTCCTTC
+    index2: CAGACGTGTC
+  UDB-18:
+    index: TAATCGTTCA
+    index2: GTCCAGAGCT
+  UDB-180:
+    index: GTCCGTAAGG
+    index2: GCTCGGCAAT
+  UDB-181:
+    index: AAGTCATTAA
+    index2: TTAGCCTTGG
+  UDB-182:
+    index: CCGTTGGATC
+    index2: CACGAACGTC
+  UDB-183:
+    index: TTCGGACGCA
+    index2: TCTCGTATGA
+  UDB-184:
+    index: GGACACACAG
+    index2: GTGATCGAAT
+  UDB-185:
+    index: AGCTCTGTGT
+    index2: TAGTACAGCA
+  UDB-186:
+    index: CTGACGTTAC
+    index2: GGATGTGTAC
+  UDB-187:
+    index: GAACGCAGTG
+    index2: ACCATGTATG
+  UDB-188:
+    index: TCTGAACCGA
+    index2: CTTCCAGCGT
+  UDB-189:
+    index: AAGCTGAACC
+    index2: AACGCGCTGG
+  UDB-19:
+    index: GTTCGCTCTA
+    index2: CACGTGATAG
+  UDB-190:
+    index: CCTATATACA
+    index2: CCGAACTCAT
+  UDB-191:
+    index: TTCGGTCGTG
+    index2: TGTCGTAGTC
+  UDB-192:
+    index: GGATACGCAT
+    index2: GTAGTACACA
+  UDB-2:
+    index: GAGTCAGCTG
+    index2: CCTAGCGAAT
+  UDB-20:
+    index: TCTCACACAT
+    index2: CCACTAGTCC
+  UDB-21:
+    index: CTGTTAGGAT
+    index2: TGGACTTGGC
+  UDB-22:
+    index: CGCAGACGCG
+    index2: GCTTGACAGG
+  UDB-23:
+    index: AAGGATCATC
+    index2: AAGACCTCTA
+  UDB-24:
+    index: AGCGTTGAGC
+    index2: AGTTGCCATA
+  UDB-25:
+    index: TTAGATGCAT
+    index2: ATGTACGCAG
+  UDB-26:
+    index: GTCCAGAGCT
+    index2: TTAATGAGAT
+  UDB-27:
+    index: CACGTGATAG
+    index2: TGCGCCACTT
+  UDB-28:
+    index: CCACTAGTCC
+    index2: CATTAAGGCC
+  UDB-29:
+    index: TGGACTTGGC
+    index2: CCGCCTCAGA
+  UDB-3:
+    index: TGTCTGCGAA
+    index2: GTAGTCATCG
+  UDB-30:
+    index: GCTTGACAGG
+    index2: AATCGGCTCG
+  UDB-31:
+    index: AAGACCTCTA
+    index2: GCCGGTTATC
+  UDB-32:
+    index: AGTTGCCATA
+    index2: GGAATATTGA
+  UDB-33:
+    index: ATGTACGCAG
+    index2: ATTCAACGGA
+  UDB-34:
+    index: TTAATGAGAT
+    index2: AACTGTACTG
+  UDB-35:
+    index: TGCGCCACTT
+    index2: GTACCTCAAT
+  UDB-36:
+    index: CATTAAGGCC
+    index2: GACTTCTAAT
+  UDB-37:
+    index: CCGCCTCAGA
+    index2: TGAAGCGTTG
+  UDB-38:
+    index: AATCGGCTCG
+    index2: CGTGCGATCC
+  UDB-39:
+    index: GCCGGTTATC
+    index2: TCGGAAGGCA
+  UDB-4:
+    index: ATTGGTACAA
+    index2: GCTGAGCTGT
+  UDB-40:
+    index: GGAATATTGA
+    index2: CCGATGTCGC
+  UDB-41:
+    index: ATTCAACGGA
+    index2: ACTTAGAATG
+  UDB-42:
+    index: AACTGTACTG
+    index2: TCCAAGCCTG
+  UDB-43:
+    index: GTACCTCAAT
+    index2: AGACGATGAT
+  UDB-44:
+    index: GACTTCTAAT
+    index2: CTCACAAGAC
+  UDB-45:
+    index: TGAAGCGTTG
+    index2: CGTTCCTACT
+  UDB-46:
+    index: CGTGCGATCC
+    index2: GTGGTTGTGA
+  UDB-47:
+    index: TCGGAAGGCA
+    index2: GAAGGCCTGC
+  UDB-48:
+    index: CCGATGTCGC
+    index2: TAGCTTGCCA
+  UDB-49:
+    index: ACTTAGAATG
+    index2: GACAATGCTC
+  UDB-5:
+    index: CGATTGTGGT
+    index2: AACCTAGATA
+  UDB-50:
+    index: TCCAAGCCTG
+    index2: GCTAATCACA
+  UDB-51:
+    index: AGACGATGAT
+    index2: AGTCCATAGG
+  UDB-52:
+    index: CTCACAAGAC
+    index2: CTATCGCCTA
+  UDB-53:
+    index: CGTTCCTACT
+    index2: ATCGTGGTCT
+  UDB-54:
+    index: GTGGTTGTGA
+    index2: TGGCTAATAC
+  UDB-55:
+    index: GAAGGCCTGC
+    index2: CAGTGCAGAG
+  UDB-56:
+    index: TAGCTTGCCA
+    index2: TCAGGCTGGT
+  UDB-57:
+    index: GACAATGCTC
+    index2: ATACTCACGC
+  UDB-58:
+    index: GCTAATCACA
+    index2: ATGCTCCGCG
+  UDB-59:
+    index: AGTCCATAGG
+    index2: TGTGAACTTG
+  UDB-6:
+    index: ACAGACTTCC
+    index2: TTGCCATCTC
+  UDB-60:
+    index: CTATCGCCTA
+    index2: GAGAGGTGCT
+  UDB-61:
+    index: ATCGTGGTCT
+    index2: TGCACTGTAA
+  UDB-62:
+    index: TGGCTAATAC
+    index2: GCCTAGGCAA
+  UDB-63:
+    index: CAGTGCAGAG
+    index2: CCATCATAGC
+  UDB-64:
+    index: TCAGGCTGGT
+    index2: CATGGTAATT
+  UDB-65:
+    index: ATACTCACGC
+    index2: CACCATGTCT
+  UDB-66:
+    index: ATGCTCCGCG
+    index2: ATATGTCTGG
+  UDB-67:
+    index: TGTGAACTTG
+    index2: AAGGAAGCGT
+  UDB-68:
+    index: GAGAGGTGCT
+    index2: TCAAGACGTC
+  UDB-69:
+    index: TGCACTGTAA
+    index2: CCGCTCAGTA
+  UDB-7:
+    index: TCCACACTCT
+    index2: AGATCTTGCG
+  UDB-70:
+    index: GCCTAGGCAA
+    index2: GGTGTGTACA
+  UDB-71:
+    index: CCATCATAGC
+    index2: TTCACGTAAG
+  UDB-72:
+    index: CATGGTAATT
+    index2: GGTTCCACAC
+  UDB-73:
+    index: CACCATGTCT
+    index2: AGGTATTCTT
+  UDB-74:
+    index: ATATGTCTGG
+    index2: CGAATGCAAC
+  UDB-75:
+    index: AAGGAAGCGT
+    index2: TTCAACGGCG
+  UDB-76:
+    index: TCAAGACGTC
+    index2: CTCGGCGGAA
+  UDB-77:
+    index: CCGCTCAGTA
+    index2: ACGGTAATGG
+  UDB-78:
+    index: GGTGTGTACA
+    index2: GATCCGACGT
+  UDB-79:
+    index: TTCACGTAAG
+    index2: TCACGATACA
+  UDB-8:
+    index: CACCACAAGC
+    index2: CGCTATCGGC
+  UDB-80:
+    index: GGTTCCACAC
+    index2: GATTCTCTTC
+  UDB-81:
+    index: AGCTGCGCAC
+    index2: ATTCAAGTTC
+  UDB-82:
+    index: GATTAATGAA
+    index2: ACGGCTTCCG
+  UDB-83:
+    index: CCAATGCTTG
+    index2: CAATGGCAGA
+  UDB-84:
+    index: TTGCCTATGT
+    index2: GGCATCAGAT
+  UDB-85:
+    index: AACGCTCACG
+    index2: TAACCTGAAC
+  UDB-86:
+    index: CCGATCGGCC
+    index2: CCGTAGATCA
+  UDB-87:
+    index: TTAGGAACTA
+    index2: TGTATATCGG
+  UDB-88:
+    index: GGTCAGTAGT
+    index2: GTCGGCCGTT
+  UDB-89:
+    index: TGCCGGATCA
+    index2: TGCATGACGA
+  UDB-9:
+    index: TAGAGGACAA
+    index2: GCAACGATGG
+  UDB-90:
+    index: ACTCATGACC
+    index2: GCATAGCGTA
+  UDB-91:
+    index: CAAGTCTCAT
+    index2: AAGCCTGTAG
+  UDB-92:
+    index: GTGACATGTG
+    index2: CTTGGATACT
+  UDB-93:
+    index: AAGTACCTGG
+    index2: AACTACGTCC
+  UDB-94:
+    index: CCTATAGCAC
+    index2: CCGGTCTAAC
+  UDB-95:
+    index: TTCGGTCAGT
+    index2: TTACGACCGG
+  UDB-96:
+    index: GGATCGAGTA
+    index2: GGTACTAGTT
+  UDB-97:
+    index: AGGACGTAGA
+    index2: TATGGCACTG
+  UDB-98:
+    index: CTGAACCGAA
+    index2: GTTAGGTAGG
+  UDB-99:
+    index: GAACGTGTCG
+    index2: ACACATGTCA

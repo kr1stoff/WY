@@ -1,0 +1,18 @@
+perl: /home/earthtest/miniconda3/bin/perl
+python: /home/earthtest/miniconda3/bin/python
+Rscript: /home/earthtest/miniconda3/envs/R4.1.2/bin/Rscript
+convert: /home/earthtest/miniconda3/bin/convert
+svg2png: /usr/bin/rsvg-convert
+dos2unix: /home/earthtest/miniconda3/bin/dos2unix
+activate: /home/earthtest/miniconda3/bin/activate
+deactivate: /home/earthtest/miniconda3/bin/deactivate
+qiime2: /home/earthtest/miniconda3/envs/qiime2-2021.11/bin/qiime
+fastp: /home/earthtest/miniconda3/bin/fastp
+biom: /home/earthtest/miniconda3/envs/qiime2-2021.11/bin/biom
+fastqc: /home/earthtest/miniconda3/bin/fastqc
+shell: /usr/bin/bash
+parallel: /usr/bin/parallel
+
+# 个人软件/模块
+GeneralPlot: /sdbb/share/lib/GeneralPlot/bin/general_plot.pl
+GDHR: /sdbb/share/lib/GDHR

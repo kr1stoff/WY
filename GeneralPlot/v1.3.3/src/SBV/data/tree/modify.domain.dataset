@@ -1,0 +1,13 @@
+#Name	Length	Start	Stop	Symbol	Color	Fill
+AG_AG	1000	20	500	24	black	red
+AG_AG	1000	600	900	25	black	green
+UM_UM	1000	20	200	26	black	purple
+UM_UM	1000	600	900	27	black	blue
+MG_MG	1000	100	400	24	black	red
+CN_CN	1000	600	1000	25	black	green
+CC_CC	1000	200	600	27	black	blue
+LB_LB	1000	150	600	28	black	yellow
+PC_PC	1000	500	900	29	black	dred
+PP_PP	1000	300	800	28	black	yellow
+ML_ML	1000	100	400	29	black	dred
+PG_PG	1000	200	400	29	black	dred

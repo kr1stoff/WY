@@ -1,0 +1,21 @@
+project: Test
+reference: /sdbb/bioinfor/renchaobo/Database/SARS-CoV-2/NCBI/NC_045512.2.fasta
+genomes: /sdbb/bioinfor/renchaobo/Database/SARS-CoV-2/NCBI/test.fasta
+background:
+  - /sdbb/bioinfor/Database/human/hg38/hg38.fa
+
+# Primer3 的一些参数
+PRIMER_TASK: pick_primer_list
+PRIMER_PRODUCT_SIZE_RANGE: 78-82
+PRIMER_OPT_SIZE: 20
+PRIMER_MIN_SIZE: 18
+PRIMER_MAX_SIZE: 22
+PRIMER_NUM_RETURN: 400
+PRIMER_OPT_TM: 57.5
+PRIMER_MIN_TM: 55.0
+PRIMER_MAX_TM: 60.0
+PRIMER_OPT_GC_PERCENT: 50
+PRIMER_MIN_GC: 40.0
+PRIMER_MAX_GC: 60.0
+PRIMER_LOWERCASE_MASKING: 1
+

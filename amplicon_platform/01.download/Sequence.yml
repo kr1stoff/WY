@@ -1,0 +1,47 @@
+# 预扩增引物设计配置文件
+project: Test
+# 参考基因/基因组序列
+reference: /sdbb/bioinfor/renchaobo/Project/WY2023020801/Work/01.Data/KPC/ref.fna
+# 所有基因/基因组序列
+genomes: /sdbb/bioinfor/renchaobo/Project/WY2023020801/Work/01.Data/KPC/all.fna
+# 内部区域坐标
+region: /sdbb/bioinfor/renchaobo/Project/WY2023071702/Data/KPC.bed
+# 物种
+taxonname: KPC
+taxonid: None
+# 数据库路径
+inclusive_database: /sdbb/bioinfor/renchaobo/Database/Amplicon/v2.0.0/KPC/all
+# 认为是真突变的最小频率
+freq: 0.05
+
+# Primer3 参数
+design:
+  PRIMER_TASK: generic
+  # 返回引物的数目
+  PRIMER_NUM_RETURN: 20
+  # 左右引物
+  PRIMER_PICK_LEFT_PRIMER: 1
+  PRIMER_PICK_RIGHT_PRIMER: 1
+  # 无论如何都会出结果
+  PRIMER_PICK_ANYWAY: 1
+  # 引物特征
+  PRIMER_MIN_SIZE: 17
+  PRIMER_MAX_SIZE: 28
+  PRIMER_OPT_SIZE: 23
+  PRIMER_MIN_GC: 40.0
+  PRIMER_MAX_GC: 60.0
+  PRIMER_OPT_GC_PERCENT: 50
+  PRIMER_MIN_TM: 58
+  PRIMER_MAX_TM: 62
+  PRIMER_OPT_TM: 60
+  PRIMER_MAX_END_GC: 3
+  PRIMER_MAX_POLY_X: 4
+  # 产物特征
+  PRIMER_PRODUCT_SIZE_RANGE: 280-500
+  PRIMER_PRODUCT_OPT_SIZE: 300
+  # 小写表示mask
+  PRIMER_LOWERCASE_MASKING: 1
+
+
+
+

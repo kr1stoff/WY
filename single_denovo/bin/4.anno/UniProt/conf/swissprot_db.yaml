@@ -1,0 +1,12 @@
+# 软件
+taxonkit: /home/earthtest/miniconda3/envs/base_env/bin/taxonkit
+seqtk: /home/earthtest/miniconda3/envs/microbial_wgs/bin/seqtk
+diamond: /home/earthtest/miniconda3/envs/trace_pathogen/bin/diamond
+makeblastdb: /home/earthtest/miniconda3/envs/microbial_wgs/bin/makeblastdb
+blastp: /home/earthtest/miniconda3/envs/microbial_wgs/bin/blastp
+# 数据库
+db_taxonkit: /home/mengxf/.taxonkit
+# 基础参数
+threads: 32
+# 比对参数
+coverage: 80

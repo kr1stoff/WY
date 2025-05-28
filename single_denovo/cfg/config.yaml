@@ -1,0 +1,71 @@
+# 输入输出
+threads: 64 
+Analysis: /sdbb/Earth/Analysis
+Upload: /sdbb/Earth/AnalysisResults
+
+
+# 样式
+p_GDHR: /sdbb/share/lib/GDHR
+
+#引用脚本
+p_tree: /sdbb/share/pipeline/TracePathogen
+p_typing: /sdbb/share/pipeline/TypeTracePlugin
+
+#conda_env
+b_base: /home/earthtest/miniconda3/envs/base_env/bin
+b_denovo: /home/earthtest/miniconda3/envs/denovo/bin
+
+ACTIVATE: /home/earthtest/miniconda3/bin/activate
+convert: /home/earthtest/miniconda3/envs/base_env/bin/convert
+
+#数据库
+p_db: /sdbb/share/database
+db_busco: /sdbb/share/database/busco/lineages
+db_eggnog: /sdbb/share/database/eggNOG
+db_VFDB_nt: /sdbb/share/database/VFDB/VFDB_setB_nt
+db_VFDB_pro: /sdbb/share/database/VFDB/VFDB_setB_pro
+db_checkv: /sdbb/share/database/checkv/checkv-db-v1.1
+db_GO: /sdbb/share/database/GO
+db_KEGG: /sdbb/share/database/KEGG/db
+db_CAZY: /sdbb/share/database/CAZY
+db_pfam: /sdbb/share/database/Pfam
+db_swissprot: /sdbb/share/database/UniProt/2020-09-23/swissprot_db
+
+#生信软件
+makeblastdb: /home/earthtest/miniconda3/envs/base_env/bin/makeblastdb
+blastn: /home/earthtest/miniconda3/envs/base_env/bin/blastn
+fastqc: /home/earthtest/miniconda3/envs/base_env/bin/fastqc
+fastp: /home/earthtest/miniconda3/envs/base_env/bin/fastp
+bwa: /home/earthtest/miniconda3/envs/base_env/bin/bwa
+samtools: /home/earthtest/miniconda3/envs/base_env/bin/samtools
+csvtk: /home/earthtest/miniconda3/envs/denovo/bin/csvtk
+
+seqtk: /home/earthtest/miniconda3/envs/denovo/bin/seqtk
+iTools: /home/earthtest/miniconda3/envs/denovo/bin/iTools
+kraken2: /home/earthtest/miniconda3/envs/nano/bin/kraken2
+picard: /home/earthtest/miniconda3/envs/microbial_wgs/share/picard-2.26.6-0/picard
+seqkit: /home/earthtest/miniconda3/envs/microbial_wgs/bin/seqkit
+quast:  /home/earthtest/miniconda3/envs/denovo/bin/quast.py
+genemark: /home/earthtest/miniconda3/envs/denovo/gmes_petap.pl
+
+
+#编程软件
+perl: /home/earthtest/miniconda3/envs/base_env/bin/perl
+python3: /home/earthtest/miniconda3/envs/base_env/bin/python3
+Rscript: /home/earthtest/miniconda3/envs/base_env/bin/Rscript
+
+
+#并行数
+jobs: 3
+
+#过滤contig阈值
+mincov: 0
+minlen: 500
+
+# 截取数据
+cut_reads: 9000000
+
+
+# blast 参数
+blast_opt: '6 qseqid qlen qstart qend sseqid slen sstart send pident length mismatch gapopen evalue bitscore'
+

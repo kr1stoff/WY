@@ -1,0 +1,39 @@
+project: Test
+
+# 可选 16S | ITS | 18S
+type: 16S
+# 可选 V3-V4 | V4 | ITS2 |
+# 需要同 type 相对应
+# ("16S", "V3-V4"): (17, 20),
+# ("16S", "V4"): (19, 20),
+# ("ITS", "ITS2"): (18, 20),
+# ("18S", "V4"): (19, 20)}
+region: V3-V4
+
+# 可选 greengenes | silva | unite
+# 16S：greengenes 或者 silva
+# 18S: silva
+# ITS: unite
+database: greengenes
+
+# sample name must be like A1_1.fq.gz A1_2.fq.gz
+rawdata: /sdbb/bioinfor/renchaobo/test/16S/test/rawdata
+samples: [ A1,A2,A3,A4,A5,B1,B2,B3,B4,B5 ]
+
+# PE | SE
+data_type: PE
+# 33 | 64
+data_quality: 33
+
+groups:
+  A: [ A1,A2,A3,A4,A5 ]
+  B: [ B1,B2,B3,B4,B5 ]
+group_order: [ A,B ]
+
+group_diff:
+  - [ A,B ]
+
+# Some Pipe param
+threads: 8
+parallel: 8
+

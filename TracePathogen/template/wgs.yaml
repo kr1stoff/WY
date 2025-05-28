@@ -1,0 +1,9 @@
+library: '20208'
+result_dir: /sdbb/Earth/Analysis
+samples:
+  NC_045512.1.fasta: /sdbb/customer/Tree/NC_045512.2/NC_045512.1.fasta
+  NC_045512.2.fasta: /sdbb/customer/Tree/NC_045512.2/NC_045512.2.fasta
+  S1: /sdbb/customer/Rawdata/TracePathogen/wgs/TEST0310.fna
+  S2: /sdbb/customer/Rawdata/TracePathogen/wgs/TEST0311.fna
+  S3: /sdbb/customer/Rawdata/TracePathogen/wgs/TEST0312.fna
+  S4: /sdbb/customer/Rawdata/TracePathogen/wgs/TEST0313.fna

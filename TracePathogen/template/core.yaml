@@ -1,0 +1,8 @@
+kindom: bacteria
+library: '20232'
+result_dir: /sdbb/Earth/Analysis
+samples:
+  GCM10006048.fasta: /sdbb/customer/Tree/Mycobacterium_tuberculosis/GCM10006048.fasta
+  T1: /sdbb/customer/Rawdata/TracePathogen/core/Mycobacterium_tuberculosis/GCM10000717.fasta
+  T2: /sdbb/customer/Rawdata/TracePathogen/core/Mycobacterium_tuberculosis/GCM10001047.fasta
+  T3: /sdbb/customer/Rawdata/TracePathogen/core/Mycobacterium_tuberculosis/GCM10002386.fasta

@@ -1,0 +1,3 @@
+#Name	Length	Start	Stop	Symbol	Color	Fill	Label
+BtMC28000001	1000	1	500	24	black	red	domain1
+BtMC28000001	1000	600	900	25	black	green	domain2

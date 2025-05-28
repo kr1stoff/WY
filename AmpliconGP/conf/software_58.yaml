@@ -1,0 +1,17 @@
+python: /home/gwadmin/miniconda3/envs/microbial_wgs/bin/python
+perl: /home/gwadmin/miniconda3/envs/microbial_wgs/bin/perl
+Rscript: /home/gwadmin/miniconda3/envs/microbial_wgs/bin/Rscript
+fastqc: /home/gwadmin/miniconda3/envs/microbial_wgs/bin/fastqc
+fastp: /home/gwadmin/miniconda3/envs/microbial_wgs/bin/fastp
+bwa: /home/gwadmin/miniconda3/envs/microbial_wgs/bin/bwa
+samtools: /home/gwadmin/miniconda3/envs/microbial_wgs/bin/samtools
+ivar: /home/gwadmin/miniconda3/envs/microbial_wgs/bin/ivar
+bedtools: /home/gwadmin/miniconda3/envs/microbial_wgs/bin/bedtools
+freebayes: /home/gwadmin/miniconda3/envs/microbial_wgs/bin/freebayes
+bgzip: /home/gwadmin/miniconda3/envs/microbial_wgs/bin/bgzip
+bcftools: /home/gwadmin/miniconda3/envs/microbial_wgs/bin/bcftools
+snpEff: /home/gwadmin/miniconda3/envs/microbial_wgs/bin/snpEff
+vcftools: /home/gwadmin/miniconda3/envs/microbial_wgs/bin/vcftools
+mafft: /home/gwadmin/miniconda3/envs/microbial_wgs/bin/mafft
+fasttree: /home/gwadmin/miniconda3/envs/microbial_wgs/bin/fasttree
+magick: /home/gwadmin/miniconda3/envs/non_bio/bin/magick

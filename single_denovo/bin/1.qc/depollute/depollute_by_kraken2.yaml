@@ -1,0 +1,10 @@
+# 软件
+taxonkit: /home/earthtest/miniconda3/envs/base_env/bin/taxonkit
+kraken2: /home/earthtest/miniconda3/envs/nano/bin/kraken2
+seqkit: /home/earthtest/miniconda3/envs/microbial_wgs/bin/seqkit
+seqtk: /home/earthtest/miniconda3/envs/microbial_wgs/bin/seqtk
+# 数据库
+taxdmp: /sdbb/share/database/taxdump
+kraken2_db: /sdbb/share/database/kraken2
+# 参数
+threads: 32

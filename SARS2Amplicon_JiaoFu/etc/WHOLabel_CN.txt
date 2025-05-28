@@ -1,0 +1,13 @@
+Alpha	阿尔法
+Beta	贝塔
+Gamma	伽马
+Delta	德尔塔
+Omicron	奥密克戎
+Lambda	
+Mu	缪
+Epsilon	厄普西隆
+Zeta	泽塔
+Theta	
+Iota	约塔
+Eta	埃塔
+Kappa	卡帕

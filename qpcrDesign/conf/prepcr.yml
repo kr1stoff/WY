@@ -1,0 +1,26 @@
+soft:
+  csvtk: /usr/bin/csvtk
+  python: /home/yehui/software/python3/Python-3.8.15/bin/python3.8
+  NGSPrimerPlex: /sdbb/bioinfor/mengxf/Software/github/NGS-PrimerPlex-v1.3.4/NGS_primerplex.py
+
+params:
+  minampllen: 175
+  maxampllen: 250
+  optampllen: 200
+  minprimerlen: 18
+  maxprimerlen: 28
+  optprimerlen: 23
+  minprimermelt: 63
+  maxprimermelt: 67
+  optprimermelt: 64
+  minprimergc: 30
+  maxprimergc: 70
+  optprimergc: 50
+  minprimerendgc: 0
+  maxprimerendgc: 5
+  optprimerendgc: 2
+  maxprimerpolyn: 5
+  maxoverlap: 300
+  primernum1: 10
+  returnvariantsnum: 5
+  th: 100

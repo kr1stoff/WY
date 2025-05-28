@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg height="1412" width="960" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<g id="brownye-2-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="30">brownye-2-div</text>
+		<rect height="20" style="fill:#d9e78e;stroke:#000;stroke-width:1" width="40" x="140" y="20" />
+		<rect height="20" style="fill:#ffcf3e;stroke:#000;stroke-width:1" width="40" x="180" y="20" />
+	</g>
+	<g id="greenbr-2-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="56">greenbr-2-div</text>
+		<rect height="20" style="fill:#2cba8d;stroke:#000;stroke-width:1" width="40" x="140" y="46" />
+		<rect height="20" style="fill:#d96e38;stroke:#000;stroke-width:1" width="40" x="180" y="46" />
+	</g>
+	<g id="pinkblue-2-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="82">pinkblue-2-div</text>
+		<rect height="20" style="fill:#ffcaa8;stroke:#000;stroke-width:1" width="40" x="140" y="72" />
+		<rect height="20" style="fill:#80b0db;stroke:#000;stroke-width:1" width="40" x="180" y="72" />
+	</g>
+	<g id="redblue-2-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="108">redblue-2-div</text>
+		<rect height="20" style="fill:#f36d70;stroke:#000;stroke-width:1" width="40" x="140" y="98" />
+		<rect height="20" style="fill:#6ec6f4;stroke:#000;stroke-width:1" width="40" x="180" y="98" />
+	</g>
+	<g id="redblue2-2-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="134">redblue2-2-div</text>
+		<rect height="20" style="fill:#f3986e;stroke:#000;stroke-width:1" width="40" x="140" y="124" />
+		<rect height="20" style="fill:#46a2db;stroke:#000;stroke-width:1" width="40" x="180" y="124" />
+	</g>
+	<g id="redcyan-2-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="160">redcyan-2-div</text>
+		<rect height="20" style="fill:#f36d70;stroke:#000;stroke-width:1" width="40" x="140" y="150" />
+		<rect height="20" style="fill:#2cba8d;stroke:#000;stroke-width:1" width="40" x="180" y="150" />
+	</g>
+	<g id="redgreen-2-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="186">redgreen-2-div</text>
+		<rect height="20" style="fill:#8f0303;stroke:#000;stroke-width:1" width="40" x="140" y="176" />
+		<rect height="20" style="fill:#0da10d;stroke:#000;stroke-width:1" width="40" x="180" y="176" />
+	</g>
+	<g id="redgreen2-2-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="212">redgreen2-2-div</text>
+		<rect height="20" style="fill:#d7877b;stroke:#000;stroke-width:1" width="40" x="140" y="202" />
+		<rect height="20" style="fill:#90bf96;stroke:#000;stroke-width:1" width="40" x="180" y="202" />
+	</g>
+	<g id="yeblue-2-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="238">yeblue-2-div</text>
+		<rect height="20" style="fill:#ffea46;stroke:#000;stroke-width:1" width="40" x="140" y="228" />
+		<rect height="20" style="fill:#50b5f5;stroke:#000;stroke-width:1" width="40" x="180" y="228" />
+	</g>
+	<g id="yered-2-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="264">yered-2-div</text>
+		<rect height="20" style="fill:#ffea46;stroke:#000;stroke-width:1" width="40" x="140" y="254" />
+		<rect height="20" style="fill:#d7877b;stroke:#000;stroke-width:1" width="40" x="180" y="254" />
+	</g>
+	<g id="bwb-3-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="290">bwb-3-div</text>
+		<rect height="20" style="fill:#71b5b4;stroke:#000;stroke-width:1" width="40" x="140" y="280" />
+		<rect height="20" style="fill:#ffffff;stroke:#000;stroke-width:1" width="40" x="180" y="280" />
+		<rect height="20" style="fill:#e9814e;stroke:#000;stroke-width:1" width="40" x="220" y="280" />
+	</g>
+	<g id="bwr-3-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="316">bwr-3-div</text>
+		<rect height="20" style="fill:#1d1dff;stroke:#000;stroke-width:1" width="40" x="140" y="306" />
+		<rect height="20" style="fill:#ffffff;stroke:#000;stroke-width:1" width="40" x="180" y="306" />
+		<rect height="20" style="fill:#ff0a0a;stroke:#000;stroke-width:1" width="40" x="220" y="306" />
+	</g>
+	<g id="bwr2-3-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="342">bwr2-3-div</text>
+		<rect height="20" style="fill:#4476b6;stroke:#000;stroke-width:1" width="40" x="140" y="332" />
+		<rect height="20" style="fill:#fffec2;stroke:#000;stroke-width:1" width="40" x="180" y="332" />
+		<rect height="20" style="fill:#d93023;stroke:#000;stroke-width:1" width="40" x="220" y="332" />
+	</g>
+	<g id="bwy-3-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="368">bwy-3-div</text>
+		<rect height="20" style="fill:#0aa1ff;stroke:#000;stroke-width:1" width="40" x="140" y="358" />
+		<rect height="20" style="fill:#ffffff;stroke:#000;stroke-width:1" width="40" x="180" y="358" />
+		<rect height="20" style="fill:#f5cc16;stroke:#000;stroke-width:1" width="40" x="220" y="358" />
+	</g>
+	<g id="byg-3-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="394">byg-3-div</text>
+		<rect height="20" style="fill:#7782d9;stroke:#000;stroke-width:1" width="40" x="140" y="384" />
+		<rect height="20" style="fill:#fdbf1c;stroke:#000;stroke-width:1" width="40" x="180" y="384" />
+		<rect height="20" style="fill:#c0de50;stroke:#000;stroke-width:1" width="40" x="220" y="384" />
+	</g>
+	<g id="gbr-3-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="420">gbr-3-div</text>
+		<rect height="20" style="fill:#00ff00;stroke:#000;stroke-width:1" width="40" x="140" y="410" />
+		<rect height="20" style="fill:#141414;stroke:#000;stroke-width:1" width="40" x="180" y="410" />
+		<rect height="20" style="fill:#ff0000;stroke:#000;stroke-width:1" width="40" x="220" y="410" />
+	</g>
+	<g id="gyr-3-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="446">gyr-3-div</text>
+		<rect height="20" style="fill:#d9e78e;stroke:#000;stroke-width:1" width="40" x="140" y="436" />
+		<rect height="20" style="fill:#fce47d;stroke:#000;stroke-width:1" width="40" x="180" y="436" />
+		<rect height="20" style="fill:#ffcaa8;stroke:#000;stroke-width:1" width="40" x="220" y="436" />
+	</g>
+	<g id="pbp-3-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="472">pbp-3-div</text>
+		<rect height="20" style="fill:#bb90c5;stroke:#000;stroke-width:1" width="40" x="140" y="462" />
+		<rect height="20" style="fill:#80b0db;stroke:#000;stroke-width:1" width="40" x="180" y="462" />
+		<rect height="20" style="fill:#ecc8c7;stroke:#000;stroke-width:1" width="40" x="220" y="462" />
+	</g>
+	<g id="rcb-3-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="498">rcb-3-div</text>
+		<rect height="20" style="fill:#f27762;stroke:#000;stroke-width:1" width="40" x="140" y="488" />
+		<rect height="20" style="fill:#4bdab5;stroke:#000;stroke-width:1" width="40" x="180" y="488" />
+		<rect height="20" style="fill:#4394cd;stroke:#000;stroke-width:1" width="40" x="220" y="488" />
+	</g>
+	<g id="bgyr-4-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="524">bgyr-4-div</text>
+		<rect height="20" style="fill:#a4d7dc;stroke:#000;stroke-width:1" width="40" x="140" y="514" />
+		<rect height="20" style="fill:#acce53;stroke:#000;stroke-width:1" width="40" x="180" y="514" />
+		<rect height="20" style="fill:#f6b960;stroke:#000;stroke-width:1" width="40" x="220" y="514" />
+		<rect height="20" style="fill:#e8556b;stroke:#000;stroke-width:1" width="40" x="260" y="514" />
+	</g>
+	<g id="bygr-4-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="550">bygr-4-div</text>
+		<rect height="20" style="fill:#7782d9;stroke:#000;stroke-width:1" width="40" x="140" y="540" />
+		<rect height="20" style="fill:#fdbf1c;stroke:#000;stroke-width:1" width="40" x="180" y="540" />
+		<rect height="20" style="fill:#c0de50;stroke:#000;stroke-width:1" width="40" x="220" y="540" />
+		<rect height="20" style="fill:#ee8180;stroke:#000;stroke-width:1" width="40" x="260" y="540" />
+	</g>
+	<g id="gycb-4-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="576">gycb-4-div</text>
+		<rect height="20" style="fill:#00552f;stroke:#000;stroke-width:1" width="40" x="140" y="566" />
+		<rect height="20" style="fill:#f8b501;stroke:#000;stroke-width:1" width="40" x="180" y="566" />
+		<rect height="20" style="fill:#6ec7f2;stroke:#000;stroke-width:1" width="40" x="220" y="566" />
+		<rect height="20" style="fill:#7782d9;stroke:#000;stroke-width:1" width="40" x="260" y="566" />
+	</g>
+	<g id="gypb-4-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="602">gypb-4-div</text>
+		<rect height="20" style="fill:#d9e78e;stroke:#000;stroke-width:1" width="40" x="140" y="592" />
+		<rect height="20" style="fill:#fce47d;stroke:#000;stroke-width:1" width="40" x="180" y="592" />
+		<rect height="20" style="fill:#ffcaa8;stroke:#000;stroke-width:1" width="40" x="220" y="592" />
+		<rect height="20" style="fill:#a0d8ee;stroke:#000;stroke-width:1" width="40" x="260" y="592" />
+	</g>
+	<g id="rypb-4-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="628">rypb-4-div</text>
+		<rect height="20" style="fill:#e8556b;stroke:#000;stroke-width:1" width="40" x="140" y="618" />
+		<rect height="20" style="fill:#b7d201;stroke:#000;stroke-width:1" width="40" x="180" y="618" />
+		<rect height="20" style="fill:#874899;stroke:#000;stroke-width:1" width="40" x="220" y="618" />
+		<rect height="20" style="fill:#00a4af;stroke:#000;stroke-width:1" width="40" x="260" y="618" />
+	</g>
+	<g id="bygrc-5-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="654">bygrc-5-div</text>
+		<rect height="20" style="fill:#7782d9;stroke:#000;stroke-width:1" width="40" x="140" y="644" />
+		<rect height="20" style="fill:#fdbf1c;stroke:#000;stroke-width:1" width="40" x="180" y="644" />
+		<rect height="20" style="fill:#c0de50;stroke:#000;stroke-width:1" width="40" x="220" y="644" />
+		<rect height="20" style="fill:#ee8180;stroke:#000;stroke-width:1" width="40" x="260" y="644" />
+		<rect height="20" style="fill:#0aabfc;stroke:#000;stroke-width:1" width="40" x="300" y="644" />
+	</g>
+	<g id="ggset3-5-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="680">ggset3-5-div</text>
+		<rect height="20" style="fill:#fe6c90;stroke:#000;stroke-width:1" width="40" x="140" y="670" />
+		<rect height="20" style="fill:#bd9c00;stroke:#000;stroke-width:1" width="40" x="180" y="670" />
+		<rect height="20" style="fill:#01bb56;stroke:#000;stroke-width:1" width="40" x="220" y="670" />
+		<rect height="20" style="fill:#00b8e6;stroke:#000;stroke-width:1" width="40" x="260" y="670" />
+		<rect height="20" style="fill:#cc79fe;stroke:#000;stroke-width:1" width="40" x="300" y="670" />
+	</g>
+	<g id="yeblue-5-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="706">yeblue-5-div</text>
+		<rect height="20" style="fill:#575bb3;stroke:#000;stroke-width:1" width="40" x="140" y="696" />
+		<rect height="20" style="fill:#87a3f7;stroke:#000;stroke-width:1" width="40" x="180" y="696" />
+		<rect height="20" style="fill:#f1d418;stroke:#000;stroke-width:1" width="40" x="220" y="696" />
+		<rect height="20" style="fill:#f5ff69;stroke:#000;stroke-width:1" width="40" x="260" y="696" />
+		<rect height="20" style="fill:#858aad;stroke:#000;stroke-width:1" width="40" x="300" y="696" />
+	</g>
+	<g id="yecyan-5-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="732">yecyan-5-div</text>
+		<rect height="20" style="fill:#fbf73e;stroke:#000;stroke-width:1" width="40" x="140" y="722" />
+		<rect height="20" style="fill:#f0b142;stroke:#000;stroke-width:1" width="40" x="180" y="722" />
+		<rect height="20" style="fill:#28c580;stroke:#000;stroke-width:1" width="40" x="220" y="722" />
+		<rect height="20" style="fill:#3793de;stroke:#000;stroke-width:1" width="40" x="260" y="722" />
+		<rect height="20" style="fill:#62d6f6;stroke:#000;stroke-width:1" width="40" x="300" y="722" />
+	</g>
+	<g id="byr-6-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="758">byr-6-div</text>
+		<rect height="20" style="fill:#c2e4db;stroke:#000;stroke-width:1" width="40" x="140" y="748" />
+		<rect height="20" style="fill:#d3ef19;stroke:#000;stroke-width:1" width="40" x="180" y="748" />
+		<rect height="20" style="fill:#ff945d;stroke:#000;stroke-width:1" width="40" x="220" y="748" />
+		<rect height="20" style="fill:#f1d418;stroke:#000;stroke-width:1" width="40" x="260" y="748" />
+		<rect height="20" style="fill:#55ccc8;stroke:#000;stroke-width:1" width="40" x="300" y="748" />
+		<rect height="20" style="fill:#87a3f7;stroke:#000;stroke-width:1" width="40" x="340" y="748" />
+	</g>
+	<g id="d3-6-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="784">d3-6-div</text>
+		<rect height="20" style="fill:#5e9bc4;stroke:#000;stroke-width:1" width="40" x="140" y="774" />
+		<rect height="20" style="fill:#ff7d0b;stroke:#000;stroke-width:1" width="40" x="180" y="774" />
+		<rect height="20" style="fill:#2aa12d;stroke:#000;stroke-width:1" width="40" x="220" y="774" />
+		<rect height="20" style="fill:#d52726;stroke:#000;stroke-width:1" width="40" x="260" y="774" />
+		<rect height="20" style="fill:#9467ba;stroke:#000;stroke-width:1" width="40" x="300" y="774" />
+		<rect height="20" style="fill:#8b554a;stroke:#000;stroke-width:1" width="40" x="340" y="774" />
+	</g>
+	<g id="opr-6-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="810">opr-6-div</text>
+		<rect height="20" style="fill:#fe923d;stroke:#000;stroke-width:1" width="40" x="140" y="800" />
+		<rect height="20" style="fill:#ffcf9f;stroke:#000;stroke-width:1" width="40" x="180" y="800" />
+		<rect height="20" style="fill:#69115d;stroke:#000;stroke-width:1" width="40" x="220" y="800" />
+		<rect height="20" style="fill:#cca8cc;stroke:#000;stroke-width:1" width="40" x="260" y="800" />
+		<rect height="20" style="fill:#095703;stroke:#000;stroke-width:1" width="40" x="300" y="800" />
+		<rect height="20" style="fill:#a9cfa6;stroke:#000;stroke-width:1" width="40" x="340" y="800" />
+	</g>
+	<g id="ryb-6-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="836">ryb-6-div</text>
+		<rect height="20" style="fill:#dc7254;stroke:#000;stroke-width:1" width="40" x="140" y="826" />
+		<rect height="20" style="fill:#f09e78;stroke:#000;stroke-width:1" width="40" x="180" y="826" />
+		<rect height="20" style="fill:#fae084;stroke:#000;stroke-width:1" width="40" x="220" y="826" />
+		<rect height="20" style="fill:#7fc8d4;stroke:#000;stroke-width:1" width="40" x="260" y="826" />
+		<rect height="20" style="fill:#2ba1b5;stroke:#000;stroke-width:1" width="40" x="300" y="826" />
+		<rect height="20" style="fill:#445ca1;stroke:#000;stroke-width:1" width="40" x="340" y="826" />
+	</g>
+	<g id="seaborn-6-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="862">seaborn-6-div</text>
+		<rect height="20" style="fill:#f361dd;stroke:#000;stroke-width:1" width="40" x="140" y="852" />
+		<rect height="20" style="fill:#55a866;stroke:#000;stroke-width:1" width="40" x="180" y="852" />
+		<rect height="20" style="fill:#c54d50;stroke:#000;stroke-width:1" width="40" x="220" y="852" />
+		<rect height="20" style="fill:#8173b0;stroke:#000;stroke-width:1" width="40" x="260" y="852" />
+		<rect height="20" style="fill:#ccb975;stroke:#000;stroke-width:1" width="40" x="300" y="852" />
+		<rect height="20" style="fill:#65b5cd;stroke:#000;stroke-width:1" width="40" x="340" y="852" />
+	</g>
+	<g id="gdpal1-7-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="888">gdpal1-7-div</text>
+		<rect height="20" style="fill:#f0b142;stroke:#000;stroke-width:1" width="40" x="140" y="878" />
+		<rect height="20" style="fill:#62d6f6;stroke:#000;stroke-width:1" width="40" x="180" y="878" />
+		<rect height="20" style="fill:#3793de;stroke:#000;stroke-width:1" width="40" x="220" y="878" />
+		<rect height="20" style="fill:#28c580;stroke:#000;stroke-width:1" width="40" x="260" y="878" />
+		<rect height="20" style="fill:#fbf73e;stroke:#000;stroke-width:1" width="40" x="300" y="878" />
+		<rect height="20" style="fill:#f14149;stroke:#000;stroke-width:1" width="40" x="340" y="878" />
+		<rect height="20" style="fill:#b02f96;stroke:#000;stroke-width:1" width="40" x="380" y="878" />
+	</g>
+	<g id="gdpal2-7-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="914">gdpal2-7-div</text>
+		<rect height="20" style="fill:#ee5d85;stroke:#000;stroke-width:1" width="40" x="140" y="904" />
+		<rect height="20" style="fill:#ffea46;stroke:#000;stroke-width:1" width="40" x="180" y="904" />
+		<rect height="20" style="fill:#d4e746;stroke:#000;stroke-width:1" width="40" x="220" y="904" />
+		<rect height="20" style="fill:#28c580;stroke:#000;stroke-width:1" width="40" x="260" y="904" />
+		<rect height="20" style="fill:#50b5f5;stroke:#000;stroke-width:1" width="40" x="300" y="904" />
+		<rect height="20" style="fill:#87a2f9;stroke:#000;stroke-width:1" width="40" x="340" y="904" />
+		<rect height="20" style="fill:#f14149;stroke:#000;stroke-width:1" width="40" x="380" y="904" />
+	</g>
+	<g id="gdpal1-8-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="940">gdpal1-8-div</text>
+		<rect height="20" style="fill:#f0b142;stroke:#000;stroke-width:1" width="40" x="140" y="930" />
+		<rect height="20" style="fill:#62d6f6;stroke:#000;stroke-width:1" width="40" x="180" y="930" />
+		<rect height="20" style="fill:#3793de;stroke:#000;stroke-width:1" width="40" x="220" y="930" />
+		<rect height="20" style="fill:#28c580;stroke:#000;stroke-width:1" width="40" x="260" y="930" />
+		<rect height="20" style="fill:#fbf73e;stroke:#000;stroke-width:1" width="40" x="300" y="930" />
+		<rect height="20" style="fill:#f14149;stroke:#000;stroke-width:1" width="40" x="340" y="930" />
+		<rect height="20" style="fill:#b02f96;stroke:#000;stroke-width:1" width="40" x="380" y="930" />
+		<rect height="20" style="fill:#a6f4e5;stroke:#000;stroke-width:1" width="40" x="420" y="930" />
+	</g>
+	<g id="gdpal2-8-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="966">gdpal2-8-div</text>
+		<rect height="20" style="fill:#a867b4;stroke:#000;stroke-width:1" width="40" x="140" y="956" />
+		<rect height="20" style="fill:#7782d7;stroke:#000;stroke-width:1" width="40" x="180" y="956" />
+		<rect height="20" style="fill:#a6f4e5;stroke:#000;stroke-width:1" width="40" x="220" y="956" />
+		<rect height="20" style="fill:#bedf50;stroke:#000;stroke-width:1" width="40" x="260" y="956" />
+		<rect height="20" style="fill:#fff821;stroke:#000;stroke-width:1" width="40" x="300" y="956" />
+		<rect height="20" style="fill:#ffd387;stroke:#000;stroke-width:1" width="40" x="340" y="956" />
+		<rect height="20" style="fill:#fdbf1c;stroke:#000;stroke-width:1" width="40" x="380" y="956" />
+		<rect height="20" style="fill:#332c2b;stroke:#000;stroke-width:1" width="40" x="420" y="956" />
+	</g>
+	<g id="gdpal3-8-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="992">gdpal3-8-div</text>
+		<rect height="20" style="fill:#e0edb9;stroke:#000;stroke-width:1" width="40" x="140" y="982" />
+		<rect height="20" style="fill:#fec3b4;stroke:#000;stroke-width:1" width="40" x="180" y="982" />
+		<rect height="20" style="fill:#d9acb6;stroke:#000;stroke-width:1" width="40" x="220" y="982" />
+		<rect height="20" style="fill:#a4d0ff;stroke:#000;stroke-width:1" width="40" x="260" y="982" />
+		<rect height="20" style="fill:#aef5d9;stroke:#000;stroke-width:1" width="40" x="300" y="982" />
+		<rect height="20" style="fill:#e7bf22;stroke:#000;stroke-width:1" width="40" x="340" y="982" />
+		<rect height="20" style="fill:#67968d;stroke:#000;stroke-width:1" width="40" x="380" y="982" />
+		<rect height="20" style="fill:#69759c;stroke:#000;stroke-width:1" width="40" x="420" y="982" />
+	</g>
+	<g id="gdpal4-8-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="1018">gdpal4-8-div</text>
+		<rect height="20" style="fill:#b9b923;stroke:#000;stroke-width:1" width="40" x="140" y="1008" />
+		<rect height="20" style="fill:#717f36;stroke:#000;stroke-width:1" width="40" x="180" y="1008" />
+		<rect height="20" style="fill:#3e101d;stroke:#000;stroke-width:1" width="40" x="220" y="1008" />
+		<rect height="20" style="fill:#771f44;stroke:#000;stroke-width:1" width="40" x="260" y="1008" />
+		<rect height="20" style="fill:#c8389b;stroke:#000;stroke-width:1" width="40" x="300" y="1008" />
+		<rect height="20" style="fill:#6359b3;stroke:#000;stroke-width:1" width="40" x="340" y="1008" />
+		<rect height="20" style="fill:#9279e6;stroke:#000;stroke-width:1" width="40" x="380" y="1008" />
+		<rect height="20" style="fill:#da9495;stroke:#000;stroke-width:1" width="40" x="420" y="1008" />
+	</g>
+	<g id="hsul-8-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="1044">hsul-8-div</text>
+		<rect height="20" style="fill:#f77088;stroke:#000;stroke-width:1" width="40" x="140" y="1034" />
+		<rect height="20" style="fill:#ce8e30;stroke:#000;stroke-width:1" width="40" x="180" y="1034" />
+		<rect height="20" style="fill:#96a230;stroke:#000;stroke-width:1" width="40" x="220" y="1034" />
+		<rect height="20" style="fill:#31b164;stroke:#000;stroke-width:1" width="40" x="260" y="1034" />
+		<rect height="20" style="fill:#34aca3;stroke:#000;stroke-width:1" width="40" x="300" y="1034" />
+		<rect height="20" style="fill:#37a6cf;stroke:#000;stroke-width:1" width="40" x="340" y="1034" />
+		<rect height="20" style="fill:#a38cf6;stroke:#000;stroke-width:1" width="40" x="380" y="1034" />
+		<rect height="20" style="fill:#f361dd;stroke:#000;stroke-width:1" width="40" x="420" y="1034" />
+	</g>
+	<g id="gdpal1-9-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="1070">gdpal1-9-div</text>
+		<rect height="20" style="fill:#f0b142;stroke:#000;stroke-width:1" width="40" x="140" y="1060" />
+		<rect height="20" style="fill:#62d6f6;stroke:#000;stroke-width:1" width="40" x="180" y="1060" />
+		<rect height="20" style="fill:#3793de;stroke:#000;stroke-width:1" width="40" x="220" y="1060" />
+		<rect height="20" style="fill:#28c580;stroke:#000;stroke-width:1" width="40" x="260" y="1060" />
+		<rect height="20" style="fill:#fbf73e;stroke:#000;stroke-width:1" width="40" x="300" y="1060" />
+		<rect height="20" style="fill:#f14149;stroke:#000;stroke-width:1" width="40" x="340" y="1060" />
+		<rect height="20" style="fill:#b02f96;stroke:#000;stroke-width:1" width="40" x="380" y="1060" />
+		<rect height="20" style="fill:#1ce8bf;stroke:#000;stroke-width:1" width="40" x="420" y="1060" />
+		<rect height="20" style="fill:#561bb5;stroke:#000;stroke-width:1" width="40" x="460" y="1060" />
+	</g>
+	<g id="gdpal2-9-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="1096">gdpal2-9-div</text>
+		<rect height="20" style="fill:#c6c5e8;stroke:#000;stroke-width:1" width="40" x="140" y="1086" />
+		<rect height="20" style="fill:#7ed8fa;stroke:#000;stroke-width:1" width="40" x="180" y="1086" />
+		<rect height="20" style="fill:#fdf791;stroke:#000;stroke-width:1" width="40" x="220" y="1086" />
+		<rect height="20" style="fill:#efd53f;stroke:#000;stroke-width:1" width="40" x="260" y="1086" />
+		<rect height="20" style="fill:#f3854f;stroke:#000;stroke-width:1" width="40" x="300" y="1086" />
+		<rect height="20" style="fill:#e46665;stroke:#000;stroke-width:1" width="40" x="340" y="1086" />
+		<rect height="20" style="fill:#a2e2b3;stroke:#000;stroke-width:1" width="40" x="380" y="1086" />
+		<rect height="20" style="fill:#bedf50;stroke:#000;stroke-width:1" width="40" x="420" y="1086" />
+		<rect height="20" style="fill:#46bba8;stroke:#000;stroke-width:1" width="40" x="460" y="1086" />
+	</g>
+	<g id="tableau-9-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="1122">tableau-9-div</text>
+		<rect height="20" style="fill:#5e9cc3;stroke:#000;stroke-width:1" width="40" x="140" y="1112" />
+		<rect height="20" style="fill:#ff7300;stroke:#000;stroke-width:1" width="40" x="180" y="1112" />
+		<rect height="20" style="fill:#00a13a;stroke:#000;stroke-width:1" width="40" x="220" y="1112" />
+		<rect height="20" style="fill:#ed0127;stroke:#000;stroke-width:1" width="40" x="260" y="1112" />
+		<rect height="20" style="fill:#9f63b6;stroke:#000;stroke-width:1" width="40" x="300" y="1112" />
+		<rect height="20" style="fill:#985248;stroke:#000;stroke-width:1" width="40" x="340" y="1112" />
+		<rect height="20" style="fill:#f66eb8;stroke:#000;stroke-width:1" width="40" x="380" y="1112" />
+		<rect height="20" style="fill:#7e7c77;stroke:#000;stroke-width:1" width="40" x="420" y="1112" />
+		<rect height="20" style="fill:#c2bd2b;stroke:#000;stroke-width:1" width="40" x="460" y="1112" />
+	</g>
+	<g id="tableaum-9-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="1148">tableaum-9-div</text>
+		<rect height="20" style="fill:#609dca;stroke:#000;stroke-width:1" width="40" x="140" y="1138" />
+		<rect height="20" style="fill:#ff9742;stroke:#000;stroke-width:1" width="40" x="180" y="1138" />
+		<rect height="20" style="fill:#37c25d;stroke:#000;stroke-width:1" width="40" x="220" y="1138" />
+		<rect height="20" style="fill:#ff5b4f;stroke:#000;stroke-width:1" width="40" x="260" y="1138" />
+		<rect height="20" style="fill:#b886c3;stroke:#000;stroke-width:1" width="40" x="300" y="1138" />
+		<rect height="20" style="fill:#b67265;stroke:#000;stroke-width:1" width="40" x="340" y="1138" />
+		<rect height="20" style="fill:#ff91c2;stroke:#000;stroke-width:1" width="40" x="380" y="1138" />
+		<rect height="20" style="fill:#a4a69b;stroke:#000;stroke-width:1" width="40" x="420" y="1138" />
+		<rect height="20" style="fill:#d2cc5a;stroke:#000;stroke-width:1" width="40" x="460" y="1138" />
+	</g>
+	<g id="gdpal1-10-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="1174">gdpal1-10-div</text>
+		<rect height="20" style="fill:#a17817;stroke:#000;stroke-width:1" width="40" x="140" y="1164" />
+		<rect height="20" style="fill:#edb349;stroke:#000;stroke-width:1" width="40" x="180" y="1164" />
+		<rect height="20" style="fill:#ee5d85;stroke:#000;stroke-width:1" width="40" x="220" y="1164" />
+		<rect height="20" style="fill:#ffab9a;stroke:#000;stroke-width:1" width="40" x="260" y="1164" />
+		<rect height="20" style="fill:#ffea46;stroke:#000;stroke-width:1" width="40" x="300" y="1164" />
+		<rect height="20" style="fill:#d4e746;stroke:#000;stroke-width:1" width="40" x="340" y="1164" />
+		<rect height="20" style="fill:#28c580;stroke:#000;stroke-width:1" width="40" x="380" y="1164" />
+		<rect height="20" style="fill:#b3e5fc;stroke:#000;stroke-width:1" width="40" x="420" y="1164" />
+		<rect height="20" style="fill:#50b5f5;stroke:#000;stroke-width:1" width="40" x="460" y="1164" />
+		<rect height="20" style="fill:#a0f5f1;stroke:#000;stroke-width:1" width="40" x="500" y="1164" />
+	</g>
+	<g id="gdpal2-10-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="1200">gdpal2-10-div</text>
+		<rect height="20" style="fill:#821762;stroke:#000;stroke-width:1" width="40" x="140" y="1190" />
+		<rect height="20" style="fill:#c4477a;stroke:#000;stroke-width:1" width="40" x="180" y="1190" />
+		<rect height="20" style="fill:#f1835b;stroke:#000;stroke-width:1" width="40" x="220" y="1190" />
+		<rect height="20" style="fill:#fea8c3;stroke:#000;stroke-width:1" width="40" x="260" y="1190" />
+		<rect height="20" style="fill:#ffea46;stroke:#000;stroke-width:1" width="40" x="300" y="1190" />
+		<rect height="20" style="fill:#c9e108;stroke:#000;stroke-width:1" width="40" x="340" y="1190" />
+		<rect height="20" style="fill:#51ebfc;stroke:#000;stroke-width:1" width="40" x="380" y="1190" />
+		<rect height="20" style="fill:#0cb1ed;stroke:#000;stroke-width:1" width="40" x="420" y="1190" />
+		<rect height="20" style="fill:#406bde;stroke:#000;stroke-width:1" width="40" x="460" y="1190" />
+		<rect height="20" style="fill:#4846a6;stroke:#000;stroke-width:1" width="40" x="500" y="1190" />
+	</g>
+	<g id="gdpal1-11-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="1226">gdpal1-11-div</text>
+		<rect height="20" style="fill:#75488e;stroke:#000;stroke-width:1" width="40" x="140" y="1216" />
+		<rect height="20" style="fill:#ee5d85;stroke:#000;stroke-width:1" width="40" x="180" y="1216" />
+		<rect height="20" style="fill:#fe9a6f;stroke:#000;stroke-width:1" width="40" x="220" y="1216" />
+		<rect height="20" style="fill:#ffab9a;stroke:#000;stroke-width:1" width="40" x="260" y="1216" />
+		<rect height="20" style="fill:#cada23;stroke:#000;stroke-width:1" width="40" x="300" y="1216" />
+		<rect height="20" style="fill:#e9d8ee;stroke:#000;stroke-width:1" width="40" x="340" y="1216" />
+		<rect height="20" style="fill:#faf77d;stroke:#000;stroke-width:1" width="40" x="380" y="1216" />
+		<rect height="20" style="fill:#c8f4fa;stroke:#000;stroke-width:1" width="40" x="420" y="1216" />
+		<rect height="20" style="fill:#0cb1ed;stroke:#000;stroke-width:1" width="40" x="460" y="1216" />
+		<rect height="20" style="fill:#406bde;stroke:#000;stroke-width:1" width="40" x="500" y="1216" />
+		<rect height="20" style="fill:#4846a6;stroke:#000;stroke-width:1" width="40" x="540" y="1216" />
+	</g>
+	<g id="gdpal2-11-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="1252">gdpal2-11-div</text>
+		<rect height="20" style="fill:#c8f4fa;stroke:#000;stroke-width:1" width="40" x="140" y="1242" />
+		<rect height="20" style="fill:#83d0cf;stroke:#000;stroke-width:1" width="40" x="180" y="1242" />
+		<rect height="20" style="fill:#75488e;stroke:#000;stroke-width:1" width="40" x="220" y="1242" />
+		<rect height="20" style="fill:#ee5d85;stroke:#000;stroke-width:1" width="40" x="260" y="1242" />
+		<rect height="20" style="fill:#e9d8ee;stroke:#000;stroke-width:1" width="40" x="300" y="1242" />
+		<rect height="20" style="fill:#faf77d;stroke:#000;stroke-width:1" width="40" x="340" y="1242" />
+		<rect height="20" style="fill:#fe9a6f;stroke:#000;stroke-width:1" width="40" x="380" y="1242" />
+		<rect height="20" style="fill:#ffab9a;stroke:#000;stroke-width:1" width="40" x="420" y="1242" />
+		<rect height="20" style="fill:#cada23;stroke:#000;stroke-width:1" width="40" x="460" y="1242" />
+		<rect height="20" style="fill:#0cb1ed;stroke:#000;stroke-width:1" width="40" x="500" y="1242" />
+		<rect height="20" style="fill:#b96c5b;stroke:#000;stroke-width:1" width="40" x="540" y="1242" />
+	</g>
+	<g id="gdpal1-12-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="1278">gdpal1-12-div</text>
+		<rect height="20" style="fill:#ba2d2d;stroke:#000;stroke-width:1" width="40" x="140" y="1268" />
+		<rect height="20" style="fill:#f76c50;stroke:#000;stroke-width:1" width="40" x="180" y="1268" />
+		<rect height="20" style="fill:#fee05b;stroke:#000;stroke-width:1" width="40" x="220" y="1268" />
+		<rect height="20" style="fill:#edb349;stroke:#000;stroke-width:1" width="40" x="260" y="1268" />
+		<rect height="20" style="fill:#d4e746;stroke:#000;stroke-width:1" width="40" x="300" y="1268" />
+		<rect height="20" style="fill:#54c4b5;stroke:#000;stroke-width:1" width="40" x="340" y="1268" />
+		<rect height="20" style="fill:#d1fce4;stroke:#000;stroke-width:1" width="40" x="380" y="1268" />
+		<rect height="20" style="fill:#a0f5f1;stroke:#000;stroke-width:1" width="40" x="420" y="1268" />
+		<rect height="20" style="fill:#90d1f4;stroke:#000;stroke-width:1" width="40" x="460" y="1268" />
+		<rect height="20" style="fill:#50b5f5;stroke:#000;stroke-width:1" width="40" x="500" y="1268" />
+		<rect height="20" style="fill:#d544ae;stroke:#000;stroke-width:1" width="40" x="540" y="1268" />
+		<rect height="20" style="fill:#75488e;stroke:#000;stroke-width:1" width="40" x="580" y="1268" />
+	</g>
+	<g id="gdpal2-12-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="1304">gdpal2-12-div</text>
+		<rect height="20" style="fill:#b96c5b;stroke:#000;stroke-width:1" width="40" x="140" y="1294" />
+		<rect height="20" style="fill:#ee5d85;stroke:#000;stroke-width:1" width="40" x="180" y="1294" />
+		<rect height="20" style="fill:#e9d8ee;stroke:#000;stroke-width:1" width="40" x="220" y="1294" />
+		<rect height="20" style="fill:#fe9a6f;stroke:#000;stroke-width:1" width="40" x="260" y="1294" />
+		<rect height="20" style="fill:#ffab9a;stroke:#000;stroke-width:1" width="40" x="300" y="1294" />
+		<rect height="20" style="fill:#fee05b;stroke:#000;stroke-width:1" width="40" x="340" y="1294" />
+		<rect height="20" style="fill:#faf77d;stroke:#000;stroke-width:1" width="40" x="380" y="1294" />
+		<rect height="20" style="fill:#cada23;stroke:#000;stroke-width:1" width="40" x="420" y="1294" />
+		<rect height="20" style="fill:#c8f4fa;stroke:#000;stroke-width:1" width="40" x="460" y="1294" />
+		<rect height="20" style="fill:#83d0cf;stroke:#000;stroke-width:1" width="40" x="500" y="1294" />
+		<rect height="20" style="fill:#50b5f5;stroke:#000;stroke-width:1" width="40" x="540" y="1294" />
+		<rect height="20" style="fill:#75488e;stroke:#000;stroke-width:1" width="40" x="580" y="1294" />
+	</g>
+	<g id="gdpal1-13-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="1330">gdpal1-13-div</text>
+		<rect height="20" style="fill:#28c580;stroke:#000;stroke-width:1" width="40" x="140" y="1320" />
+		<rect height="20" style="fill:#d4e746;stroke:#000;stroke-width:1" width="40" x="180" y="1320" />
+		<rect height="20" style="fill:#ffea46;stroke:#000;stroke-width:1" width="40" x="220" y="1320" />
+		<rect height="20" style="fill:#edb349;stroke:#000;stroke-width:1" width="40" x="260" y="1320" />
+		<rect height="20" style="fill:#ee5d85;stroke:#000;stroke-width:1" width="40" x="300" y="1320" />
+		<rect height="20" style="fill:#ffc4b8;stroke:#000;stroke-width:1" width="40" x="340" y="1320" />
+		<rect height="20" style="fill:#f2c9ff;stroke:#000;stroke-width:1" width="40" x="380" y="1320" />
+		<rect height="20" style="fill:#a0f5f1;stroke:#000;stroke-width:1" width="40" x="420" y="1320" />
+		<rect height="20" style="fill:#83d0cf;stroke:#000;stroke-width:1" width="40" x="460" y="1320" />
+		<rect height="20" style="fill:#50b5f5;stroke:#000;stroke-width:1" width="40" x="500" y="1320" />
+		<rect height="20" style="fill:#87a2f9;stroke:#000;stroke-width:1" width="40" x="540" y="1320" />
+		<rect height="20" style="fill:#d544ae;stroke:#000;stroke-width:1" width="40" x="580" y="1320" />
+		<rect height="20" style="fill:#75488e;stroke:#000;stroke-width:1" width="40" x="620" y="1320" />
+	</g>
+	<g id="gdpal1-14-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="1356">gdpal1-14-div</text>
+		<rect height="20" style="fill:#ee5d85;stroke:#000;stroke-width:1" width="40" x="140" y="1346" />
+		<rect height="20" style="fill:#ffab9a;stroke:#000;stroke-width:1" width="40" x="180" y="1346" />
+		<rect height="20" style="fill:#edb349;stroke:#000;stroke-width:1" width="40" x="220" y="1346" />
+		<rect height="20" style="fill:#ffea46;stroke:#000;stroke-width:1" width="40" x="260" y="1346" />
+		<rect height="20" style="fill:#d4e746;stroke:#000;stroke-width:1" width="40" x="300" y="1346" />
+		<rect height="20" style="fill:#8a8f07;stroke:#000;stroke-width:1" width="40" x="340" y="1346" />
+		<rect height="20" style="fill:#28c580;stroke:#000;stroke-width:1" width="40" x="380" y="1346" />
+		<rect height="20" style="fill:#a0f5f1;stroke:#000;stroke-width:1" width="40" x="420" y="1346" />
+		<rect height="20" style="fill:#b3e5fc;stroke:#000;stroke-width:1" width="40" x="460" y="1346" />
+		<rect height="20" style="fill:#50b5f5;stroke:#000;stroke-width:1" width="40" x="500" y="1346" />
+		<rect height="20" style="fill:#87a2f9;stroke:#000;stroke-width:1" width="40" x="540" y="1346" />
+		<rect height="20" style="fill:#75488e;stroke:#000;stroke-width:1" width="40" x="580" y="1346" />
+		<rect height="20" style="fill:#d544ae;stroke:#000;stroke-width:1" width="40" x="620" y="1346" />
+		<rect height="20" style="fill:#fcc7f6;stroke:#000;stroke-width:1" width="40" x="660" y="1346" />
+	</g>
+	<g id="gdpal1-17-div">
+		<text style="font-weight:bold;font-size:12px;dominant-baseline:middle;font:Arial" text-anchor="end" x="134" y="1382">gdpal1-17-div</text>
+		<rect height="20" style="fill:#ee5d85;stroke:#000;stroke-width:1" width="40" x="140" y="1372" />
+		<rect height="20" style="fill:#ffab9a;stroke:#000;stroke-width:1" width="40" x="180" y="1372" />
+		<rect height="20" style="fill:#edb349;stroke:#000;stroke-width:1" width="40" x="220" y="1372" />
+		<rect height="20" style="fill:#ffea46;stroke:#000;stroke-width:1" width="40" x="260" y="1372" />
+		<rect height="20" style="fill:#d4e746;stroke:#000;stroke-width:1" width="40" x="300" y="1372" />
+		<rect height="20" style="fill:#8a8f07;stroke:#000;stroke-width:1" width="40" x="340" y="1372" />
+		<rect height="20" style="fill:#28c580;stroke:#000;stroke-width:1" width="40" x="380" y="1372" />
+		<rect height="20" style="fill:#a0f5f1;stroke:#000;stroke-width:1" width="40" x="420" y="1372" />
+		<rect height="20" style="fill:#b3e5fc;stroke:#000;stroke-width:1" width="40" x="460" y="1372" />
+		<rect height="20" style="fill:#50b5f5;stroke:#000;stroke-width:1" width="40" x="500" y="1372" />
+		<rect height="20" style="fill:#87a2f9;stroke:#000;stroke-width:1" width="40" x="540" y="1372" />
+		<rect height="20" style="fill:#75488e;stroke:#000;stroke-width:1" width="40" x="580" y="1372" />
+		<rect height="20" style="fill:#d544ae;stroke:#000;stroke-width:1" width="40" x="620" y="1372" />
+		<rect height="20" style="fill:#fcc7f6;stroke:#000;stroke-width:1" width="40" x="660" y="1372" />
+		<rect height="20" style="fill:#fa082c;stroke:#000;stroke-width:1" width="40" x="700" y="1372" />
+		<rect height="20" style="fill:#666699;stroke:#000;stroke-width:1" width="40" x="740" y="1372" />
+		<rect height="20" style="fill:#660033;stroke:#000;stroke-width:1" width="40" x="780" y="1372" />
+	</g>
+	<!-- 
+	Generated using the Perl SVG Module V2.64
+	by Ronan Oger
+	Info: http://www.roitsystems.com/
+ -->
+</svg>

@@ -1,0 +1,443 @@
+Lineage	Most common countries	Earliest date	# designated	# assigned	Description	WHO Name
+B	United States of America 40.0%, United Kingdom 15.0%, China 8.0%, Mexico 5.0%, Germany 3.0%	2019-12-24	3999	10429	One of the two original haplotypes of the pandemic(and first to be discovered)	-
+B.1	United States of America 47.0%, Turkey 11.0%, United Kingdom 7.0%, Canada 4.0%, France 3.0%	2020-01-01	46223	115142	A large European lineage the origin of which roughly corresponds to the Northern Italian outbreak early in 2020.	-
+B.1.1	United Kingdom 25.0%, United States of America 15.0%, Russia 6.0%, Japan 6.0%, Turkey 5.0%	2020-01-19	22778	51650	European lineage with 3 clear SNPs `28881GA`,`28882GA`,`28883GC`	-
+B.1.1.7	United Kingdom 23.0%, United States of America 20.0%, Germany 9.0%, Sweden 6.0%, Denmark 6.0%	2020-01-19	69634	1117889	UK lineage of concern, associated with the N501Y mutation. More information can be found at cov-lineages.org/global_report.html	-
+B.1.1.28	Brazil 83.0%, Philippines 8.0%, United States of America 3.0%, Paraguay 2.0%, Japan 1.0%	2020-02-10	854	5604	Brazil mostly, absorbed B.1.1.94 and B.1.1.143	-
+P.1	Brazil 59.0%, United States of America 26.0%, Chile 3.0%, Argentina 1.0%, Spain 1.0%	2020-04-07	29942	73032	Alias of B.1.1.28.1, Brazilian lineage with a number of spike mutations with likely functional significance E484K, K417T, and N501Y. Described in https://virological.org/t/genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-manaus-preliminary-findings/586, from #77	-
+B.1.1.529	United States of America 34.0%, Germany 13.0%, India 9.0%, Turkey 5.0%, Russia 5.0%	2020-04-14	0	7716	South Africa and Botswana lineage, from #343	-
+BA.1	United Kingdom 40.0%, United States of America 22.0%, Denmark 5.0%, Germany 4.0%, Brazil 4.0%	2020-06-25	65813	425180	Alias of B.1.1.529.1, from #361	-
+BA.1.1	United States of America 47.0%, United Kingdom 19.0%, Germany 7.0%, Canada 4.0%, France 2.0%	2020-01-27	104388	971934	Alias of B.1.1.529.1.1, from #360	-
+BA.1.1.1	France 32.0%, Germany 19.0%, United Kingdom 10.0%, Spain 6.0%, Poland 5.0%	2020-10-29	15907	61475	Alias of B.1.1.529.1.1.1, European lineage	-
+BA.1.1.18	United States of America 96.0%, United Kingdom 1.0%, Canada 1.0%, Germany 0.0%, Mexico 0.0%	2020-08-27	34558	65255	Alias of B.1.1.529.1.1.18, USA lineage	-
+BA.1.15	United States of America 69.0%, United Kingdom 13.0%, Canada 3.0%, Germany 2.0%, Brazil 2.0%	2020-11-10	35155	181924	Alias of B.1.1.529.1.15, lineage in USA and other countries	-
+BA.2	United Kingdom 29.0%, Germany 13.0%, Denmark 12.0%, United States of America 11.0%, France 7.0%	2020-03-28	112178	1203507	Alias of B.1.1.529.2, from #361	-
+CM.7.1.1	France 32.0%, Spain 16.0%, Israel 16.0%, Italy 12.0%, Netherlands 12.0%	2023-03-22	15	25	Alias of B.1.1.529.2.3.20.7.1, S:R403K, Europe, from sars-cov-2-variants/lineage-proposals#37	-
+BA.2.9.3	France 50.0%, Germany 8.0%, United States of America 6.0%, United Kingdom 6.0%, Brazil 5.0%	2020-07-01	733	4054	Alias of B.1.1.529.2.9.3, mainly found in France, England, and Germany, from #630	-
+BA.2.10.1	Australia 23.0%, India 15.0%, United Kingdom 12.0%, United States of America 12.0%, Japan 8.0%	2021-12-23	1668	8652	Alias of B.1.1.529.2.10.1, lineage in Singapore and other countries	-
+BA.2.40.1	Malaysia 35.0%, United States of America 15.0%, Singapore 9.0%, French_Guiana 5.0%, Netherlands 5.0%	2022-02-11	478	2647	Alias of B.1.1.529.2.40.1, mainly found in Malaysia, England, Germany and Denmark, from #542	-
+CH.1.1.1	United Kingdom 35.0%, Sweden 14.0%, Australia 9.0%, United States of America 5.0%, Germany 5.0%	2022-10-15	2049	7019	Alias of B.1.1.529.2.75.3.4.1.1.1.1.1, defined by S:N185D	-
+DV.7.1	Spain 49.0%, United States of America 9.0%, France 7.0%, Canada 5.0%, United Kingdom 5.0%	2023-05-11	45	1247	Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1, S:L455F (G22927T), S:F456L (T22928C), Spain/Austria, from sars-cov-2-variants/lineage-proposals#135	-
+DV.7.1.2	Spain 18.0%, United Kingdom 18.0%, Canada 13.0%, France 11.0%, United States of America 10.0%	2023-06-17	145	676	Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1.2, ORF1a:A4162V, Spain/England, from #2258	-
+DV.7.1.3	Spain 44.0%, United Kingdom 9.0%, Denmark 9.0%, France 7.0%, Australia 7.0%	2023-08-07	33	223	Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1.3, S:A262S, on branch ORF1a:K3353R, from sars-cov-2-variants/lineage-proposals#851	-
+DV.7.1.4	Canada 41.0%, United States of America 15.0%, Israel 15.0%, United Kingdom 5.0%, Italy 4.0%	2023-06-20	470	1201	Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1.4, G28001T, on branch ORF1a:K3353R	-
+DV.7.1.5	Spain 25.0%, United States of America 13.0%, United Kingdom 10.0%, France 9.0%, Canada 9.0%	2023-06-03	451	798	Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1.5, N:T135A, Spain, from sars-cov-2-variants/lineage-proposals#729	-
+KG.2	Canada 67.0%, Spain 25.0%, United States of America 8.0%	2023-10-05	11	12	Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1.5.2, S:H49Y, S:A264D, S:G485R, Spain/Canada	-
+DV.7.1.9	Australia 43.0%, New_Zealand 37.0%, Greece 6.0%, Japan 6.0%, Spain 4.0%	2023-08-04	53	70	Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1.9, S:R1185H, Australia	-
+FK.1.1	New_Zealand 26.0%, Australia 25.0%, United States of America 16.0%, South_Korea 13.0%, Japan 8.0%	2023-02-08	53	1581	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.1, ORF1a:A1060T, on C27804T>ORF1b:L2580I>N:G34E branch, New Zealand, from #1881	-
+JP.1.1	South_Africa 70.0%, United Kingdom 20.0%, Singapore 3.0%, Netherlands 3.0%, United States of America 3.0%	2023-06-05	16	30	Alias of B.1.1.529.2.75.3.4.1.1.1.1.31.1.1, S:G1219V, ORF1a:T1542I, South Africa	-
+BN.1	United States of America 29.0%, Australia 9.0%, Germany 7.0%, United Kingdom 7.0%, Denmark 5.0%	2022-01-23	1492	5895	Alias of B.1.1.529.2.75.5.1, mainly found in India, from #994	-
+BN.1.1	Japan 46.0%, South_Korea 17.0%, United States of America 15.0%, Vietnam 3.0%, Australia 3.0%	2022-08-09	10	1009	Alias of B.1.1.529.2.75.5.1.1, India/Austria, S:S494P, from #1176	-
+BN.1.2	South_Korea 28.0%, Japan 23.0%, United States of America 7.0%, Thailand 6.0%, Denmark 5.0%	2022-01-24	2344	9480	Alias of B.1.1.529.2.75.5.1.2, Singapore/England, E:D72G	-
+FR.1.4	China 71.0%, Japan 23.0%, United States of America 2.0%, South_Korea 1.0%, Singapore 1.0%	2023-04-06	121	219	Alias of B.1.1.529.2.75.5.1.2.3.1.4, A3715G, C15960T, on shared T2372C, C7318T, ORF1a:L293F branch with FR.1.1, China, from sars-cov-2-variants/lineage-proposals#256	-
+FR.1.5	Japan 86.0%, United States of America 6.0%, China 4.0%, Taiwan 2.0%, Singapore 2.0%	2023-03-01	18	51	Alias of B.1.1.529.2.75.5.1.2.3.1.5, ORF1a:V116M, ORF1a:S2242F, ORF1a:M4071T, Japan	-
+BN.1.3	South_Korea 25.0%, Japan 17.0%, Germany 11.0%, United States of America 10.0%, Australia 7.0%	2022-01-02	3325	14768	Alias of B.1.1.529.2.75.5.1.3, India, ORF3a:T229I	-
+DS.2	Germany 52.0%, Austria 14.0%, United Kingdom 10.0%, United States of America 7.0%, Croatia 4.0%	2022-10-26	170	561	Alias of B.1.1.529.2.75.5.1.3.1.2, Germany, S:T572I	-
+BN.1.5.2	United States of America 66.0%, Canada 12.0%, Netherlands 9.0%, France 5.0%, Belgium 2.0%	2022-10-12	137	162	Alias of B.1.1.529.2.75.5.1.5.2, S:N481K	-
+BA.2.86	South_Africa 32.0%, United States of America 10.0%, Australia 6.0%, Netherlands 5.0%, Germany 5.0%	2023-03-11	32	831	Alias of B.1.1.529.2.86, from #2183	-
+BA.2.86.1	Japan 16.0%, United Kingdom 12.0%, Denmark 9.0%, United States of America 8.0%, France 6.0%	2023-01-03	24	8860	Alias of B.1.1.529.2.86.1, ORF1a:K1973R, mostly with C12815T, mainly Europe, from #2236	-
+JN.1	United States of America 32.0%, Canada 10.0%, United Kingdom 9.0%, Spain 6.0%, France 4.0%	2020-01-20	2	82229	Alias of B.1.1.529.2.86.1.1, S:L455S, ORF1a:R3821K, ORF7b:F19L, Europe	-
+JN.1.1	United States of America 22.0%, France 21.0%, Canada 7.0%, United Kingdom 5.0%, Brazil 4.0%	2022-02-28	695	17714	Alias of B.1.1.529.2.86.1.1.1, ORF1a:F499L, C11747T, France, from sars-cov-2-variants/lineage-proposals#987	-
+JN.1.1.1	Sweden 33.0%, France 15.0%, United Kingdom 11.0%, United States of America 7.0%, Italy 6.0%	2023-09-25	24	504	Alias of B.1.1.529.2.86.1.1.1.1, S:T572I on C9142T branch, France/Sweden/Poland, from sars-cov-2-variants/lineage-proposals#1097	-
+JN.1.1.2	France 39.0%, United States of America 17.0%, United Kingdom 6.0%, New_Zealand 5.0%, Switzerland 4.0%	2023-10-30	45	99	Alias of B.1.1.529.2.86.1.1.1.2, S:G181E, France, from sars-cov-2-variants/lineage-proposals#1147	-
+JN.1.1.3	Sweden 22.0%, Japan 18.0%, United Kingdom 15.0%, France 14.0%, United States of America 8.0%	2023-11-04	68	65	Alias of B.1.1.529.2.86.1.1.1.3, S:R346T	-
+JN.1.1.4	France 45.0%, United States of America 19.0%, Spain 9.0%, United Kingdom 5.0%, South_Korea 4.0%	2023-11-09	80	140	Alias of B.1.1.529.2.86.1.1.1.4, S:V1264L on C9142T branch, from #2476	-
+JN.1.1.5	United States of America 25.0%, Brazil 23.0%, France 10.0%, Japan 9.0%, Canada 8.0%	2023-01-29	45	178	Alias of B.1.1.529.2.86.1.1.1.5, S:R346T on C9142T branch, from #2492	-
+KR.1	United States of America 41.0%, Canada 10.0%, South_Korea 10.0%, Australia 10.0%, Japan 8.0%	2024-01-06	10	39	Alias of B.1.1.529.2.86.1.1.1.5.1, S:F456L, after C28498T, from sars-cov-2-variants/lineage-proposals#1253	-
+JN.1.2	United States of America 43.0%, Canada 40.0%, Greece 5.0%, United Kingdom 4.0%, Sweden 1.0%	2023-01-03	43	2189	Alias of B.1.1.529.2.86.1.1.2, S:M1229I, USA/Canada, from sars-cov-2-variants/lineage-proposals#1087	-
+JN.1.2.1	Ireland 60.0%, United Kingdom 29.0%, United States of America 8.0%, South_Africa 2.0%, France 2.0%	2023-11-27	46	52	Alias of B.1.1.529.2.86.1.1.2.1, S:H1101Y, Ireland, from sars-cov-2-variants/lineage-proposals#1322	-
+JN.1.3	United States of America 27.0%, Netherlands 11.0%, Switzerland 9.0%, Canada 7.0%, United Kingdom 6.0%	2023-10-17	23	362	Alias of B.1.1.529.2.86.1.1.3, ORF8:Q18*, Netherlands	-
+JN.1.4	United States of America 44.0%, Canada 8.0%, South_Korea 6.0%, Denmark 6.0%, United Kingdom 5.0%	2023-09-13	129	35362	Alias of B.1.1.529.2.86.1.1.4, ORF1a:T170I, Denmark/Singapore, from #2381	-
+JN.1.4.1	Ireland 32.0%, United States of America 31.0%, United Kingdom 29.0%, Puerto_Rico 2.0%, Germany 2.0%	2023-11-27	98	177	Alias of B.1.1.529.2.86.1.1.4.1, S:E654V, Ireland, from sars-cov-2-variants/lineage-proposals#1175	-
+JN.1.4.2	United States of America 85.0%, South_Korea 5.0%, Canada 3.0%, Puerto_Rico 2.0%, United Kingdom 1.0%	2023-11-17	388	871	Alias of B.1.1.529.2.86.1.1.4.2, S:N185D, after T18453C, USA, from #2462	-
+JN.1.4.3	United States of America 68.0%, United Kingdom 8.0%, Canada 7.0%, Australia 3.0%, France 3.0%	2023-11-14	36	206	Alias of B.1.1.529.2.86.1.1.4.3, S:T572I, USA, from #2487	-
+KQ.1	United States of America 85.0%, United Kingdom 7.0%, Canada 6.0%, Puerto_Rico 1.0%, Netherlands 1.0%	2024-01-04	64	321	Alias of B.1.1.529.2.86.1.1.4.3.1, S:R346T, USA from #2487	-
+JN.1.5	Singapore 32.0%, South_Korea 11.0%, Japan 10.0%, United States of America 9.0%, Malaysia 9.0%	2023-10-30	539	2322	Alias of B.1.1.529.2.86.1.1.5, ORF1b:V1271T, Singapore/Malaysia/Indonesia, from #2419	-
+JN.1.6	United States of America 59.0%, Switzerland 8.0%, France 6.0%, Canada 5.0%, Malaysia 4.0%	2023-10-11	141	1006	Alias of B.1.1.529.2.86.1.1.6, G22627A	-
+JN.1.6.1	Sweden 52.0%, United Kingdom 17.0%, United States of America 17.0%, Spain 4.0%, Germany 4.0%	2023-11-26	34	248	Alias of B.1.1.529.2.86.1.1.6.1, S:R346T, Sweden, from sars-cov-2-variants/lineage-proposals#1089	-
+JN.1.7	United States of America 48.0%, United Kingdom 14.0%, Canada 10.0%, Chile 5.0%, Ireland 5.0%	2023-01-09	75	3750	Alias of B.1.1.529.2.86.1.1.7, S:T572I, S:E1150D, USA/France, from sars-cov-2-variants/lineage-proposals#1097	-
+JN.1.7.1	United Kingdom 92.0%, United States of America 5.0%, Luxembourg 3.0%	2023-12-31	21	65	Alias of B.1.1.529.2.86.1.1.7.1, S:R346K, England, from sars-cov-2-variants/lineage-proposals#1371	-
+JN.1.7.2	United States of America 34.0%, Canada 22.0%, Chile 19.0%, United Kingdom 11.0%, Argentina 6.0%	2023-12-09	110	441	Alias of B.1.1.529.2.86.1.1.7.2, ORF1b:C1563F, Americas	-
+JN.1.8	United States of America 34.0%, United Kingdom 19.0%, Canada 8.0%, France 5.0%, Spain 5.0%	2023-02-26	110	1488	Alias of B.1.1.529.2.86.1.1.8, ORF7a:T28I	-
+JN.1.8.1	United States of America 68.0%, Canada 19.0%, United Kingdom 3.0%, Chile 2.0%, Puerto_Rico 1.0%	2023-02-26	96	2519	Alias of B.1.1.529.2.86.1.1.8.1, S:T572I, after A12928G, USA/Denmark, from sars-cov-2-variants/lineage-proposals#1097	-
+JN.1.9	United States of America 55.0%, United Kingdom 15.0%, Canada 11.0%, Spain 7.0%, Japan 2.0%	2023-10-03	238	1663	Alias of B.1.1.529.2.86.1.1.9, S:Q183H, USA/UK/Canada, from #2410	-
+JN.1.9.1	United Kingdom 67.0%, Australia 10.0%, Ireland 9.0%, United States of America 4.0%, Canada 2.0%	2023-12-04	26	179	Alias of B.1.1.529.2.86.1.1.9.1, S:T572I, ORF1a:A3143V, from sars-cov-2-variants/lineage-proposals#1097	-
+JN.1.10	United States of America 19.0%, Germany 11.0%, Canada 11.0%, United Kingdom 10.0%, Spain 9.0%	2023-11-07	29	133	Alias of B.1.1.529.2.86.1.1.10, S:T95I, USA/Canada, from sars-cov-2-variants/lineage-proposals#1135	-
+JN.1.11	India 44.0%, United States of America 21.0%, Canada 9.0%, South_Korea 7.0%, Puerto_Rico 6.0%	2023-12-07	2	232	Alias of B.1.1.529.2.86.1.1.11, S:V1104L, G17334T, India, from #2446	-
+JN.1.11.1	Canada 35.0%, United States of America 23.0%, United Kingdom 12.0%, India 7.0%, Australia 6.0%	2023-12-23	17	571	Alias of B.1.1.529.2.86.1.1.11.1, S:F456L, after ORF1a:T2283I, India, from sars-cov-2-variants/lineage-proposals#1253	-
+KP.1	United States of America 55.0%, Canada 21.0%, Australia 6.0%, India 5.0%, United Kingdom 4.0%	2023-12-30	28	190	Alias of B.1.1.529.2.86.1.1.11.1.1, S:K1086R, from sars-cov-2-variants/lineage-proposals#1364	-
+KP.1.1	United States of America 31.0%, Canada 18.0%, United Kingdom 17.0%, Australia 8.0%, Singapore 6.0%	2024-01-27	8	217	Alias of B.1.1.529.2.86.1.1.11.1.1.1, S:R346T, from sars-cov-2-variants/lineage-proposals#1089	-
+KP.2	United States of America 31.0%, United Kingdom 16.0%, Canada 14.0%, India 10.0%, Australia 7.0%	2024-01-02	7	670	Alias of B.1.1.529.2.86.1.1.11.1.2, S:R346T on JN.1.11.1 polytomy, from sars-cov-2-variants/lineage-proposals#1089	-
+JN.1.12	Italy 27.0%, United States of America 22.0%, South_Korea 19.0%, Poland 8.0%, Spain 5.0%	2023-11-26	11	37	Alias of B.1.1.529.2.86.1.1.12, S:F456V, ORF7a:A8T, from sars-cov-2-variants/lineage-proposals#1253	-
+JN.1.13	United States of America 75.0%, Canada 6.0%, Germany 3.0%, Finland 3.0%, Thailand 3.0%	2023-12-10	21	32	Alias of B.1.1.529.2.86.1.1.13, S:A1087S, after C26894T, C25680T, USA, from #2464	-
+JN.1.13.1	United States of America 75.0%, Canada 16.0%, United Kingdom 2.0%, Netherlands 1.0%, Puerto_Rico 1.0%	2023-12-07	241	834	Alias of B.1.1.529.2.86.1.1.13.1, S:R346T, S:F59S, USA, from sars-cov-2-variants/lineage-proposals/issues/1386	-
+JN.1.14	United States of America 93.0%, Taiwan 4.0%, Puerto_Rico 2.0%, Dominican_Republic 2.0%	2023-12-20	23	54	Alias of B.1.1.529.2.86.1.1.14, S:R346S, after C26894T, C25680T, USA	-
+JN.1.15	United States of America 35.0%, Spain 11.0%, Australia 8.0%, United Kingdom 7.0%, Israel 6.0%	2023-11-09	50	281	Alias of B.1.1.529.2.86.1.1.15, S:A688V	-
+JN.1.16	United States of America 22.0%, United Kingdom 13.0%, Australia 10.0%, South_Korea 10.0%, China 8.0%	2023-11-07	47	1303	Alias of B.1.1.529.2.86.1.1.16, S:F456L, from sars-cov-2-variants/lineage-proposals#1253	-
+JN.1.17	United States of America 96.0%, Canada 2.0%, Italy 1.0%, Netherlands 1.0%, France 1.0%	2023-02-08	58	118	Alias of B.1.1.529.2.86.1.1.17, S:A222V, USA	-
+JN.1.18	United States of America 32.0%, United Kingdom 13.0%, Canada 6.0%, Nigeria 6.0%, Japan 5.0%	2023-11-02	140	1876	Alias of B.1.1.529.2.86.1.1.18, S:R346T, directly on JN.1 polytomy, from sars-cov-2-variants/lineage-proposals#1089	-
+JN.1.19	United States of America 29.0%, Netherlands 12.0%, United Kingdom 11.0%, Denmark 11.0%, Israel 5.0%	2023-10-02	715	1351	Alias of B.1.1.529.2.86.1.1.19, ORF8:I71V	-
+JN.1.20	South_Korea 51.0%, United States of America 12.0%, Australia 7.0%, China 7.0%, Canada 4.0%	2023-01-02	66	812	Alias of B.1.1.529.2.86.1.1.20, S:S31F, directly on JN.1 polytomy	-
+JN.1.21	Chile 46.0%, United States of America 21.0%, Austria 5.0%, Switzerland 4.0%, Canada 3.0%	2023-11-08	128	455	Alias of B.1.1.529.2.86.1.1.21, S:H1058Y, from sars-cov-2-variants/lineage-proposals#1162	-
+JN.1.22	Canada 34.0%, United States of America 20.0%, United Kingdom 9.0%, Belgium 4.0%, Spain 4.0%	2023-10-22	1541	2776	Alias of B.1.1.529.2.86.1.1.22, ORF1a:S505F, C13019T, from #2465	-
+JN.1.23	Brazil 72.0%, United States of America 15.0%, Canada 5.0%, Australia 3.0%, Puerto_Rico 2.0%	2024-01-01	49	86	Alias of B.1.1.529.2.86.1.1.23, S:K444R, S:Y453F, ORF1a:A307V, ORF1a:P2144L, Brazil, from #2488	-
+JN.1.24	United States of America 60.0%, United Kingdom 10.0%, Costa_Rica 5.0%, Israel 5.0%, France 4.0%	2023-11-10	117	164	Alias of B.1.1.529.2.86.1.1.24, S:C1243F, USA	-
+JN.1.25	India 52.0%, United States of America 35.0%, Canada 4.0%, Sweden 4.0%, Spain 4.0%	2023-12-12	25	23	Alias of B.1.1.529.2.86.1.1.25, C706T, A7708T, India	-
+JN.1.25.1	United States of America 42.0%, United Kingdom 29.0%, India 25.0%, Canada 4.0%	2023-12-17	17	24	Alias of B.1.1.529.2.86.1.1.25.1, S:R346T, India	-
+JN.2	Sweden 35.0%, United Kingdom 17.0%, Canada 13.0%, United States of America 8.0%, Denmark 4.0%	2022-10-22	111	3844	Alias of B.1.1.529.2.86.1.2, ORF1a:Y621C, Europe/North America, from #2284	-
+JN.2.1	Sweden 42.0%, Australia 31.0%, United Kingdom 5.0%, Japan 5.0%, United States of America 4.0%	2023-09-11	26	187	Alias of B.1.1.529.2.86.1.2.1, S:S31F, Sweden/Australia	-
+JN.2.2	Netherlands 42.0%, Germany 13.0%, Turkey 10.0%, United Kingdom 7.0%, Sweden 6.0%	2023-10-27	41	116	Alias of B.1.1.529.2.86.1.2.2, S:T572I, N:G25C, ORF1a:L3644F, Netherlands, from #2433	-
+JN.2.3	Denmark 27.0%, Sweden 17.0%, Netherlands 12.0%, Slovakia 10.0%, United Kingdom 6.0%	2023-10-01	92	143	Alias of B.1.1.529.2.86.1.2.3, S:V193L, from #2442	-
+JN.2.4	Sweden 74.0%, Greece 16.0%, United Kingdom 5.0%, United States of America 1.0%, Spain 1.0%	2023-10-02	48	73	Alias of B.1.1.529.2.86.1.2.4, S:L242F, Sweden	-
+JN.2.5	Canada 85.0%, United States of America 6.0%, Brazil 5.0%, United Kingdom 2.0%, Lithuania 1.0%	2023-10-30	85	733	Alias of B.1.1.529.2.86.1.2.5, S:L455S, Canada, USA, Lithuania, from sars-cov-2-variants/lineage-proposals#1173	-
+JN.3	United States of America 27.0%, United Kingdom 25.0%, Israel 9.0%, Spain 7.0%, Denmark 4.0%	2023-08-05	46	1569	Alias of B.1.1.529.2.86.1.3, ORF1a:T2087I, Europe, from sars-cov-2-variants/lineage-proposals#892	-
+JN.3.1	Spain 40.0%, Norway 15.0%, Sweden 15.0%, Lithuania 11.0%, France 6.0%	2023-08-27	28	65	Alias of B.1.1.529.2.86.1.3.1, S:L922F, ORF7a:T28I, Spain	-
+JN.3.2	United Kingdom 39.0%, France 32.0%, Canada 10.0%, Ireland 6.0%, Switzerland 3.0%	2023-09-18	35	31	Alias of B.1.1.529.2.86.1.3.2, N:H300Y, ORF1a:P892S, from #2445	-
+JN.3.2.1	Germany 53.0%, Switzerland 9.0%, United States of America 9.0%, Luxembourg 6.0%, France 6.0%	2023-11-07	24	53	Alias of B.1.1.529.2.86.1.3.2.1, S:F456V, N:S327L, Germany, from #2445	-
+JN.4	Belgium 32.0%, United Kingdom 12.0%, Netherlands 11.0%, France 10.0%, Luxembourg 6.0%	2023-09-18	40	546	Alias of B.1.1.529.2.86.1.4, S:A475V, lacking C12815T of most BA.2.86.1, Belgium/Netherlands/Denmark, from sars-cov-2-variants/lineage-proposals#1009	-
+JN.5	United Kingdom 20.0%, Greece 18.0%, France 16.0%, United States of America 7.0%, Netherlands 4.0%	2023-08-21	65	364	Alias of B.1.1.529.2.86.1.5, N:T135I	-
+JN.5.1	United Kingdom 74.0%, France 11.0%, Netherlands 5.0%, Poland 5.0%, Belgium 5.0%	2023-10-19	14	19	Alias of B.1.1.529.2.86.1.5.1, S:A475S, T2950A, A28052G, C29541T, England/Belgium, from sars-cov-2-variants/lineage-proposals#954	-
+JN.6	United Kingdom 48.0%, Lithuania 9.0%, United States of America 8.0%, Denmark 7.0%, Finland 5.0%	2023-09-12	36	705	Alias of B.1.1.529.2.86.1.6, S:V193L	-
+JN.7	Denmark 68.0%, Slovakia 14.0%, Germany 7.0%, Austria 2.0%, Japan 2.0%	2023-08-14	22	163	Alias of B.1.1.529.2.86.1.7, S:G594S, Denmark, from sars-cov-2-variants/lineage-proposals#856	-
+JN.8	Sweden 57.0%, Japan 38.0%, Denmark 2.0%, Luxembourg 1.0%, Germany 1.0%	2023-08-13	26	138	Alias of B.1.1.529.2.86.1.8, S:T299I, Sweden/Denmark	-
+JN.9	Netherlands 40.0%, United Kingdom 12.0%, Denmark 11.0%, Greece 6.0%, Japan 6.0%	2023-08-21	33	329	Alias of B.1.1.529.2.86.1.9, S:M1229I, Netherlands	-
+JN.10	Spain 33.0%, United Kingdom 14.0%, Poland 7.0%, Italy 7.0%, United States of America 7.0%	2023-09-05	25	341	Alias of B.1.1.529.2.86.1.10, S:A475V, on T3565C branch with JN.1, Spain/France, from sars-cov-2-variants/lineage-proposals#954	-
+JN.11	Japan 27.0%, Denmark 21.0%, United States of America 13.0%, South_Korea 9.0%, Singapore 6.0%	2023-04-12	81	326	Alias of B.1.1.529.2.86.1.11, S:V1104L, Asia, from sars-cov-2-variants/lineage-proposals#1303	-
+JN.12	Poland 39.0%, Germany 19.0%, Sweden 13.0%, Netherlands 10.0%, Lithuania 3.0%	2023-11-09	15	31	Alias of B.1.1.529.2.86.1.12, S:F456V, ORF1a:A498G, from sars-cov-2-variants/lineage-proposals#1102	-
+JN.13	United States of America 36.0%, Canada 20.0%, Australia 13.0%, South_Korea 7.0%, New_Zealand 7.0%	2023-10-13	56	61	Alias of B.1.1.529.2.86.1.13, A14397G	-
+JN.13.1	United States of America 35.0%, Malaysia 28.0%, Japan 15.0%, United Kingdom 9.0%, Canada 6.0%	2023-10-28	43	54	Alias of B.1.1.529.2.86.1.13.1, S:A475V, USA/Malaysia, from sars-cov-2-variants/lineage-proposals#1386	-
+BA.2.86.2	South_Africa 35.0%, United Kingdom 25.0%, Mauritius 9.0%, Australia 7.0%, United States of America 6.0%	2023-07-24	26	375	Alias of B.1.1.529.2.86.2, ORF7a:E22D, South Africa/Botswana，from sars-cov-2-variants/lineage-proposals/issues/756	-
+BA.2.86.3	Japan 28.0%, United Kingdom 19.0%, Australia 11.0%, South_Africa 9.0%, Denmark 5.0%	2023-08-10	11	358	Alias of B.1.1.529.2.86.3, C222T, C1960T, T12775C, South Africa	-
+JQ.1	Denmark 48.0%, United States of America 13.0%, France 12.0%, Sweden 7.0%, United Kingdom 6.0%	2023-08-17	17	327	Alias of B.1.1.529.2.86.3.1, S:T95I, Denmark/France/South Africa, from sars-cov-2-variants/lineage-proposals#906	-
+JQ.2	South_Africa 55.0%, Canada 28.0%, United Kingdom 8.0%, United States of America 5.0%, Netherlands 2.0%	2023-09-28	5	40	Alias of B.1.1.529.2.86.3.2, S:R346T, G2944A, South Africa, from #2505	-
+BA.2.86.4	United Kingdom 45.0%, Japan 14.0%, Luxembourg 7.0%, United States of America 7.0%, Thailand 7.0%	2023-09-14	17	29	Alias of B.1.1.529.2.86.4, S:A222V, ORF1a:V3892A, from sars-cov-2-variants/lineage-proposals#1032	-
+BA.2.86.5	United Kingdom 52.0%, Finland 16.0%, France 10.0%, Netherlands 9.0%, Lithuania 5.0%	2023-10-02	8	58	Alias of B.1.1.529.2.86.5, S:I197V, C5575T, T6085C, T23278C	-
+BA.4.4	United States of America 60.0%, United Kingdom 8.0%, Costa_Rica 7.0%, Mexico 4.0%, Germany 3.0%	2020-07-20	1030	7755	Alias of B.1.1.529.4.4, USA lineage	-
+BA.4.6	United States of America 60.0%, Canada 7.0%, United Kingdom 6.0%, France 3.0%, Denmark 3.0%	2020-02-02	1179	53143	Alias of B.1.1.529.4.6, mainly found in USA, England and Denmark, from #741	-
+BA.5.1	United States of America 18.0%, Germany 11.0%, France 10.0%, United Kingdom 10.0%, Denmark 7.0%	2020-03-14	23500	229086	Alias of B.1.1.529.5.1, Portugal lineage	-
+BA.5.1.17	France 52.0%, Germany 10.0%, United States of America 5.0%, Denmark 4.0%, Belgium 4.0%	2021-11-15	801	1961	Alias of B.1.1.529.5.1.17, France lineage	-
+DE.2	United States of America 21.0%, Germany 14.0%, United Kingdom 11.0%, Netherlands 7.0%, Canada 6.0%	2022-09-16	44	228	Alias of B.1.1.529.5.1.23.2, S:R346T, S:G181V, T4579A	-
+BA.5.1.30	United States of America 34.0%, Germany 7.0%, United Kingdom 7.0%, France 6.0%, Canada 6.0%	2021-08-26	999	17821	Alias of B.1.1.529.5.1.30, ORF6:D6G	-
+BA.5.2	Japan 17.0%, United States of America 17.0%, Germany 7.0%, United Kingdom 6.0%, Russia 5.0%	2020-07-02	10665	277809	Alias of B.1.1.529.5.2, mainly found in South Africa, England and USA, from #551	-
+BA.5.2.1	United States of America 38.0%, Japan 12.0%, Germany 5.0%, Canada 5.0%, United Kingdom 5.0%	2020-07-06	14516	290099	Alias of B.1.1.529.5.2.1, mainly found in South Africa, England and USA, from #657	-
+BF.5.1	Japan 94.0%, Israel 2.0%, France 1.0%, United Kingdom 0.0%, South_Korea 0.0%	2022-06-26	206	1234	Alias of B.1.1.529.5.2.1.5.1 found mainly in Japan and Israel, from #1475	-
+BF.7.14.1	China 92.0%, Japan 3.0%, South_Korea 2.0%, United States of America 1.0%, Singapore 1.0%	2022-11-04	86	785	Alias of B.1.1.529.5.2.1.7.14.1 found mainly in China and Japan, contains S:V83F branch, from #1580	-
+BF.11.3	Canada 29.0%, Austria 24.0%, Germany 16.0%, United States of America 9.0%, France 4.0%	2022-07-25	78	639	Alias of B.1.1.529.5.2.1.11.3, ORF1a:L122F	-
+BF.14	Austria 18.0%, Germany 17.0%, United States of America 13.0%, Denmark 7.0%, Czech_Republic 6.0%	2022-01-16	2516	6720	Alias of B.1.1.529.5.2.1.14, mainly found in Austria, from #843	-
+BA.5.2.6	Japan 29.0%, United States of America 21.0%, Germany 8.0%, United Kingdom 5.0%, Indonesia 4.0%	2022-01-02	4021	16497	Alias of B.1.1.529.5.2.6, global lineage, S:R346T, from #870	-
+BA.5.2.12	Japan 96.0%, United States of America 1.0%, Germany 1.0%, Thailand 0.0%, United Kingdom 0.0%	2022-01-06	700	6196	Alias of B.1.1.529.5.2.12, Japan lineage	-
+BA.5.2.33	United States of America 21.0%, Australia 13.0%, Japan 11.0%, United Kingdom 10.0%, Russia 8.0%	2020-07-22	599	1709	Alias of B.1.1.529.5.2.33, UK lineage, defined by ORF8:P93S	-
+BA.5.2.48	China 92.0%, Japan 2.0%, South_Korea 1.0%, Singapore 1.0%, United States of America 1.0%	2022-09-29	1327	2960	Alias of B.1.1.529.5.2.48, China, C2710T, C8626T, T17208C, from #1471	-
+BA.5.3.1	Germany 14.0%, United States of America 14.0%, South_Africa 9.0%, United Kingdom 7.0%, Israel 7.0%	2020-07-01	853	7736	Alias of B.1.1.529.5.3.1, mainly found in South Africa, Austria, and England, from #625	-
+BE.1	United States of America 28.0%, United Kingdom 16.0%, Germany 6.0%, Australia 5.0%, Denmark 4.0%	2020-07-01	1837	28667	Alias of B.1.1.529.5.3.1.1, mainly found in South Africa, Austria and England, from #625	-
+BE.1.1	Germany 39.0%, United States of America 11.0%, Denmark 7.0%, United Kingdom 7.0%, Japan 4.0%	2022-01-24	6604	56921	Alias of B.1.1.529.5.3.1.1.1, Germany lineage	-
+BQ.1.1	United States of America 30.0%, France 11.0%, Canada 8.0%, United Kingdom 8.0%, Germany 5.0%	2020-10-15	9868	161044	Alias of B.1.1.529.5.3.1.1.1.1.1.1, found globally, defining mutations ORF1b:N1191S and S:R346T, from #993	-
+BQ.1.1.4	United States of America 39.0%, France 12.0%, Argentina 7.0%, United Kingdom 6.0%, Germany 5.0%	2022-01-18	3036	10365	Alias of B.1.1.529.5.3.1.1.1.1.1.1.4, T29173C	-
+BQ.1.1.18	United States of America 24.0%, France 23.0%, Germany 7.0%, Spain 5.0%, United Kingdom 5.0%	2021-12-28	167	9625	Alias of B.1.1.529.5.3.1.1.1.1.1.1.18, France, C6541T	-
+BQ.1.1.46	France 41.0%, Germany 9.0%, United Kingdom 8.0%, Canada 7.0%, Slovenia 6.0%	2022-01-02	133	809	Alias of B.1.1.529.5.3.1.1.1.1.1.1.46 France, S:F157L	-
+BQ.1.1.57	United States of America 48.0%, United Kingdom 30.0%, Spain 6.0%, Ireland 4.0%, France 3.0%	2022-09-28	400	509	Alias of B.1.1.529.5.3.1.1.1.1.1.1.57 S:S256A	-
+BQ.1.10	United States of America 38.0%, France 6.0%, Germany 5.0%, Canada 5.0%, United Kingdom 5.0%	2022-01-15	73	7246	Alias of B.1.1.529.5.3.1.1.1.1.1.10, international lineage, 27600T	-
+BQ.1.12	United States of America 71.0%, Canada 16.0%, United Kingdom 3.0%, Germany 1.0%, Austria 1.0%	2022-07-25	2519	6756	Alias of B.1.1.529.5.3.1.1.1.1.1.12, international lineage, 28849T	-
+BQ.1.27	United States of America 85.0%, Netherlands 6.0%, Japan 1.0%, United Kingdom 1.0%, Puerto_Rico 1.0%	2022-10-04	67	229	Alias of B.1.1.529.5.3.1.1.1.1.1.27, USA/England, S:V445A	-
+BW.1	Mexico 52.0%, United States of America 30.0%, Canada 6.0%, Costa_Rica 3.0%, Austria 2.0%	2022-01-03	10	833	Alias of B.1.1.529.5.6.2.1, Mexico lineage, defined by S:460K, from #1059	-
+B.1.351	South_Africa 20.0%, Philippines 9.0%, United States of America 9.0%, Sweden 8.0%, Germany 7.0%	2020-02-18	1279	32846	Lineage of concern detected in South Africa	-
+B.1.427	United States of America 98.0%, Mexico 1.0%, Aruba 0.0%, Canada 0.0%, Argentina 0.0%	2020-04-11	863	21899	USA lineage (CA)	-
+B.1.617	India 79.0%, United Kingdom 5.0%, Australia 4.0%, United States of America 3.0%, Canada 2.0%	2020-03-06	1	2968	Predominantly India lineage with several spike mutations, from #38	-
+B.1.617.2	India 22.0%, Turkey 16.0%, United States of America 14.0%, Germany 7.0%, United Kingdom 7.0%	2020-03-27	8273	278713	Predominantly India lineage with several spike mutations, from #49	-
+GL.1	South_Korea 20.0%, Australia 16.0%, United States of America 11.0%, Canary_Islands 10.0%, Portugal 8.0%	2023-03-26	7	356	Alias of XAY.1.1.1.1, Europe, S:D420N, C19441T, from #2032	-
+XBB	India 21.0%, United States of America 20.0%, United Kingdom 6.0%, Indonesia 5.0%, Russia 4.0%	2022-01-10	724	3487	Recombinant lineage of BJ.1 and BM.1.1.1 with breakpoint in S1, found in USA and Singapore, from #1058	-
+XBB.1	United States of America 25.0%, Indonesia 7.0%, Singapore 7.0%, Malaysia 6.0%, United Kingdom 5.0%	2022-01-04	5861	25699	Mostly Bangladesh and Singapore, defined by S:G252V, from #1088	-
+XBB.1.5	United States of America 55.0%, Canada 8.0%, United Kingdom 7.0%, Spain 3.0%, Germany 3.0%	2020-04-04	9307	172061	USA, S:F486P	-
+XBB.1.5.9	United States of America 86.0%, Canada 11.0%, United Kingdom 1.0%, Japan 0.0%, Portugal 0.0%	2022-11-20	138	939	USA, N:S327L	-
+XBB.1.5.10	United States of America 70.0%, Canada 9.0%, Puerto_Rico 6.0%, France 1.0%, Spain 1.0%	2021-01-22	52	2741	S:F456L (T22928C), USA-NC, from #1614	-
+FD.1.1	Canada 72.0%, United States of America 21.0%, United Kingdom 1.0%, Spain 1.0%, Italy 1.0%	2022-12-31	52	2087	Alias of XBB.1.5.15.1.1, S:F456L (T22928C), Canada-QC	-
+FD.5.1	Peru 47.0%, United States of America 28.0%, Chile 7.0%, Ecuador 7.0%, Canada 4.0%	2023-04-25	131	348	Alias of XBB.1.5.15.5.1, S:F456L (T22928C), S:N185D, Peru, from sars-cov-2-variants/lineage-proposals#385	-
+XBB.1.5.16	United States of America 51.0%, United Kingdom 12.0%, Ireland 10.0%, Germany 3.0%, Spain 2.0%	2022-11-24	553	2414	T14766C, USA	-
+XBB.1.5.17	United States of America 70.0%, Canada 8.0%, South_Korea 6.0%, Austria 1.0%, Germany 1.0%	2022-11-21	758	3734	C23635T, USA	-
+XBB.1.5.20	United States of America 35.0%, United Kingdom 18.0%, Canada 12.0%, France 10.0%, Germany 3.0%	2022-03-22	587	3119	C9532T, USA	-
+XBB.1.5.21	United States of America 53.0%, Germany 9.0%, Canada 8.0%, United Kingdom 4.0%, Australia 3.0%	2022-12-02	363	1962	ORF1a:K322R, C22945T, USA	-
+EU.1.1	United States of America 19.0%, Germany 16.0%, Denmark 7.0%, Austria 7.0%, United Kingdom 5.0%	2023-01-30	92	2021	Alias of XBB.1.5.26.1.1, S:I410V, Germany/Netherlands, from #1688	-
+XBB.1.5.27	United States of America 93.0%, Sweden 2.0%, Canada 2.0%, South_Korea 1.0%, New_Zealand 1.0%	2023-01-13	63	359	S:K478R, on T11431C branch, USA	-
+XBB.1.5.28	United States of America 55.0%, Spain 10.0%, Mexico 8.0%, United Kingdom 7.0%, Canada 4.0%	2022-12-26	57	901	S:K478R, on 17124C polytomy, USA	-
+XBB.1.5.37	Spain 17.0%, United States of America 13.0%, Germany 10.0%, Netherlands 8.0%, France 8.0%	2022-03-05	314	3886	S:K1045R, Europe	-
+GG.1	Greece 22.0%, Italy 13.0%, United States of America 12.0%, Croatia 11.0%, Sweden 7.0%	2023-02-08	44	181	Alias of XBB.1.5.38.1 S:478R, Europe, from sars-cov-2-variants/lineage-proposals#48	-
+FT.3.1	United States of America 51.0%, Mexico 33.0%, United Kingdom 15.0%, Canada 1.0%	2023-05-17	19	94	Alias of XBB.1.5.39.3.1, S:K478R, S:D1168H, Canada/USA, from sars-cov-2-variants/lineage-proposals#266	-
+HC.2	Canada 57.0%, United States of America 25.0%, Trinidad_and_Tobago 6.0%, Denmark 3.0%, Netherlands 2.0%	2023-06-11	23	123	Alias of XBB.1.5.44.2, S:F157L, Canada, from #2202	-
+FZ.1.1	United Kingdom 75.0%, Japan 11.0%, Sweden 4.0%, United States of America 2.0%, France 2.0%	2022-05-12	108	212	Alias of XBB.1.5.47.1.1, S:L858I, England/Scotland	-
+XBB.1.5.49	United States of America 68.0%, Mexico 10.0%, Canada 9.0%, United Kingdom 2.0%, Germany 1.0%	2022-03-09	1375	4015	T6886C, USA	-
+XBB.1.5.54	Austria 22.0%, Germany 21.0%, Switzerland 12.0%, Kosovo 11.0%, France 6.0%	2023-01-30	70	136	C14358T,C20016T,C29311T, Central/Eastern Europe	-
+HP.1.1	United States of America 45.0%, Mexico 38.0%, Canada 11.0%, Spain 2.0%, United Kingdom 1.0%	2023-04-29	29	264	Alias of XBB.1.5.55.1.1, S:478R, Mexico, from sars-cov-2-variants/lineage-proposals#277	-
+XBB.1.5.67	United States of America 64.0%, Canada 12.0%, Spain 8.0%, Ukraine 2.0%, United Kingdom 2.0%	2022-11-17	1329	1865	C21691T, USA	-
+HZ.2	United States of America 73.0%, United Kingdom 9.0%, Canada 4.0%, Australia 3.0%, Spain 3.0%	2022-05-17	237	504	Alias of XBB.1.5.68.2, ORF1a:H3580Y, USA	-
+XBB.1.5.70	Brazil 54.0%, United States of America 23.0%, Spain 4.0%, Italy 4.0%, Canada 2.0%	2023-01-18	2	692	S:L455F (G22927T), S:F456L (T22928C), ORF1a:A4068S, Brazil, from #1982	-
+GK.1	Brazil 41.0%, United States of America 18.0%, Spain 7.0%, France 5.0%, Italy 3.0%	2022-12-16	113	1182	Alias of XBB.1.5.70.1, S:S704L, Brazil, from #2025	-
+GK.1.1	Japan 33.0%, United States of America 20.0%, Brazil 20.0%, Canada 8.0%, United Kingdom 3.0%	2023-05-09	6	5578	Alias of XBB.1.5.70.1.1, S:T573I, Brazil	-
+GK.1.1.1	United States of America 40.0%, Chile 26.0%, Canada 9.0%, Argentina 5.0%, Greece 3.0%	2022-10-02	174	1085	Alias of XBB.1.5.70.1.1.1, C28432T	-
+GK.1.2.1	Brazil 58.0%, United States of America 17.0%, Canada 12.0%, Chile 7.0%, Puerto_Rico 1.0%	2023-08-21	12	269	Alias of XBB.1.5.70.1.2.1, S:A475V, ORF1a:D147G, ORF1a:D2592Y, ORF1a:T4175I, ORF1b:N1426K, Brazil/Colombia, from #2314	-
+GK.1.4	United States of America 51.0%, Brazil 40.0%, Sweden 3.0%, Netherlands 1.0%, Italy 1.0%	2023-07-11	5	95	Alias of XBB.1.5.70.1.4, S:478R, S:98F, Brazil, from sars-cov-2-variants/lineage-proposals#504	-
+GK.1.5	Brazil 77.0%, United States of America 11.0%, Canada 3.0%, Greece 3.0%, Sweden 2.0%	2023-06-10	14	119	Alias of XBB.1.5.70.1.5, S:F186L, ORF1a:T1597I, Brazil	-
+GK.1.6	United States of America 42.0%, Spain 13.0%, Colombia 9.0%, France 7.0%, United Kingdom 5.0%	2023-06-26	128	185	Alias of XBB.1.5.70.1.6, ORF3a:V50I, Colombia, from sars-cov-2-variants/lineage-proposals#643	-
+GK.1.6.1	United States of America 64.0%, Canada 4.0%, Greece 3.0%, Colombia 3.0%, Italy 3.0%	2023-08-06	17	217	Alias of XBB.1.5.70.1.6.1, S:A475V, ORF1a:I114V, Colombia, from sars-cov-2-variants/lineage-proposals#643	-
+GK.1.8	Brazil 64.0%, United States of America 14.0%, Canada 10.0%, France 2.0%, Chile 1.0%	2023-07-15	18	845	Alias of XBB.1.5.70.1.8, S:E554K, S:A475V, Brazil, from sars-cov-2-variants/lineage-proposals#643	-
+GK.1.8.1	United States of America 36.0%, Brazil 31.0%, Canada 10.0%, Paraguay 10.0%, Sweden 10.0%	2023-09-13	30	39	Alias of XBB.1.5.70.1.8.1, S:K187I, S:A222P, Brazil/Paraguay, from sars-cov-2-variants/lineage-proposals#1127	-
+GK.1.10	Brazil 45.0%, United States of America 27.0%, Canada 9.0%, Denmark 4.0%, United Kingdom 4.0%	2023-06-15	133	251	Alias of XBB.1.5.70.1.10, Orf1a:I573V, Orf1a:T4129I, Orf9b:T95M, Brazil, from #2375	-
+KN.1	Brazil 100.0%	2023-09-20	23	23	Alias of XBB.1.5.70.1.10.1.1, S:Y200C, Brazil, from #2479	-
+KN.1.1	Brazil 98.0%, United States of America 2.0%	2023-11-22	22	42	Alias of XBB.1.5.70.1.10.1.1.1, S:N450D, Brazil, from #2479	-
+GK.1.11	Brazil 54.0%, United States of America 32.0%, Peru 7.0%, Spain 3.0%, Italy 3.0%	2023-07-03	15	59	Alias of XBB.1.5.70.1.11, S:A475V, ORF1a:P309L, Brazil, from sars-cov-2-variants/lineage-proposals#643	-
+GK.1.11.1	Brazil 75.0%, Canada 14.0%, United States of America 7.0%, Paraguay 2.0%, Netherlands 2.0%	2023-08-07	15	44	Alias of XBB.1.5.70.1.11.1, S:I68V, Brazil	-
+GK.2	United States of America 48.0%, Canada 21.0%, Japan 6.0%, United Kingdom 5.0%, Spain 3.0%	2023-02-21	8	1086	Alias of XBB.1.5.70.2, S:V511I, from sars-cov-2-variants/lineage-proposals#300	-
+GK.2.1	Spain 26.0%, France 20.0%, United States of America 12.0%, United Kingdom 8.0%, Italy 5.0%	2023-04-19	103	1570	Alias of XBB.1.5.70.2.1, ORF1a:L624I, ORF1a:L3641S, ORF1b:S763C	-
+GK.2.4	United States of America 83.0%, Canada 13.0%, Italy 1.0%, Japan 1.0%, Ireland 1.0%	2023-08-30	16	70	Alias of XBB.1.5.70.2.4, S:K356T, USA-NY, from sars-cov-2-variants/lineage-proposals#823	-
+GK.3.1	United States of America 61.0%, Canada 30.0%, New_Zealand 1.0%, Puerto_Rico 1.0%, France 1.0%	2023-07-11	5	678	Alias of XBB.1.5.70.3.1, S:A475V, USA, from sars-cov-2-variants/lineage-proposals#643	-
+GK.8.1	Canada 37.0%, United States of America 34.0%, United Kingdom 12.0%, Brazil 5.0%, France 3.0%	2023-09-06	14	59	Alias of XBB.1.5.70.8.1, S:N185I, S:A475V, from sars-cov-2-variants/lineage-proposals#909	-
+GK.10	Brazil 65.0%, France 20.0%, Belgium 5.0%, United States of America 3.0%, Italy 3.0%	2023-05-18	16	79	Alias of XBB.1.5.70.10, S:E554G, Brazil, from sars-cov-2-variants/lineage-proposals#761	-
+XBB.1.5.71	Spain 75.0%, United Kingdom 6.0%, United States of America 4.0%, France 4.0%, Italy 3.0%	2023-02-01	124	716	S:V511I, Spain	-
+XBB.1.5.72	United States of America 56.0%, Canada 10.0%, Colombia 10.0%, Spain 4.0%, Panama 2.0%	2023-01-13	34	2338	S:F456L (T22928C), ORF1a:G445S, T9823C, T10204C, South America	-
+XBB.1.5.73	United States of America 37.0%, Peru 34.0%, Japan 9.0%, Canada 6.0%, South_Korea 2.0%	2022-12-22	590	1551	T28271C, USA/Peru	-
+GN.1	Peru 51.0%, United States of America 26.0%, Costa_Rica 5.0%, Canada 2.0%, Spain 2.0%	2023-04-07	137	1150	Alias of XBB.1.5.73.1, S:F456L (T22928C), Peru/Costa Rica	-
+GN.1.1	Peru 59.0%, United States of America 24.0%, Canada 11.0%, Chile 1.0%, Spain 1.0%	2023-05-05	25	601	Alias of XBB.1.5.73.1.1, ORF1b:A1643V, Peru	-
+GN.1.2	United States of America 80.0%, Sweden 5.0%, Honduras 5.0%, Mexico 2.0%, Canada 2.0%	2023-06-16	31	44	Alias of XBB.1.5.73.1.2, S:Q321L	-
+GN.1.3	United Kingdom 29.0%, France 24.0%, United States of America 10.0%, Italy 10.0%, Sweden 10.0%	2023-08-30	8	21	Alias of XBB.1.5.73.1.3, S:L455F (G22927T), from sars-cov-2-variants/lineage-proposals#816	-
+GN.1.4	Peru 87.0%, United States of America 9.0%, Costa_Rica 2.0%, Canada 1.0%, Ecuador 1.0%	2023-08-17	87	127	Alias of XBB.1.5.73.1.4, S:G181V, Peru, from #2349	-
+HR.1.1	Canada 60.0%, United States of America 26.0%, Costa_Rica 7.0%, Australia 1.0%, Sweden 1.0%	2023-07-05	288	355	Alias of XBB.1.5.77.1.1, S:K304N, Costa Rica, from #2372	-
+XBB.1.5.82	Sweden 75.0%, Reunion 22.0%, France 3.0%	2023-01-27	53	60	S:K444R, Sweden/Reunion	-
+HY.1	United States of America 65.0%, Mexico 19.0%, Canada 9.0%, United Kingdom 2.0%, Germany 1.0%	2023-03-27	52	703	Alias of XBB.1.5.100.1, S:478R, USA/Mexico, from sars-cov-2-variants/lineage-proposals#453	-
+XBB.1.5.102	Brazil 86.0%, United States of America 6.0%, French_Guiana 2.0%, France 2.0%, Chile 1.0%	2022-12-09	486	665	C6896T, C14085T, C19488T, Brazil-Amazonas	-
+JD.1	Brazil 55.0%, United States of America 15.0%, France 5.0%, Australia 5.0%, Canada 4.0%	2023-05-11	15	505	Alias of XBB.1.5.102.1, S:L455F (G22927T), S:F456L (T22928C), A14634G, T28282C, Brazil, from #2071	-
+JD.1.1	United States of America 25.0%, Spain 10.0%, Brazil 9.0%, Canada 9.0%, United Kingdom 7.0%	2023-01-01	29	9118	Alias of XBB.1.5.102.1.1, S:A475V, Brazil/USA/Spain, from #2174	-
+JD.1.1.1	Brazil 33.0%, United States of America 21.0%, Canada 17.0%, France 4.0%, Spain 3.0%	2023-01-08	15	2693	Alias of XBB.1.5.102.1.1.1, S:Y248H, from sars-cov-2-variants/lineage-proposals#864	-
+JD.1.1.2	Canada 30.0%, Ireland 24.0%, United States of America 16.0%, United Kingdom 12.0%, Sweden 11.0%	2023-07-27	24	146	Alias of XBB.1.5.102.1.1.2, S:E583D, Ireland/UK, from sars-cov-2-variants/lineage-proposals#754	-
+JD.1.1.3	France 39.0%, United States of America 18.0%, Canada 7.0%, Japan 5.0%, Italy 4.0%	2023-08-14	8	593	Alias of XBB.1.5.102.1.1.3, S:T470N, ORF1a:V1584M, France/Denmark, from sars-cov-2-variants/lineage-proposals#896	-
+JD.1.1.4	Australia 69.0%, Ireland 13.0%, Japan 5.0%, United Kingdom 3.0%, South_Korea 2.0%	2023-09-22	49	126	Alias of XBB.1.5.102.1.1.4, S:E554G, Australia, from #2380	-
+JD.1.1.5	United States of America 74.0%, Canada 20.0%, Japan 3.0%, New_Zealand 1.0%, France 1.0%	2023-09-18	45	176	Alias of XBB.1.5.102.1.1.5, S:Q677R, USA/Canada, from sars-cov-2-variants/lineage-proposals#1079	-
+JD.1.1.6	United States of America 48.0%, Brazil 30.0%, Canada 12.0%, Germany 3.0%, Denmark 2.0%	2023-09-27	17	104	Alias of XBB.1.5.102.1.1.6, S:M153V, Brazil	-
+JD.1.1.7	United States of America 21.0%, France 16.0%, Belgium 10.0%, Canada 8.0%, Spain 6.0%	2022-10-30	480	1108	Alias of XBB.1.5.102.1.1.7, ORF1b:R2257S	-
+JD.1.1.8	Brazil 50.0%, United States of America 18.0%, Canada 9.0%, United Kingdom 5.0%, France 2.0%	2023-07-22	264	1407	Alias of XBB.1.5.102.1.1.8, ORF1a:N1094K, without C19185T, Brazil	-
+KK.1	United States of America 77.0%, Brazil 7.0%, Canada 4.0%, Greece 2.0%, United Kingdom 2.0%	2023-08-24	140	255	Alias of XBB.1.5.102.1.1.8.1, S:D1153H, Brazil/USA, from sars-cov-2-variants/lineage-proposals#1210	-
+KK.2	Brazil 95.0%, United States of America 5.0%	2023-10-05	34	55	Alias of XBB.1.5.102.1.1.8.2, S:N481K, Brazil, from sars-cov-2-variants/lineage-proposals#1277	-
+JD.1.2.1	Canada 34.0%, United States of America 26.0%, Brazil 22.0%, Ecuador 8.0%, Netherlands 3.0%	2023-08-08	57	103	Alias of XBB.1.5.102.1.2.1, S:E554Q, from sars-cov-2-variants/lineage-proposals#870	-
+JD.1.2.2	Brazil 78.0%, United States of America 12.0%, Netherlands 4.0%, Spain 2.0%, Canada 2.0%	2023-06-02	39	51	Alias of XBB.1.5.102.1.2.2, S:A1078T, Brazil	-
+XBB.1.5.103	United States of America 49.0%, Argentina 31.0%, Canada 10.0%, Spain 1.0%, Belgium 1.0%	2023-04-18	60	261	S:F456L (T22928C), S:180/184del, S:N185D, ORF1a:T1437I, ORF7b:C41W, T21357C, Argentina, from #2192	-
+KA.1	Argentina 20.0%, United States of America 19.0%, Spain 15.0%, Paraguay 10.0%, Brazil 5.0%	2023-06-06	64	177	Alias of XBB.1.5.103.1, S:E554K, Argentina/France/Spain, from sars-cov-2-variants/lineage-proposals#822	-
+XBB.1.5.106	Guatemala 57.0%, United States of America 40.0%, Canada 2.0%, Costa_Rica 1.0%	2023-03-20	124	134	S:A623V, ORF1a:V28I, ORF1a:R3542H, Guatemala, from #2270	-
+XBB.1.5.109	United States of America 26.0%, United Kingdom 10.0%, Canada 9.0%, South_Korea 9.0%, Venezuela 7.0%	2023-05-11	147	149	S:F456L (T22928C), ORF1a:T654A, from #2262	-
+XBB.1.5.110	United States of America 64.0%, Mexico 12.0%, Canada 9.0%, Ecuador 5.0%, Sweden 3.0%	2022-12-23	640	634	ORF1aT4129I, Mexico	-
+XBB.1.9	United States of America 18.0%, United Kingdom 12.0%, Indonesia 9.0%, Germany 7.0%, Russia 7.0%	2022-09-29	422	3490	ORF1a:G1819S, ORF1a:T4175I, on ORF9b:I5T branch	-
+XBB.1.9.1	United States of America 12.0%, United Kingdom 9.0%, Russia 6.0%, France 6.0%, Japan 5.0%	2022-01-16	264	14444	S:F486P (after C11956T), Indonesia/Singapore/Malaysia/England	-
+FL.1.5.1	United States of America 62.0%, Canada 10.0%, United Kingdom 5.0%, France 3.0%, Spain 2.0%	2022-10-12	32	14541	Alias of XBB.1.9.1.1.5.1, S:478R, from #2036	-
+HN.1	United States of America 74.0%, Canada 9.0%, Spain 4.0%, Sweden 2.0%, France 2.0%	2023-02-20	15	839	Alias of XBB.1.9.1.1.5.1.1, S:A67S, Dominican Republic, from sars-cov-2-variants/lineage-proposals#408	-
+HN.2	United States of America 42.0%, Canada 42.0%, Ukraine 3.0%, Ireland 3.0%, United Kingdom 2.0%	2023-02-17	183	488	Alias of XBB.1.9.1.1.5.1.2, ORF1b:P223S, from sars-cov-2-variants/lineage-proposals#676	-
+HN.3.1	United States of America 78.0%, Canada 14.0%, New_Zealand 3.0%, Austria 1.0%, Netherlands 1.0%	2023-07-28	54	120	Alias of XBB.1.9.1.1.5.1.3.1, S:D253G, from sars-cov-2-variants/lineage-proposals#383	-
+HN.4	United States of America 31.0%, Russia 14.0%, Canada 9.0%, United Kingdom 8.0%, Australia 4.0%	2023-05-30	316	966	Alias of XBB.1.9.1.1.5.1.4, ORF1a:T403I	-
+HN.4.1.1	New_Zealand 80.0%, Australia 10.0%, Canada 3.0%, Japan 3.0%, United States of America 3.0%	2023-10-17	17	61	Alias of XBB.1.9.1.1.5.1.4.1.1, S:I68T, S:L452R, S:E554K, New Zealand/Canada, from sars-cov-2-variants/lineage-proposals#1054	-
+HN.5	United States of America 20.0%, Canada 15.0%, Turkey 6.0%, Russia 6.0%, Australia 5.0%	2023-01-12	60	827	Alias of XBB.1.9.1.1.5.1.5, S:E554K, from sars-cov-2-variants/lineage-proposals#936	-
+HN.6	Brazil 32.0%, United States of America 21.0%, France 18.0%, United Kingdom 6.0%, Canada 4.0%	2023-05-26	373	888	Alias of XBB.1.9.1.1.5.1.6, ORF1a:D1933A	-
+HN.7	United States of America 28.0%, Spain 16.0%, Ukraine 15.0%, Sweden 15.0%, France 11.0%	2023-06-16	157	198	Alias of XBB.1.9.1.1.5.1.7, C6388T, T20028C, C20115T, Europe	-
+HN.8	Haiti 40.0%, United States of America 37.0%, Mexico 14.0%, Canada 6.0%, Brazil 3.0%	2023-09-11	32	65	Alias of XBB.1.9.1.1.5.1.8, S:ins248KRD, ORF1a:E2042D, not requiring S:494P, Haiti/USA, from #2438	-
+FL.1.5.2	United States of America 39.0%, Sweden 17.0%, Ukraine 6.0%, Australia 6.0%, France 4.0%	2023-06-26	85	197	Alias of XBB.1.9.1.1.5.2, S:N481K, S:H681R, England/France/Denmark, from sars-cov-2-variants/lineage-proposals#614	-
+KC.1	Canada 28.0%, United States of America 17.0%, United Kingdom 14.0%, France 12.0%, Spain 5.0%	2023-01-13	707	1452	Alias of XBB.1.9.1.1.5.2.1, S:S490P, ORF1a:T4129I, ORF1a:S723F, Europe, from sars-cov-2-variants/lineage-proposals#614	-
+KC.1.1	United Kingdom 37.0%, United States of America 22.0%, France 8.0%, Switzerland 7.0%, Italy 7.0%	2023-09-08	49	101	Alias of XBB.1.9.1.1.5.2.1.1, S:V1228L, England	-
+FL.1.8	Russia 57.0%, United Kingdom 9.0%, Netherlands 7.0%, United States of America 6.0%, Israel 5.0%	2023-06-05	63	99	Alias of XBB.1.9.1.1.8, S:K478R, S:P521T, M:I8V, Russia, from sars-cov-2-variants/lineage-proposals#1058	-
+FL.3.1	United Kingdom 47.0%, United States of America 9.0%, Denmark 8.0%, France 5.0%, Canada 3.0%	2023-01-15	751	1313	Alias of XBB.1.9.1.3.1, ORF1a:T2264I, England	-
+FL.3.2	Spain 41.0%, United Kingdom 32.0%, United States of America 5.0%, France 4.0%, Italy 2.0%	2023-01-03	423	986	Alias of XBB.1.9.1.3.2, T8830C, England/Spain	-
+FL.4	China 16.0%, United States of America 15.0%, Japan 11.0%, Spain 6.0%, France 6.0%	2022-12-27	311	7381	Alias of XBB.1.9.1.4, ORF1b:V1092F	-
+FL.13	France 15.0%, United States of America 9.0%, Germany 9.0%, Canada 8.0%, United Kingdom 6.0%	2022-12-25	783	1363	Alias of XBB.1.9.1.13, G4354A	-
+FL.13.4.1	Sweden 31.0%, Qatar 31.0%, United States of America 11.0%, Canada 4.0%, Russia 4.0%	2023-08-10	12	266	Alias of XBB.1.9.1.13.4.1, S:Q14H, S:A484K, from sars-cov-2-variants/lineage-proposals#638	-
+FL.13.5	Chile 44.0%, United States of America 21.0%, Argentina 12.0%, Canada 7.0%, Spain 6.0%	2023-07-11	36	72	Alias of XBB.1.9.1.13.5, S:F456L (T22928C), ORF1a:T1000I, ORF1a:L2527M, Chile/Argentina, from sars-cov-2-variants/lineage-proposals#692	-
+FL.15	United States of America 22.0%, South_Korea 17.0%, Canada 12.0%, Japan 8.0%, France 6.0%	2023-03-09	53	1866	Alias of XBB.1.9.1.15, S:F456L (T22928C), ORF1a:E637K, Vietnam/China/South Korea, from #1994	-
+FL.15.1	Canada 42.0%, Japan 22.0%, France 8.0%, Germany 5.0%, Italy 5.0%	2023-06-30	8	40	Alias of XBB.1.9.1.15.1, S:L455F (G22927T), ORF1a:T2007I, on ORF1a:S2185N branch, from #2293	-
+FL.15.1.1	Italy 14.0%, United States of America 14.0%, Sweden 9.0%, United Kingdom 6.0%, France 5.0%	2023-08-10	7	1321	Alias of XBB.1.9.1.15.1.1, S:A475V, Canada/Romania/Belgium, from sars-cov-2-variants/lineage-proposals#646	-
+KF.1	Canada 56.0%, Australia 24.0%, United States of America 15.0%, Malaysia 1.0%, United Kingdom 1.0%	2023-09-07	46	91	Alias of XBB.1.9.1.15.1.1.1, S:P251H, Australia/Canada, from sars-cov-2-variants/lineage-proposals#890	-
+KF.2	Australia 91.0%, New_Zealand 7.0%, United Kingdom 2.0%	2023-10-01	20	44	Alias of XBB.1.9.1.15.1.1.2, S:E183D, England/Australia/New Zealand, from sars-cov-2-variants/lineage-proposals#1111	-
+FL.16	China 58.0%, United States of America 15.0%, South_Korea 8.0%, Japan 5.0%, Canada 3.0%	2023-04-25	154	687	Alias of XBB.1.9.1.16, S:D215V, C3511T, China, from #2001	-
+FL.20	Spain 28.0%, Canada 19.0%, United States of America 15.0%, France 8.0%, New_Zealand 4.0%	2023-04-29	24	1044	Alias of XBB.1.9.1.20, S:F456L (T22928C), S:Q52H, Spain, from #2072	-
+FL.20.1	United Kingdom 36.0%, United States of America 9.0%, Slovenia 8.0%, Japan 6.0%, France 5.0%	2023-05-17	14	387	Alias of XBB.1.9.1.20.1, S:L455W, Northern Ireland/England, from #2145	-
+FL.20.2	United States of America 33.0%, Sweden 21.0%, Canada 12.0%, France 5.0%, Italy 4.0%	2023-04-10	44	494	Alias of XBB.1.9.1.20.2, S:478R, from sars-cov-2-variants/lineage-proposals#571	-
+FL.22	Japan 23.0%, United States of America 19.0%, Australia 10.0%, Philippines 9.0%, China 8.0%	2023-01-26	308	500	Alias of XBB.1.9.1.22, ORF1b:I1416V, T24184C	-
+FL.24.1	Russia 63.0%, Poland 5.0%, Canada 5.0%, United States of America 5.0%, United Kingdom 2.0%	2023-05-08	449	771	Alias of XBB.1.9.1.24.1, S:478R, T9139C, C24919T, Russia, from sars-cov-2-variants/lineage-proposals#789	-
+FL.33	Ukraine 13.0%, Romania 12.0%, United States of America 9.0%, Ireland 8.0%, Germany 8.0%	2023-02-06	310	329	Alias of XBB.1.9.1.33, ORF1b:A1377V	-
+FL.36	United States of America 25.0%, Australia 13.0%, United Kingdom 9.0%, Sweden 9.0%, Belgium 9.0%	2023-08-21	12	128	Alias of XBB.1.9.1.36, S:76I, S:190S, S:356T, S:572I, S:899S, S:1070T, England/US/Denmark, sars-cov-2-variants/lineage-proposals#805	-
+XBB.1.9.2	United States of America 13.0%, South_Korea 11.0%, United Kingdom 10.0%, Spain 7.0%, France 7.0%	2022-11-24	36	8159	S:F486P (after A27507C, A16878T), Indonesia/Singapore, from #1602	-
+EG.2	Indonesia 38.0%, Japan 14.0%, United States of America 10.0%, China 7.0%, Australia 5.0%	2023-01-08	28	2630	Alias of XBB.1.9.2.2, S:478R, Indonesia	-
+EG.2.2	Japan 92.0%, Indonesia 2.0%, China 1.0%, United States of America 1.0%, Singapore 1.0%	2023-03-31	46	254	Alias of XBB.1.9.2.2.2, S:K304N, Indonesia/Japan, from sars-cov-2-variants/lineage-proposals#517	-
+EG.5	United States of America 33.0%, South_Korea 25.0%, Greece 10.0%, China 8.0%, Spain 5.0%	2023-02-17	5	732	Alias of XBB.1.9.2.5, S:F456L (T22930A), ORF1a:A690V, ORF1a:A3143V, Indonesia, from #1918	-
+EG.5.1	United States of America 25.0%, Japan 23.0%, South_Korea 10.0%, Canada 8.0%, United Kingdom 4.0%	2023-01-31	21	15374	Alias of XBB.1.9.2.5.1, S:Q52H	-
+EG.5.1.1	United States of America 18.0%, China 18.0%, Japan 11.0%, South_Korea 11.0%, Canada 9.0%	2020-12-22	67	34840	Alias of XBB.1.9.2.5.1.1, China, from #2020	-
+HK.1	China 47.0%, United States of America 12.0%, Japan 8.0%, Canada 6.0%, South_Korea 4.0%	2023-05-13	32	623	Alias of XBB.1.9.2.5.1.1.1, S:G257V, China, from sars-cov-2-variants/lineage-proposals#359	-
+HK.1.2	New_Zealand 59.0%, China 12.0%, Australia 9.0%, Japan 7.0%, United States of America 6.0%	2023-07-04	51	826	Alias of XBB.1.9.2.5.1.1.1.2, S:L455F (G22927C), S:T307I, China/New Zealand , from sars-cov-2-variants/lineage-proposals#631	-
+HK.2	China 43.0%, South_Korea 8.0%, France 7.0%, Japan 7.0%, Denmark 7.0%	2023-05-29	13	318	Alias of XBB.1.9.2.5.1.1.2, S:Q14H, China, from sars-cov-2-variants/lineage-proposals#432	-
+HK.2.1	Singapore 39.0%, South_Korea 26.0%, China 10.0%, Japan 8.0%, United States of America 3.0%	2023-08-07	58	637	Alias of XBB.1.9.2.5.1.1.2.1, S:L455F (G22927T), Singapore, from sars-cov-2-variants/lineage-proposals#537	-
+HK.3	South_Korea 25.0%, China 13.0%, United States of America 12.0%, Canada 8.0%, Japan 8.0%	2022-12-12	65	20054	Alias of XBB.1.9.2.5.1.1.3, S:L455F (G22927T), China, from sars-cov-2-variants/lineage-proposals#414	-
+HK.3.1	China 23.0%, United States of America 12.0%, Japan 8.0%, South_Korea 8.0%, New_Zealand 7.0%	2023-07-31	29	1932	Alias of XBB.1.9.2.5.1.1.3.1, S:F157L, China, from #2193	-
+HK.3.2	China 25.0%, Japan 15.0%, South_Korea 13.0%, United States of America 10.0%, Australia 5.0%	2023-01-01	920	4868	Alias of XBB.1.9.2.5.1.1.3.2, S:Q14K, C853T, China，from sars-cov-2-variants/lineage-proposals#730	-
+HK.3.2.1	Canada 69.0%, United States of America 12.0%, Italy 3.0%, China 2.0%, Spain 2.0%	2023-08-02	86	416	Alias of XBB.1.9.2.5.1.1.3.2.1, S:Q677H, Canada, from #2362	-
+HK.3.2.2	United States of America 35.0%, Australia 13.0%, Japan 9.0%, Greece 9.0%, Sweden 6.0%	2023-09-11	32	292	Alias of XBB.1.9.2.5.1.1.3.2.2, ORF8:M1L, S:N185D, China/Australia, from sars-cov-2-variants/lineage-proposals#867	-
+HK.3.3	China 24.0%, Singapore 14.0%, United States of America 10.0%, Canada 10.0%, South_Korea 10.0%	2022-10-10	18	558	Alias of XBB.1.9.2.5.1.1.3.3, S:S256L, N:P364L, China/Singapore, from sars-cov-2-variants/lineage-proposals#744	-
+HK.3.4	Canada 14.0%, Denmark 14.0%, United States of America 13.0%, Sweden 12.0%, United Kingdom 10.0%	2023-07-31	134	599	Alias of XBB.1.9.2.5.1.1.3.4, S:P809S, from sars-cov-2-variants/lineage-proposals#764	-
+HK.3.5	Singapore 61.0%, Australia 8.0%, Japan 6.0%, Sweden 5.0%, United States of America 3.0%	2023-09-04	85	526	Alias of XBB.1.9.2.5.1.1.3.5, S:P174S, Singapore, from sars-cov-2-variants/lineage-proposals#865	-
+HK.3.6	China 32.0%, Australia 26.0%, South_Korea 17.0%, United States of America 5.0%, Singapore 4.0%	2023-08-20	51	190	Alias of XBB.1.9.2.5.1.1.3.6, S:G181R, China, from sars-cov-2-variants/lineage-proposals#809	-
+HK.3.7	Singapore 25.0%, China 24.0%, Canada 20.0%, United States of America 12.0%, South_Korea 11.0%	2023-08-14	31	110	Alias of XBB.1.9.2.5.1.1.3.7, S:V171I, Singapore/China, from sars-cov-2-variants/lineage-proposals#793	-
+HK.3.8	Sweden 70.0%, France 6.0%, Italy 6.0%, Spain 5.0%, China 4.0%	2023-08-28	27	108	Alias of XBB.1.9.2.5.1.1.3.8, S:E554K, China/Sweden, from #2377	-
+HK.3.9	Australia 70.0%, United States of America 11.0%, Singapore 6.0%, Italy 5.0%, New_Zealand 4.0%	2023-09-08	59	114	Alias of XBB.1.9.2.5.1.1.3.9, S:T732I, Australia, from sars-cov-2-variants/lineage-proposals#1092	-
+HK.3.10	United States of America 24.0%, Australia 19.0%, Singapore 9.0%, New_Zealand 8.0%, Japan 8.0%	2023-08-21	108	248	Alias of XBB.1.9.2.5.1.1.3.10, S:A1078S, from sars-cov-2-variants/lineage-proposals#1055	-
+HK.3.11	China 59.0%, South_Korea 22.0%, United States of America 14.0%, Canada 1.0%, Netherlands 1.0%	2023-08-04	24	85	Lineage reassigned. Withdrawn, as part of 14988C sublineage of EG.5.1.1, not HK.3: Alias of XBB.1.9.2.5.1.1.3.11, S:A475V, Finland/Denmark/Sweden	-
+HK.3.12	United States of America 75.0%, Canada 17.0%, France 2.0%, Netherlands 2.0%, Denmark 1.0%	2023-08-18	52	175	Alias of XBB.1.9.2.5.1.1.3.12, S:A688T, USA, from sars-cov-2-variants/lineage-proposals#886	-
+HK.3.13	China 55.0%, United States of America 15.0%, South_Korea 11.0%, Japan 7.0%, Australia 3.0%	2023-09-02	95	338	Alias of XBB.1.9.2.5.1.1.3.13, S:Q14R, China, from sars-cov-2-variants/lineage-proposals#601	-
+HK.3.14	United States of America 33.0%, Australia 17.0%, Japan 15.0%, South_Korea 13.0%, United Kingdom 6.0%	2023-02-01	49	247	Alias of XBB.1.9.2.5.1.1.3.14, S:A475V, ORF1b:2378T, England/Australia, from sars-cov-2-variants/lineage-proposals#978	-
+HK.6	United Kingdom 23.0%, United States of America 16.0%, Spain 13.0%, Canada 7.0%, Greece 6.0%	2023-06-26	76	2467	Alias of XBB.1.9.2.5.1.1.6, S:D253G, ORF1a:A1923T, on T14988C branch UK/USA, from #2184	-
+HK.7	United States of America 60.0%, Canada 13.0%, China 5.0%, United Kingdom 4.0%, Australia 2.0%	2023-05-05	37	301	Alias of XBB.1.9.2.5.1.1.7, S:N148T, China	-
+HK.8	China 40.0%, Japan 8.0%, South_Korea 8.0%, United States of America 7.0%, Singapore 5.0%	2023-06-27	25	552	Alias of XBB.1.9.2.5.1.1.8, S:L455F (G22927T), on C11779T branch, China, from #2230	-
+HK.8.1	China 45.0%, United States of America 36.0%, Canada 5.0%, South_Korea 3.0%, Japan 2.0%	2023-07-17	96	290	Alias of XBB.1.9.2.5.1.1.8.1, S:D1153Y, China, from #2356	-
+HK.11	United States of America 26.0%, United Kingdom 25.0%, Canada 14.0%, Italy 9.0%, South_Korea 6.0%	2023-06-05	73	464	Alias of XBB.1.9.2.5.1.1.11, S:G184S, China/England/SouthKorea, from #2255	-
+HK.11.1	United States of America 16.0%, France 15.0%, Poland 12.0%, South_Korea 11.0%, Italy 8.0%	2023-08-21	55	397	Alias of XBB.1.9.2.5.1.1.11.1, S:L455F (G22927T), from sars-cov-2-variants/lineage-proposals#537	-
+HK.12	Singapore 38.0%, South_Korea 13.0%, China 13.0%, Canada 9.0%, Japan 6.0%	2023-05-16	15	281	Alias of XBB.1.9.2.5.1.1.12, S:K356T, China/Singapore	-
+HK.13	China 16.0%, United States of America 15.0%, Canada 15.0%, South_Korea 12.0%, United Kingdom 6.0%	2023-07-08	128	1412	Alias of XBB.1.9.2.5.1.1.13, S:L455F (G22927C), China, from sars-cov-2-variants/lineage-proposals#537	-
+HK.13.1	Singapore 25.0%, China 14.0%, United States of America 9.0%, Japan 6.0%, Lithuania 4.0%	2023-07-10	70	792	Alias of XBB.1.9.2.5.1.1.13.1, C13378T, A24604G	-
+HK.13.2	China 24.0%, South_Korea 23.0%, United Kingdom 14.0%, Canada 9.0%, Japan 6.0%	2023-01-03	29	206	Alias of XBB.1.9.2.5.1.1.13.2, S:F797L, S:D1153H, from sars-cov-2-variants/lineage-proposals#943	-
+HK.13.2.1	Greece 60.0%, United States of America 20.0%, Czech_Republic 3.0%, Germany 2.0%, Netherlands 2.0%	2023-09-18	111	123	Alias of XBB.1.9.2.5.1.1.13.2.1, S:T250I, N:T379I, Greece, from #2480	-
+HK.19	China 26.0%, Canada 16.0%, United States of America 15.0%, Sweden 12.0%, South_Korea 6.0%	2023-06-18	76	428	Alias of XBB.1.9.2.5.1.1.19, S:F157L	-
+HK.20.1	United States of America 40.0%, Japan 13.0%, Canada 11.0%, South_Korea 5.0%, United Kingdom 5.0%	2023-08-13	62	867	Alias of XBB.1.9.2.5.1.1.20.1, S:G482R, from sars-cov-2-variants/lineage-proposals#537	-
+HK.22	Australia 79.0%, New_Zealand 6.0%, United States of America 6.0%, Japan 3.0%, China 2.0%	2023-09-17	14	249	Alias of XBB.1.9.2.5.1.1.22, S:L452Q, S:L455F (G22927T), Australia/China, from #2357	-
+HK.23	South_Korea 26.0%, China 16.0%, United Kingdom 12.0%, Japan 10.0%, Singapore 6.0%	2023-06-12	64	164	Alias of XBB.1.9.2.5.1.1.23, ORF8:A65V	-
+HK.23.1	Singapore 44.0%, China 16.0%, Japan 12.0%, South_Korea 10.0%, United States of America 4.0%	2023-08-05	175	251	Alias of XBB.1.9.2.5.1.1.23.1, S:L455F (G22927T), ORF1a:T2906N, from sars-cov-2-variants/lineage-proposals#537	-
+HK.23.1.1	Canada 68.0%, China 10.0%, Japan 8.0%, Germany 5.0%, Australia 4.0%	2023-08-29	70	91	Alias of XBB.1.9.2.5.1.1.23.1.1, S:A348S, China/Canada, from sars-cov-2-variants/lineage-proposals#537	-
+HK.24	China 31.0%, Japan 23.0%, United States of America 23.0%, Switzerland 15.0%, France 8.0%	2023-07-26	7	13	Alias of XBB.1.9.2.5.1.1.24, S:E654K	-
+HK.24.1	Australia 33.0%, United States of America 15.0%, United Kingdom 12.0%, South_Korea 7.0%, Canada 7.0%	2023-08-26	43	227	Alias of XBB.1.9.2.5.1.1.24.1, S:L455F (G22927T), Australia, from sars-cov-2-variants/lineage-proposals#537	-
+HK.26	United States of America 22.0%, Canada 17.0%, Finland 10.0%, France 8.0%, Sweden 4.0%	2023-08-02	621	1562	Alias of XBB.1.9.2.5.1.1.26, S:L455F (G22927T), ORF3a:L52I, on 14988C branch, Finland, from sars-cov-2-variants/lineage-proposals#763	-
+HK.26.1	Finland 55.0%, Sweden 23.0%, Denmark 13.0%, United States of America 2.0%, United Kingdom 2.0%	2023-08-12	42	128	Alias of XBB.1.9.2.5.1.1.26.1, S:A475V, Finland, formerly HK.3.11, from sars-cov-2-variants/lineage-proposals#763	-
+HK.27	Singapore 21.0%, United States of America 17.0%, China 10.0%, Japan 9.0%, South_Korea 9.0%	2023-05-22	471	560	Alias of XBB.1.9.2.5.1.1.27, ORF1a:T1589I, China	-
+HK.27.1	South_Korea 30.0%, China 19.0%, Canada 13.0%, United States of America 12.0%, Singapore 5.0%	2023-06-27	906	1725	Alias of XBB.1.9.2.5.1.1.27.1, S:L455F (G22927T), China, from sars-cov-2-variants/lineage-proposals#525	-
+HK.27.1.1	China 45.0%, United States of America 24.0%, Japan 11.0%, Canada 7.0%, South_Korea 4.0%	2023-08-17	128	247	Alias of XBB.1.9.2.5.1.1.27.1.1, S:Q14H, China	-
+HK.28	Japan 35.0%, United States of America 23.0%, China 7.0%, South_Korea 5.0%, Canada 3.0%	2023-05-15	909	1432	Alias of XBB.1.9.2.5.1.1.28, C19170T, China	-
+HK.29	United States of America 72.0%, Canada 16.0%, Australia 2.0%, Denmark 2.0%, United Kingdom 1.0%	2023-05-31	754	804	Alias of XBB.1.9.2.5.1.1.29, ORF1a:G2509D, North America	-
+HK.30	Canada 16.0%, United States of America 12.0%, Russia 11.0%, United Kingdom 10.0%, Spain 9.0%	2022-10-10	808	1074	Alias of XBB.1.9.2.5.1.1.30, T26609C, China	-
+HK.31	United States of America 69.0%, Canada 18.0%, Sweden 3.0%, Australia 2.0%, Ireland 1.0%	2023-01-11	675	965	Alias of XBB.1.9.2.5.1.1.31, ORF1a:G604S	-
+HK.32	China 34.0%, South_Korea 29.0%, United States of America 15.0%, Japan 4.0%, Singapore 3.0%	2023-07-27	63	233	Alias of XBB.1.9.2.5.1.1.32, S:Q14R, ORF1a:S2193F, China, from sars-cov-2-variants/lineage-proposals#601	-
+HK.33	United States of America 34.0%, Canada 20.0%, New_Zealand 16.0%, South_Korea 11.0%, China 4.0%	2023-08-21	86	137	Alias of XBB.1.9.2.5.1.1.33, S:L455F (G22927T) on C2644T branch, North America, from sars-cov-2-variants/lineage-proposals#537	-
+HK.34.1	Singapore 87.0%, United States of America 5.0%, United Kingdom 3.0%, Australia 2.0%, Netherlands 2.0%	2023-09-18	63	63	Alias of XBB.1.9.2.5.1.1.34.1, S:K356T, Singapore, from sars-cov-2-variants/lineage-proposals#1048	-
+EG.5.1.2	Japan 57.0%, United States of America 20.0%, Spain 5.0%, Canada 4.0%, United Kingdom 3.0%	2023-04-06	64	774	Alias of XBB.1.9.2.5.1.2, Japan, ORF1b:V1644I, from sars-cov-2-variants/lineage-proposals#301	-
+EG.5.1.3	United States of America 21.0%, France 17.0%, Canada 10.0%, Spain 9.0%, United Kingdom 8.0%	2023-01-03	126	13703	Alias of XBB.1.9.2.5.1.3, ORF1a:R542C, C22570T, from sars-cov-2-variants/lineage-proposals#222	-
+JG.1	France 42.0%, Spain 13.0%, United States of America 11.0%, United Kingdom 7.0%, Australia 5.0%	2023-06-28	42	431	Alias of XBB.1.9.2.5.1.3.1, S:T732I, France, from #2218	-
+JG.2	United States of America 19.0%, United Kingdom 13.0%, Spain 12.0%, France 10.0%, Italy 10.0%	2023-06-27	36	306	Alias of XBB.1.9.2.5.1.3.2, S:G75V, Europe, from #2249	-
+JG.3	United States of America 18.0%, France 13.0%, Spain 10.0%, Canada 9.0%, United Kingdom 7.0%	2022-01-12	61	9427	Alias of XBB.1.9.2.5.1.3.3, S:L455F (G22927T), S:S704L, Europe, from #2231	-
+JG.3.1	United States of America 24.0%, Sweden 15.0%, Canada 8.0%, United Kingdom 8.0%, Denmark 8.0%	2023-06-26	146	1973	Alias of XBB.1.9.2.5.1.3.3.1, S:T307I, from sars-cov-2-variants/lineage-proposals#829	-
+JG.3.2	Canada 59.0%, United States of America 29.0%, Japan 8.0%, Australia 2.0%, France 1.0%	2022-12-07	47	2033	Alias of XBB.1.9.2.5.1.3.3.2, S:N450D, Canada, from #2376	-
+JG.3.3	Belgium 54.0%, Netherlands 20.0%, United Kingdom 4.0%, Sweden 3.0%, Spain 3.0%	2023-08-29	33	97	Alias of XBB.1.9.2.5.1.3.3.3, S:A83S, Belgium, from #2363	-
+JG.3.4	United States of America 97.0%, Canada 3.0%	2023-09-24	23	95	Alias of XBB.1.9.2.5.1.3.3.4, S:478R, USA, from sars-cov-2-variants/lineage-proposals#1081	-
+EG.5.1.4	United States of America 44.0%, Canada 17.0%, United Kingdom 7.0%, Spain 4.0%, France 4.0%	2023-04-03	117	6861	Alias of XBB.1.9.2.5.1.4, ORF1b:K2557R, from #2117	-
+JJ.1	Japan 55.0%, United States of America 12.0%, China 6.0%, Canada 5.0%, South_Korea 5.0%	2023-06-28	27	542	Alias of XBB.1.9.2.5.1.4.1, S:L455F (G22927T), ORF3a:I47V, China/Japan, from #2208	-
+EG.5.1.5	Spain 23.0%, United States of America 19.0%, Portugal 13.0%, United Kingdom 9.0%, France 8.0%	2023-04-23	40	599	Alias of XBB.1.9.2.5.1.5, ORF1a:L3293I, ORF1b:T1274I, ORF1b:L2349V, Portugal	-
+EG.5.1.6	United States of America 47.0%, Canada 16.0%, United Kingdom 8.0%, France 4.0%, Spain 3.0%	2022-10-07	24	5823	Alias of XBB.1.9.2.5.1.6, S:F157L, ORF1a:S1857L, USA, from sars-cov-2-variants/lineage-proposals#394	-
+HV.1	United States of America 53.0%, Canada 26.0%, United Kingdom 2.0%, Sweden 2.0%, France 2.0%	2023-01-03	11	38530	Alias of XBB.1.9.2.5.1.6.1, S:L452R, USA	-
+HV.1.1	United States of America 61.0%, Canada 21.0%, Japan 4.0%, Switzerland 2.0%, United Kingdom 2.0%	2023-08-15	19	1612	Alias of XBB.1.9.2.5.1.6.1.1, S:K444T, on ORF1a:T4083M branch, USA, from sars-cov-2-variants/lineage-proposals#866	-
+HV.1.2	United States of America 63.0%, Canada 15.0%, Australia 10.0%, United Kingdom 5.0%, Netherlands 1.0%	2023-08-13	19	609	Alias of XBB.1.9.2.5.1.6.1.2, S:S514F, on ORF1a:T4083M branch, USA, from sars-cov-2-variants/lineage-proposals#957	-
+HV.1.3	United States of America 61.0%, Sweden 18.0%, Canada 14.0%, France 2.0%, Brazil 1.0%	2023-08-14	17	161	Alias of XBB.1.9.2.5.1.6.1.3, S:493L, USA, from sars-cov-2-variants/lineage-proposals#924	-
+HV.1.4	United States of America 53.0%, Canada 33.0%, France 4.0%, Singapore 2.0%, Sweden 2.0%	2023-07-21	49	599	Alias of XBB.1.9.2.5.1.6.1.4, S:A1078S, USA, from sars-cov-2-variants/lineage-proposals#957	-
+HV.1.5	United States of America 50.0%, Canada 39.0%, Australia 3.0%, Japan 2.0%, Brazil 2.0%	2023-08-23	178	545	Alias of XBB.1.9.2.5.1.6.1.5, S:L1265F, USA/Canada, from sars-cov-2-variants/lineage-proposals#957	-
+HV.1.6	United States of America 46.0%, Canada 28.0%, France 5.0%, United Kingdom 3.0%, Denmark 3.0%	2023-04-12	326	618	Alias of XBB.1.9.2.5.1.6.1.6, ORF1a:T1794I, ORF1a:P2018S, Canada/USA	-
+HV.1.6.1	Canada 85.0%, United States of America 4.0%, France 3.0%, Italy 2.0%, United Kingdom 1.0%	2023-09-03	102	231	Alias of XBB.1.9.2.5.1.6.1.6.1, S:S704L, Canada, from sars-cov-2-variants/lineage-proposals#957	-
+KL.1	Canada 76.0%, United States of America 17.0%, Japan 5.0%, South_Korea 1.0%, United Kingdom 0.0%	2023-10-13	228	335	Alias of XBB.1.9.2.5.1.6.1.6.1.1, S:K444N, Canada, from sars-cov-2-variants/lineage-proposals#1174	-
+KL.1.1	Canada 80.0%, United States of America 14.0%, United Kingdom 4.0%, Japan 2.0%	2023-10-27	68	84	Alias of XBB.1.9.2.5.1.6.1.6.1.1.1, S:H1101Y, Canada	-
+HV.1.8	United States of America 89.0%, Canada 4.0%, Ecuador 3.0%, Spain 1.0%, Netherlands 1.0%	2023-08-07	158	242	Alias of XBB.1.9.2.5.1.6.1.8, S:T208M, USA, from #2432	-
+HV.1.9	New_Zealand 76.0%, United States of America 12.0%, Australia 5.0%, Sweden 2.0%, Japan 1.0%	2023-10-02	76	110	Alias of XBB.1.9.2.5.1.6.1.9, S:N211I, S:T1117I, New Zealand, from sars-cov-2-variants/lineage-proposals#957	-
+HV.1.10	United States of America 99.0%, Canada 1.0%	2023-09-21	64	126	Alias of XBB.1.9.2.5.1.6.1.10, S:R452W, USA, from sars-cov-2-variants/lineage-proposals#1044	-
+HV.1.11	United States of America 91.0%, Canada 5.0%, India 4.0%	2023-10-16	20	75	Alias of XBB.1.9.2.5.1.6.1.11, S:N450D, USA	-
+HV.2	Canada 46.0%, United States of America 22.0%, United Kingdom 10.0%, Israel 5.0%, Australia 4.0%	2023-09-11	76	186	Alias of XBB.1.9.2.5.1.6.2, S:L455F (G22927T), Canada, from sars-cov-2-variants/lineage-proposals#537	-
+EG.5.1.8	United States of America 17.0%, China 15.0%, South_Korea 10.0%, Japan 8.0%, Singapore 7.0%	2022-12-31	51	2841	Alias of XBB.1.9.2.5.1.8, S:L455F (G22927T), China, on C29762T branch, from sars-cov-2-variants/lineage-proposals#537	-
+KB.1	United States of America 37.0%, Canada 20.0%, Japan 7.0%, China 6.0%, France 5.0%	2023-07-24	68	429	Alias of XBB.1.9.2.5.1.8.1, S:E654V, China, from #2347	-
+KB.2	South_Korea 38.0%, Japan 16.0%, United Kingdom 13.0%, United States of America 12.0%, China 10.0%	2023-08-16	50	150	Alias of XBB.1.9.2.5.1.8.2, S:R214H	-
+KB.3	New_Zealand 88.0%, Australia 8.0%, Canada 2.0%, Denmark 1.0%, United States of America 1.0%	2023-08-26	70	143	Alias of XBB.1.9.2.5.1.8.2, S:A83T, from sars-cov-2-variants/lineage-proposals#1052	-
+KB.4	United States of America 65.0%, Japan 16.0%, Spain 4.0%, Austria 3.0%, United Kingdom 3.0%	2023-07-29	88	178	Alias of XBB.1.9.2.5.1.8.2, S:T95I, from sars-cov-2-variants/lineage-proposals#891	-
+EG.5.1.9	United States of America 45.0%, Canada 17.0%, United Kingdom 8.0%, France 6.0%, Spain 4.0%	2023-07-03	76	422	Alias of XBB.1.9.2.5.1.9, S:L176F (on ORF1a:D982G branch)	-
+JR.1.1	United States of America 22.0%, United Kingdom 14.0%, Greece 12.0%, France 7.0%, Spain 7.0%	2023-08-14	7	605	Alias of XBB.1.9.2.5.1.11.1.1, S:L455F (G22927C), from sars-cov-2-variants/lineage-proposals#537	-
+JR.1.1.1	Thailand 25.0%, United States of America 21.0%, Australia 17.0%, Japan 15.0%, Canada 10.0%	2023-09-12	19	48	Alias of XBB.1.9.2.5.1.11.1.1.1, S:K356Q, Thailand, from sars-cov-2-variants/lineage-proposals#1015	-
+EG.5.1.12	South_Korea 59.0%, Japan 18.0%, United States of America 7.0%, Canada 5.0%, Singapore 2.0%	2023-05-10	729	935	Alias of XBB.1.9.2.5.1.12, T26972C, C28909T	-
+EG.5.1.13	United States of America 41.0%, France 10.0%, Canada 9.0%, Sweden 6.0%, United Kingdom 5.0%	2023-03-20	1817	2475	Alias of XBB.1.9.2.5.1.13, C12439T	-
+EG.5.1.14	United States of America 78.0%, Canada 7.0%, United Kingdom 3.0%, Sweden 2.0%, France 1.0%	2023-04-03	794	960	Alias of XBB.1.9.2.5.1.14, C16017T, C19524T	-
+EG.5.1.15	United States of America 37.0%, Canada 13.0%, Spain 7.0%, South_Korea 6.0%, Sweden 5.0%	2023-04-15	760	857	Alias of XBB.1.9.2.5.1.15, ORF1a:T753I	-
+EG.5.1.16	United States of America 77.0%, Canada 12.0%, Sweden 2.0%, Japan 1.0%, France 1.0%	2023-04-16	1712	2101	Alias of XBB.1.9.2.5.1.16, ORF1b:A2431V, from sars-cov-2-variants/lineage-proposals#899	-
+EG.5.1.17	China 32.0%, Japan 24.0%, United States of America 12.0%, Singapore 9.0%, Thailand 5.0%	2023-06-28	49	76	Alias of XBB.1.9.2.5.1.17, S:L455F (G22927C), China, from sars-cov-2-variants/lineage-proposals#537	-
+EG.5.1.18	South_Korea 52.0%, Japan 36.0%, United States of America 4.0%, China 3.0%, Australia 1.0%	2023-05-04	598	647	Alias of XBB.1.9.2.5.1.18, ORF1a:G3002S, ORF3a:S220I	-
+EG.5.1.19	United Kingdom 29.0%, United States of America 27.0%, Canada 9.0%, Netherlands 6.0%, France 6.0%	2023-06-01	482	602	Alias of XBB.1.9.2.5.1.19, S:L455F (G22927T), ORF1b:K1383R, ORF3a:M260K, from sars-cov-2-variants/lineage-proposals#537	-
+EG.5.2	United States of America 43.0%, Canada 10.0%, South_Korea 7.0%, Colombia 7.0%, Japan 6.0%	2023-02-27	122	1504	Alias of XBB.1.9.2.5.2, N:L161F	-
+EG.5.2.1	United States of America 71.0%, Canada 14.0%, Greece 4.0%, France 2.0%, United Kingdom 2.0%	2022-12-31	34	554	Alias of XBB.1.9.2.5.2.1, S:S704L, USA, from sars-cov-2-variants/lineage-proposals#189	-
+EG.6.1	United States of America 39.0%, Canada 25.0%, Israel 9.0%, United Kingdom 5.0%, France 4.0%	2023-02-14	69	4391	Alias of XBB.1.9.2.6.1, S:F456L (T22928C), Israel/Japan/Canada, from #1950	-
+EG.6.1.1	Canada 24.0%, United States of America 23.0%, France 12.0%, Spain 6.0%, Greece 6.0%	2023-07-07	13	322	Alias of XBB.1.9.2.6.1.1, S:484K, S:L242I, from sars-cov-2-variants/lineage-proposals#546	-
+EG.6.1.2	Israel 54.0%, United States of America 12.0%, Greece 5.0%, France 4.0%, Luxembourg 4.0%	2023-06-21	83	104	Alias of XBB.1.9.2.6.1.2, S:V705I, Israel, from sars-cov-2-variants/lineage-proposals#826	-
+EG.7	Canada 36.0%, New_Zealand 23.0%, United States of America 16.0%, United Kingdom 15.0%, Japan 2.0%	2023-03-18	61	501	Alias of XBB.1.9.2.7, S:R403K, S:L513F, ORF1a:N2531S, Germany/England, from sars-cov-2-variants/lineage-proposals#56	-
+EG.10	Lithuania 35.0%, United States of America 15.0%, Germany 15.0%, Austria 10.0%, United Kingdom 10.0%	2023-03-29	13	40	Alias of XBB.1.9.2.10, S:A344T, S:R403K, Germany/Austria, from sars-cov-2-variants/lineage-proposals#346	-
+EG.10.1	United States of America 70.0%, United Kingdom 17.0%, Germany 4.0%, Spain 2.0%, Switzerland 1.0%	2023-05-30	14	246	Alias of XBB.1.9.2.10.1, S:S494P, S:A701V, from sars-cov-2-variants/lineage-proposals#346	-
+EG.10.1.1	United Kingdom 18.0%, Germany 13.0%, France 11.0%, United States of America 9.0%, Spain 8.0%	2023-06-07	1245	1417	Alias of XBB.1.9.2.10.1.1, ORF1a:V2703L, ORF1a:V3683I, ORF1b:P1570S	-
+XBB.1.16	United States of America 23.0%, India 16.0%, Japan 12.0%, United Kingdom 6.0%, Canada 6.0%	2020-11-20	10	34173	Defined by S:E180V, S:478R, found in India, USA, Singapore, and Europe, from #1723	-
+FU.1	China 40.0%, United States of America 20.0%, Japan 8.0%, South_Korea 5.0%, Singapore 5.0%	2023-02-13	127	6238	Alias of XBB.1.16.1.1, T3802C	-
+FU.2	United States of America 53.0%, Mexico 6.0%, Canada 5.0%, Singapore 5.0%, Guatemala 4.0%	2023-02-09	78	2358	Alias of XBB.1.16.1.2, C8692T	-
+FU.2.1	United States of America 47.0%, Canada 14.0%, Sweden 12.0%, South_Korea 5.0%, China 5.0%	2023-03-22	61	1469	Alias of XBB.1.16.1.2.1, S:E619Q, Vietnam	-
+XBB.1.16.2	United States of America 18.0%, India 17.0%, Japan 10.0%, Australia 9.0%, Canada 8.0%	2023-02-20	212	3012	Defined by ORF3a:V13L, ORF1a:P926H, India, from #1802	-
+GY.1.1.1	Thailand 80.0%, Japan 20.0%	2023-06-20	9	30	Alias of XBB.1.16.2.1.1.1, S:A475V, Thailand, from sars-cov-2-variants/lineage-proposals#804	-
+XBB.1.16.4	United States of America 28.0%, Australia 16.0%, Japan 13.0%, India 12.0%, South_Korea 8.0%	2023-02-20	78	426	Defined by S:T678I, India, from #1903	-
+XBB.1.16.6	United States of America 66.0%, Canada 10.0%, United Kingdom 5.0%, France 2.0%, Australia 1.0%	2023-02-08	122	12919	S:F456L (T22930A), A12397G, USA/Canada/China/Malaysia	-
+JF.1	United States of America 44.0%, Canada 34.0%, United Kingdom 3.0%, Ireland 2.0%, Germany 2.0%	2023-06-27	10	1443	Alias of XBB.1.16.6.1, S:L455F (G22927T), USA, from #2207	-
+JF.1.1	United States of America 48.0%, United Kingdom 11.0%, Canada 10.0%, Australia 4.0%, France 3.0%	2023-02-20	1947	2512	Alias of XBB.1.16.6.1.1, ORF1a:S2030L	-
+JF.1.1.2	United States of America 61.0%, Canada 26.0%, Finland 4.0%, New_Zealand 2.0%, Japan 2.0%	2023-09-20	39	82	Alias of XBB.1.16.6.1.1.2, S:V1264L	-
+JF.3	United States of America 43.0%, Australia 26.0%, Canada 21.0%, New_Zealand 2.0%, Spain 2.0%	2023-09-05	40	47	Alias of XBB.1.16.6.3, S:Q14H, S:L455F (G22927T), S:S810L, USA/Australia, from sars-cov-2-variants/lineage-proposals#976	-
+JF.4	United States of America 45.0%, Canada 12.0%, United Kingdom 6.0%, Spain 5.0%, France 5.0%	2023-05-19	199	2298	Alias of XBB.1.16.6.4, ORF1a:S212L, ORF8:A15V	-
+XBB.1.16.7	Japan 69.0%, Singapore 12.0%, South_Korea 5.0%, United States of America 3.0%, Australia 2.0%	2023-03-19	95	742	S:T732I after T12214C, Singapore/Japan/SouthKorea	-
+XBB.1.16.9	United States of America 47.0%, Canada 14.0%, South_Korea 8.0%, United Kingdom 7.0%, Australia 4.0%	2023-04-25	47	1524	S:F456L (T22930G), ORF1a:S2500F, Canada/Sweden/SouthKorea/USA	-
+XBB.1.16.11	United States of America 38.0%, United Kingdom 12.0%, Spain 7.0%, France 6.0%, Greece 4.0%	2020-10-23	101	9950	S:P521T, India	-
+HF.1	Japan 31.0%, United States of America 28.0%, South_Korea 19.0%, United Kingdom 6.0%, Canada 2.0%	2023-05-10	140	5257	Alias of XBB.1.16.13.1, S:K304N, South Korea/Japan, from #2083	-
+HF.1.1	United States of America 82.0%, Canada 7.0%, Sweden 4.0%, Mexico 1.0%, Greece 1.0%	2023-06-13	70	838	Alias of XBB.1.16.13.1.1, S:H1101Y, on N:A35T branch, South Korea/USA/Canada, from sars-cov-2-variants/lineage-proposals#521	-
+HF.1.2	United States of America 80.0%, Canada 14.0%, Mexico 2.0%, France 1.0%, United Kingdom 1.0%	2023-06-11	32	246	Alias of XBB.1.16.13.1.2, S:A688V, on ORF1a:P1158S branch, USA	-
+XBB.1.16.15	United States of America 33.0%, United Kingdom 23.0%, France 5.0%, Greece 5.0%, Canada 4.0%	2022-08-01	41	4831	S:K147N, S:P521S, T10756C, T14067C, on C27513T branch, from #2092	-
+JM.1	United Kingdom 77.0%, United States of America 12.0%, Netherlands 2.0%, France 2.0%, Denmark 2.0%	2023-07-18	43	128	Alias of XBB.1.16.15.1, S:Q52H, England/Wales, from sars-cov-2-variants/lineage-proposals#569	-
+JM.2	United Kingdom 29.0%, United States of America 23.0%, Netherlands 8.0%, Spain 6.0%, Belgium 6.0%	2023-07-05	44	175	Alias of XBB.1.16.15.2, S:R78S, Europe/North America	-
+XBB.1.16.17	Russia 68.0%, United States of America 11.0%, United Kingdom 5.0%, New_Zealand 3.0%, Canada 2.0%	2022-11-16	33	1023	S:E554K, mainly in NZ, from sars-cov-2-variants/lineage-proposals#354	-
+XBB.1.16.19	United States of America 27.0%, United Kingdom 12.0%, Japan 7.0%, Indonesia 7.0%, France 5.0%	2023-01-04	411	1032	ORF1b:V839I	-
+XBB.1.16.23	United States of America 53.0%, Japan 13.0%, Canada 10.0%, South_Korea 6.0%, Russia 4.0%	2023-04-06	39	761	S:K304Q, India/USA/Japan/Singapore, from #2187	-
+XBB.1.16.24	United States of America 23.0%, India 21.0%, Sweden 10.0%, France 8.0%, Canada 5.0%	2023-04-28	13	128	S:K182E, S:V551I, S:E554K, on A25410G branch, India, from #2223	-
+XBB.1.16.26	China 34.0%, United States of America 22.0%, Canada 16.0%, South_Korea 10.0%, Denmark 3.0%	2023-03-16	52	160	S:L455F (G22927T), S:F456L (T22928C), China, from sars-cov-2-variants/lineage-proposals#685	-
+XBB.1.16.27	France 38.0%, Turkey 17.0%, United States of America 8.0%, United Kingdom 6.0%, Denmark 3.0%	2023-08-07	185	405	S:F456L (T22928C), S:E554K, ORF1a:A3889T, France, from #2345	-
+XBB.1.16.28	Russia 91.0%, United States of America 1.0%, Austria 1.0%, Lithuania 1.0%, Netherlands 1.0%	2023-07-28	307	764	S:V1230A, S:Q613H, S:Q675K, Russia, from sars-cov-2-variants/lineage-proposals#1000	-
+XBB.1.16.31	Japan 34.0%, Canada 15.0%, United States of America 8.0%, Thailand 8.0%, Romania 8.0%	2023-03-15	529	555	T9004C, on C7765T branch	-
+GA.2.1.1	United States of America 40.0%, Nigeria 20.0%, France 20.0%, United Kingdom 20.0%	2023-07-27	5	5	Alias of XBB.1.17.1.2.1.1, S:N450D, S:K478R	-
+GA.4.1	Canada 26.0%, United States of America 16.0%, United Kingdom 13.0%, Italy 10.0%, Lithuania 4.0%	2023-07-07	4	467	Alias of XBB.1.17.1.4.1, S:K478R, S:S704L, S:E554K, USA/Qatar, from sars-cov-2-variants/lineage-proposals#661	-
+GA.4.1.3	United States of America 38.0%, Canada 12.0%, United Kingdom 12.0%, Belgium 12.0%, Nigeria 8.0%	2023-08-11	13	24	Alias of XBB.1.17.1.4.1.3, S:185insLAG, S:F186D, N:K370N, ORF1a:V1339I, from sars-cov-2-variants/lineage-proposals#968	-
+GA.5	Germany 33.0%, France 16.0%, Italy 12.0%, United States of America 8.0%, Netherlands 6.0%	2023-02-06	151	165	Alias of XBB.1.17.1.5, T23797C	-
+GA.10.1	Canada 55.0%, United States of America 27.0%, France 18.0%	2023-09-15	7	11	Alias of XBB.1.17.1.10.1, S:L455F (G22927T), S:F456L (T22928C), S:K478R, ORF1a:A776V, ORF1a:F1214S, ORF1b:K1947R, from sars-cov-2-variants/lineage-proposals#919	-
+FE.1.1.5	Brazil 49.0%, United States of America 17.0%, Paraguay 7.0%, Greece 6.0%, Denmark 5.0%	2023-04-09	76	124	Alias of XBB.1.18.1.1.1.5, S:E554K, Brazil, from sars-cov-2-variants/lineage-proposals#556	-
+FE.1.2	Brazil 52.0%, United States of America 24.0%, Spain 5.0%, United Kingdom 3.0%, Canada 3.0%	2022-06-28	182	1895	Alias of XBB.1.18.1.1.2, A5488G	-
+XBB.1.19.1	Pakistan 15.0%, Australia 12.0%, United States of America 12.0%, United Kingdom 9.0%, Japan 8.0%	2023-01-18	37	585	Defined by S:E554K, Pakistan, from #1765	-
+GW.5	United States of America 24.0%, Canada 12.0%, Bahrain 12.0%, United Kingdom 10.0%, Australia 6.0%	2023-05-30	24	83	Alias of XBB.1.19.1.5, S:L455F (G22927T), S:F456L (T22928C), S:K478I, Pakistan, from #2142	-
+GW.5.1	United States of America 26.0%, Canada 13.0%, United Kingdom 10.0%, Greece 10.0%, Bahrain 7.0%	2023-04-06	24	126	Alias of XBB.1.19.1.5.1, ORF3a:W149C, Pakistan	-
+GW.5.1.1	Australia 28.0%, United Kingdom 25.0%, United States of America 23.0%, New_Zealand 4.0%, Canada 3.0%	2023-07-31	4	197	Alias of XBB.1.19.1.5.1.1, S:A475V, S:F79S, Pakistan, from #2277	-
+KE.1	United Kingdom 95.0%, Ireland 1.0%, Switzerland 1.0%, Denmark 1.0%, United States of America 1.0%	2023-10-01	32	85	Alias of XBB.1.19.1.5.1.1.1, S:F186S, England/Wales	-
+KE.2	United Kingdom 88.0%, Netherlands 6.0%, United States of America 6.0%	2023-08-06	10	16	Alias of XBB.1.19.1.5.1.1.2, S:S704L, UK, from sars-cov-2-variants/lineage-proposals#945	-
+KE.3	United Kingdom 76.0%, United States of America 6.0%, Denmark 3.0%, Sweden 2.0%, France 2.0%	2023-08-23	190	246	Alias of XBB.1.19.1.5.1.1.3, ORF1a:L3641S, ORF1a:T5131I, ORF7a:M1K, UK	-
+GW.5.3	United States of America 24.0%, United Kingdom 24.0%, France 8.0%, Ireland 7.0%, Pakistan 5.0%	2023-05-12	94	168	Alias of XBB.1.19.1.5.3, T20310C, C28519T, from sars-cov-2-variants/lineage-proposals#815	-
+GW.5.3.1	United Kingdom 15.0%, United States of America 14.0%, Canada 8.0%, Indonesia 8.0%, Sweden 5.0%	2023-05-10	11	233	Alias of XBB.1.19.1.5.3.1, S:A475V, S:G184A, from sars-cov-2-variants/lineage-proposals#815	-
+XBB.1.22	United States of America 52.0%, Ireland 6.0%, China 5.0%, France 5.0%, United Kingdom 4.0%	2022-12-26	11	626	Defined by S:486P, on ORF9b:I5T branch, from #1704	-
+FY.1.2	United States of America 15.0%, Israel 15.0%, United Kingdom 13.0%, Greece 7.0%, Sweden 5.0%	2023-02-08	70	577	Alias of XBB.1.22.1.1.2, S:T572I, ORF1b:P218L, Europe	-
+FY.1.2.1	Spain 30.0%, United States of America 18.0%, Canada 13.0%, United Kingdom 10.0%, Australia 10.0%	2023-06-12	133	150	Alias of XBB.1.22.1.1.2.1, S:W64L, from sars-cov-2-variants/lineage-proposals#863	-
+FY.1.2.2	Bulgaria 32.0%, Greece 15.0%, Sweden 9.0%, United Kingdom 9.0%, Finland 6.0%	2023-04-24	163	217	Alias of XBB.1.22.1.1.2.2, S:V1129I	-
+FY.2	Japan 39.0%, United States of America 19.0%, South_Korea 19.0%, Canada 4.0%, Australia 2.0%	2023-03-16	36	1516	Alias of XBB.1.22.1.2, S:I197T, ORF1b:S997P, Indonesia, from #1859	-
+FY.3	China 60.0%, South_Korea 13.0%, Japan 12.0%, United States of America 5.0%, Australia 3.0%	2023-02-21	13	783	Alias of XBB.1.22.1.3, ORF1a:E750K, C23191T, China	-
+FY.3.1	China 64.0%, Japan 13.0%, South_Korea 6.0%, United States of America 6.0%, Canada 2.0%	2023-03-21	59	2109	Alias of XBB.1.22.1.3.1, S:I210T, China, from #2009	-
+FY.3.2	China 66.0%, United States of America 14.0%, Japan 5.0%, South_Korea 3.0%, Australia 2.0%	2022-12-17	945	868	Alias of XBB.1.22.1.3.2, ORF1a:E3764G, China, from #2000	-
+FY.5.1	United Kingdom 25.0%, Australia 10.0%, United States of America 8.0%, Slovakia 6.0%, Germany 5.0%	2023-07-30	15	162	Alias of XBB.1.22.1.5.1, S:T572I, from sars-cov-2-variants/lineage-proposals#929	-
+FY.5.1.1	United States of America 23.0%, Canada 11.0%, Russia 7.0%, United Kingdom 7.0%, Indonesia 6.0%	2023-08-25	5	393	Alias of XBB.1.22.1.5.1.1, S:M153I, S:F186S, S:S247N, from sars-cov-2-variants/lineage-proposals#790	-
+FY.5.2	United States of America 27.0%, Australia 20.0%, Canada 12.0%, Indonesia 9.0%, South_Korea 7.0%	2023-03-25	98	103	Alias of XBB.1.22.1.5.2, S:L176F, Indonesia, on A6019G branch, from sars-cov-2-variants/lineage-proposals#267	-
+FY.5.4	Greece 24.0%, United Kingdom 15.0%, Ukraine 10.0%, United States of America 9.0%, Australia 8.0%	2023-05-20	71	136	Alias of XBB.1.22.1.5.4, S:T572I, ORF1a:D3009N, ORF1a:Y4077C on A6019G branch, from sars-cov-2-variants/lineage-proposals#929	-
+FY.5.5	United States of America 80.0%, Canada 7.0%, United Kingdom 5.0%, Japan 3.0%, Mexico 1.0%	2023-05-18	262	295	Alias of XBB.1.22.1.5.5, ORF1a:M2796I	-
+FY.5.5.1	United States of America 59.0%, Canada 26.0%, United Kingdom 7.0%, Australia 3.0%, New_Zealand 3.0%	2023-06-19	204	273	Alias of XBB.1.22.1.5.5.1, S:T572I, from sars-cov-2-variants/lineage-proposals#929	-
+FY.8	Japan 93.0%, United States of America 3.0%, Singapore 1.0%, United Kingdom 1.0%, Taiwan 0.0%	2023-05-06	239	766	Alias of XBB.1.22.1.8, S:T572I, from sars-cov-2-variants/lineage-proposals#635	-
+FY.8.1	United Kingdom 42.0%, Slovakia 22.0%, Denmark 10.0%, United States of America 6.0%, Oman 4.0%	2023-08-16	50	67	Alias of XBB.1.22.1.8.1, S:478R, T4579A, from sars-cov-2-variants/lineage-proposals#1002	-
+XBB.1.28	United States of America 36.0%, Indonesia 16.0%, United Kingdom 7.0%, Belgium 7.0%, Sweden 5.0%	2022-11-14	4	58	Defined by S:403K, Europe, from #1757	-
+FW.1	France 24.0%, United States of America 21.0%, United Kingdom 20.0%, Spain 12.0%, Russia 5.0%	2023-02-10	22	140	Alias of XBB.1.28.1.1, S:A701V, Indonesia, Europe	-
+FW.1.1.1	United Kingdom 79.0%, United States of America 17.0%, Netherlands 1.0%, Belgium 1.0%, Spain 1.0%	2023-09-03	122	160	Alias of XBB.1.28.1.1.1.1, S:A684T, ORF1a:S2285F, ORF1a:K3353R, UK, from sars-cov-2-variants/lineage-proposals#1242	-
+XBB.1.34	United States of America 19.0%, United Kingdom 13.0%, Canada 12.0%, Australia 11.0%, Sweden 11.0%	2022-01-17	63	102	S:486P, S:681R, N:A50V, Uganda/Sudan, from #1621	-
+XBB.1.41.1	South_Africa 30.0%, France 25.0%, United States of America 16.0%, United Kingdom 10.0%, Canada 3.0%	2023-04-24	10	559	S:478R, Africa, from sars-cov-2-variants/lineage-proposals#150	-
+JC.1	United States of America 65.0%, Japan 30.0%, United Kingdom 3.0%, New_Zealand 1.0%, Thailand 0.0%	2023-05-26	23	215	Alias of XBB.1.41.1.1, S:K77R, Japan/Hawaii	-
+JC.2	Greece 71.0%, United Kingdom 7.0%, France 6.0%, Australia 3.0%, Finland 1.0%	2023-07-16	53	222	Alias of XBB.1.41.1.2, S:D339R, ORF1a:V1056L, Greece, from sars-cov-2-variants/lineage-proposals#961	-
+JC.4	United States of America 69.0%, Greece 13.0%, France 4.0%, Denmark 4.0%, Italy 4.0%	2023-07-27	24	54	Alias of XBB.1.41.1.4, S:N148S	-
+JC.5	United States of America 64.0%, United Kingdom 12.0%, New_Zealand 4.0%, Slovenia 3.0%, Australia 3.0%	2022-07-27	291	535	Alias of XBB.1.41.1.5, ORF1a:P1220L, N:H300Y, from sars-cov-2-variants/lineage-proposals#629	-
+JC.5.1	United States of America 72.0%, United Kingdom 28.0%, China 0.0%	2023-08-02	42	217	Alias of XBB.1.41.1.5.1, S:Q173K, USA	-
+XBB.1.41.2	United States of America 77.0%, Canada 5.0%, Japan 4.0%, United Kingdom 3.0%, Spain 2.0%	2023-05-26	32	454	S:S494P, USA, from sars-cov-2-variants/lineage-proposals#389	-

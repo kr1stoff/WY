@@ -1,0 +1,13 @@
+# 项目编号
+project: Test1111
+
+# 所用数据库
+database: 沙门氏菌
+
+# 输入内容
+## fasta参考序列
+fasta: [ "/A/B/C.fasta" ]
+
+## fq序列，与fasta互斥，可为双端序列
+fastq: [ "/A/B/C_1.fq.gz","/A/B/C_2.fq.gz" ]
+

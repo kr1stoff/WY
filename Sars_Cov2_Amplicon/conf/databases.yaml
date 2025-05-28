@@ -1,0 +1,2 @@
+sars_global: /sdbb/share/database/SARS-Cov-2/GISAID/hCoV-19_global_until_2204.fasta
+bwadb_prefix: /sdbb/share/database/genome/NC_045512.2/NC_045512.2.fasta

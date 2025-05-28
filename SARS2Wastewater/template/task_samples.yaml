@@ -1,0 +1,347 @@
+barcode_mismatch: null
+barcode_ori_data: ''
+barcode_type: ''
+blast_database: null
+blast_database_taxonomy: ''
+blast_databases_nucl_type: null
+created_by: 8
+created_library_strategy: null
+created_name: 超级管理员
+created_time: 2023-03-28 15:56:59
+error_message: null
+genome_typing_database: null
+host_id: null
+host_name: null
+i5_seq_direction: ''
+id: 11465
+input_fq_or_fa: ''
+insertion_element_end_lenght: ''
+insertion_element_end_length: null
+insertion_element_start_lenght: ''
+insertion_element_start_length: null
+interface_type: null
+is_deleted: !!binary |
+  AA==
+level1_pipeline: wholeGenome
+level2_pipeline: ampliconAnalysis
+mars_content: ''
+mars_result_record: ''
+n50_cutoff: null
+new_pathogen_data_source: ''
+pathogen_id: 1
+pathogen_type: ''
+pe_or_se: 双端
+primer_seq: ''
+primer_seq_name: ''
+random_blast_seq_num: ''
+reads_length: ''
+reference_genome: ''
+remark: null
+rrna_type: ''
+samples:
+  1WY230328:
+    address: null
+    area: null
+    barcode: null
+    barcode1: ''
+    barcode2: ''
+    barcode_outdir_path: null
+    city: null
+    created_by: 8
+    created_library_strategy: null
+    created_name: 超级管理员
+    created_time: 2023-03-28 15:56:59
+    examinee_id: null
+    fasta: ''
+    fasta_sequence: ''
+    hear: null
+    id: 11454
+    label: null
+    label_compare: null
+    level1_pipeline: wholeGenome
+    level2_pipeline: ampliconAnalysis
+    pathogen_id: 1
+    pathogene: ''
+    patient_age: null
+    patient_name: null
+    patient_sex: '3'
+    process: null
+    province: null
+    receive_date: null
+    return_analysis_keyword: null
+    return_fasta: null
+    return_file_path: null
+    return_genotype_file_path: null
+    return_genotype_html_url: null
+    return_html_url: null
+    return_umsi: null
+    sample_name: null
+    sample_number: 1WY230328
+    sample_properties: null
+    sequencing_data1: /sdbb/customer/Rawdata/230327_ShiJiaZhuangWastewater/1_S1_L001_R1_001.fastq.gz
+    sequencing_data2: /sdbb/customer/Rawdata/230327_ShiJiaZhuangWastewater/1_S1_L001_R2_001.fastq.gz
+    sequencing_length: ''
+    sequencing_platform: ''
+    source_area: null
+    source_unit_name: null
+    task_id: 24565
+    task_type: null
+    type_name: null
+    updated_time: 2023-03-28 15:56:59
+  2WY230328:
+    address: null
+    area: null
+    barcode: null
+    barcode1: ''
+    barcode2: ''
+    barcode_outdir_path: null
+    city: null
+    created_by: 8
+    created_library_strategy: null
+    created_name: 超级管理员
+    created_time: 2023-03-28 15:56:59
+    examinee_id: null
+    fasta: ''
+    fasta_sequence: ''
+    hear: null
+    id: 11456
+    label: null
+    label_compare: null
+    level1_pipeline: wholeGenome
+    level2_pipeline: ampliconAnalysis
+    pathogen_id: 1
+    pathogene: ''
+    patient_age: null
+    patient_name: null
+    patient_sex: '3'
+    process: null
+    province: null
+    receive_date: null
+    return_analysis_keyword: null
+    return_fasta: null
+    return_file_path: null
+    return_genotype_file_path: null
+    return_genotype_html_url: null
+    return_html_url: null
+    return_umsi: null
+    sample_name: null
+    sample_number: 2WY230328
+    sample_properties: null
+    sequencing_data1: /sdbb/customer/Rawdata/230327_ShiJiaZhuangWastewater/2_S2_L001_R1_001.fastq.gz
+    sequencing_data2: /sdbb/customer/Rawdata/230327_ShiJiaZhuangWastewater/2_S2_L001_R2_001.fastq.gz
+    sequencing_length: ''
+    sequencing_platform: ''
+    source_area: null
+    source_unit_name: null
+    task_id: 24565
+    task_type: null
+    type_name: null
+    updated_time: 2023-03-28 15:56:59
+  3WY230328:
+    address: null
+    area: null
+    barcode: null
+    barcode1: ''
+    barcode2: ''
+    barcode_outdir_path: null
+    city: null
+    created_by: 8
+    created_library_strategy: null
+    created_name: 超级管理员
+    created_time: 2023-03-28 15:56:59
+    examinee_id: null
+    fasta: ''
+    fasta_sequence: ''
+    hear: null
+    id: 11458
+    label: null
+    label_compare: null
+    level1_pipeline: wholeGenome
+    level2_pipeline: ampliconAnalysis
+    pathogen_id: 1
+    pathogene: ''
+    patient_age: null
+    patient_name: null
+    patient_sex: '3'
+    process: null
+    province: null
+    receive_date: null
+    return_analysis_keyword: null
+    return_fasta: null
+    return_file_path: null
+    return_genotype_file_path: null
+    return_genotype_html_url: null
+    return_html_url: null
+    return_umsi: null
+    sample_name: null
+    sample_number: 3WY230328
+    sample_properties: null
+    sequencing_data1: /sdbb/customer/Rawdata/230327_ShiJiaZhuangWastewater/3_S3_L001_R1_001.fastq.gz
+    sequencing_data2: /sdbb/customer/Rawdata/230327_ShiJiaZhuangWastewater/3_S3_L001_R2_001.fastq.gz
+    sequencing_length: ''
+    sequencing_platform: ''
+    source_area: null
+    source_unit_name: null
+    task_id: 24565
+    task_type: null
+    type_name: null
+    updated_time: 2023-03-28 15:56:59
+  4WY230328:
+    address: null
+    area: null
+    barcode: null
+    barcode1: ''
+    barcode2: ''
+    barcode_outdir_path: null
+    city: null
+    created_by: 8
+    created_library_strategy: null
+    created_name: 超级管理员
+    created_time: 2023-03-28 15:56:59
+    examinee_id: null
+    fasta: ''
+    fasta_sequence: ''
+    hear: null
+    id: 11460
+    label: null
+    label_compare: null
+    level1_pipeline: wholeGenome
+    level2_pipeline: ampliconAnalysis
+    pathogen_id: 1
+    pathogene: ''
+    patient_age: null
+    patient_name: null
+    patient_sex: '3'
+    process: null
+    province: null
+    receive_date: null
+    return_analysis_keyword: null
+    return_fasta: null
+    return_file_path: null
+    return_genotype_file_path: null
+    return_genotype_html_url: null
+    return_html_url: null
+    return_umsi: null
+    sample_name: null
+    sample_number: 4WY230328
+    sample_properties: null
+    sequencing_data1: /sdbb/customer/Rawdata/230327_ShiJiaZhuangWastewater/4_S4_L001_R1_001.fastq.gz
+    sequencing_data2: /sdbb/customer/Rawdata/230327_ShiJiaZhuangWastewater/4_S4_L001_R2_001.fastq.gz
+    sequencing_length: ''
+    sequencing_platform: ''
+    source_area: null
+    source_unit_name: null
+    task_id: 24565
+    task_type: null
+    type_name: null
+    updated_time: 2023-03-28 15:56:59
+  5WY230328:
+    address: null
+    area: null
+    barcode: null
+    barcode1: ''
+    barcode2: ''
+    barcode_outdir_path: null
+    city: null
+    created_by: 8
+    created_library_strategy: null
+    created_name: 超级管理员
+    created_time: 2023-03-28 15:56:59
+    examinee_id: null
+    fasta: ''
+    fasta_sequence: ''
+    hear: null
+    id: 11462
+    label: null
+    label_compare: null
+    level1_pipeline: wholeGenome
+    level2_pipeline: ampliconAnalysis
+    pathogen_id: 1
+    pathogene: ''
+    patient_age: null
+    patient_name: null
+    patient_sex: '3'
+    process: null
+    province: null
+    receive_date: null
+    return_analysis_keyword: null
+    return_fasta: null
+    return_file_path: null
+    return_genotype_file_path: null
+    return_genotype_html_url: null
+    return_html_url: null
+    return_umsi: null
+    sample_name: null
+    sample_number: 5WY230328
+    sample_properties: null
+    sequencing_data1: /sdbb/customer/Rawdata/230327_ShiJiaZhuangWastewater/5_S5_L001_R1_001.fastq.gz
+    sequencing_data2: /sdbb/customer/Rawdata/230327_ShiJiaZhuangWastewater/5_S5_L001_R2_001.fastq.gz
+    sequencing_length: ''
+    sequencing_platform: ''
+    source_area: null
+    source_unit_name: null
+    task_id: 24565
+    task_type: null
+    type_name: null
+    updated_time: 2023-03-28 15:56:59
+  6WY230328:
+    address: null
+    area: null
+    barcode: null
+    barcode1: ''
+    barcode2: ''
+    barcode_outdir_path: null
+    city: null
+    created_by: 8
+    created_library_strategy: null
+    created_name: 超级管理员
+    created_time: 2023-03-28 15:56:59
+    examinee_id: null
+    fasta: ''
+    fasta_sequence: ''
+    hear: null
+    id: 11464
+    label: null
+    label_compare: null
+    level1_pipeline: wholeGenome
+    level2_pipeline: ampliconAnalysis
+    pathogen_id: 1
+    pathogene: ''
+    patient_age: null
+    patient_name: null
+    patient_sex: '3'
+    process: null
+    province: null
+    receive_date: null
+    return_analysis_keyword: null
+    return_fasta: null
+    return_file_path: null
+    return_genotype_file_path: null
+    return_genotype_html_url: null
+    return_html_url: null
+    return_umsi: null
+    sample_name: null
+    sample_number: 6WY230328
+    sample_properties: null
+    sequencing_data1: /sdbb/customer/Rawdata/230327_ShiJiaZhuangWastewater/6_S6_L001_R1_001.fastq.gz
+    sequencing_data2: /sdbb/customer/Rawdata/230327_ShiJiaZhuangWastewater/6_S6_L001_R2_001.fastq.gz
+    sequencing_length: ''
+    sequencing_platform: ''
+    source_area: null
+    source_unit_name: null
+    task_id: 24565
+    task_type: null
+    type_name: null
+    updated_time: 2023-03-28 15:56:59
+sars_cov_2_database: 否
+sequence_type: ''
+sequencing_platform: ''
+status: ANALYSEING
+task_id: 24565
+task_name: 石家庄污水
+template: null
+tree_building_method: null
+tree_data: ''
+tree_method: ''
+type: null
+updated_time: 2023-03-28 15:56:59

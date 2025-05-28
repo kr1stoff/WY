@@ -1,0 +1,70 @@
+.toggleNav {
+    position: fixed;
+    width: 30px;
+    height: 45px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px #bbb;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    left: 260px;
+    top: 105px;
+    z-index: 999;
+    text-align: center;
+    cursor: pointer;
+}
+
+.toggleNav span {
+    display: inline-block;
+    margin: 0 auto;
+    font-size: 15px;
+    width: 15px;
+    color: #008FEB;
+}
+
+.toggleNav .close {
+    display: none;
+}
+
+#report_body {
+    padding-left: 300px;
+	padding-top: 90px;
+}
+
+@media print {
+    #report_body {
+        margin: 0!important;
+        padding-left: 40px!important;
+    }
+    #report_directory {
+        border: none!important;
+        display: block!important;
+    }
+    #project_name input {
+        border: none!important;
+    }
+    .del_group {
+        display: none;
+    }
+    nav {
+        display: none;
+    }
+    .img_print {
+        display: table;
+        page-break-before: auto;
+        page-break-after: auto;
+        page-break-inside: avoid;
+    }
+    .page-break-after {
+        page-break-before: always;
+        page-break-after: always;
+    }
+    img {
+        max-height: 900px;
+    }
+    .sel_container {
+        display: none!important;
+    }
+    .toggleNav {
+        display: none;
+    }
+}

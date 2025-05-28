@@ -1,0 +1,8 @@
+mlst: /sdbb/share/database/TypeTrace/v2.0.1/MLST
+typing: /sdbb/share/database/TypeTrace/v2.0.1/Typing
+cgmlst: /sdbb/share/database/TypeTrace/v2.0.1/cgMLST
+wgmlst: /sdbb/share/database/TypeTrace/v2.0.1/wgMLST
+vfdb: /sdbb/share/database/VFDB
+other: /sdbb/share/database/TypeTrace/v2.0.1/Other
+typetrace: /sdbb/share/database/TypeTrace/v2.0.1
+mlva: /sdbb/share/database/TypeTrace/v2.0.1/MLVA

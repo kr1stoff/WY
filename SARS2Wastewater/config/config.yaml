@@ -1,0 +1,38 @@
+######## Software ########
+path:
+  activate: /home/earthtest/miniconda3/bin/activate
+  snakemake: /home/earthtest/miniconda3/envs/snakemake/bin/snakemake
+  python: /home/earthtest/miniconda3/envs/microbial_wgs/bin/python
+  perl: /home/earthtest/miniconda3/envs/microbial_wgs/bin/perl
+  fastqc: /home/earthtest/miniconda3/envs/microbial_wgs/bin/fastqc
+  fastp: /home/earthtest/miniconda3/envs/microbial_wgs/bin/fastp
+  bowtie2: /home/earthtest/miniconda3/envs/microbial_wgs/bin/bowtie2
+  ivar: /home/earthtest/miniconda3/envs/microbial_wgs/bin/ivar
+  samtools: /home/earthtest/miniconda3/envs/microbial_wgs/bin/samtools
+  bcftools: /home/earthtest/miniconda3/envs/microbial_wgs/bin/bcftools
+  pangolin: /home/earthtest/miniconda3/envs/pangolin/bin/pangolin
+  freyja: /home/earthtest/miniconda3/envs/freyja/bin/freyja
+
+######## Custom ########
+custom:
+  wastewater_smkpipe: /sdbb/share/pipeline/SARS2Wastewater/workflow/Snakefile
+
+######## Parameters ########
+params:
+  fastp: '-q 15 -u 40 -t 0 -G -n 5 -l 15 -y -a CTGTCTCTTATACACATCTCCGAGCCCACGAGAC --adapter_fasta /sdbb/share/pipeline/Sars_Cov2_Amplicon/etc/adapter.fa'
+  samtools_mpileup: '-aa -A -d 10000 -B -Q 0'
+  ivar_variants: '-m 10'
+  bcftools_mpileup: '-d 10000 -Ou'
+  bcftools_call: '--ploidy 1 -mv -Oz'
+
+######## Database ########
+database:
+  reference: /sdbb/share/pipeline/SARS2Wastewater/db/wuhan.fa
+  genome_gff: /sdbb/share/pipeline/SARS2Wastewater/db/covidGenomeAnnotation-NCBI.gff
+  primer_bed: /sdbb/share/pipeline/SARS2Wastewater/db/none.bed
+  usher_barcodes: /sdbb/share/pipeline/SARS2Wastewater/db/usher_barcodes.csv
+
+######## Resource ########
+threads:
+  high: 40
+  low: 20

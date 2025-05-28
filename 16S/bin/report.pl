@@ -1,0 +1,405 @@
+#!/usr/bin/env perl
+my $app;
+my $GDHRPATH;
+BEGIN {
+    use FindBin qw($Bin $RealBin);
+    use YAML qw(LoadFile);
+    my $f_software = "$RealBin/../config/software.yml";
+    $app = LoadFile($f_software);
+    $GDHRPATH = $app->{"GDHR"};
+}
+
+use strict;
+use Getopt::Long;
+use Cwd qw(realpath);
+use File::Basename qw(basename dirname);
+use Data::Dumper;
+use lib $GDHRPATH;
+use GDHR;
+use Utils;
+
+my %OPTS = (
+    nonlazy => 1,
+    company => "微远基因",
+    outdir  => "./"
+);
+GetOptions(\%OPTS,
+    'conf:s',
+    'outdir:s',
+    'nonlazy:s',
+    'company:s',
+    'help'
+);
+&usage if ($OPTS{help});
+
+if (!$OPTS{conf}) {
+    WARN("the conf file is not defined!");
+    &usage;
+}
+# Main
+## Some global variable
+$OPTS{outdir} = realpath($OPTS{outdir});
+our $dir = ".";
+our $fulldir = $OPTS{outdir};
+our $conf = LoadFile($OPTS{conf});
+our $AnalysisType = $conf->{type};
+our @samples = @{$conf->{samples}};
+our @groups = @{$conf->{group_order}};
+our @group_diff = qw//;
+our @compares = qw//;
+if (exists $conf->{group_diff}) {
+    our @group_diff = @{$conf->{group_diff}};
+    our @compares = map {"$$_[0]-VS-$$_[1]"} @{$conf->{group_diff}};
+}
+our @levels = qw(Domain Phylum Order Family Genus Species);
+our @blank = map {"&nbsp;" x $_} 1 .. 20;
+my $blank6 = blank(6);
+our $f_catalog = $Bin . "/../etc/doc/catalog.html";
+
+my $report = GDHR->new(
+    '-outdir' => $OPTS{outdir},
+    -company  => "微远基因",
+    -pipe     => "$AnalysisType 扩增子测序",
+    nonlazy   => $OPTS{nonlazy}
+);
+
+&introduction($report, \$conf);
+&qc($report, \$conf);
+&asv($report, \$conf);
+&taxon($report, \$conf);
+if (scalar(@group_diff) != 0) {
+    &diff($report, \$conf);
+}
+&alpha($report, \$conf);
+if (scalar(@samples) >= 3) {
+    &beta($report, \$conf);
+}
+&function($report, \$conf);
+&appendix($report, \$conf);
+
+$report->write();
+# prepare src
+`cp -rfL $Bin/../etc/image/* $fulldir/src/image`;
+
+# Some Functions
+sub introduction {
+    my $report = shift;
+    my $conf = $conf;
+
+    my $section = $report->section(id => "introduction");
+    $section->menu("分析流程");
+    my $desc_analysis = <<CONT;
+$blank6 得到下机数据后，首先会进行数据过滤，去除低质量的reads，剩余高质量的Clean data用于后期分析。通过reads之间的Overlap关系将reads拼接成Tags，然后基于有效数据通过DADA2或deblur进行降噪，并过滤掉丰度小于5的序列，从而获得最终的ASV（Amplicon Sequence Variants）。<br>
+$blank6 对于得到的ASV，一方面对每个ASV的代表序列做物种注释，得到对应的物种信息和基于物种的丰度分布情况，同时，对ASVs进行丰度、Alpha多样性计算、Venn图和花瓣图等分析，以得到样本内物种丰富度和均匀度信息、不同样本或分组间的共有和特有ASVs信息等；另一方面，对ASVs进行多序列比对并构建系统发育树，通过PCoA、PCA、NMDS等降维分析和样本聚类树展示，探究不同样本或不同组别间群落结构的差异。<br>
+$blank6 为进一步挖掘分组样本间的群落结构差异，选用T-test、LefSe等统计分析方法对分组样本的物种组成和群落结构进行差异显著性检验。扩增子的注释结果还可以和相应的功能数据库相关联，选用PICRUSt2软件对生态样本中的微生物群落进行功能预测分析。<br>
+$blank6 获得下机数据后的信息分析流程如下图:<br>
+CONT
+    $section->desc($desc_analysis);
+    $section->img2html(
+        -file => "image/analysis.png",
+        -name => "信息分析流程图");
+
+}
+
+sub qc {
+    my $report = shift;
+    my $conf = shift;
+
+    my $dir0 = $dir;
+    my $fulldir0 = $fulldir;
+
+    my $section = $report->section(id => "qc");
+    $section->menu("数据处理");
+
+    $section->submenu("碱基质量分布");
+    my $desc_data_quality = <<CONT;
+$blank6 测序数据碱基质量分布图如下：
+CONT
+    $section->desc($desc_data_quality);
+    my @f_perbase1 = map {"$dir0/QC/FastQC/${_}_1.png"} @samples;
+    my @name1 = map {"reads1"} @samples;
+    my @f_perbase2 = map {"$dir0/QC/FastQC/${_}_2.png"} @samples;
+    my @name2 = map {"reads2"} @samples;
+    my @name = @samples;
+    Image($section, \@f_perbase1, \@name1, "碱基质量分布", \@f_perbase2, \@name2, \@name);
+}
+
+sub asv {
+    my $report = shift;
+    my $conf = shift;
+    my $dir0 = $dir;
+    my $fulldir0 = $fulldir;
+    my $dir = "$dir0/ASV";
+    my $fulldir = "$fulldir0/ASV";
+
+    my $section = $report->section(id => "asv");
+    $section->menu("ASV分析");
+    my $desc_asv = <<CONT;
+$blank6 DADA2方法比传统的OTU方法更加敏感和特异，能够检测到 OTU 方法遗漏的真实生物变异，同时，ASV 替代 OTU 提高了标记基因数据分析的准确性、全面性和可重复性。<br>
+$blank6 我们使用 DADA2 对数据进行降噪处理，获得去重的序列 ASV，这些序列在样本中的丰度表称为特征表（对应于 OTU 表）。<br>
+CONT
+    $section->desc($desc_asv);
+    FileLink($section, "$blank6 ASV分析结果目录 <link=$dir>");
+    $section->desc("$blank6 降噪处理结果统计如下：<br>");
+    $section->tsv2html(
+        -file   => "$fulldir/denoising_stats.xls",
+        -name   => "降噪结果统计表",
+        -header => 1
+    );
+    $section->desc("<br>降噪效果如下图所示:<br>");
+    my $f_fill = "$dir/denois.fill.png";
+    my $f_stack = "$dir/denois.stack.png";
+    Image($section, [ $f_fill ], [ "数据预处理分布图（百分比）" ], "", [ $f_stack ], [ "数据预处理分布图（数值）" ]);
+
+}
+
+sub taxon {
+    my $report = shift;
+    my $conf = shift;
+    my $dir0 = $dir;
+    my $fulldir0 = $fulldir;
+    my $dir = "$dir0/Taxon";
+    my $fulldir = "$fulldir0/Taxon";
+
+    my $section = $report->section(id => "taxon");
+    $section->menu("物种注释");
+
+    my $desc_taxon = <<CONT;
+$blank6 使用预先训练好的 Naive Bayes 分类器对每个ASV进行物种注释，统计每个样品在各个分类水平（界门纲目科属种）上的Tags序列数目。
+<br>
+CONT
+    $section->desc($desc_taxon);
+    FileLink($section, "$blank[6] 物种注释信息目录 <link=$dir>");
+
+    $section->tsv2html(
+        -file   => "$fulldir/all.taxonomy.stat.xls",
+        -name   => "物种注释Tags数量统计表",
+        -header => 1
+    );
+    Image($section, [ "$dir/taxonomy.fill.png" ], [ "各分类水平上的序列构成柱形图（百分比）" ], "", [ "$dir/taxonomy.stack.png" ], [ "各分类水平上的序列构成柱形图（数值）" ]);
+
+    $section->submenu("物种丰度堆叠图");
+    $section->desc("基于不同分类水平的物种注释结果，生成物种相对丰度柱形图，以便直观查看各样本在不同分类水平上的物种组成及其比例");
+    my @f_stack = map {"$dir/stack/$_.stack.png"} @levels;
+    Image($section, \@f_stack, \@levels, "各水平物种分布堆叠图");
+
+    $section->submenu("物种分布热图");
+    $section->desc("根据所有样本在属水平的物种注释及丰度信息，从物种和样本两个层面进行聚类，绘制成热图，便于发现不同物种在各样本中聚集含量的高低");
+    my @f_heatmap = map {"$dir/heatmap/$_.heatmap.png"} @levels[1 .. $#levels];
+    my @new_levels = @levels[1 .. $#levels];
+    Image($section, \@f_heatmap, \@new_levels, "界以下分类水平上的物种分类热图");
+}
+
+sub diff {
+    my $report = shift;
+    my $conf = shift;
+    my $dir0 = $dir;
+    my $fulldir0 = $fulldir;
+    my $dir = "$dir0/Diff";
+    my $fulldir = "$fulldir0/Diff";
+
+    my $section = $report->section(id => "diff");
+    $section->menu("差异分析");
+
+    # LefSe
+    $section->submenu("LefSe");
+    my $d_lefse = "$dir/LefSe";
+    my $fd_lefse = "$fulldir/LefSe";
+    my $desc_lefse = <<CONT;
+$blank6 利用LEFse软件进行组间差异分析，首先对所有组样品间进行kruskal-Wallis秩和检验（一种多样本比较时常用的检验方法），然后再通过wilcoxon秩和检验（一种两样本成组比较常用的检验方法）对前一步得到的差异结果进行两两组间比较， 最后筛选出的差异使用LDA（Linear Discriminant Analysis）进行排序得到左图， 左图展示了不同组中丰度差异显著的物种，柱状图的长度代表差异物种的影响大小（即为LDA Score）。 随后通过将差异映射到已知层级结构的分类树上方式得到进化分支图(右图)。在进化分支图中， 由内至外辐射的圆圈代表了由门至属（或种）的分类级别。 在不同分类级别上的每一个小圆圈代表该水平下的一个分类，小圆圈直径大小与相对丰度大小呈正比。 着色原则：无显著差异的物种统一着色为黄色。详细见下图：
+CONT
+    $section->desc($desc_lefse);
+    my @img_lefse = map {"$d_lefse/$_.Lefse.png"} @compares;
+    my @img_clad = map {"$d_lefse/$_.Lefse.cladogram.png"} @compares;
+    my @name = map {$_} @compares;
+
+    $section->imgs2html2(
+        -files1 => \@img_lefse,
+        -names  => \@name,
+        -files2 => \@img_clad,
+        -name   => "LefSe 差异分析");
+
+}
+
+sub alpha {
+    my $report = shift;
+    my $conf = shift;
+    my $dir0 = $dir;
+    my $fulldir0 = $fulldir;
+    my $dir = "$dir0/Alpha";
+    my $fulldir = "$fulldir0/Alpha";
+
+    my $section = $report->section(id => "alpha");
+    $section->menu("Alpha多样性分析");
+
+    my $desc_alpha = <<CONT;
+$blank6 α多样性是指特定生境或者生态系统内的物种的丰富程度、多样性情况，它可以指示生境物种隔离的程度，通常利用物种丰富度（种类情况） 与物种均匀度（分布情况）两个重要指标来计算。 本项目结题报告主要展示observed_species（Sobs），Shannon，Simpson，chao，ace，Good’s Coverage，pielou，PD-whole tree等主流的α多样性指数以及它们的相关分析结果。
+CONT
+    $section->desc($desc_alpha);
+    $section->submenu("多样性指数分析");
+    $section->tsv2html(
+        -file => "$fulldir/summary.alpha_diversity.xls",
+        -name => "Alpha多样性指数表");
+
+    $section->submenu("稀释曲线分析");
+    my $desc_rarefaction = <<CONT;
+$blank6 我们通过绘制稀释曲线（rarefaction curve）来评价测序量是否足以覆盖所有类群，并间接反映样品中物种的丰富程度。 稀释曲线是利用已测得序列中已知的 ASV 的相对比例，来计算抽取 n 个（n 小于测得 tags 序列总数）tags 时的Alpha多样性指数期望值， 然后根据一组 n 值（一般为一组小于总序列数的等差数列）与其相对应的Alpha多样性指数期望值做出曲线来。 当曲线趋于平缓或者达到平台期时也就可以认为测序深度已经基本覆盖到样品中所有的物种。
+CONT
+    $section->desc($desc_rarefaction);
+    my @content = qw(sobs shannon simpson chao ace goods_coverage pd);
+    my @img_rarefaction = map {"$dir/$_.png"} @content;
+    Image($section, \@img_rarefaction, \@content, "Alpha 多样性稀释曲线");
+
+}
+
+sub beta {
+    my $report = shift;
+    my $conf = shift;
+    my $dir0 = $dir;
+    my $fulldir0 = $fulldir;
+    my $dir = "$dir0/Beta";
+    my $fulldir = "$fulldir0/Beta";
+
+    my $section = $report->section(id => "beta");
+    $section->menu("Beta 多样性分析");
+    my $desc_beta = <<CONT;
+$blank6 Beta多样性是不同生态系统之间多样性的比较，是物种组成沿环境梯度或者在群落间的变化率， 用来表示生物种类对环境异质性的反应。一般来说，不同环境梯度下群落Beta多样性计算包括物种改变（多少） 和物种产生（有无）两部分。因此，我们将根据这两个重要指标，运用Weighted Unifrac、Unweighted Unifrac、Jaccard 以及 Bray四个指数进行后续Beta多样性分析。
+CONT
+    $section->desc($desc_beta);
+    $section->submenu("距离分析");
+    my $desc_dist = <<CONT;
+$blank6 在微生物 β 多样性多样性研究中，Weighted Unifrac 和 Unweighted Unifrac 是常用的样本距离计算方法。 相比于 Jaccard 和 Bray-Curtis 等距离计算方式，Unifrac充分考虑OTU代表序列之间的进化关系（碱基变异信息），从而更符合微生物群落变化的实际生物学意义。
+<br>
+$blank6 Unifrac 除了具有考虑 ASV 之间的进化关系的特点之外，根据有没有考虑OTU丰度的区别， 可分为加权（Weighted Unifrac）和非加权（Unweighted Unifrac）两种方法。其中Unweighted UniFrac只考虑了物种有无的变化，而Weighted UniFrac则同时考虑物种有无和物种丰度的变化。 因此在实际分析中，结合两种Unifrac分析方法，能更有效发现样本之间的结构差异信息。
+CONT
+    $section->desc($desc_dist);
+    my @dist_methods = qw(unweighted_unifrac weighted_unifrac bray jaccard);
+    my @img_heatmap = map {"$dir/heatmap/$_.heatmap.png"} @dist_methods;
+    Image($section, \@img_heatmap, \@dist_methods, "样本间 Beta 多样性指数热图");
+
+    $section->submenu("UPGMA聚类树");
+    my $desc_upgma = <<CONT;
+$blank6 在微生物生态研究当中，UPGMA分类树可以用于研究样本间的相似性，解答样本的分类学问题。根据Beta多样性距离矩阵信息，可以将样本进行UPGMA分类树分类。其中越相似的样本将拥有越短的共同分支
+CONT
+    $section->desc($desc_upgma);
+    my @img_upgma = map {"$dir/UPGMA/$_.Genus.UPGMA_stack.png"} @dist_methods;
+    Image($section, \@img_upgma, \@dist_methods, "属水平样本间Beta多样指数UPGMA聚类图");
+
+    $section->submenu("PCA 分析");
+    my $desc_pca = <<CONT;
+$blank6 主成分分析（PCA，Principal Component Analysis）是一种利用降维的思想研究样本间关系的方法，它借助奇异值分解能够有效的找出数据中最主要的元素和结构，将高维数据映射到较低的维度
+CONT
+    $section->desc($desc_pca);
+    $section->img2html(
+        -file => "$dir/PCA/PCA1-2.png",
+        -name => "PCA 分析"
+    );
+
+    $section->submenu("PCoA 分析");
+    my $desc_pcoa = <<CONT;
+$blank6 PCoA主坐标分析是一种展示样本间相似性的分析方式，它的分析思路与PCA分析基本一致， 都是通过降维方式寻找复杂样本中的主要样本差异距离。与PCA不同的是，PCoA主要利用weighted和 unweighted Unifrac等配对信息，因此结果更集中于体现样本间的相异性距离。
+CONT
+    $section->desc($desc_pcoa);
+    my @img_pcoa = map {"$dir/PCoA/$_/PCoA1-2.png"} @dist_methods;
+    Image($section, \@img_pcoa, \@dist_methods, "PCoA 分析");
+
+    $section->submenu("NMDS 分析");
+    my $desc_nmds = <<CONT;
+$blank6 NMDS 统计是一种适用于生态学研究的排序方法，它基于 Weighted_unifrac 和 Unweighted_unifrac 距离来进行分析的非线性模型，根据样本中包含的物种信息，以点的形式反映在二维平面上。其设计目的是为了克服线性模型（包括PCA、PCoA）的缺点，更好地反映生态学数据的非线性结构。
+CONT
+    $section->desc($desc_nmds);
+    my @img_nmds = map {"$dir/NMDS/$_/NMDS1-2.png"} @dist_methods;
+    Image($section, \@img_nmds, \@dist_methods, "NMDS 分析");
+
+}
+
+sub function {
+    my $report = shift;
+    my $conf = shift;
+    my $dir0 = $dir;
+    my $fulldir0 = $fulldir;
+
+    my $f_ko = "$fulldir/KO.xls";
+    if (-e $f_ko) {
+        my $section = $report->section(id => "function");
+        $section->menu("功能注释");
+
+        # PICRUSt2
+        my $dir = "$dir0/PICRUSt2";
+        my $fulldir = "$fulldir0/PICRUSt2";
+        $section->submenu("PICRUSt2");
+        $section->tsv2html(
+            -file => "$fulldir/KO.xls",
+            -name => "KO功能注释表"
+        );
+    }
+
+}
+
+
+sub appendix {
+    my $report = shift;
+    my $conf = shift;
+
+    my $section = $report->section(id => "catalog");
+    $section->menu("附录");
+
+    # 参考文献
+    $section->submenu("参考文献");
+    my $desc = <<REF;
+<p>
+<ol>
+<li> Caporaso, J. Gregory, et al. Global patterns of 16S rRNA diversity at a depth of millions of sequences per sample. Proceedings of the National Academy of Sciences 108.Supplement 1 (2011): 4516-4522. </li>
+<li> Youssef, Noha, et al. Comparison of species richness estimates obtained using nearly complete fragments and simulated pyrosequencing-generated fragments in 16S rRNA gene-based environmental surveys. Applied and environmental microbiology 75.16 (2009): 5227-5236. </li>
+<li> Hess, Matthias, et al. Metagenomic discovery of biomass-degrading genes and genomes from cow rumen. Science 331.6016 (2011): 463-467. </li>
+<li> Li Minjuan,Shao Dantong,Zhou Jiachen et al. Signatures within esophageal microbiota with progression of esophageal squamous cell carcinoma.[J] .Chin J Cancer Res, 2020, 32: 755-767. </li>
+<li> Callahan B J, McMurdie P J, Holmes S P. Exact sequence variants should replace operational taxonomic units in marker-gene data analysis[J]. The ISME journal, 2017, 11(12): 2639-2643. </li>
+<li> Callahan, Benjamin J., Paul J. McMurdie, Michael J. Rosen, Andrew W. Han, Amy Jo A. Johnson, and Susan P. Holmes. DADA2: high-resolution sample inference from Illumina amplicon data.” Nature methods 13, no. 7 (2016): 581. </li>
+<li> Callahan B J, Wong J, Heiner C, et al. High-throughput amplicon sequencing of the full-length 16S rRNA gene with single-nucleotide resolution[J]. Nucleic acids research, 2019, 47(18): e103-e103. </li>
+<li> Amir A, McDonald D, Navas-Molina J A, et al. Deblur rapidly resolves single-nucleotide community sequence patterns[J]. MSystems, 2017, 2(2). </li>
+<li> Bokulich NA, Kaehler BD, Rideout JR, et al. Optimizing taxonomic classification of marker‐gene amplicon sequences with QIIME2’s q2‐feature‐classifier plugin. Microbiome. 2018a;6:90. </li>
+<li> Bolyen, E., Rideout, J.R., Dillon, M.R. et al. Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2. Nat Biotechnol 37, 852–857 (2019). </li>
+<li> Li, Bing, et al. Characterization of tetracycline resistant bacterial community in saline activated sludge using batch stress incubation with high-throughput sequencing analysis. Water research 47.13 (2013): 4207-4216. </li>
+<li> Lozupone, Catherine, and Rob Knight. UniFrac: a new phylogenetic method for comparing microbial communities. Applied and environmental microbiology 71.12 (2005): 8228-8235. </li>
+<li> Lozupone, Catherine, et al. UniFrac: an effective distance metric for microbial community comparison. The ISME journal 5.2 (2011): 169. </li>
+<li> Lozupone, Catherine A., et al. Quantitative and qualitative β diversity measures lead to different insights into factors that structure microbial communities. Applied and environmental microbiology 73.5 (2007): 1576-1585. </li>
+<li> Minchin P R. An evaluation of the relative robustness of techniques for ecological ordination[J]. Vegetatio, 1987, 69(1/3):89-107. </li>
+<li> Jolliffe I T. Principal component analysis[J]. Journal of Marketing Research, 1986, 87(100):513. </li>
+<li> Avershina, Ekaterina, Trine Frisli, and Knut Rudi. De novo Semi-alignment of 16S rRNA Gene Sequences for Deep Phylogenetic Characterization of Next Generation Sequencing Data. Microbes and Environments 28.2 (2013): 211-216. </li>
+<li> J. B. Kruskal. Nonmetric multidimensional scaling: A numerical method[J]. Psychometrika, 1964, 29(2):115-129. </li>
+<li> Magali Noval Rivas, PhD, Oliver T. Burton, et al. A microbita signature associated with experimental food allergy promotes allergic senitization and anaphylaxis. The Journal of Allergy and Clinical Immunology.Volume 131, Issue 1, Pages 201-212, January 2013. </li>
+<li> Stat M, Pochon X, Franklin E C, et al. The distribution of the thermally tolerant symbiont lineage ( Symbiodinium, clade D) in corals from Hawaii: correlations with host and the history of ocean thermal stress[J]. Ecology & Evolution, 2013, 3(5):1317-1329. </li>
+<li> Anderson, M.J. 2001. A new method for non-parametric multivariate analysis of variance. Austral Ecology, 26: 32-46. </li>
+<li> McArdle, B.H. and M.J. Anderson. 2001. Fitting multivariate models to community data: A comment on distance-based redundancy analysis. Ecology, 82: 290-297. </li>
+</ol>
+</p>
+REF
+    $section->add_html($desc);
+
+    $section->submenu("目录结构");
+    my $desc_catalog;
+    open IN, $f_catalog or die "Can't open the file! $!";
+    while (<IN>) {$desc_catalog .= $_;}
+    close IN;
+    $desc_catalog .= "</pre></div>\n";
+    $section->desc($desc_catalog);
+}
+
+sub usage {
+    my $help = <<HELP;
+
+Useage:
+         perl report.pl -conf 16S.yml -outdir Pipe
+
+Options: -conf    FILE    the conf file [required]
+         -outdir  STR     the out put dir [required]
+         -nonlazy INT     lazy or non-lazy [default 1]
+         -company STR     The company name [default 微远基因]
+         -help|h          output this information
+
+HELP
+    print $help;
+    exit 0;
+
+}
+

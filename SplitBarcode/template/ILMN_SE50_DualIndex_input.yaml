@@ -1,0 +1,58 @@
+BCL_folder: /sdbb/bioinfor/mengxf/Project/8.split_barcode/BCL/ILMN_SE50_DualIndex/210523_TPNB500491_0116_AHJ7J3BGXH
+library: 220527_ILMN_SE50_Dual
+FASTQ_folder: /sdbb/bioinfor/mengxf/Project/8.split_barcode/FASTQ
+mismatch: 1
+index_type: Dual # Single
+index2_direction: forward # reverse
+samples:
+  B9557-1-A756R:
+    index: CCGTATGT
+    index2: CCACTTGT
+  M27871-2-A097D:
+    index: CGTCTCAT
+    index2: TTGTTAAT
+  M27895-1-A098D:
+    index: ATTCCATA
+    index2: TGATAGTG
+  M27896-1-A751R:
+    index: GACGAGAT
+    index2: GTGGAGCG
+  M27898-1-A099D:
+    index: GACGAGAT
+    index2: CAGCGACA
+  M27899-1-A752R:
+    index: AACATCGC
+    index2: ACAAGATA
+  M27901-1-A100D:
+    index: AACATCGC
+    index2: TACACTGT
+  M27903-1-A101D:
+    index: GATCAAGG
+    index2: GTGGCGCT
+  M27904-1-A102D:
+    index: GACTGAGT
+    index2: CACGAAGG
+  M27906-1-A103D:
+    index: AGTCAGAC
+    index2: TTGCCTCT
+  M27907-1-A104D:
+    index: CCGTATGT
+    index2: CACATGGC
+  M27907-1-A753R:
+    index: GATCAAGG
+    index2: TAGTAGCT
+  M27909-1-A754R:
+    index: GACTGAGT
+    index2: CCTGGTGG
+  M27910-1-A105D:
+    index: GAGTCATA
+    index2: CCTGTCCT
+  M27911-1-A106D:
+    index: CTTGCCAT
+    index2: GTGTTAGG
+  M27916-1-A107D:
+    index: CCATCATT
+    index2: AGGAACGT
+  NC-635-A075D:
+    index: CTTGCCAT
+    index2: CCTGTCCT

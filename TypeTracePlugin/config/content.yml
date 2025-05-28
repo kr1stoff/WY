@@ -1,0 +1,331 @@
+# 各个物种所要分析的内容
+大肠埃希菌:
+  mlst: [ "ecoli_achtman_4" ]
+  cgmlst: [ "Escherichia" ]
+  typing: True
+  trace: False
+沙门氏菌属:
+  mlst: [ "senterica" ]
+  cgmlst: [ "Salmonella" ]
+  typing: True
+  trace: False
+鹦鹉热衣原体:
+  mlst: [ "chlamydiales" ]
+  typing: False
+  trace: False
+单核细胞增生李斯特菌:
+  mlst: [ "lmonocytogenes" ]
+  typing: True
+  trace: False
+艾滋病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+登革热病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+甲型流感病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+乙型流感病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+丙型流感病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+炭疽杆菌属:
+  mlst: [ ]
+  cgmlst: [ "Bacillus_anthracis" ]
+  typing: True
+  trace: False
+弯曲杆菌属:
+  mlst: [ "campylobacter" ]
+  typing: False
+  trace: False
+诺如病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+鼠疫耶尔森菌:
+  mlst: [ "yersinia" ]
+  typing: False
+  trace: False
+布鲁氏菌属:
+  mlst: [ "brucella" ]
+  cgmlst: [ "Brucella" ]
+  typing: False
+  trace: False
+结核杆菌:
+  mlst: [ "mycobacteria" ]
+  cgmlst: [ "Mycobacterium_tuberculosis" ]
+  typing: False
+  trace: False
+脑膜炎奈瑟菌:
+  mlst: [ "neisseria" ]
+  cgmlst: [ "Neisseria_meningitidis" ]
+  typing: True
+  trace: False
+肺炎衣原体:
+  mlst: [ "chlamydiales" ]
+  typing: True
+  trace: False
+肺炎支原体:
+  mlst: [ "mpneumoniae" ]
+  typing: False
+  trace: False
+鲍曼不动杆菌:
+  mlst: [ "abaumannii" ]
+  cgmlst: [ "Acinetobacter_baumannii" ]
+  typing: False
+  trace: False
+流感嗜血杆菌:
+  mlst: [ "hinfluenzae" ]
+  typing: True
+  trace: False
+金黄色葡萄球菌:
+  mlst: [ "saureus" ]
+  typing: False
+  trace: False
+志贺氏菌:
+  mlst: [ "ecoli" ]
+  typing: True
+  trace: False
+克罗诺杆菌:
+  mlst: [ "cronobacter" ]
+  typing: False
+  trace: False
+嗜水气单胞菌:
+  mlst: [ "aeromonas" ]
+  typing: False
+  trace: False
+小肠结肠炎耶尔森菌:
+  mlst: [ "yersinia" ]
+  typing: False
+  trace: False
+唐菖蒲伯克霍尔德氏菌:
+  mlst: [ ]
+  typing: True
+  trace: False
+博德特氏菌属:
+  mlst: [ "bordetella" ]
+  typing: False
+  trace: False
+嗜肺军团菌:
+  mlst: [ "legionella" ]
+  typing: False
+  trace: False
+肺炎克雷伯杆菌:
+  mlst: [ "kpneumoniae" ]
+  typing: True
+  trace: False
+铜绿假单胞菌:
+  mlst: [ "paeruginosa" ]
+  typing: False
+  trace: False
+弧菌属:
+  mlst: [ "vibrio" ]
+  typing: False
+  trace: False
+假结核耶尔森菌:
+  mlst: [ "yersinia" ]
+  typing: False
+  trace: False
+腮腺炎病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+风疹病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+麻疹病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+西尼罗病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+蜱传脑炎病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+札如病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+人偏肺病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+裂谷热病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+克罗诺杆菌属:
+  mlst: [ 'cronobacter' ]
+  typing: False
+  trace: False
+肉毒杆菌:
+  mlst: [ 'cbotulinum' ]
+  typing: False
+  trace: False
+败血症梭菌:
+  mlst: [ 'csepticum' ]
+  typing: False
+  trace: False
+艰难梭菌:
+  mlst: [ 'cdifficile' ]
+  typing: False
+  trace: False
+嗜吞噬无形体:
+  mlst: [ 'aphagocytophilum' ]
+  typing: False
+  trace: False
+白色念珠菌:
+  mlst: [ 'calbicans' ]
+  typing: False
+  trace: False
+光滑念珠菌:
+  mlst: [ 'cglabrata' ]
+  typing: False
+  trace: False
+克氏念珠菌:
+  mlst: [ 'ckrusei' ]
+  typing: False
+  trace: False
+热带念珠菌:
+  mlst: [ 'ctropicalis' ]
+  typing: False
+  trace: False
+土拉弗朗西斯菌:
+  mlst: [ ]
+  typing: True
+  trace: False
+汉坦病毒属:
+  mlst: [ ]
+  typing: True
+  trace: False
+肠道病毒通用型:
+  mlst: [ ]
+  typing: True
+  trace: False
+人腺病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+呼吸道合胞病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+轮状病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+乙型脑炎病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+埃博拉病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+狂犬病病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+寨卡病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+人副流感病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+甲肝病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+乙肝病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+丙肝病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+人疱疹病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+人博卡病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+布尼亚病毒属:
+  mlst: [ ]
+  typing: True
+  trace: False
+人鼻病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+基孔肯雅病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+尼帕病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+新疆出血热病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+拉沙热病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+非结核杆菌:
+  mlst: [ ]
+  typing: True
+  trace: False
+亨德拉病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+猴痘病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+黄热病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+汉氏巴尔通体:
+  mlst: [ "bhenselae" ]
+  typing: False
+  trace: False
+人星状病毒:
+  mlst: [ ]
+  typing: True
+  trace: False
+布鲁氏菌属:
+  mlst: [ "brucella" ]
+  cgmlst: [ "Brucella" ]
+  typing: False
+  trace: False
+霍乱弧菌:
+  mlst: [ "vcholerae" ]
+  cgmlst: [ "Vibrio_cholerae" ]
+  typing: True
+  trace: False
+类鼻疽伯克霍尔德菌:
+  mlst: [ "bpseudomallei" ]
+  cgmlst: False
+  typing: False
+  trace: False

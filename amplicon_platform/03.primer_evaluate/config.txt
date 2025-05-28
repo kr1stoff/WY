@@ -1,0 +1,11 @@
+nt = /sdbb/bioinfor/yehui/nt/nt.fa
+name2taxid_info = /sdbb/bioinfor/lanlei/script/amplicon_platform/src/name2taxid.tsv
+taxid_dir = /sdbb/bioinfor/lanlei/primer_blast/primer_blast/inprimer/taxid_list
+all_genome_dir = /mnt/VolB02/lanlei/01.Amplicon/01.genome_database_merge
+evalue = 800000
+
+blastn = /home/yehui/software/bin/blastn
+taxonkit = /home/yehui/software/bin/taxonkit
+bedtools = /home/lanlei/miniconda3/bin/bedtools
+csvtk = /usr/bin/csvtk
+in2csv = /home/yehui/software/python3/Python-3.8.15/bin/in2csv

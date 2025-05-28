@@ -1,0 +1,23 @@
+[Header]
+IEMFileVersion,5
+Date,2022/5/26
+Workflow,GenerateFASTQ
+Application,HiSeq FASTQ Only
+Instrument Type,HiSeq 3000/4000
+Assay,Nextera DNA
+Index Adapters,"Nextera Index Kit (24 Indexes 96 Samples)"
+Chemistry,Amplicon
+
+[Reads]
+151
+151
+
+[Settings]
+Adapter,CTGTCTCTTATACACATCT
+
+[Data]
+Lane,Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+1,T1,,,,N701,TAAGGCGA,N502,ATAGAGAG,,
+1,T2,,,,N702,CGTACTAG,N503,AGAGGATA,,
+1,T3,,,,N703,AGGCAGAA,N504,TCTACTCT,,
+1,T4,,,,N704,TCCTGAGC,N517,TCTTACGC,,

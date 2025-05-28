@@ -1,0 +1,15 @@
+python: /home/gwadmin/miniconda3/envs/microbial_wgs/bin/python
+perl: /usr/bin/perl
+Rscript: /home/gwadmin/miniconda3/envs/microbial_wgs/bin/Rscript
+mafft: /home/gwadmin/miniconda3/envs/microbial_wgs/bin/mafft
+fasttree: /home/gwadmin/miniconda3/envs/microbial_wgs/bin/fasttree
+magick: /home/gwadmin/miniconda3/envs/non_bio/bin/magick
+snippy: /home/gwadmin/miniconda3/envs/trace_pathogen/bin/snippy
+bcftools: /home/gwadmin/miniconda3/envs/microbial_wgs/bin/bcftools
+prodigal: /home/gwadmin/miniconda3/envs/trace_pathogen/bin/prodigal
+gmhmmp: /sdbb/bioinfor/mengxf/Software/tools/gmhmmp
+seqtk: /home/gwadmin/miniconda3/envs/trace_pathogen/bin/seqtk
+orthofinder: /home/gwadmin/miniconda3/envs/trace_pathogen/bin/orthofinder
+muscle: /home/gwadmin/miniconda3/envs/trace_pathogen/bin/muscle
+Gblocks: /home/gwadmin/miniconda3/envs/trace_pathogen/bin/Gblocks
+seqkit: /home/gwadmin/miniconda3/envs/microbial_wgs/bin/seqkit

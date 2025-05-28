@@ -1,0 +1,19 @@
+## 2020-06-22
+通过 showtext 包来使用字体 Arial，可能由于环境配置的原因，使用R的绘图设备 png() 输出图片时文字大小会出现问题，目前只能pdf格式输出再用convert转换，暂时没有解决方法。
+
+## 2021-09-15
+通过 extrafont 添加字体
+### 安装
+install.packages("extrafont")
+install.packages("extrafontdb")
+install.packages("Rttf2pt1")
+Rttf2pt1 新版本存在查找字体时找不到字体名称的问题，安装指定版本
+remotes::install_version("Rttf2pt1", version = "1.3.8")  
+
+### 使用
+#font_import()
+#这里需要用font_import()来注册字体，系统的路径忘了
+font_import(paths = "/Bio/User/liuyubin/pipeline/GeneralPlot/fonts/tff/msttcore")
+#fonts() 检测是否注册字体，失败的话返回 NULL
+fonts()
+

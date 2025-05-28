@@ -1,0 +1,27 @@
+######## Config ########
+workdir: config['workdir']
+shell.executable("/bin/bash")
+shell.prefix("set +eu; ")
+
+######## Target ########
+rule all:
+    input:
+        expand('1.qc/{sample}.basic.stat.txt', sample=config['samples']),
+        expand('1.qc/{sample}/before', sample=config['samples']),
+        expand('1.qc/{sample}/after', sample=config['samples']),
+        expand('3.muts/{sample}.display.tsv', sample=config['samples']),
+        expand('5.lineage/{sample}.lineage_report.csv', sample=config['samples']),
+        expand('6.demix/{sample}.pie.png', sample=config['samples']),
+        expand('6.demix/{sample}.coverage.png', sample=config['samples'])
+
+######## Modules ########
+include: 'rules/fastqc.smk'
+include: 'rules/fastp.smk'
+include: 'rules/align.smk'
+include: 'rules/trim.smk'
+include: 'rules/muts.smk'
+include: 'rules/consensus.smk'
+include: 'rules/lineage.smk'
+include: 'rules/demix.smk'
+include: 'rules/deconvolve.smk'
+include: 'rules/coverage.smk'

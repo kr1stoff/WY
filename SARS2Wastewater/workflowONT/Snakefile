@@ -1,0 +1,28 @@
+######## Config ########
+workdir: config['workdir']
+shell.executable("/bin/bash")
+shell.prefix("set +eu; ")
+
+######## Target ########
+rule all:
+    input:
+        expand('1.qc/{sample}.raw.stats.png', sample=config['samples']),
+        expand('1.qc/{sample}.cln.stats.png', sample=config['samples']),
+        expand('1.qc/{sample}.stat.txt', sample=config['samples']),
+        expand('6.demix/{sample}.pie.png', sample=config['samples']),
+        expand('6.demix/{sample}.coverage.png', sample=config['samples']),
+        expand('5.lineage/{sample}.lineage_report.csv', sample=config['samples']),
+        expand('3.muts/{sample}.display.tsv', sample=config['samples'])
+
+######## Module ########
+include: 'rules/qcplot.smk'
+include: 'rules/nanostat.smk'
+include: 'rules/nanofilt.smk'
+include: 'rules/align.smk'
+include: 'rules/trim.smk'
+include: 'rules/muts.smk'
+include: 'rules/demix.smk'
+include: 'rules/coverage.smk'
+include: 'rules/consensus.smk'
+include: 'rules/lineage.smk'
+include: 'rules/deconvolve.smk'

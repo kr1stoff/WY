@@ -1,0 +1,14 @@
+bed: /sdbb/share/Develop/Sars_Cov2_Amplicon/etc/primers.bed  # bed: "" 没提供bed 
+global_sars2: false
+library: '0071'
+result_dir: /sdbb/Earth/Analysis
+samples:
+  T380:
+  - /sdbb/Earth/Rawdata/rawdata/Sars_Cov2_Amplicon/T380_S31_R1_001.fastq.gz
+  - /sdbb/Earth/Rawdata/rawdata/Sars_Cov2_Amplicon/T380_S31_R2_001.fastq.gz
+  T381:
+  - /sdbb/Earth/Rawdata/rawdata/Sars_Cov2_Amplicon/T381_S32_R1_001.fastq.gz
+  - /sdbb/Earth/Rawdata/rawdata/Sars_Cov2_Amplicon/T381_S32_R2_001.fastq.gz
+  T382:
+  - /sdbb/Earth/Rawdata/rawdata/Sars_Cov2_Amplicon/T382_S33_R1_001.fastq.gz
+  - /sdbb/Earth/Rawdata/rawdata/Sars_Cov2_Amplicon/T382_S33_R2_001.fastq.gz

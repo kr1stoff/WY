@@ -1,0 +1,9 @@
+# base
+thread: 8
+parallel_number: 8
+# variant calling
+min_cov: 10
+min_alt_count: 10
+min_alt_frac: 0.3
+# fastp
+options_fastp: "-q 15 -u 20 -t 0 -G -n 1 -l 60 -y -a CTGTCTCTTATACACATCTCCGAGCCCACGAGAC"

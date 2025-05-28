@@ -1,0 +1,4 @@
+chr1	A	1	10000000	chr1
+chr2	B	1	13000000	chr2
+chr3	C	1	25000000	chr3
+chr4	D	1	18500000	chr4

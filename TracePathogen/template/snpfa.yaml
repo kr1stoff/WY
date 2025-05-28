@@ -1,0 +1,9 @@
+kindom: virus
+library: '20387'
+reference: /sdbb/customer/Reference_genome/NC_045512.2/NC_045512.2.fasta
+result_dir: /sdbb/Earth/Analysis
+samples:
+  '22061502': /sdbb/customer/Rawdata/TracePathogen/wgs/TEST0312.fa
+  '22061503': /sdbb/customer/Rawdata/TracePathogen/wgs/TEST0316.fa
+  '22061504': /sdbb/customer/Rawdata/TracePathogen/wgs/TEST0317.fa
+  T22061501: /sdbb/customer/Rawdata/TracePathogen/wgs/TEST0311.fa

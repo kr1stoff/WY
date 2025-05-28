@@ -1,0 +1,7 @@
+perl: /usr/bin/perl
+python: /sdbb/bioinfor/renchaobo/Software/miniconda3/bin/python
+Rscript: /usr/bin/Rscript
+convert: /usr/bin/convert
+sh: /usr/bin/bash
+parallel: /usr/bin/parallel
+

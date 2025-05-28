@@ -1,0 +1,129 @@
+a {
+    text-decoration: none
+}
+
+.jumpto-cotainer {
+    position: relative;
+}
+
+.jumpto-subnav, .jumpto-subnav.fixed {
+    float: top;
+    position: fixed;
+    top: 310px;
+    left: 0px;
+    width: 17%;
+    height: 100%;
+    overflow: hidden;
+    background-color: #FFFFFF;
+}
+
+/*导航栏目录的头的样式*/
+.jumpto-title, .jumpto-close a {
+    background: url(../image/mulu.png), linear-gradient(to right, #0075c2, #88e2ff);
+    background-position: 10% 56%, left top;
+    background-repeat: no-repeat, repeat;
+    color: #ffffff;
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 500;
+    left: 20px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 25%;
+    display: block;
+    letter-spacing: 2px;
+}
+
+/*导航栏一级目录的样式*/
+.jumpto-subnav .jumpto-first {
+    font-size: 1rem;
+    text-align: left;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    /*background-repeat: no-repeat;*/
+    /*background-position: 10% 50%;*/
+}
+
+/*导航栏二级目录的样式*/
+.jumpto-subnav .jumpto-second {
+    display: none;
+    font-size: 0.9rem;
+    text-align: left;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    /*background-repeat: no-repeat;*/
+    /*background-position: 10% 50%;*/
+}
+
+.jumpto-subnav .jumpto-third {
+    display: none;
+}
+
+.jumpto-subnav.fixed.bottom {
+    top: auto;
+    bottom: 0;
+    position: absolute !important;
+}
+
+.jumpto-subnav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.jumpto-subnav ul li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    border-bottom: 1px solid #fff
+}
+
+.jumpto-subnav ul li a {
+    padding: 5% 10% 5% 25%;
+    color: #0c0c0c;
+    display: block;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    line-height: 28px;
+    position: relative;
+}
+
+.jumpto-subnav ul li a:hover {
+    background: #d2ecfd;
+}
+
+.jumpto-subnav ul li a.active {
+    background: #d2ecfd;
+}
+
+.jumpto-subnav ul > li > ul > li > a {
+    color: #686868;
+    display: block;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    line-height: 28px;
+    position: relative;
+}
+
+.jumpto-subnav ul > li > ul > li > ul > li > a {
+    padding-left: 40px;
+}
+
+.jumpto-icon-first {
+    position: absolute;
+    top: 31%;
+    left: 10%;
+}
+
+.jumpto-icon-second {
+    position: absolute;
+    top: 26%;
+    left: 10%;
+    transform: scale(0.6);
+    filter: grayscale(100%);
+}

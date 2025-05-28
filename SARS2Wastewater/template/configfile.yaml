@@ -1,0 +1,41 @@
+custom:
+  wastewater_smkpipe: /sdbb/bioinfor/mengxf/Software/gitee/WY/SARS2Wastewater/workflowONT/Snakefile
+database:
+  genome_gff: /sdbb/bioinfor/mengxf/Software/gitee/WY/SARS2Wastewater/db/covidGenomeAnnotation-NCBI.gff
+  primer_bed: /sdbb/bioinfor/mengxf/Software/gitee/WY/SARS2Wastewater/db/none.bed
+  reference: /sdbb/bioinfor/mengxf/Software/gitee/WY/SARS2Wastewater/db/wuhan.fa
+  usher_barcodes: /sdbb/bioinfor/mengxf/Software/gitee/WY/SARS2Wastewater/db/usher_barcodes.csv
+params:
+  NanoFilt: -q 10 --length 200
+  lofreq: --force-overwrite -q 20 -Q 20 -C 20
+  minimap2: -a -x map-ont
+path:
+  NanoFilt: /home/earthtest/miniconda3/envs/nano/bin/NanoFilt
+  NanoStat: /home/earthtest/miniconda3/envs/nano/bin/NanoStat
+  activate: /home/earthtest/miniconda3/bin/activate
+  bcftools: /home/earthtest/miniconda3/envs/microbial_wgs/bin/bcftools
+  bgzip: /home/earthtest/miniconda3/envs/microbial_wgs/bin/bgzip
+  freyja: /home/earthtest/miniconda3/envs/freyja/bin/freyja
+  ivar: /home/earthtest/miniconda3/envs/microbial_wgs/bin/ivar
+  lofreq: /home/earthtest/miniconda3/envs/microbial_wgs/bin/lofreq
+  minimap2: /home/earthtest/miniconda3/envs/nano/bin/minimap2
+  pangolin: /home/earthtest/miniconda3/envs/pangolin/bin/pangolin
+  perl: /home/earthtest/miniconda3/envs/microbial_wgs/bin/perl
+  python: /home/earthtest/miniconda3/envs/microbial_wgs/bin/python
+  samtools: /home/earthtest/miniconda3/envs/microbial_wgs/bin/samtools
+  snakemake: /home/earthtest/miniconda3/envs/snakemake/bin/snakemake
+  snpEff: /home/earthtest/miniconda3/envs/microbial_wgs/bin/snpEff
+samples:
+- OW2042301
+- OW2042302
+- OW2042303
+- OW2042304
+- OW2042305
+- OW2042306
+- OW2042307
+- OW2042308
+- OW2042309
+threads:
+  high: 40
+  low: 20
+workdir: /sdbb/bioinfor/mengxf/TASKS/WY23042001/analysis/24792

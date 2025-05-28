@@ -1,0 +1,260 @@
+#!/usr/bin/env python
+
+import logging
+import yaml
+from pathlib import Path
+from subprocess import run
+import re
+import pymysql
+from multiprocessing import cpu_count
+
+
+class Pipe:
+    """ONT细菌组装分析流程"""
+
+    def __init__(self, inyaml, analysis, conda_activate) -> None:
+        self.dir_proj = Path(__file__).resolve().parents[1]
+        dir_anal = Path(analysis).resolve()
+        self.max_cpus = int(min((cpu_count() / 4 * 3), 64))
+        self.conda_activate = conda_activate
+
+        # SOLAR YAML
+        self.dict_inyaml = yaml.safe_load(open(inyaml))
+        self.dir_work = dir_anal.joinpath(str(self.dict_inyaml['task_id']))
+        self.ref_id = self.dict_inyaml['reference_genome']
+
+    def preparation(self):
+        logging.info('准备步骤, 创建目录.')
+        cml = f"mkdir -p {self.dir_work}/.rawdata {self.dir_work}/logs {self.dir_work}/Upload"
+        logging.info("CommandLine: " + cml)
+        run(cml, shell=True)
+
+    # 240311 nextflow中cpus设置64, 实际服务器只有48, 这里需要设置环境变量
+    def nextflow(self):
+        logging.info('运行 Nextflow 流程.')
+        cml = f"""
+source {self.conda_activate} nextflow
+cd {self.dir_work}
+nextflow -log logs/nextflow.log run {self.dir_proj}/nf-wholegenome \
+    -w ./.intermediate --threads {self.max_cpus} --fastq './.rawdata/*.fastq'
+"""
+        logging.info("CommandLine: " + cml)
+        # 240229 sh
+        run(cml, shell=True, executable='/bin/bash',
+            capture_output=True, check=True)
+
+    def upload(self):
+        logging.info('复制结果到 Upload 目录.')
+        for smp in self.dict_inyaml['samples']:
+            cml = f"""
+cd {self.dir_work}/WholeGenomeAnalysis/{smp} && mkdir -p Upload/1.qc Upload/2.asm Upload/3.pred Upload/4.anno
+# QC
+cp -f 1.qc/{smp}.nanostat \
+    1.qc/{smp}.*.png \
+    -t Upload/1.qc
+# ASSEMBLY
+cp -f 2.asm/flye/assembly.fasta Upload/{smp}.fa
+cp -rf 2.asm/stat/{smp}_fa.stat.txt \
+    2.asm/stat/{smp}.length.png \
+    2.asm/depth/consistency.txt \
+    2.asm/depth/consistency.all.txt \
+    2.asm/depth/depth_base.stat.depth_GC.png \
+    2.asm/checkm/checkm_parse.txt \
+    2.asm/quast \
+    -t Upload/2.asm
+# PREDICTION
+cp -f 3.pred/predict/predict.length.png \
+    3.pred/predict/predict_kind.txt \
+    3.pred/phispy/prophage_coordinates.txt \
+    3.pred/island/island.txt \
+    3.pred/repeat/INEs.tsv \
+    3.pred/repeat/TandemRepeat.tsv \
+    -t Upload/3.pred
+# ANNOTATION
+cp -f 4.anno/VFDB/Virulence.tsv \
+    4.anno/VFDB/viru.fa \
+    4.anno/VFDB/viru_ref.fa \
+    4.anno/card/detail_card_resistance.txt \
+    4.anno/card/detail_card_resistance.xlsx \
+    4.anno/card/card.fa \
+    4.anno/CAZy/CAZy_anno_stats.png \
+    4.anno/CAZy/CAZY.txt \
+    4.anno/eggmapper/COG/all.COG.bar.png \
+    4.anno/eggmapper/GO/GO_anno_stats_level2.png \
+    4.anno/eggmapper/GO/GO_anno_stats.xls \
+    4.anno/eggmapper/KEGG/KEGG_anno_stats.png \
+    4.anno/eggmapper/KEGG/KEGG_anno.stat.txt \
+    4.anno/eggmapper/KEGG/KEGG_anno.txt \
+    4.anno/swissprot/swissprot_result.tsv \
+    4.anno/ResFinder/Resfinder_anno.txt \
+    4.anno/ResFinder/ResFinder_Hit_in_genome_seq.fsa \
+    4.anno/plasmid/plasmid.tsv \
+    -t Upload/4.anno
+# REPORT SOURCE
+cp -rf {self.dir_proj}/assets/src Upload
+# 240228 SOLAR 上传规范
+mv {self.dir_work}/WholeGenomeAnalysis/{smp}/Upload {self.dir_work}/Upload/{smp}
+"""
+            logging.info("CommandLine: " + re.sub(" +", " ", cml))
+            run(cml, shell=True)
+
+    def report(self):
+        logging.info('生成SOLAR报告.')
+        for smp in self.dict_inyaml['samples']:
+            cml = f"perl {self.dir_proj}/bin/report_bacteria_denovo.pl {self.dir_work}/Upload/{smp} {smp}"
+            logging.info("CommandLine: " + cml)
+            run(cml, shell=True)
+
+    def myzip(self):
+        logging.info('压缩结果目录.')
+        for smp in self.dict_inyaml['samples']:
+            cml = f"""
+set -eu
+cd {self.dir_work}/Upload
+zip -r {smp}.zip {smp}
+            """
+            logging.info("CommandLine: " + cml)
+            run(cml, shell=True)
+
+
+class PipeV(Pipe):
+    """ONT病毒组装分析流程"""
+
+    def __init__(self, inyaml, analysis, conda_activate) -> None:
+        super().__init__(inyaml, analysis, conda_activate)
+
+    def nextflow(self):
+        logging.info('运行 Nextflow 流程.')
+        cml = f"""
+source {self.conda_activate} nextflow
+cd {self.dir_work}
+nextflow -log logs/nextflow.log run {self.dir_proj}/nf-wholegenome \
+    -w ./.intermediate --threads {self.max_cpus} --biwf virassy --fastq './.rawdata/*.fastq'
+"""
+        logging.info("CommandLine: " + cml)
+        run(cml, shell=True, executable='/bin/bash',
+            capture_output=True, check=True)
+
+    def upload(self):
+        logging.info('复制结果到 Upload 目录.')
+        for smp in self.dict_inyaml['samples']:
+            cml = f"""
+cd {self.dir_work}/WholeGenomeAnalysis/{smp} && mkdir -p Upload/1.qc Upload/2.asm Upload/3.pred Upload/4.anno
+# QC
+cp -f 1.qc/{smp}.nanostat \
+    1.qc/{smp}.*.png \
+    -t Upload/1.qc
+# ASSEMBLY
+cp -f 2.asm/canu/{smp}.contigs.fasta Upload/{smp}.fa
+cp -rf 2.asm/canu/{smp}.contigs.fasta \
+    2.asm/stat/{smp}_fa.stat.txt \
+    2.asm/stat/{smp}.length.png \
+    2.asm/depth/consistency.txt \
+    2.asm/depth/consistency.all.txt \
+    2.asm/depth/depth_base.stat.depth_GC.png \
+    2.asm/checkv/quality_summary.tsv \
+    2.asm/quast \
+   -t Upload/2.asm
+# PREDICTION
+cp -f 3.pred/predict/predict.length.png \
+    3.pred/predict/predict_kind.txt \
+    -t Upload/3.pred
+# ANNOTATION
+cp -f 4.anno/swissprot/swissprot_result.tsv \
+    4.anno/KEGG/KEGG_anno.stat.tsv \
+    4.anno/KEGG/KEGG_anno_stats.png \
+    -t Upload/4.anno
+# REPORT SOURCE
+cp -rf {self.dir_proj}/assets/src Upload
+# 240228 SOLAR Upload 规范
+mv {self.dir_work}/WholeGenomeAnalysis/{smp}/Upload {self.dir_work}/Upload/{smp}
+"""
+            logging.info("CommandLine: " + re.sub(" +", " ", cml))
+            run(cml, shell=True)
+
+    def report(self):
+        logging.info('生成SOLAR报告.')
+        for smp in self.dict_inyaml['samples']:
+            cml = f"perl {self.dir_proj}/bin/report_virus_denovo.pl {self.dir_work}/Upload/{smp} {smp}"
+            logging.info("CommandLine: " + cml)
+            run(cml, shell=True)
+
+
+class PipeVM(Pipe):
+    """ONT病毒有参拼接分析流程"""
+
+    def __init__(self, inyaml, analysis, conda_activate) -> None:
+        super().__init__(inyaml, analysis, conda_activate)
+
+    def preparation(self):
+        logging.info('准备步骤, 创建目录, 处理参考序列.')
+        # 获取参考基因组序列
+        db = pymysql.connect(
+            host="localhost",
+            user="vmtest",
+            password="vmtest888",
+            database="weiyuan",
+            autocommit=True,
+            charset="utf8")
+
+        cursor = db.cursor(cursor=pymysql.cursors.DictCursor)
+        sql_ref = f"select * from tb_dict_ref_gene where ref_id={self.ref_id}"
+        cursor.execute(sql_ref)
+        cds_ref = cursor.fetchone()
+        ref = Path(cds_ref['ref_seq']).resolve()
+
+        # 创建目录
+        cml = f"""
+mkdir -p {self.dir_work}/.rawdata {self.dir_work}/logs {self.dir_work}/.reference {self.dir_work}/Upload
+cp -f {ref} {self.dir_work}/.reference/ref.fasta
+        """
+        logging.info("CommandLine: " + cml)
+        run(cml, shell=True)
+
+    def nextflow(self):
+        logging.info('运行 Nextflow 流程.')
+        cml = f"""
+source {self.conda_activate} nextflow
+cd {self.dir_work}
+nextflow -log logs/nextflow.log run {self.dir_proj}/nf-wholegenome \
+    -w ./.intermediate \
+    --threads {self.max_cpus} \
+    --biwf virmap \
+    --fastq './.rawdata/*.fastq' \
+    --ref .reference/ref.fasta
+"""
+        logging.info("CommandLine: " + cml)
+        run(cml, shell=True, executable='/bin/bash',
+            capture_output=True, check=True)
+
+    def upload(self):
+        logging.info('复制结果到 Upload 目录.')
+        for smp in self.dict_inyaml['samples']:
+            cml = f"""
+cd {self.dir_work}/WholeGenomeAnalysis/{smp} && mkdir -p Upload/1.qc Upload/2.align Upload/3.muts
+# QC
+cp -f 1.qc/{smp}.nanostat \
+    1.qc/{smp}.*.png \
+    -t Upload/1.qc
+# ALIGNMENT
+cp -f 2.align/coverage.png \
+    2.align/coverage.tsv \
+    -t Upload/2.align
+# MUTATION
+cp -f 3.muts/muts.tsv -t Upload/3.muts
+# CONSENSUS
+cp -f 4.cons/consensus.fa Upload/{smp}.fa
+# REPORT SOURCE
+cp -rf {self.dir_proj}/assets/src Upload
+# 240228 SOLAR 上传规范
+mv {self.dir_work}/WholeGenomeAnalysis/{smp}/Upload {self.dir_work}/Upload/{smp}
+"""
+            logging.info("CommandLine: " + re.sub(" +", " ", cml))
+            run(cml, shell=True)
+
+    def report(self):
+        logging.info('生成SOLAR报告.')
+        for smp in self.dict_inyaml['samples']:
+            cml = f"perl {self.dir_proj}/bin/report_virus_map.pl {self.dir_work}/Upload/{smp} {smp}"
+            logging.info("CommandLine: " + cml)
+            run(cml, shell=True)
